@@ -2,10 +2,12 @@
   "id": 1965002131,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-01",
+    "date:cessation_upper": "2025-07-01",
     "date:inception_lower": "2025-07-01",
     "date:inception_upper": "2025-07-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-01",
+    "edtf:cessation": "2025-07-01T05:18:28-07:00",
+    "edtf:inception": "2025-07-01T13:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.2742345,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250701-A-AAL-7506",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N270AK",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,10 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "104248743",
+      "swim:gufi": "KN43269300"
+    },
     "wof:country": "US",
     "wof:created": 1751472412,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
@@ -88,13 +102,14 @@
     ],
     "wof:id": 1965002131,
     "wof:involves": [
+      1377564285,
       102527513,
       102530049,
       1159283813,
       1947304303,
       1159283849
     ],
-    "wof:lastmodified": 1751472412,
+    "wof:lastmodified": 1751474315,
     "wof:name": "AS373 (EWR-SFO)",
     "wof:parent_id": 1947304303,
     "wof:placetype": "custom",

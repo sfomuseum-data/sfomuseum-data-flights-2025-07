@@ -2,10 +2,12 @@
   "id": 1965009361,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-01",
-    "date:inception_upper": "2025-07-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-01",
+    "date:cessation_lower": "2025-07-02",
+    "date:cessation_upper": "2025-07-02",
+    "date:inception_lower": "2025-07-02",
+    "date:inception_upper": "2025-07-02",
+    "edtf:cessation": "2025-07-02T08:42:00Z",
+    "edtf:inception": "2025-07-02T04:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-07-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.055307,
     "geom:longitude": -101.315247,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528181,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N47533",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KO08126400"
+    },
     "wof:country": "US",
     "wof:created": 1751474172,
     "wof:geomhash": "d7bea1763df143b6882335af1c301bcf",
@@ -46,12 +59,12 @@
     ],
     "wof:id": 1965009361,
     "wof:involves": [
-      102528181,
       102527513,
       1159285413,
-      -1
+      1528104577,
+      102528181
     ],
-    "wof:lastmodified": 1751474172,
+    "wof:lastmodified": 1751474321,
     "wof:name": "UA8147 (SFO-PIT)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
