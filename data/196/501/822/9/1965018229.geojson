@@ -2,10 +2,12 @@
   "id": 1965018229,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-03",
+    "date:cessation_upper": "2025-07-03",
     "date:inception_lower": "2025-07-02",
     "date:inception_upper": "2025-07-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-02",
+    "edtf:cessation": "2025-07-03T05:35:00Z",
+    "edtf:inception": "2025-07-02T14:41:24-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.97934599999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618161,
     "lbl:longitude": -122.384735,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533575,
     "sfomuseum:base_flight_id": "20250702-D-ACA-4122",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N498UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "104316488",
+      "swim:gufi": "KO03202501"
+    },
     "wof:country": "US",
     "wof:created": 1751560513,
     "wof:geomhash": "ec8e91229a6790516c63cb7081c35777",
@@ -88,13 +102,14 @@
     ],
     "wof:id": 1965018229,
     "wof:involves": [
+      1159292085,
       102533575,
       102527513,
       1159285413,
       1763588337,
       1159283597
     ],
-    "wof:lastmodified": 1751560513,
+    "wof:lastmodified": 1751560718,
     "wof:name": "UA448 (SFO-ONT)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",

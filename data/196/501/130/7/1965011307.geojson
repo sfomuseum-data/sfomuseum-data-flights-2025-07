@@ -2,10 +2,12 @@
   "id": 1965011307,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-02",
+    "date:cessation_upper": "2025-07-02",
     "date:inception_lower": "2025-07-02",
     "date:inception_upper": "2025-07-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-02",
+    "edtf:cessation": "2025-07-02T06:47:21-07:00",
+    "edtf:inception": "2025-07-02T19:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.1186115,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250702-A-AAL-9286",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N546AS",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,10 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "104372575",
+      "swim:gufi": "KL67391401"
+    },
     "wof:country": "US",
     "wof:created": 1751558822,
     "wof:geomhash": "01009f732d03a7803d3f7fd23cf321f4",
@@ -88,13 +102,14 @@
     ],
     "wof:id": 1965011307,
     "wof:involves": [
+      1159283849,
+      1159289871,
       102527513,
       102534161,
       1159283813,
-      1947304303,
-      1159283849
+      1947304303
     ],
-    "wof:lastmodified": 1751558822,
+    "wof:lastmodified": 1751560697,
     "wof:name": "AS740 (SNA-SFO)",
     "wof:parent_id": 1947304303,
     "wof:placetype": "custom",
