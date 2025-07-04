@@ -2,10 +2,12 @@
   "id": 1965027739,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-03",
-    "date:inception_upper": "2025-07-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-03",
+    "date:cessation_lower": "2025-07-04",
+    "date:cessation_upper": "2025-07-04",
+    "date:inception_lower": "2025-07-04",
+    "date:inception_upper": "2025-07-04",
+    "edtf:cessation": "2025-07-04T04:04:00Z",
+    "edtf:inception": "2025-07-04T02:13:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.7750715,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61836,
     "lbl:longitude": -122.393229,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102555307,
     "sfomuseum:base_flight_id": "20250703-D-ANZ-9874",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N27271",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO82117500"
+    },
     "wof:country": "US",
     "wof:created": 1751647003,
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1965027739,
     "wof:involves": [
-      102555307,
       102527513,
       1159285413,
       1947304133,
-      1159283697
+      1159283697,
+      1528104575,
+      102555307
     ],
-    "wof:lastmodified": 1751647003,
+    "wof:lastmodified": 1751647225,
     "wof:name": "UA298 (SFO-YVR)",
     "wof:parent_id": 1947304133,
     "wof:placetype": "custom",

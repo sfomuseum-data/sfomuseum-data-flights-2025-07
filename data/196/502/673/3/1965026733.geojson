@@ -2,10 +2,12 @@
   "id": 1965026733,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-03",
+    "date:cessation_upper": "2025-07-03",
     "date:inception_lower": "2025-07-03",
     "date:inception_upper": "2025-07-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-03",
+    "edtf:cessation": "2025-07-03T23:50:00Z",
+    "edtf:inception": "2025-07-03T19:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2025-07-03",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.336206000000004,
     "geom:longitude": -103.5140435,
     "iata:airline": "MX",
+    "icao:aircraft": "BCS3",
     "icao:airline": "MXY",
     "lbl:latitude": 37.614645,
     "lbl:longitude": -122.382263,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1763552131,
     "sfomuseum:arrival_id": 102528187,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N241BZ",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -83,12 +93,13 @@
     ],
     "wof:id": 1965026733,
     "wof:involves": [
+      1947304673,
+      1813375783,
       102528187,
       102527513,
-      1763552131,
-      1947304673
+      1763552131
     ],
-    "wof:lastmodified": 1751646758,
+    "wof:lastmodified": 1751647222,
     "wof:name": "MX259 (SFO-CVG)",
     "wof:parent_id": 1947304673,
     "wof:placetype": "custom",
