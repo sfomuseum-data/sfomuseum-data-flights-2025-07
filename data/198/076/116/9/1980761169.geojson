@@ -2,10 +2,12 @@
   "id": 1980761169,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-04",
+    "date:cessation_upper": "2025-07-04",
     "date:inception_lower": "2025-07-04",
     "date:inception_upper": "2025-07-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-04",
+    "edtf:cessation": "2025-07-04T23:43:32Z",
+    "edtf:inception": "2025-07-04T21:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.1959315,
     "iata:airline": "WS",
     "iata:base_airline": "",
+    "icao:aircraft": "B737",
     "icao:airline": "WJA",
     "icao:base_airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285523,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250704-A-DAL-6976",
@@ -39,6 +43,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +60,10 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "104564488",
+      "swim:gufi": "KS74703600"
+    },
     "wof:country": "US",
     "wof:created": 1751732242,
     "wof:geomhash": "4b8d850891e12dfac0a460ee51cd363b",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 1980761169,
     "wof:involves": [
+      1159289869,
       102527513,
       102554947,
       1159285523,
       1947304669,
       1159284261
     ],
-    "wof:lastmodified": 1751732242,
+    "wof:lastmodified": 1751733202,
     "wof:name": "WS1522 (YYC-SFO)",
     "wof:parent_id": 1947304669,
     "wof:placetype": "custom",
