@@ -2,10 +2,12 @@
   "id": 1980775447,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-06",
-    "date:inception_upper": "2025-07-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-06",
+    "date:cessation_lower": "2025-07-06",
+    "date:cessation_upper": "2025-07-06",
+    "date:inception_lower": "2025-07-07",
+    "date:inception_upper": "2025-07-07",
+    "edtf:cessation": "2025-07-06T15:01:04-07:00",
+    "edtf:inception": "2025-07-07T00:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "HAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250706-A-HAL-6302",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N713AL",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KG83894100"
+    },
     "wof:country": "US",
     "wof:created": 1751904466,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1980775447,
     "wof:involves": [
+      1528104577,
       102527513,
       102533631,
       1159283813,
       1947304285,
       1159284489
     ],
-    "wof:lastmodified": 1751904466,
+    "wof:lastmodified": 1751906432,
     "wof:name": "AS597 (ORD-SFO)",
     "wof:parent_id": 1947304285,
     "wof:placetype": "custom",

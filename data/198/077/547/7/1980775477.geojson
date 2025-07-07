@@ -2,10 +2,12 @@
   "id": 1980775477,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-06",
+    "date:cessation_upper": "2025-07-06",
     "date:inception_lower": "2025-07-06",
     "date:inception_upper": "2025-07-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-06",
+    "edtf:cessation": "2025-07-06T22:26:56Z",
+    "edtf:inception": "2025-07-06T19:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2025-07-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.5073405,
     "geom:longitude": -109.982418,
     "iata:airline": "AS",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531811,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N492AS",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "104766409",
+      "swim:gufi": "KF68049100"
+    },
     "wof:country": "US",
     "wof:created": 1751904473,
     "wof:geomhash": "7685368f2ace650ddf08145f6ec5f0c3",
@@ -46,12 +60,12 @@
     ],
     "wof:id": 1980775477,
     "wof:involves": [
-      102527513,
       102531811,
       1159283813,
-      -1
+      1377564285,
+      102527513
     ],
-    "wof:lastmodified": 1751904473,
+    "wof:lastmodified": 1751906433,
     "wof:name": "AS9410 (OKC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

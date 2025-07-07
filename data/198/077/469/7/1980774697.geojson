@@ -2,10 +2,12 @@
   "id": 1980774697,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-06",
+    "date:cessation_upper": "2025-07-06",
     "date:inception_lower": "2025-07-06",
     "date:inception_upper": "2025-07-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-06",
+    "edtf:cessation": "2025-07-06T22:44:19Z",
+    "edtf:inception": "2025-07-06T07:44:44Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AI",
     "flysfo:date": "2025-07-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 25.408824,
     "geom:longitude": -22.331438,
     "iata:airline": "AI",
+    "icao:aircraft": "B77L",
     "icao:airline": "AIC",
     "lbl:latitude": 37.612674,
     "lbl:longitude": -122.389174,
+    "sfomuseum:aircraft_id": 1159289989,
     "sfomuseum:airline_id": 1159283649,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102555641,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
+    "swim:tail_number": "VTAEI",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +56,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "104656028"
+    },
     "wof:country": "US",
     "wof:created": 1751904272,
     "wof:geomhash": "71cdaf51a648b6adc1eef8af56a4c6ba",
@@ -83,12 +94,13 @@
     ],
     "wof:id": 1980774697,
     "wof:involves": [
+      1159289989,
       102527513,
       102555641,
       1159283649,
       1947304085
     ],
-    "wof:lastmodified": 1751904272,
+    "wof:lastmodified": 1751906427,
     "wof:name": "AI175 (BLR-SFO)",
     "wof:parent_id": 1947304085,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1980777675,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-06",
+    "date:cessation_upper": "2025-07-06",
     "date:inception_lower": "2025-07-06",
     "date:inception_upper": "2025-07-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-06",
+    "edtf:cessation": "2025-07-06T12:10:07-07:00",
+    "edtf:inception": "2025-07-06T23:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-07-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.7414645,
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531189,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N780UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KD74147100"
+    },
     "wof:country": "US",
     "wof:created": 1751905022,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -46,12 +59,12 @@
     ],
     "wof:id": 1980777675,
     "wof:involves": [
-      102527513,
-      102531189,
       1159285413,
-      -1
+      1159289985,
+      102527513,
+      102531189
     ],
-    "wof:lastmodified": 1751905022,
+    "wof:lastmodified": 1751906450,
     "wof:name": "UA1805 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

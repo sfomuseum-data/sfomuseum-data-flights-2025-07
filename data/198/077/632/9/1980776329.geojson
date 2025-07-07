@@ -2,10 +2,12 @@
   "id": 1980776329,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-06",
+    "date:cessation_upper": "2025-07-06",
     "date:inception_lower": "2025-07-06",
     "date:inception_upper": "2025-07-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-06",
+    "edtf:cessation": "2025-07-06T23:40:59Z",
+    "edtf:inception": "2025-07-06T22:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2025-07-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.525337,
     "geom:longitude": -117.19416749999999,
     "iata:airline": "F9",
+    "icao:aircraft": "A20N",
     "icao:airline": "FFT",
     "lbl:latitude": 37.611664,
     "lbl:longitude": -122.390495,
+    "sfomuseum:aircraft_id": 1377564295,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102526751,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N316FR",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,10 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "104773365",
+      "swim:gufi": "KA75683101"
+    },
     "wof:country": "US",
     "wof:created": 1751904693,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -83,12 +96,13 @@
     ],
     "wof:id": 1980776329,
     "wof:involves": [
+      1947304095,
+      1377564295,
       102527513,
       102526751,
-      1159284401,
-      1947304095
+      1159284401
     ],
-    "wof:lastmodified": 1751904693,
+    "wof:lastmodified": 1751906439,
     "wof:name": "F99517 (PHX-SFO)",
     "wof:parent_id": 1947304095,
     "wof:placetype": "custom",
