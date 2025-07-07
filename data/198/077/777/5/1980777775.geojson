@@ -1,0 +1,72 @@
+{
+  "id": 1980777775,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-07-06",
+    "date:inception_upper": "2025-07-06",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-06",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2025-07-06",
+    "flysfo:estimated_timestamp": 1751856660,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA2190",
+    "flysfo:gate": "",
+    "flysfo:journey": "PDX-SFO",
+    "flysfo:scheduled_timestamp": 1751853300,
+    "flysfo:timestamp": 1751856660,
+    "geom:area": 0,
+    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
+    "geom:latitude": 41.602067,
+    "geom:longitude": -122.484166,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102532251,
+    "sfomuseum:flight_id": "20250706-A-UAL-2190",
+    "sfomuseum:flight_number": [
+      "UAL2190",
+      "UA2190"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1751905045,
+    "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1980777775,
+        "flight_id": 1980777775
+      }
+    ],
+    "wof:id": 1980777775,
+    "wof:involves": [
+      102527513,
+      102532251,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1751905045,
+    "wof:name": "UA2190 (PDX-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.597389,
+    37.61799,
+    -122.370943,
+    45.586144
+  ],
+  "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
