@@ -2,10 +2,12 @@
   "id": 1980788295,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-07",
-    "date:inception_upper": "2025-07-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-07",
+    "date:cessation_lower": "2025-07-08",
+    "date:cessation_upper": "2025-07-08",
+    "date:inception_lower": "2025-07-08",
+    "date:inception_upper": "2025-07-08",
+    "edtf:cessation": "2025-07-08T02:34:14Z",
+    "edtf:inception": "2025-07-08T01:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.19416749999999,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102526751,
     "sfomuseum:base_flight_id": "20250707-D-BAW-6942",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N127AA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO84033200"
+    },
     "wof:country": "US",
     "wof:created": 1751991680,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -92,9 +105,10 @@
       102527513,
       1159283849,
       1947304309,
-      1159284021
+      1159284021,
+      1159289411
     ],
-    "wof:lastmodified": 1751991680,
+    "wof:lastmodified": 1751992859,
     "wof:name": "AA1321 (SFO-PHX)",
     "wof:parent_id": 1947304309,
     "wof:placetype": "custom",

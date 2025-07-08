@@ -2,10 +2,12 @@
   "id": 1980787459,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-08",
+    "date:cessation_upper": "2025-07-08",
     "date:inception_lower": "2025-07-07",
     "date:inception_upper": "2025-07-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-07",
+    "edtf:cessation": "2025-07-08T00:33:00Z",
+    "edtf:inception": "2025-07-07T18:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-07-07",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.539997,
     "geom:longitude": -98.057846,
     "iata:airline": "UA",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619451,
     "lbl:longitude": -122.384404,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102554351,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +56,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "104811299",
+      "swim:gufi": "KP69918200"
+    },
     "wof:country": "US",
     "wof:created": 1751991473,
     "wof:geomhash": "d6fced31e2f30d79d54c9b38b6916cc7",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 1980787459,
     "wof:involves": [
+      1528104575,
       102527513,
       102554351,
       1159285413,
       1947304519
     ],
-    "wof:lastmodified": 1751991473,
+    "wof:lastmodified": 1751992856,
     "wof:name": "UA3015 (YUL-SFO)",
     "wof:parent_id": 1947304519,
     "wof:placetype": "custom",

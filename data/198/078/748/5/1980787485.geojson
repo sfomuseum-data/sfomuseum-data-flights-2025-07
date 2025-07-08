@@ -2,10 +2,12 @@
   "id": 1980787485,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-07",
+    "date:cessation_upper": "2025-07-07",
     "date:inception_lower": "2025-07-07",
     "date:inception_upper": "2025-07-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-07",
+    "edtf:cessation": "2025-07-07T09:21:00Z",
+    "edtf:inception": "2025-07-07T05:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-07-07",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.370594499999996,
     "geom:longitude": -108.4818695,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618578,
     "lbl:longitude": -122.385434,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532927,
@@ -48,6 +52,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "104730644",
+      "swim:gufi": "KK05065200"
+    },
     "wof:country": "US",
     "wof:created": 1751991479,
     "wof:geomhash": "e7ff2fb91095fba743a409117e008e1c",
@@ -83,12 +91,13 @@
     ],
     "wof:id": 1980787485,
     "wof:involves": [
-      102527513,
       102532927,
       1159285413,
-      1947304495
+      1947304495,
+      1528104577,
+      102527513
     ],
-    "wof:lastmodified": 1751991479,
+    "wof:lastmodified": 1751992856,
     "wof:name": "UA3755 (MKC-SFO)",
     "wof:parent_id": 1947304495,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1980792443,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-08",
+    "date:cessation_upper": "2025-07-08",
     "date:inception_lower": "2025-07-07",
     "date:inception_upper": "2025-07-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-07",
+    "edtf:cessation": "2025-07-08T07:13:00Z",
+    "edtf:inception": "2025-07-07T12:21:28-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.1446795,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61756,
     "lbl:longitude": -122.381052,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533997,
     "sfomuseum:base_flight_id": "20250707-D-ACA-3516",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37514",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO80322200"
+    },
     "wof:country": "US",
     "wof:created": 1751992688,
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
@@ -92,9 +105,10 @@
       102527513,
       1159285413,
       1947304609,
-      1159283597
+      1159283597,
+      1528104577
     ],
-    "wof:lastmodified": 1751992688,
+    "wof:lastmodified": 1751992846,
     "wof:name": "UA638 (SFO-HNL)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",
