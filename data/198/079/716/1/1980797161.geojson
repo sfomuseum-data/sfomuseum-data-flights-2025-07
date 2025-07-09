@@ -2,10 +2,12 @@
   "id": 1980797161,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-08",
+    "date:cessation_upper": "2025-07-08",
     "date:inception_lower": "2025-07-08",
     "date:inception_upper": "2025-07-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-08",
+    "edtf:cessation": "2025-07-08T01:54:17-07:00",
+    "edtf:inception": "2025-07-08T14:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.620791,
     "lbl:longitude": -122.390014,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250708-A-ANA-7327",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N815UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "104833293",
+      "swim:gufi": "KS41686300"
+    },
     "wof:country": "US",
     "wof:created": 1752077935,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -88,13 +102,14 @@
     ],
     "wof:id": 1980797161,
     "wof:involves": [
+      1159289407,
       102527513,
       102533269,
       1159285413,
       1947304473,
       1159283875
     ],
-    "wof:lastmodified": 1752077935,
+    "wof:lastmodified": 1752079198,
     "wof:name": "UA714 (SEA-SFO)",
     "wof:parent_id": 1947304473,
     "wof:placetype": "custom",

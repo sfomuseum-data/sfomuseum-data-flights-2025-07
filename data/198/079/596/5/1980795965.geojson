@@ -2,10 +2,12 @@
   "id": 1980795965,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-08",
+    "date:cessation_upper": "2025-07-08",
     "date:inception_lower": "2025-07-08",
     "date:inception_upper": "2025-07-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-08",
+    "edtf:cessation": "2025-07-08T06:07:08-07:00",
+    "edtf:inception": "2025-07-08T14:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2025-07-08",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.216654500000004,
     "geom:longitude": -101.1753305,
     "iata:airline": "MX",
+    "icao:aircraft": "BCS3",
     "icao:airline": "MXY",
     "lbl:latitude": 37.614944,
     "lbl:longitude": -122.383123,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1763552131,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531215,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N211BZ",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "104903996"
+    },
     "wof:country": "US",
     "wof:created": 1752077634,
     "wof:geomhash": "243eaa3395ad4d3ecd5077abb427da7d",
@@ -83,12 +96,13 @@
     ],
     "wof:id": 1980795965,
     "wof:involves": [
-      102527513,
       102531215,
       1763552131,
-      1947304667
+      1947304667,
+      1813375783,
+      102527513
     ],
-    "wof:lastmodified": 1752077634,
+    "wof:lastmodified": 1752079194,
     "wof:name": "MX9211 (CHS-SFO)",
     "wof:parent_id": 1947304667,
     "wof:placetype": "custom",

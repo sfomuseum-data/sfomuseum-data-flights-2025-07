@@ -2,10 +2,12 @@
   "id": 1980795013,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-08",
+    "date:cessation_upper": "2025-07-08",
     "date:inception_lower": "2025-07-08",
     "date:inception_upper": "2025-07-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-08",
+    "edtf:cessation": "2025-07-08T05:15:53-07:00",
+    "edtf:inception": "2025-07-08T13:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B763",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289965,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250708-A-AMX-4019",
@@ -39,7 +43,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N175DN",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "104828420",
+      "swim:gufi": "KN43861300"
+    },
     "wof:country": "US",
     "wof:created": 1752077394,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -51,13 +65,13 @@
     ],
     "wof:id": 1980795013,
     "wof:involves": [
-      102527513,
       102534365,
       1159284261,
-      -1,
-      1159283539
+      1159283539,
+      1159289965,
+      102527513
     ],
-    "wof:lastmodified": 1752077394,
+    "wof:lastmodified": 1752079182,
     "wof:name": "DL409 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

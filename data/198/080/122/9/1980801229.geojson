@@ -2,10 +2,12 @@
   "id": 1980801229,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-08",
+    "date:cessation_upper": "2025-07-08",
     "date:inception_lower": "2025-07-08",
     "date:inception_upper": "2025-07-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-08",
+    "edtf:cessation": "2025-07-08T22:59:00Z",
+    "edtf:inception": "2025-07-08T18:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.70629299999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.619531,
     "lbl:longitude": -122.384262,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 1746879047,
     "sfomuseum:base_flight_id": "20250708-D-ANZ-2771",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N37281",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "104840577",
+      "swim:gufi": "KO53433300"
+    },
     "wof:country": "US",
     "wof:created": 1752078922,
     "wof:geomhash": "df4d5906f2523703f9da91c779be1785",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1980801229,
     "wof:involves": [
+      1947304531,
+      1159283697,
+      1159289871,
       1746879047,
       102527513,
-      1159285413,
-      1947304531,
-      1159283697
+      1159285413
     ],
-    "wof:lastmodified": 1752078922,
+    "wof:lastmodified": 1752079177,
     "wof:name": "UA1678 (SFO-DCA)",
     "wof:parent_id": 1947304531,
     "wof:placetype": "custom",
