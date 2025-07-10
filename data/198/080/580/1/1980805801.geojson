@@ -2,10 +2,12 @@
   "id": 1980805801,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-09",
+    "date:cessation_upper": "2025-07-09",
     "date:inception_lower": "2025-07-09",
     "date:inception_upper": "2025-07-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-09",
+    "edtf:cessation": "2025-07-09T12:29:30-07:00",
+    "edtf:inception": "2025-07-09T21:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.1446795,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "CMP",
     "lbl:latitude": 37.618161,
     "lbl:longitude": -122.384735,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250709-A-CMP-2366",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N17589",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "104962897",
+      "swim:gufi": "KO03647501"
+    },
     "wof:country": "US",
     "wof:created": 1752164172,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -88,13 +102,14 @@
     ],
     "wof:id": 1980805801,
     "wof:involves": [
-      102527513,
-      102533997,
       1159285413,
       1763588337,
-      1159284211
+      1159284211,
+      1528104577,
+      102527513,
+      102533997
     ],
-    "wof:lastmodified": 1752164172,
+    "wof:lastmodified": 1752165603,
     "wof:name": "UA1572 (HNL-SFO)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",

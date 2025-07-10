@@ -2,10 +2,12 @@
   "id": 1980810579,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-10",
+    "date:cessation_upper": "2025-07-10",
     "date:inception_lower": "2025-07-09",
     "date:inception_upper": "2025-07-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-09",
+    "edtf:cessation": "2025-07-10T01:57:06Z",
+    "edtf:inception": "2025-07-09T10:15:27-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "CCA",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:base_flight_id": "20250709-D-CCA-7336",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N844UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO76447400"
+    },
     "wof:country": "US",
     "wof:created": 1752165353,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -92,9 +104,10 @@
       102527513,
       1159285413,
       1947304617,
-      1159283605
+      1159283605,
+      1159289407
     ],
-    "wof:lastmodified": 1752165353,
+    "wof:lastmodified": 1752165579,
     "wof:name": "UA2432 (SFO-SEA)",
     "wof:parent_id": 1947304617,
     "wof:placetype": "custom",

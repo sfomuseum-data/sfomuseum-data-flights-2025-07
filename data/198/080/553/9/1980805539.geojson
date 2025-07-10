@@ -2,10 +2,12 @@
   "id": 1980805539,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-09",
+    "date:cessation_upper": "2025-07-09",
     "date:inception_lower": "2025-07-09",
     "date:inception_upper": "2025-07-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-09",
+    "edtf:cessation": "2025-07-09T22:11:00Z",
+    "edtf:inception": "2025-07-09T18:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2025-07-09",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.702760999999995,
     "geom:longitude": -105.058423,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61705,
     "lbl:longitude": -122.380838,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531205,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N947WN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,10 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "104940975",
+      "swim:gufi": "KG55221400"
+    },
     "wof:country": "US",
     "wof:created": 1752164109,
     "wof:geomhash": "bbd014edfd8455b7d9e062bec23e52e6",
@@ -83,12 +96,13 @@
     ],
     "wof:id": 1980805539,
     "wof:involves": [
+      1159289869,
       102527513,
       102531205,
       1159285591,
       1947304601
     ],
-    "wof:lastmodified": 1752164109,
+    "wof:lastmodified": 1752165585,
     "wof:name": "WN537 (MDW-SFO)",
     "wof:parent_id": 1947304601,
     "wof:placetype": "custom",
