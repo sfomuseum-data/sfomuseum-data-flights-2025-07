@@ -2,10 +2,12 @@
   "id": 1980815675,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-10",
+    "date:cessation_upper": "2025-07-10",
     "date:inception_lower": "2025-07-10",
     "date:inception_upper": "2025-07-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-10",
+    "edtf:cessation": "2025-07-10T15:09:10-07:00",
+    "edtf:inception": "2025-07-10T23:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.3334745,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "CMP",
     "lbl:latitude": 37.617532,
     "lbl:longitude": -122.382384,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250710-A-CMP-2873",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N47512",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,10 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "105060371",
+      "swim:gufi": "KR75235500"
+    },
     "wof:country": "US",
     "wof:created": 1752250704,
     "wof:geomhash": "38f88108bbae8bb050c3144d37bdc384",
@@ -92,9 +106,10 @@
       102531023,
       1159285413,
       1947304619,
-      1159284211
+      1159284211,
+      1528104577
     ],
-    "wof:lastmodified": 1752250704,
+    "wof:lastmodified": 1752252125,
     "wof:name": "UA2423 (MIA-SFO)",
     "wof:parent_id": 1947304619,
     "wof:placetype": "custom",

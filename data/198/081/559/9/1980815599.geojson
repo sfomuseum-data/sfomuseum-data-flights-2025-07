@@ -2,10 +2,12 @@
   "id": 1980815599,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-10",
-    "date:inception_upper": "2025-07-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-10",
+    "date:cessation_lower": "2025-07-10",
+    "date:cessation_upper": "2025-07-10",
+    "date:inception_lower": "2025-07-11",
+    "date:inception_upper": "2025-07-11",
+    "edtf:cessation": "2025-07-10T15:00:45-07:00",
+    "edtf:inception": "2025-07-11T00:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -136.169672,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "CMP",
     "lbl:latitude": 37.621076,
     "lbl:longitude": -122.390239,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250710-A-CMP-2374",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N37352",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KS10967600"
+    },
     "wof:country": "US",
     "wof:created": 1752250682,
     "wof:geomhash": "40576486fbb454d3a66da49d62a0ae33",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1980815599,
     "wof:involves": [
-      102527513,
-      102531979,
       1159285413,
       1947304489,
-      1159284211
+      1159284211,
+      1528104575,
+      102527513,
+      102531979
     ],
-    "wof:lastmodified": 1752250682,
+    "wof:lastmodified": 1752252125,
     "wof:name": "UA2070 (ANC-SFO)",
     "wof:parent_id": 1947304489,
     "wof:placetype": "custom",

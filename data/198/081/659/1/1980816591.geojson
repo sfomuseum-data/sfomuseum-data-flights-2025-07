@@ -2,10 +2,12 @@
   "id": 1980816591,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-10",
+    "date:cessation_upper": "2025-07-10",
     "date:inception_lower": "2025-07-10",
     "date:inception_upper": "2025-07-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-10",
+    "edtf:cessation": "2025-07-10T22:03:50Z",
+    "edtf:inception": "2025-07-10T17:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.809414,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "AAL",
     "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102529403,
     "sfomuseum:base_flight_id": "20250710-D-BAW-5617",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N423AN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,10 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "105025923",
+      "swim:gufi": "KO55541500"
+    },
     "wof:country": "US",
     "wof:created": 1752250935,
     "wof:geomhash": "262283982e32a09ea653beb1776c6fc7",
@@ -88,13 +102,14 @@
     ],
     "wof:id": 1980816591,
     "wof:involves": [
+      1377564297,
       102529403,
       102527513,
       1159283849,
       1947304317,
       1159284021
     ],
-    "wof:lastmodified": 1752250935,
+    "wof:lastmodified": 1752252141,
     "wof:name": "AA2722 (SFO-PHL)",
     "wof:parent_id": 1947304317,
     "wof:placetype": "custom",
