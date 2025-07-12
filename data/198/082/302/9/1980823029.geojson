@@ -2,10 +2,12 @@
   "id": 1980823029,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-11",
+    "date:cessation_upper": "2025-07-11",
     "date:inception_lower": "2025-07-11",
     "date:inception_upper": "2025-07-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-11",
+    "edtf:cessation": "2025-07-11T20:29:10Z",
+    "edtf:inception": "2025-07-11T08:36:19Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CI",
     "flysfo:date": "2025-07-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 31.348278,
     "geom:longitude": -0.5688954999999964,
     "iata:airline": "CI",
+    "icao:aircraft": "B77L",
     "icao:airline": "CAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289989,
     "sfomuseum:airline_id": 1159284153,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102551487,
@@ -34,7 +38,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "105198476"
+    },
     "wof:country": "US",
     "wof:created": 1752336525,
     "wof:geomhash": "07bfd75b358269393c92373b424876ce",
@@ -49,9 +59,9 @@
       102527513,
       102551487,
       1159284153,
-      -1
+      1159289989
     ],
-    "wof:lastmodified": 1752336525,
+    "wof:lastmodified": 1752338415,
     "wof:name": "CI5346 (TPE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

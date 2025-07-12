@@ -2,10 +2,12 @@
   "id": 1980825211,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-11",
-    "date:inception_upper": "2025-07-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-11",
+    "date:cessation_lower": "2025-07-11",
+    "date:cessation_upper": "2025-07-11",
+    "date:inception_lower": "2025-07-12",
+    "date:inception_upper": "2025-07-12",
+    "edtf:cessation": "2025-07-11T14:48:52-07:00",
+    "edtf:inception": "2025-07-12T03:12:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-07-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.6967075,
     "geom:longitude": -116.76460499999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530815,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N64809",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KU06365700"
+    },
     "wof:country": "US",
     "wof:created": 1752337058,
     "wof:geomhash": "acf2ad4ec949b4135a187e5a7cb03262",
@@ -46,12 +59,12 @@
     ],
     "wof:id": 1980825211,
     "wof:involves": [
+      1377564285,
       102527513,
       102530815,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1752337058,
+    "wof:lastmodified": 1752338442,
     "wof:name": "UA3916 (BZN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

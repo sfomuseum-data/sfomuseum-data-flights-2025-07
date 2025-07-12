@@ -2,10 +2,12 @@
   "id": 1980829831,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-11",
+    "date:cessation_upper": "2025-07-11",
     "date:inception_lower": "2025-07-11",
     "date:inception_upper": "2025-07-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-11",
+    "edtf:cessation": "2025-07-11T08:26:00Z",
+    "edtf:inception": "2025-07-11T03:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "105080917"
+    },
     "wof:country": "US",
     "wof:created": 1752338183,
     "wof:geomhash": "739cf7062aa24bbf1662c0bae366af8d",
@@ -94,7 +102,7 @@
       1947304491,
       1159283697
     ],
-    "wof:lastmodified": 1752338183,
+    "wof:lastmodified": 1752338446,
     "wof:name": "UA2482 (SFO-RDU)",
     "wof:parent_id": 1947304491,
     "wof:placetype": "custom",

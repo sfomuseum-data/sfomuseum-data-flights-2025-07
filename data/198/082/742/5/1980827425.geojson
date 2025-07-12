@@ -2,10 +2,12 @@
   "id": 1980827425,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-12",
+    "date:cessation_upper": "2025-07-12",
     "date:inception_lower": "2025-07-11",
     "date:inception_upper": "2025-07-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-11",
+    "edtf:cessation": "2025-07-12T00:12:00Z",
+    "edtf:inception": "2025-07-11T19:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.9123225,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102528817,
     "sfomuseum:base_flight_id": "20250711-D-AAL-7411",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N707AL",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,10 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "105130348",
+      "swim:gufi": "KO66254600"
+    },
     "wof:country": "US",
     "wof:created": 1752337597,
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
@@ -92,9 +106,10 @@
       102527513,
       1159283813,
       1947304315,
-      1159283849
+      1159283849,
+      1528104577
     ],
-    "wof:lastmodified": 1752337597,
+    "wof:lastmodified": 1752338429,
     "wof:name": "AS434 (SFO-IAD)",
     "wof:parent_id": 1947304315,
     "wof:placetype": "custom",

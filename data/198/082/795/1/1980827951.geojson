@@ -2,10 +2,12 @@
   "id": 1980827951,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-11",
-    "date:inception_upper": "2025-07-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-11",
+    "date:cessation_lower": "2025-07-12",
+    "date:cessation_upper": "2025-07-12",
+    "date:inception_lower": "2025-07-12",
+    "date:inception_upper": "2025-07-12",
+    "edtf:cessation": "2025-07-12T10:23:00Z",
+    "edtf:inception": "2025-07-12T06:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:base_flight_id": "20250711-D-AMX-4220",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N929DZ",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "105084186"
+    },
     "wof:country": "US",
     "wof:created": 1752337722,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1980827951,
     "wof:involves": [
+      1159283539,
+      1377564285,
       102526927,
       102527513,
       1159284261,
-      1763588251,
-      1159283539
+      1763588251
     ],
-    "wof:lastmodified": 1752337722,
+    "wof:lastmodified": 1752338444,
     "wof:name": "DL495 (SFO-ATL)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",
