@@ -2,10 +2,12 @@
   "id": 1980839233,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-13",
+    "date:cessation_upper": "2025-07-13",
     "date:inception_lower": "2025-07-12",
     "date:inception_upper": "2025-07-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-12",
+    "edtf:cessation": "2025-07-13T08:28:00Z",
+    "edtf:inception": "2025-07-12T16:39:57-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-07-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 42.529906499999996,
     "geom:longitude": -122.3376055,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37537",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KO14261100"
+    },
     "wof:country": "US",
     "wof:created": 1752424625,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -46,12 +59,12 @@
     ],
     "wof:id": 1980839233,
     "wof:involves": [
-      102533269,
       102527513,
       1159285413,
-      -1
+      1528104577,
+      102533269
     ],
-    "wof:lastmodified": 1752424625,
+    "wof:lastmodified": 1752424769,
     "wof:name": "UA8100 (SFO-SEA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

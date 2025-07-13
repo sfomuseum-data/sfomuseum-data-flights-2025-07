@@ -2,10 +2,12 @@
   "id": 1980831943,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-12",
+    "date:cessation_upper": "2025-07-12",
     "date:inception_lower": "2025-07-12",
     "date:inception_upper": "2025-07-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-12",
+    "edtf:cessation": "2025-07-12T11:22:06-07:00",
+    "edtf:inception": "2025-07-12T22:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -113.8106995,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.611664,
     "lbl:longitude": -122.390495,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250712-A-AAL-7457",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N709AL",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,10 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "105245627",
+      "swim:gufi": "KL00440101"
+    },
     "wof:country": "US",
     "wof:created": 1752422811,
     "wof:geomhash": "87e43b321087b5e7d68ac47fe0a6e824",
@@ -88,13 +102,14 @@
     ],
     "wof:id": 1980831943,
     "wof:involves": [
+      1528104577,
       102527513,
       102536481,
       1159283813,
       1947304095,
       1159283849
     ],
-    "wof:lastmodified": 1752422811,
+    "wof:lastmodified": 1752424750,
     "wof:name": "AS1373 (PVR-SFO)",
     "wof:parent_id": 1947304095,
     "wof:placetype": "custom",

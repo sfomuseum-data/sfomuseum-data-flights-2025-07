@@ -2,10 +2,12 @@
   "id": 1980838717,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-13",
+    "date:cessation_upper": "2025-07-13",
     "date:inception_lower": "2025-07-12",
     "date:inception_upper": "2025-07-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-12",
+    "edtf:cessation": "2025-07-13T04:48:00Z",
+    "edtf:inception": "2025-07-12T10:04:44-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.1446795,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.621107,
     "lbl:longitude": -122.389874,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533997,
     "sfomuseum:base_flight_id": "20250712-D-ACA-3514",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N215UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO73155700"
+    },
     "wof:country": "US",
     "wof:created": 1752424498,
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1980838717,
     "wof:involves": [
+      1159289985,
       102533997,
       102527513,
       1159285413,
       1947304475,
       1159283597
     ],
-    "wof:lastmodified": 1752424498,
+    "wof:lastmodified": 1752424767,
     "wof:name": "UA1509 (SFO-HNL)",
     "wof:parent_id": 1947304475,
     "wof:placetype": "custom",
