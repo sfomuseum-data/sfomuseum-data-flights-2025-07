@@ -2,10 +2,12 @@
   "id": 1980848267,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-13",
+    "date:cessation_upper": "2025-07-13",
     "date:inception_lower": "2025-07-13",
     "date:inception_upper": "2025-07-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-13",
+    "edtf:cessation": "2025-07-13T03:29:46Z",
+    "edtf:inception": "2025-07-13T02:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "105261668"
+    },
     "wof:country": "US",
     "wof:created": 1752510998,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -94,7 +99,7 @@
       1947304623,
       1159283597
     ],
-    "wof:lastmodified": 1752510998,
+    "wof:lastmodified": 1752511244,
     "wof:name": "UA2633 (SFO-SAN)",
     "wof:parent_id": 1947304623,
     "wof:placetype": "custom",
