@@ -2,10 +2,12 @@
   "id": 1980851185,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-14",
-    "date:inception_upper": "2025-07-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-14",
+    "date:cessation_lower": "2025-07-15",
+    "date:cessation_upper": "2025-07-15",
+    "date:inception_lower": "2025-07-15",
+    "date:inception_upper": "2025-07-15",
+    "edtf:cessation": "2025-07-15T04:57:00Z",
+    "edtf:inception": "2025-07-15T03:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.614759,
     "lbl:longitude": -122.382707,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250714-A-AMX-4313",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N828DN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,10 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "105344669",
+      "swim:gufi": "KU07260302"
+    },
     "wof:country": "US",
     "wof:created": 1752595809,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -92,9 +105,10 @@
       102527363,
       1159284261,
       1947304679,
-      1159283539
+      1159283539,
+      1377564285
     ],
-    "wof:lastmodified": 1752595809,
+    "wof:lastmodified": 1752597668,
     "wof:name": "DL2762 (SLC-SFO)",
     "wof:parent_id": 1947304679,
     "wof:placetype": "custom",
