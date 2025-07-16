@@ -2,10 +2,12 @@
   "id": 1980862375,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-15",
+    "date:cessation_upper": "2025-07-15",
     "date:inception_lower": "2025-07-15",
     "date:inception_upper": "2025-07-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-15",
+    "edtf:cessation": "2025-07-15T10:29:00Z",
+    "edtf:inception": "2025-07-15T06:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-07-15",
@@ -21,9 +23,11 @@
     "geom:latitude": 28.675217,
     "geom:longitude": -139.2030015,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532939,
@@ -35,6 +39,10 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "105431305",
+      "swim:gufi": "KO32598300"
+    },
     "wof:country": "US",
     "wof:created": 1752682636,
     "wof:geomhash": "d5ad4a83d3d679d1b3fe86e419b08d84",
@@ -46,12 +54,12 @@
     ],
     "wof:id": 1980862375,
     "wof:involves": [
+      1159289985,
       102527513,
       102532939,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1752682636,
+    "wof:lastmodified": 1752684016,
     "wof:name": "UA1731 (KOA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
