@@ -2,10 +2,12 @@
   "id": 1980868505,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-16",
+    "date:cessation_upper": "2025-07-16",
     "date:inception_lower": "2025-07-16",
     "date:inception_upper": "2025-07-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-16",
+    "edtf:cessation": "2025-07-16T18:53:00Z",
+    "edtf:inception": "2025-07-16T15:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "icao:base_airline": "QFA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250716-A-QFA-4325",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N127AA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,10 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "105544552",
+      "swim:gufi": "KG48689400"
+    },
     "wof:country": "US",
     "wof:created": 1752768131,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1980868505,
     "wof:involves": [
+      1159289411,
       102527513,
       102533631,
       1159283849,
       1947304265,
       1159285043
     ],
-    "wof:lastmodified": 1752768131,
+    "wof:lastmodified": 1752770399,
     "wof:name": "AA3244 (ORD-SFO)",
     "wof:parent_id": 1947304265,
     "wof:placetype": "custom",

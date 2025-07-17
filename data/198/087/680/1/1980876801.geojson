@@ -2,10 +2,12 @@
   "id": 1980876801,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-17",
+    "date:cessation_upper": "2025-07-17",
     "date:inception_lower": "2025-07-16",
     "date:inception_upper": "2025-07-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-16",
+    "edtf:cessation": "2025-07-17T09:09:00Z",
+    "edtf:inception": "2025-07-16T14:40:15-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "CCA",
     "lbl:latitude": 37.619425,
     "lbl:longitude": -122.384028,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528817,
     "sfomuseum:base_flight_id": "20250716-D-CCA-7314",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37555",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "105517045",
+      "swim:gufi": "KO06637500"
+    },
     "wof:country": "US",
     "wof:created": 1752770186,
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
@@ -92,9 +106,10 @@
       102527513,
       1159285413,
       1947304517,
-      1159283605
+      1159283605,
+      1528104577
     ],
-    "wof:lastmodified": 1752770186,
+    "wof:lastmodified": 1752770434,
     "wof:name": "UA2725 (SFO-IAD)",
     "wof:parent_id": 1947304517,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1980872143,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-17",
+    "date:cessation_upper": "2025-07-17",
     "date:inception_lower": "2025-07-16",
     "date:inception_upper": "2025-07-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-16",
+    "edtf:cessation": "2025-07-16T23:59:44-07:00",
+    "edtf:inception": "2025-07-16T13:13:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "CCA",
     "lbl:latitude": 37.620818,
     "lbl:longitude": -122.389182,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250716-A-CCA-7381",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N454UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "105534729",
+      "swim:gufi": "KL35170400"
+    },
     "wof:country": "US",
     "wof:created": 1752769049,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -92,9 +106,10 @@
       102533795,
       1159285413,
       1947304455,
-      1159283605
+      1159283605,
+      1159292085
     ],
-    "wof:lastmodified": 1752769049,
+    "wof:lastmodified": 1752770429,
     "wof:name": "UA2194 (LAX-SFO)",
     "wof:parent_id": 1947304455,
     "wof:placetype": "custom",

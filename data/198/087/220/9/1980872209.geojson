@@ -2,10 +2,12 @@
   "id": 1980872209,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-16",
+    "date:cessation_upper": "2025-07-16",
     "date:inception_lower": "2025-07-16",
     "date:inception_upper": "2025-07-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-16",
+    "edtf:cessation": "2025-07-16T04:27:50Z",
+    "edtf:inception": "2025-07-16T02:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "105509596"
+    },
     "wof:country": "US",
     "wof:created": 1752769065,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -94,7 +99,7 @@
       1947304623,
       1159283597
     ],
-    "wof:lastmodified": 1752769065,
+    "wof:lastmodified": 1752770429,
     "wof:name": "UA2681 (DEN-SFO)",
     "wof:parent_id": 1947304623,
     "wof:placetype": "custom",

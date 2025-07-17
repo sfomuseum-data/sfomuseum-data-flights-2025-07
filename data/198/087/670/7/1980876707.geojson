@@ -2,10 +2,12 @@
   "id": 1980876707,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-16",
-    "date:inception_upper": "2025-07-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-16",
+    "date:cessation_lower": "2025-07-17",
+    "date:cessation_upper": "2025-07-17",
+    "date:inception_lower": "2025-07-17",
+    "date:inception_upper": "2025-07-17",
+    "edtf:cessation": "2025-07-17T09:51:00Z",
+    "edtf:inception": "2025-07-17T06:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -106.3692875,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "AAR",
     "lbl:latitude": 37.616825,
     "lbl:longitude": -122.381021,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 1746879059,
     "sfomuseum:base_flight_id": "20250716-D-AAR-6343",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37563",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO17260500"
+    },
     "wof:country": "US",
     "wof:created": 1752770163,
     "wof:geomhash": "17371a5d27e54a99ca50752d2b6a5e79",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1980876707,
     "wof:involves": [
+      1528104577,
       1746879059,
       102527513,
       1159285413,
       1947304607,
       1159283917
     ],
-    "wof:lastmodified": 1752770163,
+    "wof:lastmodified": 1752770424,
     "wof:name": "UA2071 (SFO-STL)",
     "wof:parent_id": 1947304607,
     "wof:placetype": "custom",
