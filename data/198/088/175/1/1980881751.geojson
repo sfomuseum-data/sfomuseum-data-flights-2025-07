@@ -2,10 +2,12 @@
   "id": 1980881751,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-17",
-    "date:inception_upper": "2025-07-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-17",
+    "date:cessation_lower": "2025-07-17",
+    "date:cessation_upper": "2025-07-17",
+    "date:inception_lower": "2025-07-18",
+    "date:inception_upper": "2025-07-18",
+    "edtf:cessation": "2025-07-17T13:14:32-07:00",
+    "edtf:inception": "2025-07-18T02:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.1186115,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250717-A-ACA-4247",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N480UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KL01855600"
+    },
     "wof:country": "US",
     "wof:created": 1752855472,
     "wof:geomhash": "01009f732d03a7803d3f7fd23cf321f4",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1980881751,
     "wof:involves": [
+      1947304603,
+      1159283597,
+      1159292085,
       102527513,
       102534161,
-      1159285413,
-      1947304603,
-      1159283597
+      1159285413
     ],
-    "wof:lastmodified": 1752855472,
+    "wof:lastmodified": 1752856902,
     "wof:name": "UA1870 (SNA-SFO)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",

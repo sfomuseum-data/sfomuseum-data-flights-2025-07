@@ -2,10 +2,12 @@
   "id": 1980882051,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-17",
+    "date:cessation_upper": "2025-07-17",
     "date:inception_lower": "2025-07-17",
     "date:inception_upper": "2025-07-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-17",
+    "edtf:cessation": "2025-07-17T01:09:33-07:00",
+    "edtf:inception": "2025-07-17T10:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-07-17",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.918425,
     "geom:longitude": -102.86132599999999,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619197,
     "lbl:longitude": -122.384496,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102525635,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N845UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +58,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "105615775",
+      "swim:gufi": "KC28729500"
+    },
     "wof:country": "US",
     "wof:created": 1752855544,
     "wof:geomhash": "a23858bb4e93419105e139a22bd92749",
@@ -83,12 +97,13 @@
     ],
     "wof:id": 1980882051,
     "wof:involves": [
+      1159289407,
       102527513,
       102525635,
       1159285413,
       1947304515
     ],
-    "wof:lastmodified": 1752855544,
+    "wof:lastmodified": 1752856916,
     "wof:name": "UA528 (DTW-SFO)",
     "wof:parent_id": 1947304515,
     "wof:placetype": "custom",
