@@ -2,10 +2,12 @@
   "id": 1980891317,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-18",
-    "date:inception_upper": "2025-07-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-18",
+    "date:cessation_lower": "2025-07-18",
+    "date:cessation_upper": "2025-07-18",
+    "date:inception_lower": "2025-07-19",
+    "date:inception_upper": "2025-07-19",
+    "edtf:cessation": "2025-07-18T15:57:18-07:00",
+    "edtf:inception": "2025-07-19T00:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-07-18",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.283618000000004,
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528817,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N17329",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "105778209",
+      "swim:gufi": "KW84718600"
+    },
     "wof:country": "US",
     "wof:created": 1752941839,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
@@ -49,9 +63,9 @@
       102527513,
       102528817,
       1159285413,
-      -1
+      1528104575
     ],
-    "wof:lastmodified": 1752941839,
+    "wof:lastmodified": 1752943255,
     "wof:name": "UA2073 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

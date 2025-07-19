@@ -2,10 +2,12 @@
   "id": 1980896195,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-18",
+    "date:cessation_upper": "2025-07-18",
     "date:inception_lower": "2025-07-18",
     "date:inception_upper": "2025-07-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-18",
+    "edtf:cessation": "2025-07-18T20:02:32Z",
+    "edtf:inception": "2025-07-18T18:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.620164,
     "lbl:longitude": -122.387194,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:base_flight_id": "20250718-D-ANZ-9402",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N77259",
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -53,6 +62,10 @@
       1914600841,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "105756199",
+      "swim:gufi": "KO52990600"
+    },
     "wof:country": "US",
     "wof:created": 1752943049,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -92,9 +105,10 @@
       102527513,
       1159285413,
       1930457221,
-      1159283697
+      1159283697,
+      1528104575
     ],
-    "wof:lastmodified": 1752943049,
+    "wof:lastmodified": 1752943271,
     "wof:name": "UA433 (SFO-SEA)",
     "wof:parent_id": 1930457221,
     "wof:placetype": "custom",

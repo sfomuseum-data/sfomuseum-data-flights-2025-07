@@ -2,10 +2,12 @@
   "id": 1980892925,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-19",
+    "date:cessation_upper": "2025-07-19",
     "date:inception_lower": "2025-07-18",
     "date:inception_upper": "2025-07-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-18",
+    "edtf:cessation": "2025-07-19T08:32:01Z",
+    "edtf:inception": "2025-07-18T22:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AF",
     "flysfo:date": "2025-07-18",
@@ -21,9 +23,11 @@
     "geom:latitude": 43.312922,
     "geom:longitude": -59.914066999999996,
     "iata:airline": "AF",
+    "icao:aircraft": "B77W",
     "icao:airline": "AFR",
     "lbl:latitude": 37.612048,
     "lbl:longitude": -122.389573,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159283627,
     "sfomuseum:arrival_id": 102544459,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "FGSQG",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "105853236"
+    },
     "wof:country": "US",
     "wof:created": 1752942236,
     "wof:geomhash": "ad7dd7ece479a882a3440fb19be6ff4c",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 1980892925,
     "wof:involves": [
+      1159289993,
       102544459,
       102527513,
       1159283627,
       1947304097
     ],
-    "wof:lastmodified": 1752942236,
+    "wof:lastmodified": 1752943276,
     "wof:name": "AF4083 (SFO-CDG)",
     "wof:parent_id": 1947304097,
     "wof:placetype": "custom",
