@@ -2,10 +2,12 @@
   "id": 1980900235,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-19",
+    "date:cessation_upper": "2025-07-19",
     "date:inception_lower": "2025-07-19",
     "date:inception_upper": "2025-07-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-19",
+    "edtf:cessation": "2025-07-19T08:37:45-07:00",
+    "edtf:inception": "2025-07-19T21:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2025-07-19",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8494965,
     "geom:longitude": -118.7636915,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527209,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N297WN",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "105870231",
+      "swim:gufi": "KL65656700"
+    },
     "wof:country": "US",
     "wof:created": 1753028153,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -46,12 +60,12 @@
     ],
     "wof:id": 1980900235,
     "wof:involves": [
+      1159289869,
       102527513,
       102527209,
-      1159285591,
-      -1
+      1159285591
     ],
-    "wof:lastmodified": 1753028153,
+    "wof:lastmodified": 1753029584,
     "wof:name": "WN2902 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

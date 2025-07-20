@@ -2,10 +2,12 @@
   "id": 1980900709,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-19",
+    "date:cessation_upper": "2025-07-19",
     "date:inception_lower": "2025-07-19",
     "date:inception_upper": "2025-07-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-19",
+    "edtf:cessation": "2025-07-19T11:59:33-07:00",
+    "edtf:inception": "2025-07-19T22:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -136.169672,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.619124,
     "lbl:longitude": -122.383949,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250719-A-DLH-8899",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N87531",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "105874939",
+      "swim:gufi": "KS68407700"
+    },
     "wof:country": "US",
     "wof:created": 1753028270,
     "wof:geomhash": "40576486fbb454d3a66da49d62a0ae33",
@@ -88,13 +102,14 @@
     ],
     "wof:id": 1980900709,
     "wof:involves": [
+      1159289871,
       102527513,
       102531979,
       1159285413,
       1947304523,
       1159286015
     ],
-    "wof:lastmodified": 1753028270,
+    "wof:lastmodified": 1753029589,
     "wof:name": "UA247 (ANC-SFO)",
     "wof:parent_id": 1947304523,
     "wof:placetype": "custom",
