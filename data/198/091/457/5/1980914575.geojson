@@ -2,10 +2,12 @@
   "id": 1980914575,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-20",
+    "date:cessation_upper": "2025-07-20",
     "date:inception_lower": "2025-07-20",
     "date:inception_upper": "2025-07-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:cessation": "2025-07-20T10:36:01Z",
+    "edtf:inception": "2025-07-20T06:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "105896843"
+    },
     "wof:country": "US",
     "wof:created": 1753115909,
     "wof:geomhash": "36f645f844d4838b633d7fed3f06d4a5",
@@ -94,7 +99,7 @@
       1947304491,
       1159283697
     ],
-    "wof:lastmodified": 1753115909,
+    "wof:lastmodified": 1753116161,
     "wof:name": "UA2854 (SFO-BNA)",
     "wof:parent_id": 1947304491,
     "wof:placetype": "custom",

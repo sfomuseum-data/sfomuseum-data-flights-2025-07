@@ -2,10 +2,12 @@
   "id": 1980909847,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "date:cessation_lower": "2025-07-20",
+    "date:cessation_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-21",
+    "date:inception_upper": "2025-07-21",
+    "edtf:cessation": "2025-07-20T12:12:49-07:00",
+    "edtf:inception": "2025-07-21T00:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "CMP",
     "lbl:latitude": 37.618149,
     "lbl:longitude": -122.381669,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250720-A-CMP-2326",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N845UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KS73268100"
+    },
     "wof:country": "US",
     "wof:created": 1753114704,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1980909847,
     "wof:involves": [
+      1947304613,
+      1159284211,
+      1159289407,
       102527513,
       102533269,
-      1159285413,
-      1947304613,
-      1159284211
+      1159285413
     ],
-    "wof:lastmodified": 1753114704,
+    "wof:lastmodified": 1753116157,
     "wof:name": "UA2482 (SEA-SFO)",
     "wof:parent_id": 1947304613,
     "wof:placetype": "custom",

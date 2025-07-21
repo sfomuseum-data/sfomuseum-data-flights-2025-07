@@ -2,10 +2,12 @@
   "id": 1980914507,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-21",
+    "date:cessation_upper": "2025-07-21",
     "date:inception_lower": "2025-07-20",
     "date:inception_upper": "2025-07-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:cessation": "2025-07-21T05:44:00Z",
+    "edtf:inception": "2025-07-20T12:24:22-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -108.8546935,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "AAR",
     "lbl:latitude": 37.619197,
     "lbl:longitude": -122.384496,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534097,
     "sfomuseum:base_flight_id": "20250720-D-AAR-9521",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N69835",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO82708100"
+    },
     "wof:country": "US",
     "wof:created": 1753115852,
     "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1980914507,
     "wof:involves": [
+      1947304515,
+      1159283917,
+      1377564285,
       102534097,
       102527513,
-      1159285413,
-      1947304515,
-      1159283917
+      1159285413
     ],
-    "wof:lastmodified": 1753115852,
+    "wof:lastmodified": 1753116160,
     "wof:name": "UA2305 (SFO-IAH)",
     "wof:parent_id": 1947304515,
     "wof:placetype": "custom",

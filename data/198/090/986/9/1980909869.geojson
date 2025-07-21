@@ -2,10 +2,12 @@
   "id": 1980909869,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-20",
+    "date:cessation_upper": "2025-07-20",
     "date:inception_lower": "2025-07-20",
     "date:inception_upper": "2025-07-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:cessation": "2025-07-20T16:53:00Z",
+    "edtf:inception": "2025-07-20T12:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-07-20",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.8087165,
     "geom:longitude": -102.62808,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620058,
     "lbl:longitude": -122.38824,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532255,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N67501",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "105904015",
+      "swim:gufi": "KI37536100"
+    },
     "wof:country": "US",
     "wof:created": 1753114709,
     "wof:geomhash": "980d68d8d28509c0742a6b2a7abf5f67",
@@ -83,12 +96,13 @@
     ],
     "wof:id": 1980909869,
     "wof:involves": [
-      102527513,
       102532255,
       1159285413,
-      1947304483
+      1947304483,
+      1528104577,
+      102527513
     ],
-    "wof:lastmodified": 1753114709,
+    "wof:lastmodified": 1753116157,
     "wof:name": "UA279 (CMH-SFO)",
     "wof:parent_id": 1947304483,
     "wof:placetype": "custom",
