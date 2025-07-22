@@ -2,10 +2,12 @@
   "id": 1980919457,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-21",
+    "date:cessation_upper": "2025-07-21",
     "date:inception_lower": "2025-07-21",
     "date:inception_upper": "2025-07-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:cessation": "2025-07-21T12:53:51-07:00",
+    "edtf:inception": "2025-07-21T16:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-07-21",
@@ -21,9 +23,11 @@
     "geom:latitude": 42.9853355,
     "geom:longitude": -55.2970675,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61776,
     "lbl:longitude": -122.3918,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102549067,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N226UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +58,10 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "105990007",
+      "swim:gufi": "KS03222300"
+    },
     "wof:country": "US",
     "wof:created": 1753201123,
     "wof:geomhash": "eba9741d16611c9af3d962416d546de7",
@@ -83,12 +97,13 @@
     ],
     "wof:id": 1980919457,
     "wof:involves": [
-      102527513,
-      102549067,
       1159285413,
-      1947304137
+      1947304137,
+      1159289985,
+      102527513,
+      102549067
     ],
-    "wof:lastmodified": 1753201123,
+    "wof:lastmodified": 1753202515,
     "wof:name": "UA3901 (MUC-SFO)",
     "wof:parent_id": 1947304137,
     "wof:placetype": "custom",

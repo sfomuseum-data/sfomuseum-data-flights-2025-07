@@ -2,10 +2,12 @@
   "id": 1980923893,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-21",
+    "date:cessation_upper": "2025-07-21",
     "date:inception_lower": "2025-07-21",
     "date:inception_upper": "2025-07-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:cessation": "2025-07-21T22:26:00Z",
+    "edtf:inception": "2025-07-21T06:28:21-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B753",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.620533,
     "lbl:longitude": -122.389374,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531189,
     "sfomuseum:base_flight_id": "20250721-D-ANZ-9050",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N57862",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "106027455",
+      "swim:gufi": "KO61197200"
+    },
     "wof:country": "US",
     "wof:created": 1753202200,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -92,9 +106,10 @@
       102527513,
       1159285413,
       1947304457,
-      1159283697
+      1159283697,
+      1159289945
     ],
-    "wof:lastmodified": 1753202200,
+    "wof:lastmodified": 1753202512,
     "wof:name": "UA1333 (SFO-DEN)",
     "wof:parent_id": 1947304457,
     "wof:placetype": "custom",
