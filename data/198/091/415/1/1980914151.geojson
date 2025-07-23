@@ -2,10 +2,12 @@
   "id": 1980914151,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-22",
+    "date:cessation_upper": "2025-07-22",
     "date:inception_lower": "2025-07-22",
     "date:inception_upper": "2025-07-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-22",
+    "edtf:cessation": "2025-07-22T22:58:00Z",
+    "edtf:inception": "2025-07-22T07:20:23-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.621173,
     "lbl:longitude": -122.390131,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:base_flight_id": "20250722-D-ANA-7326",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N484UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "106118262",
+      "swim:gufi": "KO61212300"
+    },
     "wof:country": "US",
     "wof:created": 1753287509,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -92,9 +106,10 @@
       102527513,
       1159285413,
       1947304491,
-      1159283875
+      1159283875,
+      1159292085
     ],
-    "wof:lastmodified": 1753287509,
+    "wof:lastmodified": 1753287684,
     "wof:name": "UA1218 (SFO-SEA)",
     "wof:parent_id": 1947304491,
     "wof:placetype": "custom",

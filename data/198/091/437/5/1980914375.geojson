@@ -2,10 +2,12 @@
   "id": 1980914375,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-23",
+    "date:cessation_upper": "2025-07-23",
     "date:inception_lower": "2025-07-22",
     "date:inception_upper": "2025-07-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-22",
+    "edtf:cessation": "2025-07-23T00:39:00Z",
+    "edtf:inception": "2025-07-22T23:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.104038,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618161,
     "lbl:longitude": -122.384735,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527337,
     "sfomuseum:base_flight_id": "20250722-D-ANZ-9617",
@@ -53,6 +57,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "106133712"
+    },
     "wof:country": "US",
     "wof:created": 1753287534,
     "wof:geomhash": "1d9a5fa2c9575ebb155d9645f1016c57",
@@ -92,9 +99,10 @@
       102527513,
       1159285413,
       1763588337,
-      1159283697
+      1159283697,
+      1159289407
     ],
-    "wof:lastmodified": 1753287534,
+    "wof:lastmodified": 1753287687,
     "wof:name": "UA2428 (SFO-SBA)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",

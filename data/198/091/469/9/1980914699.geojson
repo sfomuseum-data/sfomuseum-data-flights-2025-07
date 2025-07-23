@@ -2,10 +2,12 @@
   "id": 1980914699,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-23",
+    "date:cessation_upper": "2025-07-23",
     "date:inception_lower": "2025-07-22",
     "date:inception_upper": "2025-07-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-22",
+    "edtf:cessation": "2025-07-23T03:21:00Z",
+    "edtf:inception": "2025-07-22T10:24:10-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -110.006986,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.621173,
     "lbl:longitude": -122.390131,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102521851,
     "sfomuseum:base_flight_id": "20250722-D-ACA-5484",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N17593",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO79993300"
+    },
     "wof:country": "US",
     "wof:created": 1753287570,
     "wof:geomhash": "f1e29c4a83094711ef061292cfad3358",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1980914699,
     "wof:involves": [
+      1528104577,
       102521851,
       102527513,
       1159285413,
       1947304491,
       1159283597
     ],
-    "wof:lastmodified": 1753287570,
+    "wof:lastmodified": 1753287690,
     "wof:name": "UA737 (SFO-AUS)",
     "wof:parent_id": 1947304491,
     "wof:placetype": "custom",
