@@ -2,22 +2,22 @@
   "id": 1980907549,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AV",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "6975",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753031520,
+    "flysfo:base_flight_number": "6985",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753252620,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AV6975",
+    "flysfo:flight_number": "AV6985",
     "flysfo:gate": "D12",
     "flysfo:journey": "YVR-SFO",
-    "flysfo:scheduled_timestamp": 1753032780,
-    "flysfo:timestamp": 1753032780,
+    "flysfo:scheduled_timestamp": 1753251180,
+    "flysfo:timestamp": 1753252620,
     "geom:area": 0,
     "geom:bbox": "-123.179200,37.617990,-122.370943,49.193330",
     "geom:latitude": 43.40566,
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.381477,
     "sfomuseum:airline_id": 1159285749,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AVA-6975",
+    "sfomuseum:base_flight_id": "20250722-A-AVA-6985",
     "sfomuseum:departure_id": 102555307,
-    "sfomuseum:flight_id": "20250720-A-AVA-6975",
+    "sfomuseum:flight_id": "20250722-A-AVA-6985",
     "sfomuseum:flight_number": [
-      "AVA6975",
-      "AV6975"
+      "AVA6985",
+      "AV6985"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,7 +54,7 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114134,
+    "wof:created": 1753286733,
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
     "wof:hierarchy": [
       {
@@ -94,8 +94,8 @@
       1947304631,
       1159285749
     ],
-    "wof:lastmodified": 1753114134,
-    "wof:name": "AV6975 (YVR-SFO)",
+    "wof:lastmodified": 1753286733,
+    "wof:name": "AV6985 (YVR-SFO)",
     "wof:parent_id": 1947304631,
     "wof:placetype": "custom",
     "wof:placetype_alt": [

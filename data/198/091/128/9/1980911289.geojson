@@ -2,53 +2,43 @@
   "id": 1980911289,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-21",
-    "date:cessation_upper": "2025-07-21",
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
-    "edtf:cessation": "2025-07-21T01:43:00Z",
-    "edtf:inception": "2025-07-20T10:06:56-07:00",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "6904",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753055700,
+    "flysfo:base_flight_number": "2878",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753219800,
     "flysfo:event": "D",
-    "flysfo:flight_number": "AC571",
+    "flysfo:flight_number": "AC8558",
     "flysfo:gate": "D11",
-    "flysfo:journey": "SFO-YVR",
-    "flysfo:scheduled_timestamp": 1753054500,
-    "flysfo:timestamp": 1753055700,
+    "flysfo:journey": "SFO-YEG",
+    "flysfo:scheduled_timestamp": 1753214700,
+    "flysfo:timestamp": 1753219800,
     "geom:area": 0,
-    "geom:bbox": "-123.179200,37.617990,-122.370943,49.193330",
-    "geom:latitude": 43.40566,
-    "geom:longitude": -122.7750715,
+    "geom:bbox": "-122.370943,37.617990,-113.584752,53.308108",
+    "geom:latitude": 45.463049,
+    "geom:longitude": -117.9778475,
     "iata:airline": "AC",
     "iata:base_airline": "",
-    "icao:aircraft": "B38M",
     "icao:airline": "ACA",
     "icao:base_airline": "AVA",
     "lbl:latitude": 37.618139,
     "lbl:longitude": -122.381258,
-    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159283597,
-    "sfomuseum:arrival_id": 102555307,
-    "sfomuseum:base_flight_id": "20250720-D-AVA-6904",
+    "sfomuseum:arrival_id": 102554473,
+    "sfomuseum:base_flight_id": "20250722-D-AVA-2878",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-ACA-571",
+    "sfomuseum:flight_id": "20250722-D-ACA-8558",
     "sfomuseum:flight_number": [
-      "ACA571",
-      "AC571"
+      "ACA8558",
+      "AC8558"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-takeoff"
-    ],
-    "swim:tail_number": "CFSCY",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -63,13 +53,9 @@
       1947304591,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "105963637",
-      "swim:gufi": "KO77633100"
-    },
     "wof:country": "US",
-    "wof:created": 1753115055,
-    "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
+    "wof:created": 1753287193,
+    "wof:geomhash": "d4a7e38ab5b38aac9300ec43a62729ca",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -102,15 +88,14 @@
     ],
     "wof:id": 1980911289,
     "wof:involves": [
-      1528104575,
-      102555307,
+      102554473,
       102527513,
       1159283597,
       1947304627,
       1159285749
     ],
-    "wof:lastmodified": 1753116137,
-    "wof:name": "AC571 (SFO-YVR)",
+    "wof:lastmodified": 1753287193,
+    "wof:name": "AC8558 (SFO-YEG)",
     "wof:parent_id": 1947304627,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -121,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -123.1792,
-    37.61799,
     -122.370943,
-    49.19333
+    37.61799,
+    -113.584752,
+    53.308108
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-123.1792,49.19333]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-113.584752,53.308108]],"type":"MultiPoint"}
 }

@@ -2,40 +2,40 @@
   "id": 1980908661,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "IB",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4125",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753076280,
+    "flysfo:base_flight_number": "7437",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753248120,
     "flysfo:event": "A",
-    "flysfo:flight_number": "IB4726",
-    "flysfo:gate": "B22",
-    "flysfo:journey": "LAX-SFO",
-    "flysfo:scheduled_timestamp": 1753073460,
-    "flysfo:timestamp": 1753076280,
+    "flysfo:flight_number": "IB7311",
+    "flysfo:gate": "B8",
+    "flysfo:journey": "IAD-SFO",
+    "flysfo:scheduled_timestamp": 1753249560,
+    "flysfo:timestamp": 1753249560,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
-    "geom:latitude": 35.780291500000004,
-    "geom:longitude": -120.38022649999999,
+    "geom:bbox": "-122.370943,37.617990,-77.453702,38.949246",
+    "geom:latitude": 38.283618000000004,
+    "geom:longitude": -99.9123225,
     "iata:airline": "IB",
     "iata:base_airline": "",
     "icao:airline": "IBE",
-    "icao:base_airline": "FIN",
+    "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159284511,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-FIN-4125",
-    "sfomuseum:departure_id": 102533795,
-    "sfomuseum:flight_id": "20250720-A-IBE-4726",
+    "sfomuseum:base_flight_id": "20250722-A-AAL-7437",
+    "sfomuseum:departure_id": 102528817,
+    "sfomuseum:flight_id": "20250722-A-IBE-7311",
     "sfomuseum:flight_number": [
-      "IBE4726",
-      "IB4726"
+      "IBE7311",
+      "IB7311"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304295,
+      1947304275,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114407,
-    "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
+    "wof:created": 1753286875,
+    "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304295,
+        "venue_id": 1947304275,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980908661,
         "flight_id": 1980908661,
         "region_id": 85688637,
-        "venue_id": 1947304295,
+        "venue_id": 1947304275,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980908661,
     "wof:involves": [
       102527513,
-      102533795,
+      102528817,
       1159284511,
-      1947304295,
-      1159284389
+      1947304275,
+      1159283849
     ],
-    "wof:lastmodified": 1753114407,
-    "wof:name": "IB4726 (LAX-SFO)",
-    "wof:parent_id": 1947304295,
+    "wof:lastmodified": 1753286875,
+    "wof:name": "IB7311 (IAD-SFO)",
+    "wof:parent_id": 1947304275,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    33.942593,
-    -118.38951,
-    37.61799
+    37.61799,
+    -77.453702,
+    38.949246
   ],
-  "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-77.453702,38.949246],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

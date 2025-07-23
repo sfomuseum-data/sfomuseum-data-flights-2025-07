@@ -2,26 +2,26 @@
   "id": 1980907629,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "BA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9275",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753036080,
+    "flysfo:base_flight_number": "9403",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753234980,
     "flysfo:event": "A",
-    "flysfo:flight_number": "BA6414",
-    "flysfo:gate": "B12",
-    "flysfo:journey": "PSP-SFO",
-    "flysfo:scheduled_timestamp": 1753033500,
-    "flysfo:timestamp": 1753036080,
+    "flysfo:flight_number": "BA6433",
+    "flysfo:gate": "B8",
+    "flysfo:journey": "SAN-SFO",
+    "flysfo:scheduled_timestamp": 1753234080,
+    "flysfo:timestamp": 1753234980,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,33.824619,-116.506042,37.617990",
-    "geom:latitude": 35.7213045,
-    "geom:longitude": -119.4384925,
+    "geom:bbox": "-122.370943,32.733534,-117.185927,37.617990",
+    "geom:latitude": 35.175762,
+    "geom:longitude": -119.778435,
     "iata:airline": "BA",
     "iata:base_airline": "",
     "icao:airline": "BAW",
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159284021,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AAL-9275",
-    "sfomuseum:departure_id": 102533591,
-    "sfomuseum:flight_id": "20250720-A-BAW-6414",
+    "sfomuseum:base_flight_id": "20250722-A-AAL-9403",
+    "sfomuseum:departure_id": 102528997,
+    "sfomuseum:flight_id": "20250722-A-BAW-6433",
     "sfomuseum:flight_number": [
-      "BAW6414",
-      "BA6414"
+      "BAW6433",
+      "BA6433"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304263,
+      1947304275,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114153,
-    "wof:geomhash": "a35a6e87f0ae0f1f716f88067ee31aa3",
+    "wof:created": 1753286742,
+    "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304263,
+        "venue_id": 1947304275,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980907629,
         "flight_id": 1980907629,
         "region_id": 85688637,
-        "venue_id": 1947304263,
+        "venue_id": 1947304275,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980907629,
     "wof:involves": [
       102527513,
-      102533591,
+      102528997,
       1159284021,
-      1947304263,
+      1947304275,
       1159283849
     ],
-    "wof:lastmodified": 1753114153,
-    "wof:name": "BA6414 (PSP-SFO)",
-    "wof:parent_id": 1947304263,
+    "wof:lastmodified": 1753286742,
+    "wof:name": "BA6433 (SAN-SFO)",
+    "wof:parent_id": 1947304275,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    33.824619,
-    -116.506042,
+    32.733534,
+    -117.185927,
     37.61799
   ],
-  "geometry": {"coordinates":[[-116.506042,33.824619],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

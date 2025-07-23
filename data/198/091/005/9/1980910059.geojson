@@ -2,40 +2,40 @@
   "id": 1980910059,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "1430",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753082820,
+    "flysfo:base_flight_number": "3887",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753217100,
     "flysfo:event": "A",
-    "flysfo:flight_number": "UA5592",
-    "flysfo:gate": "F7",
-    "flysfo:journey": "RDD-SFO",
-    "flysfo:scheduled_timestamp": 1753072800,
-    "flysfo:timestamp": 1753082820,
+    "flysfo:flight_number": "UA5572",
+    "flysfo:gate": "F8",
+    "flysfo:journey": "YVR-SFO",
+    "flysfo:scheduled_timestamp": 1753211640,
+    "flysfo:timestamp": 1753217100,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-122.298220,40.507596",
-    "geom:latitude": 39.062793,
-    "geom:longitude": -122.3345815,
+    "geom:bbox": "-123.179200,37.617990,-122.370943,49.193330",
+    "geom:latitude": 43.40566,
+    "geom:longitude": -122.7750715,
     "iata:airline": "UA",
     "iata:base_airline": "",
     "icao:airline": "UAL",
-    "icao:base_airline": "CMP",
+    "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-CMP-1430",
-    "sfomuseum:departure_id": 102527969,
-    "sfomuseum:flight_id": "20250720-A-UAL-5592",
+    "sfomuseum:base_flight_id": "20250722-A-ACA-3887",
+    "sfomuseum:departure_id": 102555307,
+    "sfomuseum:flight_id": "20250722-A-UAL-5572",
     "sfomuseum:flight_number": [
-      "UAL5592",
-      "UA5592"
+      "UAL5572",
+      "UA5572"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304465,
+      1947304469,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114756,
-    "wof:geomhash": "dc56b2c846de1922adefc5feb6f75c92",
+    "wof:created": 1753287056,
+    "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304465,
+        "venue_id": 1947304469,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980910059,
         "flight_id": 1980910059,
         "region_id": 85688637,
-        "venue_id": 1947304465,
+        "venue_id": 1947304469,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980910059,
     "wof:involves": [
       102527513,
-      102527969,
+      102555307,
       1159285413,
-      1947304465,
-      1159284211
+      1947304469,
+      1159283597
     ],
-    "wof:lastmodified": 1753114756,
-    "wof:name": "UA5592 (RDD-SFO)",
-    "wof:parent_id": 1947304465,
+    "wof:lastmodified": 1753287056,
+    "wof:name": "UA5572 (YVR-SFO)",
+    "wof:parent_id": 1947304469,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943,
+    -123.1792,
     37.61799,
-    -122.29822,
-    40.507596
+    -122.370943,
+    49.19333
   ],
-  "geometry": {"coordinates":[[-122.29822,40.507596],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-123.1792,49.19333],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

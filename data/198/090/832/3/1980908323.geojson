@@ -2,47 +2,43 @@
   "id": 1980908323,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-21",
-    "date:cessation_upper": "2025-07-21",
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
-    "edtf:cessation": "2025-07-21T00:50:31Z",
-    "edtf:inception": "2025-07-20T23:49:00Z",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "F9",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753059360,
+    "flysfo:airline": "AY",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "8815",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753225380,
     "flysfo:event": "A",
-    "flysfo:flight_number": "F93581",
-    "flysfo:gate": "A15",
-    "flysfo:journey": "SNA-SFO",
-    "flysfo:scheduled_timestamp": 1753060020,
-    "flysfo:timestamp": 1753060020,
+    "flysfo:flight_number": "AY5557",
+    "flysfo:gate": "A1",
+    "flysfo:journey": "MAD-SFO",
+    "flysfo:scheduled_timestamp": 1753225800,
+    "flysfo:timestamp": 1753225800,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,33.677724,-117.866280,37.617990",
-    "geom:latitude": 35.647857,
-    "geom:longitude": -120.1186115,
-    "iata:airline": "F9",
-    "icao:aircraft": "A20N",
-    "icao:airline": "FFT",
-    "lbl:latitude": 37.611664,
-    "lbl:longitude": -122.390495,
-    "sfomuseum:aircraft_id": 1377564295,
-    "sfomuseum:airline_id": 1159284401,
+    "geom:bbox": "-122.370943,37.617990,-3.562012,40.477078",
+    "geom:latitude": 39.047534,
+    "geom:longitude": -62.966477499999996,
+    "iata:airline": "AY",
+    "iata:base_airline": "",
+    "icao:airline": "FIN",
+    "icao:base_airline": "AAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284389,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:departure_id": 102534161,
-    "sfomuseum:flight_id": "20250720-A-FFT-3581",
+    "sfomuseum:base_flight_id": "20250722-A-AAL-8815",
+    "sfomuseum:departure_id": 102545773,
+    "sfomuseum:flight_id": "20250722-A-FIN-5557",
     "sfomuseum:flight_number": [
-      "FFT3581",
-      "F93581"
+      "FIN5557",
+      "AY5557"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path"
-    ],
-    "swim:tail_number": "N379FR",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,17 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304095,
+      1947304079,
       1947304069,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "105963913",
-      "swim:gufi": "KL81534100"
-    },
     "wof:country": "US",
-    "wof:created": 1753114324,
-    "wof:geomhash": "01009f732d03a7803d3f7fd23cf321f4",
+    "wof:created": 1753286821,
+    "wof:geomhash": "e381de006a7d8b2da90b8f820c28ec9b",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -77,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304095,
+        "venue_id": 1947304079,
         "wing_id": 1947304069
       },
       {
@@ -90,21 +82,21 @@
         "custom_id": 1980908323,
         "flight_id": 1980908323,
         "region_id": 85688637,
-        "venue_id": 1947304095,
+        "venue_id": 1947304079,
         "wing_id": 1947304069
       }
     ],
     "wof:id": 1980908323,
     "wof:involves": [
-      1947304095,
-      1377564295,
       102527513,
-      102534161,
-      1159284401
+      102545773,
+      1159284389,
+      1947304079,
+      1159283849
     ],
-    "wof:lastmodified": 1753116144,
-    "wof:name": "F93581 (SNA-SFO)",
-    "wof:parent_id": 1947304095,
+    "wof:lastmodified": 1753286821,
+    "wof:name": "AY5557 (MAD-SFO)",
+    "wof:parent_id": 1947304079,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -115,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    33.677724,
-    -117.86628,
-    37.61799
+    37.61799,
+    -3.562012,
+    40.477078
   ],
-  "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-3.562012,40.477078],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

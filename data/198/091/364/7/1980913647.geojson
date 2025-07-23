@@ -2,40 +2,40 @@
   "id": 1980913647,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "QF",
+    "flysfo:airline": "QR",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "5804",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753034220,
+    "flysfo:base_flight_number": "6448",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753225380,
     "flysfo:event": "D",
-    "flysfo:flight_number": "QF3673",
-    "flysfo:gate": "B12",
-    "flysfo:journey": "SFO-DCA",
-    "flysfo:scheduled_timestamp": 1753029900,
-    "flysfo:timestamp": 1753034220,
+    "flysfo:flight_number": "QR4278",
+    "flysfo:gate": "B9",
+    "flysfo:journey": "SFO-LAX",
+    "flysfo:scheduled_timestamp": 1753225380,
+    "flysfo:timestamp": 1753225380,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-77.041643,38.850639",
-    "geom:latitude": 38.234314499999996,
-    "geom:longitude": -99.70629299999999,
-    "iata:airline": "QF",
+    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
+    "geom:latitude": 35.780291500000004,
+    "geom:longitude": -120.38022649999999,
+    "iata:airline": "QR",
     "iata:base_airline": "",
-    "icao:airline": "QFA",
-    "icao:base_airline": "FJI",
+    "icao:airline": "QTR",
+    "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159285043,
-    "sfomuseum:arrival_id": 1746879047,
-    "sfomuseum:base_flight_id": "20250720-D-FJI-5804",
+    "sfomuseum:airline_id": 1159286153,
+    "sfomuseum:arrival_id": 102533795,
+    "sfomuseum:base_flight_id": "20250722-D-BAW-6448",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-QFA-3673",
+    "sfomuseum:flight_id": "20250722-D-QTR-4278",
     "sfomuseum:flight_number": [
-      "QFA3673",
-      "QF3673"
+      "QTR4278",
+      "QR4278"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304263,
+      1947304303,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115642,
-    "wof:geomhash": "df4d5906f2523703f9da91c779be1785",
+    "wof:created": 1753287453,
+    "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304263,
+        "venue_id": 1947304303,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980913647,
         "flight_id": 1980913647,
         "region_id": 85688637,
-        "venue_id": 1947304263,
+        "venue_id": 1947304303,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980913647,
     "wof:involves": [
-      1746879047,
+      102533795,
       102527513,
-      1159285043,
-      1947304263,
-      1159283717
+      1159286153,
+      1947304303,
+      1159284021
     ],
-    "wof:lastmodified": 1753115642,
-    "wof:name": "QF3673 (SFO-DCA)",
-    "wof:parent_id": 1947304263,
+    "wof:lastmodified": 1753287453,
+    "wof:name": "QR4278 (SFO-LAX)",
+    "wof:parent_id": 1947304303,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -77.041643,
-    38.850639
+    33.942593,
+    -118.38951,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-77.041643,38.850639]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}
 }

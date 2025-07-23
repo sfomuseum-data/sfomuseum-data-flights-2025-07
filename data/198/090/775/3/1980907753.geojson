@@ -2,26 +2,26 @@
   "id": 1980907753,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DE",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9410",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753067700,
+    "flysfo:base_flight_number": "7514",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753201500,
     "flysfo:event": "A",
-    "flysfo:flight_number": "DE5004",
-    "flysfo:gate": "B21",
-    "flysfo:journey": "SEA-SFO",
-    "flysfo:scheduled_timestamp": 1753068660,
-    "flysfo:timestamp": 1753068660,
+    "flysfo:flight_number": "DE5092",
+    "flysfo:gate": "B12",
+    "flysfo:journey": "PDX-SFO",
+    "flysfo:scheduled_timestamp": 1753199580,
+    "flysfo:timestamp": 1753201500,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-122.304268,47.441823",
-    "geom:latitude": 42.529906499999996,
-    "geom:longitude": -122.3376055,
+    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
+    "geom:latitude": 41.602067,
+    "geom:longitude": -122.484166,
     "iata:airline": "DE",
     "iata:base_airline": "",
     "icao:airline": "CFG",
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159284193,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AAL-9410",
-    "sfomuseum:departure_id": 102533269,
-    "sfomuseum:flight_id": "20250720-A-CFG-5004",
+    "sfomuseum:base_flight_id": "20250722-A-AAL-7514",
+    "sfomuseum:departure_id": 102532251,
+    "sfomuseum:flight_id": "20250722-A-CFG-5092",
     "sfomuseum:flight_number": [
-      "CFG5004",
-      "DE5004"
+      "CFG5092",
+      "DE5092"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304315,
+      1947304263,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114183,
-    "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
+    "wof:created": 1753286756,
+    "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304315,
+        "venue_id": 1947304263,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980907753,
         "flight_id": 1980907753,
         "region_id": 85688637,
-        "venue_id": 1947304315,
+        "venue_id": 1947304263,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980907753,
     "wof:involves": [
       102527513,
-      102533269,
+      102532251,
       1159284193,
-      1947304315,
+      1947304263,
       1159283849
     ],
-    "wof:lastmodified": 1753114183,
-    "wof:name": "DE5004 (SEA-SFO)",
-    "wof:parent_id": 1947304315,
+    "wof:lastmodified": 1753286756,
+    "wof:name": "DE5092 (PDX-SFO)",
+    "wof:parent_id": 1947304263,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943,
+    -122.597389,
     37.61799,
-    -122.304268,
-    47.441823
+    -122.370943,
+    45.586144
   ],
-  "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

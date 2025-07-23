@@ -2,26 +2,26 @@
   "id": 1980910029,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "3990",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753055100,
+    "flysfo:base_flight_number": "4541",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753192260,
     "flysfo:event": "A",
-    "flysfo:flight_number": "UA5504",
-    "flysfo:gate": "F7",
-    "flysfo:journey": "BUR-SFO",
-    "flysfo:scheduled_timestamp": 1753054680,
-    "flysfo:timestamp": 1753055100,
+    "flysfo:flight_number": "UA5460",
+    "flysfo:gate": "F6",
+    "flysfo:journey": "SMF-SFO",
+    "flysfo:scheduled_timestamp": 1753193700,
+    "flysfo:timestamp": 1753193700,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,34.196704,-118.353322,37.617990",
-    "geom:latitude": 35.907347,
-    "geom:longitude": -120.3621325,
+    "geom:bbox": "-122.370943,37.617990,-121.589912,38.685533",
+    "geom:latitude": 38.1517615,
+    "geom:longitude": -121.98042749999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
     "icao:airline": "UAL",
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ACA-3990",
-    "sfomuseum:departure_id": 1746879083,
-    "sfomuseum:flight_id": "20250720-A-UAL-5504",
+    "sfomuseum:base_flight_id": "20250722-A-ACA-4541",
+    "sfomuseum:departure_id": 102530559,
+    "sfomuseum:flight_id": "20250722-A-UAL-5460",
     "sfomuseum:flight_number": [
-      "UAL5504",
-      "UA5504"
+      "UAL5460",
+      "UA5460"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304465,
+      1947304461,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114749,
-    "wof:geomhash": "579cc6c0d5668ba584a946b357aa3191",
+    "wof:created": 1753287052,
+    "wof:geomhash": "f5805f1be1c56ce2a2965880e252c65f",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304465,
+        "venue_id": 1947304461,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980910029,
         "flight_id": 1980910029,
         "region_id": 85688637,
-        "venue_id": 1947304465,
+        "venue_id": 1947304461,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980910029,
     "wof:involves": [
       102527513,
-      1746879083,
+      102530559,
       1159285413,
-      1947304465,
+      1947304461,
       1159283597
     ],
-    "wof:lastmodified": 1753114749,
-    "wof:name": "UA5504 (BUR-SFO)",
-    "wof:parent_id": 1947304465,
+    "wof:lastmodified": 1753287052,
+    "wof:name": "UA5460 (SMF-SFO)",
+    "wof:parent_id": 1947304461,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    34.196704,
-    -118.353322,
-    37.61799
+    37.61799,
+    -121.589912,
+    38.685533
   ],
-  "geometry": {"coordinates":[[-118.353322,34.196704],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-121.589912,38.685533],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

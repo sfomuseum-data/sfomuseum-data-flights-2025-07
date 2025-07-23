@@ -2,40 +2,40 @@
   "id": 1980906641,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AF",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "5647",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753077420,
+    "flysfo:base_flight_number": "2480",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753250340,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AF5647",
-    "flysfo:gate": "C11",
-    "flysfo:journey": "LAX-SFO",
-    "flysfo:scheduled_timestamp": 1753078260,
-    "flysfo:timestamp": 1753078260,
+    "flysfo:flight_number": "AF2480",
+    "flysfo:gate": "C7",
+    "flysfo:journey": "ATL-SFO",
+    "flysfo:scheduled_timestamp": 1753249740,
+    "flysfo:timestamp": 1753250340,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
-    "geom:latitude": 35.780291500000004,
-    "geom:longitude": -120.38022649999999,
+    "geom:bbox": "-122.370943,33.636518,-84.430686,37.617990",
+    "geom:latitude": 35.627254,
+    "geom:longitude": -103.4008145,
     "iata:airline": "AF",
     "iata:base_airline": "",
     "icao:airline": "AFR",
     "icao:base_airline": "AFR",
-    "lbl:latitude": 37.614792,
-    "lbl:longitude": -122.382166,
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159283627,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AFR-5647",
-    "sfomuseum:departure_id": 102533795,
-    "sfomuseum:flight_id": "20250720-A-AFR-5647",
+    "sfomuseum:base_flight_id": "20250722-A-AFR-2480",
+    "sfomuseum:departure_id": 102526927,
+    "sfomuseum:flight_id": "20250722-A-AFR-2480",
     "sfomuseum:flight_number": [
-      "AFR5647",
-      "AF5647"
+      "AFR2480",
+      "AF2480"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304677,
+      1947304669,
       1947304591,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753113905,
-    "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
+    "wof:created": 1753286625,
+    "wof:geomhash": "ae92617dd2aca2afdb0c9096232ff0bb",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304677,
+        "venue_id": 1947304669,
         "wing_id": 1947304591
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980906641,
         "flight_id": 1980906641,
         "region_id": 85688637,
-        "venue_id": 1947304677,
+        "venue_id": 1947304669,
         "wing_id": 1947304591
       }
     ],
     "wof:id": 1980906641,
     "wof:involves": [
       102527513,
-      102533795,
+      102526927,
       1159283627,
-      1947304677,
+      1947304669,
       1159283627
     ],
-    "wof:lastmodified": 1753113905,
-    "wof:name": "AF5647 (LAX-SFO)",
-    "wof:parent_id": 1947304677,
+    "wof:lastmodified": 1753286625,
+    "wof:name": "AF2480 (ATL-SFO)",
+    "wof:parent_id": 1947304669,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    33.942593,
-    -118.38951,
+    33.636518,
+    -84.430686,
     37.61799
   ],
-  "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-84.430686,33.636518],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

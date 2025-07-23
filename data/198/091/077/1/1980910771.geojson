@@ -2,53 +2,43 @@
   "id": 1980910771,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-20",
-    "date:cessation_upper": "2025-07-20",
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
-    "edtf:cessation": "2025-07-20T20:18:00Z",
-    "edtf:inception": "2025-07-20T15:07:00Z",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "5084",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753023600,
+    "flysfo:base_flight_number": "7110",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753199460,
     "flysfo:event": "D",
-    "flysfo:flight_number": "AA369",
+    "flysfo:flight_number": "AA6411",
     "flysfo:gate": "B22",
-    "flysfo:journey": "SFO-MIA",
-    "flysfo:scheduled_timestamp": 1753023600,
-    "flysfo:timestamp": 1753023600,
+    "flysfo:journey": "SFO-LAX",
+    "flysfo:scheduled_timestamp": 1753200420,
+    "flysfo:timestamp": 1753200420,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,25.790470,-80.296006,37.617990",
-    "geom:latitude": 31.70423,
-    "geom:longitude": -101.3334745,
+    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
+    "geom:latitude": 35.780291500000004,
+    "geom:longitude": -120.38022649999999,
     "iata:airline": "AA",
     "iata:base_airline": "",
-    "icao:aircraft": "B38M",
     "icao:airline": "AAL",
-    "icao:base_airline": "RAM",
+    "icao:base_airline": "EIN",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159283849,
-    "sfomuseum:arrival_id": 102531023,
-    "sfomuseum:base_flight_id": "20250720-D-RAM-5084",
+    "sfomuseum:arrival_id": 102533795,
+    "sfomuseum:base_flight_id": "20250722-D-EIN-7110",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-AAL-369",
+    "sfomuseum:flight_id": "20250722-D-AAL-6411",
     "sfomuseum:flight_number": [
-      "AAL369",
-      "AA369"
+      "AAL6411",
+      "AA6411"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-takeoff"
-    ],
-    "swim:tail_number": "N355TW",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -63,13 +53,9 @@
       1947304259,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "105919845",
-      "swim:gufi": "KO49529100"
-    },
     "wof:country": "US",
-    "wof:created": 1753114930,
-    "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
+    "wof:created": 1753287136,
+    "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -102,15 +88,14 @@
     ],
     "wof:id": 1980910771,
     "wof:involves": [
-      102531023,
+      102533795,
       102527513,
       1159283849,
       1947304295,
-      1159285081,
-      1528104575
+      1159283495
     ],
-    "wof:lastmodified": 1753116134,
-    "wof:name": "AA369 (SFO-MIA)",
+    "wof:lastmodified": 1753287136,
+    "wof:name": "AA6411 (SFO-LAX)",
     "wof:parent_id": 1947304295,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -122,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    25.79047,
-    -80.296006,
+    33.942593,
+    -118.38951,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-80.296006,25.79047]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}
 }

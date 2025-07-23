@@ -2,40 +2,40 @@
   "id": 1980910319,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "VS",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "3215",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753056720,
+    "flysfo:base_flight_number": "5906",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753173180,
     "flysfo:event": "A",
-    "flysfo:flight_number": "VS5285",
+    "flysfo:flight_number": "VS4819",
     "flysfo:gate": "C3",
-    "flysfo:journey": "ATL-SFO",
-    "flysfo:scheduled_timestamp": 1753057440,
-    "flysfo:timestamp": 1753057440,
+    "flysfo:journey": "JFK-SFO",
+    "flysfo:scheduled_timestamp": 1753173300,
+    "flysfo:timestamp": 1753173300,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,33.636518,-84.430686,37.617990",
-    "geom:latitude": 35.627254,
-    "geom:longitude": -103.4008145,
+    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
+    "geom:latitude": 39.130638000000005,
+    "geom:longitude": -98.07939400000001,
     "iata:airline": "VS",
     "iata:base_airline": "",
     "icao:airline": "VIR",
-    "icao:base_airline": "AMX",
+    "icao:base_airline": "ITY",
     "lbl:latitude": 37.615398,
     "lbl:longitude": -122.383426,
     "sfomuseum:airline_id": 1159285483,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AMX-3215",
-    "sfomuseum:departure_id": 102526927,
-    "sfomuseum:flight_id": "20250720-A-VIR-5285",
+    "sfomuseum:base_flight_id": "20250722-A-ITY-5906",
+    "sfomuseum:departure_id": 102534365,
+    "sfomuseum:flight_id": "20250722-A-VIR-4819",
     "sfomuseum:flight_number": [
-      "VIR5285",
-      "VS5285"
+      "VIR4819",
+      "VS4819"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114820,
-    "wof:geomhash": "ae92617dd2aca2afdb0c9096232ff0bb",
+    "wof:created": 1753287085,
+    "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -89,13 +89,13 @@
     "wof:id": 1980910319,
     "wof:involves": [
       102527513,
-      102526927,
+      102534365,
       1159285483,
       1947304671,
-      1159283539
+      1763699293
     ],
-    "wof:lastmodified": 1753114820,
-    "wof:name": "VS5285 (ATL-SFO)",
+    "wof:lastmodified": 1753287085,
+    "wof:name": "VS4819 (JFK-SFO)",
     "wof:parent_id": 1947304671,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    33.636518,
-    -84.430686,
-    37.61799
+    37.61799,
+    -73.787845,
+    40.643286
   ],
-  "geometry": {"coordinates":[[-84.430686,33.636518],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

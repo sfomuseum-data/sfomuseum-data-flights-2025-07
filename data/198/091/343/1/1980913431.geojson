@@ -2,53 +2,43 @@
   "id": 1980913431,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-20",
-    "date:cessation_upper": "2025-07-20",
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
-    "edtf:cessation": "2025-07-20T22:57:43Z",
-    "edtf:inception": "2025-07-20T18:02:00Z",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "B6",
+    "flysfo:airline": "LA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "2226",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753034160,
+    "flysfo:base_flight_number": "4941",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753214700,
     "flysfo:event": "D",
-    "flysfo:flight_number": "B6834",
-    "flysfo:gate": "B6",
-    "flysfo:journey": "SFO-BOS",
-    "flysfo:scheduled_timestamp": 1753034160,
-    "flysfo:timestamp": 1753034160,
+    "flysfo:flight_number": "LA6274",
+    "flysfo:gate": "B19",
+    "flysfo:journey": "SFO-LAX",
+    "flysfo:scheduled_timestamp": 1753212600,
+    "flysfo:timestamp": 1753214700,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-71.014750,42.362322",
-    "geom:latitude": 39.990156,
-    "geom:longitude": -96.6928465,
-    "iata:airline": "B6",
+    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
+    "geom:latitude": 35.780291500000004,
+    "geom:longitude": -120.38022649999999,
+    "iata:airline": "LA",
     "iata:base_airline": "",
-    "icao:aircraft": "A21N",
-    "icao:airline": "JBU",
-    "icao:base_airline": "HAL",
+    "icao:airline": "LAN",
+    "icao:base_airline": "AMX",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:aircraft_id": 1377564297,
-    "sfomuseum:airline_id": 1159284583,
-    "sfomuseum:arrival_id": 102530741,
-    "sfomuseum:base_flight_id": "20250720-D-HAL-2226",
+    "sfomuseum:airline_id": 1159285641,
+    "sfomuseum:arrival_id": 102533795,
+    "sfomuseum:base_flight_id": "20250722-D-AMX-4941",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-JBU-834",
+    "sfomuseum:flight_id": "20250722-D-LAN-6274",
     "sfomuseum:flight_number": [
-      "JBU834",
-      "B6834"
+      "LAN6274",
+      "LA6274"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-takeoff"
-    ],
-    "swim:tail_number": "N4077J",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -59,17 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304313,
+      1947304301,
       1947304259,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "105936090",
-      "swim:gufi": "KO60185100"
-    },
     "wof:country": "US",
-    "wof:created": 1753115590,
-    "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
+    "wof:created": 1753287429,
+    "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -83,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304313,
+        "venue_id": 1947304301,
         "wing_id": 1947304259
       },
       {
@@ -96,22 +82,21 @@
         "custom_id": 1980913431,
         "flight_id": 1980913431,
         "region_id": 85688637,
-        "venue_id": 1947304313,
+        "venue_id": 1947304301,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980913431,
     "wof:involves": [
-      1377564297,
-      102530741,
+      102533795,
       102527513,
-      1159284583,
-      1947304313,
-      1159284489
+      1159285641,
+      1947304301,
+      1159283539
     ],
-    "wof:lastmodified": 1753116152,
-    "wof:name": "B6834 (SFO-BOS)",
-    "wof:parent_id": 1947304313,
+    "wof:lastmodified": 1753287429,
+    "wof:name": "LA6274 (SFO-LAX)",
+    "wof:parent_id": 1947304301,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -122,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -71.01475,
-    42.362322
+    33.942593,
+    -118.38951,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-71.01475,42.362322]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}
 }

@@ -2,40 +2,40 @@
   "id": 1980913439,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "KE",
+    "flysfo:airline": "LA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "3084",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753048440,
+    "flysfo:base_flight_number": "4192",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753188600,
     "flysfo:event": "D",
-    "flysfo:flight_number": "KE3084",
-    "flysfo:gate": "C11",
-    "flysfo:journey": "SFO-SEA",
-    "flysfo:scheduled_timestamp": 1753044300,
-    "flysfo:timestamp": 1753048440,
+    "flysfo:flight_number": "LA6336",
+    "flysfo:gate": "C4",
+    "flysfo:journey": "SFO-LAX",
+    "flysfo:scheduled_timestamp": 1753188900,
+    "flysfo:timestamp": 1753188900,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-122.304268,47.441823",
-    "geom:latitude": 42.529906499999996,
-    "geom:longitude": -122.3376055,
-    "iata:airline": "KE",
+    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
+    "geom:latitude": 35.780291500000004,
+    "geom:longitude": -120.38022649999999,
+    "iata:airline": "LA",
     "iata:base_airline": "",
-    "icao:airline": "KAL",
-    "icao:base_airline": "KAL",
-    "lbl:latitude": 37.614792,
-    "lbl:longitude": -122.382166,
-    "sfomuseum:airline_id": 1159284625,
-    "sfomuseum:arrival_id": 102533269,
-    "sfomuseum:base_flight_id": "20250720-D-KAL-3084",
+    "icao:airline": "LAN",
+    "icao:base_airline": "AMX",
+    "lbl:latitude": 37.614944,
+    "lbl:longitude": -122.383123,
+    "sfomuseum:airline_id": 1159285641,
+    "sfomuseum:arrival_id": 102533795,
+    "sfomuseum:base_flight_id": "20250722-D-AMX-4192",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-KAL-3084",
+    "sfomuseum:flight_id": "20250722-D-LAN-6336",
     "sfomuseum:flight_number": [
-      "KAL3084",
-      "KE3084"
+      "LAN6336",
+      "LA6336"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304677,
+      1947304667,
       1947304591,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115592,
-    "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
+    "wof:created": 1753287430,
+    "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304677,
+        "venue_id": 1947304667,
         "wing_id": 1947304591
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980913439,
         "flight_id": 1980913439,
         "region_id": 85688637,
-        "venue_id": 1947304677,
+        "venue_id": 1947304667,
         "wing_id": 1947304591
       }
     ],
     "wof:id": 1980913439,
     "wof:involves": [
-      102533269,
+      102533795,
       102527513,
-      1159284625,
-      1947304677,
-      1159284625
+      1159285641,
+      1947304667,
+      1159283539
     ],
-    "wof:lastmodified": 1753115592,
-    "wof:name": "KE3084 (SFO-SEA)",
-    "wof:parent_id": 1947304677,
+    "wof:lastmodified": 1753287430,
+    "wof:name": "LA6336 (SFO-LAX)",
+    "wof:parent_id": 1947304667,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -122.304268,
-    47.441823
+    33.942593,
+    -118.38951,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.304268,47.441823]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}
 }

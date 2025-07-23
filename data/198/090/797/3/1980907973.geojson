@@ -2,53 +2,43 @@
   "id": 1980907973,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-20",
-    "date:cessation_upper": "2025-07-20",
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
-    "edtf:cessation": "2025-07-20T16:40:02-07:00",
-    "edtf:inception": "2025-07-21T03:12:00Z",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "2782",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753080780,
+    "flysfo:base_flight_number": "3470",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753204740,
     "flysfo:event": "A",
-    "flysfo:flight_number": "DL2089",
-    "flysfo:gate": "C5",
-    "flysfo:journey": "MSP-SFO",
-    "flysfo:scheduled_timestamp": 1753079700,
-    "flysfo:timestamp": 1753080780,
+    "flysfo:flight_number": "DL361",
+    "flysfo:gate": "C6",
+    "flysfo:journey": "DTW-SFO",
+    "flysfo:scheduled_timestamp": 1753205100,
+    "flysfo:timestamp": 1753205100,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-93.200317,44.883321",
-    "geom:latitude": 41.2506555,
-    "geom:longitude": -107.78563,
+    "geom:bbox": "-122.370943,37.617990,-83.351709,42.218860",
+    "geom:latitude": 39.918425,
+    "geom:longitude": -102.86132599999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
-    "icao:aircraft": "A321",
     "icao:airline": "DAL",
-    "icao:base_airline": "AFR",
-    "lbl:latitude": 37.615184,
-    "lbl:longitude": -122.382965,
-    "sfomuseum:aircraft_id": 1159289411,
+    "icao:base_airline": "KAL",
+    "lbl:latitude": 37.614759,
+    "lbl:longitude": -122.382707,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AFR-2782",
-    "sfomuseum:departure_id": 102531131,
-    "sfomuseum:flight_id": "20250720-A-DAL-2089",
+    "sfomuseum:base_flight_id": "20250722-A-KAL-3470",
+    "sfomuseum:departure_id": 102525635,
+    "sfomuseum:flight_id": "20250722-A-DAL-361",
     "sfomuseum:flight_number": [
-      "DAL2089",
-      "DL2089"
+      "DAL361",
+      "DL361"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-approach"
-    ],
-    "swim:tail_number": "N392DN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -59,16 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304675,
+      1947304679,
       1947304591,
       102085387
     ],
-    "wof:concordances": {
-      "swim:gufi": "KP06061200"
-    },
     "wof:country": "US",
-    "wof:created": 1753114237,
-    "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
+    "wof:created": 1753286781,
+    "wof:geomhash": "a23858bb4e93419105e139a22bd92749",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -82,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304675,
+        "venue_id": 1947304679,
         "wing_id": 1947304591
       },
       {
@@ -95,22 +82,21 @@
         "custom_id": 1980907973,
         "flight_id": 1980907973,
         "region_id": 85688637,
-        "venue_id": 1947304675,
+        "venue_id": 1947304679,
         "wing_id": 1947304591
       }
     ],
     "wof:id": 1980907973,
     "wof:involves": [
-      1947304675,
-      1159283627,
-      1159289411,
       102527513,
-      102531131,
-      1159284261
+      102525635,
+      1159284261,
+      1947304679,
+      1159284625
     ],
-    "wof:lastmodified": 1753116141,
-    "wof:name": "DL2089 (MSP-SFO)",
-    "wof:parent_id": 1947304675,
+    "wof:lastmodified": 1753286781,
+    "wof:name": "DL361 (DTW-SFO)",
+    "wof:parent_id": 1947304679,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -122,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -93.200317,
-    44.883321
+    -83.351709,
+    42.21886
   ],
-  "geometry": {"coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-83.351709,42.21886],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

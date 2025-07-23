@@ -2,26 +2,26 @@
   "id": 1980911019,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "3528",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753055340,
+    "flysfo:base_flight_number": "3697",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753233660,
     "flysfo:event": "D",
-    "flysfo:flight_number": "AC3528",
+    "flysfo:flight_number": "AC3697",
     "flysfo:gate": "E13",
-    "flysfo:journey": "SFO-KOA",
-    "flysfo:scheduled_timestamp": 1753055700,
-    "flysfo:timestamp": 1753055700,
+    "flysfo:journey": "SFO-SLC",
+    "flysfo:scheduled_timestamp": 1753233900,
+    "flysfo:timestamp": 1753233900,
     "geom:area": 0,
-    "geom:bbox": "-156.035060,19.732444,-122.370943,37.617990",
-    "geom:latitude": 28.675217,
-    "geom:longitude": -139.2030015,
+    "geom:bbox": "-122.370943,37.617990,-111.980566,40.782170",
+    "geom:latitude": 39.20008,
+    "geom:longitude": -117.1757545,
     "iata:airline": "AC",
     "iata:base_airline": "",
     "icao:airline": "ACA",
@@ -29,13 +29,13 @@
     "lbl:latitude": 37.619425,
     "lbl:longitude": -122.384028,
     "sfomuseum:airline_id": 1159283597,
-    "sfomuseum:arrival_id": 102532939,
-    "sfomuseum:base_flight_id": "20250720-D-ACA-3528",
+    "sfomuseum:arrival_id": 102527363,
+    "sfomuseum:base_flight_id": "20250722-D-ACA-3697",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-ACA-3528",
+    "sfomuseum:flight_id": "20250722-D-ACA-3697",
     "sfomuseum:flight_number": [
-      "ACA3528",
-      "AC3528"
+      "ACA3697",
+      "AC3697"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114990,
-    "wof:geomhash": "ffd2c7b34797175c51fc3517b1c4b69d",
+    "wof:created": 1753287163,
+    "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -88,14 +88,14 @@
     ],
     "wof:id": 1980911019,
     "wof:involves": [
-      102532939,
+      102527363,
       102527513,
       1159283597,
       1947304517,
       1159283597
     ],
-    "wof:lastmodified": 1753114990,
-    "wof:name": "AC3528 (SFO-KOA)",
+    "wof:lastmodified": 1753287163,
+    "wof:name": "AC3697 (SFO-SLC)",
     "wof:parent_id": 1947304517,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -156.03506,
-    19.732444,
     -122.370943,
-    37.61799
+    37.61799,
+    -111.980566,
+    40.78217
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-156.03506,19.732444]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-111.980566,40.78217]],"type":"MultiPoint"}
 }

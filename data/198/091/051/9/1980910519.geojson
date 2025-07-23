@@ -2,22 +2,22 @@
   "id": 1980910519,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "VA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "1358",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753049460,
+    "flysfo:base_flight_number": "9184",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753201140,
     "flysfo:event": "A",
-    "flysfo:flight_number": "VA8389",
-    "flysfo:gate": "E5",
+    "flysfo:flight_number": "VA8385",
+    "flysfo:gate": "E6",
     "flysfo:journey": "IAD-SFO",
-    "flysfo:scheduled_timestamp": 1753050240,
-    "flysfo:timestamp": 1753050240,
+    "flysfo:scheduled_timestamp": 1753201200,
+    "flysfo:timestamp": 1753201200,
     "geom:area": 0,
     "geom:bbox": "-122.370943,37.617990,-77.453702,38.949246",
     "geom:latitude": 38.283618000000004,
@@ -25,17 +25,17 @@
     "iata:airline": "VA",
     "iata:base_airline": "",
     "icao:airline": "VOZ",
-    "icao:base_airline": "ETH",
-    "lbl:latitude": 37.618486,
-    "lbl:longitude": -122.384457,
+    "icao:base_airline": "ANZ",
+    "lbl:latitude": 37.618774,
+    "lbl:longitude": -122.384852,
     "sfomuseum:airline_id": 1159285485,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ETH-1358",
+    "sfomuseum:base_flight_id": "20250722-A-ANZ-9184",
     "sfomuseum:departure_id": 102528817,
-    "sfomuseum:flight_id": "20250720-A-VOZ-8389",
+    "sfomuseum:flight_id": "20250722-A-VOZ-8385",
     "sfomuseum:flight_number": [
-      "VOZ8389",
-      "VA8389"
+      "VOZ8385",
+      "VA8385"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,12 +49,12 @@
       85922583,
       554784711,
       85688637,
-      1947304525,
+      1947304513,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114869,
+    "wof:created": 1753287107,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
     "wof:hierarchy": [
       {
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304525,
+        "venue_id": 1947304513,
         "wing_id": 1947304447
       },
       {
@@ -82,7 +82,7 @@
         "custom_id": 1980910519,
         "flight_id": 1980910519,
         "region_id": 85688637,
-        "venue_id": 1947304525,
+        "venue_id": 1947304513,
         "wing_id": 1947304447
       }
     ],
@@ -91,12 +91,12 @@
       102527513,
       102528817,
       1159285485,
-      1947304525,
-      1159284341
+      1947304513,
+      1159283697
     ],
-    "wof:lastmodified": 1753114869,
-    "wof:name": "VA8389 (IAD-SFO)",
-    "wof:parent_id": 1947304525,
+    "wof:lastmodified": 1753287107,
+    "wof:name": "VA8385 (IAD-SFO)",
+    "wof:parent_id": 1947304513,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

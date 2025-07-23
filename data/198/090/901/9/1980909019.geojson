@@ -2,22 +2,22 @@
   "id": 1980909019,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "QF",
     "flysfo:base_airline": "",
     "flysfo:base_flight_number": "9403",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753063380,
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753234980,
     "flysfo:event": "A",
     "flysfo:flight_number": "QF3760",
-    "flysfo:gate": "B7",
+    "flysfo:gate": "B8",
     "flysfo:journey": "SAN-SFO",
-    "flysfo:scheduled_timestamp": 1753061280,
-    "flysfo:timestamp": 1753063380,
+    "flysfo:scheduled_timestamp": 1753234080,
+    "flysfo:timestamp": 1753234980,
     "geom:area": 0,
     "geom:bbox": "-122.370943,32.733534,-117.185927,37.617990",
     "geom:latitude": 35.175762,
@@ -30,9 +30,9 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159285043,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AAL-9403",
+    "sfomuseum:base_flight_id": "20250722-A-AAL-9403",
     "sfomuseum:departure_id": 102528997,
-    "sfomuseum:flight_id": "20250720-A-QFA-3760",
+    "sfomuseum:flight_id": "20250722-A-QFA-3760",
     "sfomuseum:flight_number": [
       "QFA3760",
       "QF3760"
@@ -49,12 +49,12 @@
       85922583,
       554784711,
       85688637,
-      1947304293,
+      1947304275,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114497,
+    "wof:created": 1753286915,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
     "wof:hierarchy": [
       {
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304293,
+        "venue_id": 1947304275,
         "wing_id": 1947304259
       },
       {
@@ -82,7 +82,7 @@
         "custom_id": 1980909019,
         "flight_id": 1980909019,
         "region_id": 85688637,
-        "venue_id": 1947304293,
+        "venue_id": 1947304275,
         "wing_id": 1947304259
       }
     ],
@@ -91,12 +91,12 @@
       102527513,
       102528997,
       1159285043,
-      1947304293,
+      1947304275,
       1159283849
     ],
-    "wof:lastmodified": 1753114497,
+    "wof:lastmodified": 1753286915,
     "wof:name": "QF3760 (SAN-SFO)",
-    "wof:parent_id": 1947304293,
+    "wof:parent_id": 1947304275,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

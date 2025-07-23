@@ -2,40 +2,40 @@
   "id": 1980909951,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4229",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753039680,
+    "flysfo:base_flight_number": "9280",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753224900,
     "flysfo:event": "A",
-    "flysfo:flight_number": "UA4733",
-    "flysfo:gate": "F9",
-    "flysfo:journey": "BOI-SFO",
-    "flysfo:scheduled_timestamp": 1753037160,
-    "flysfo:timestamp": 1753039680,
+    "flysfo:flight_number": "UA469",
+    "flysfo:gate": "F16",
+    "flysfo:journey": "LAX-SFO",
+    "flysfo:scheduled_timestamp": 1753222680,
+    "flysfo:timestamp": 1753224900,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-116.224634,43.564048",
-    "geom:latitude": 40.591019,
-    "geom:longitude": -119.2977885,
+    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
+    "geom:latitude": 35.780291500000004,
+    "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
     "icao:airline": "UAL",
-    "icao:base_airline": "ACA",
-    "lbl:latitude": 37.620731,
-    "lbl:longitude": -122.387053,
+    "icao:base_airline": "ANZ",
+    "lbl:latitude": 37.620533,
+    "lbl:longitude": -122.389374,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ACA-4229",
-    "sfomuseum:departure_id": 102527733,
-    "sfomuseum:flight_id": "20250720-A-UAL-4733",
+    "sfomuseum:base_flight_id": "20250722-A-ANZ-9280",
+    "sfomuseum:departure_id": 102533795,
+    "sfomuseum:flight_id": "20250722-A-UAL-469",
     "sfomuseum:flight_number": [
-      "UAL4733",
-      "UA4733"
+      "UAL469",
+      "UA469"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304493,
+      1947304457,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114729,
-    "wof:geomhash": "e506e1cc6e68aaf992ce3bac53e4e4fa",
+    "wof:created": 1753287038,
+    "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304493,
+        "venue_id": 1947304457,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980909951,
         "flight_id": 1980909951,
         "region_id": 85688637,
-        "venue_id": 1947304493,
+        "venue_id": 1947304457,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980909951,
     "wof:involves": [
       102527513,
-      102527733,
+      102533795,
       1159285413,
-      1947304493,
-      1159283597
+      1947304457,
+      1159283697
     ],
-    "wof:lastmodified": 1753114729,
-    "wof:name": "UA4733 (BOI-SFO)",
-    "wof:parent_id": 1947304493,
+    "wof:lastmodified": 1753287038,
+    "wof:name": "UA469 (LAX-SFO)",
+    "wof:parent_id": 1947304457,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -116.224634,
-    43.564048
+    33.942593,
+    -118.38951,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-116.224634,43.564048],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

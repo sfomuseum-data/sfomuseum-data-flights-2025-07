@@ -2,53 +2,38 @@
   "id": 1980906019,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-20",
-    "date:cessation_upper": "2025-07-20",
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
-    "edtf:cessation": "2025-07-20T06:46:32-07:00",
-    "edtf:inception": "2025-07-20T17:45:00Z",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
-    "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4399",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753044900,
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753202640,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AA2325",
-    "flysfo:gate": "B25",
+    "flysfo:flight_number": "AA1949",
+    "flysfo:gate": "B23",
     "flysfo:journey": "DFW-SFO",
-    "flysfo:scheduled_timestamp": 1753046460,
-    "flysfo:timestamp": 1753046460,
+    "flysfo:scheduled_timestamp": 1753198560,
+    "flysfo:timestamp": 1753202640,
     "geom:area": 0,
     "geom:bbox": "-122.370943,32.903660,-97.050966,37.617990",
     "geom:latitude": 35.260825,
     "geom:longitude": -109.7109545,
     "iata:airline": "AA",
-    "iata:base_airline": "",
-    "icao:aircraft": "A321",
     "icao:airline": "AAL",
-    "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-BAW-4399",
     "sfomuseum:departure_id": 102528541,
-    "sfomuseum:flight_id": "20250720-A-AAL-2325",
+    "sfomuseum:flight_id": "20250722-A-AAL-1949",
     "sfomuseum:flight_number": [
-      "AAL2325",
-      "AA2325"
+      "AAL1949",
+      "AA1949"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-approach"
-    ],
-    "swim:tail_number": "N559UW",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -59,16 +44,12 @@
       85922583,
       554784711,
       85688637,
-      1947304309,
+      1947304317,
       1947304259,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "105934020",
-      "swim:gufi": "KF58650101"
-    },
     "wof:country": "US",
-    "wof:created": 1753113733,
+    "wof:created": 1753286538,
     "wof:geomhash": "865973335526f09b753756c305bf4946",
     "wof:hierarchy": [
       {
@@ -83,7 +64,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304309,
+        "venue_id": 1947304317,
         "wing_id": 1947304259
       },
       {
@@ -96,22 +77,20 @@
         "custom_id": 1980906019,
         "flight_id": 1980906019,
         "region_id": 85688637,
-        "venue_id": 1947304309,
+        "venue_id": 1947304317,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980906019,
     "wof:involves": [
-      1159284021,
-      1159289411,
       102527513,
       102528541,
       1159283849,
-      1947304309
+      1947304317
     ],
-    "wof:lastmodified": 1753116128,
-    "wof:name": "AA2325 (DFW-SFO)",
-    "wof:parent_id": 1947304309,
+    "wof:lastmodified": 1753286538,
+    "wof:name": "AA1949 (DFW-SFO)",
+    "wof:parent_id": 1947304317,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

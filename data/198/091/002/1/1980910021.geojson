@@ -2,26 +2,26 @@
   "id": 1980910021,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4541",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753019160,
+    "flysfo:base_flight_number": "4243",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753229700,
     "flysfo:event": "A",
-    "flysfo:flight_number": "UA5460",
+    "flysfo:flight_number": "UA5419",
     "flysfo:gate": "F6",
-    "flysfo:journey": "SMF-SFO",
-    "flysfo:scheduled_timestamp": 1753020900,
-    "flysfo:timestamp": 1753020900,
+    "flysfo:journey": "SNA-SFO",
+    "flysfo:scheduled_timestamp": 1753230840,
+    "flysfo:timestamp": 1753230840,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-121.589912,38.685533",
-    "geom:latitude": 38.1517615,
-    "geom:longitude": -121.98042749999999,
+    "geom:bbox": "-122.370943,33.677724,-117.866280,37.617990",
+    "geom:latitude": 35.647857,
+    "geom:longitude": -120.1186115,
     "iata:airline": "UA",
     "iata:base_airline": "",
     "icao:airline": "UAL",
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ACA-4541",
-    "sfomuseum:departure_id": 102530559,
-    "sfomuseum:flight_id": "20250720-A-UAL-5460",
+    "sfomuseum:base_flight_id": "20250722-A-ACA-4243",
+    "sfomuseum:departure_id": 102534161,
+    "sfomuseum:flight_id": "20250722-A-UAL-5419",
     "sfomuseum:flight_number": [
-      "UAL5460",
-      "UA5460"
+      "UAL5419",
+      "UA5419"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114747,
-    "wof:geomhash": "f5805f1be1c56ce2a2965880e252c65f",
+    "wof:created": 1753287045,
+    "wof:geomhash": "01009f732d03a7803d3f7fd23cf321f4",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -89,13 +89,13 @@
     "wof:id": 1980910021,
     "wof:involves": [
       102527513,
-      102530559,
+      102534161,
       1159285413,
       1947304461,
       1159283597
     ],
-    "wof:lastmodified": 1753114747,
-    "wof:name": "UA5460 (SMF-SFO)",
+    "wof:lastmodified": 1753287045,
+    "wof:name": "UA5419 (SNA-SFO)",
     "wof:parent_id": 1947304461,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -121.589912,
-    38.685533
+    33.677724,
+    -117.86628,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-121.589912,38.685533],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

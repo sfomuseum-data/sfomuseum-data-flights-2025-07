@@ -2,53 +2,43 @@
   "id": 1980907993,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-20",
-    "date:cessation_upper": "2025-07-20",
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
-    "edtf:cessation": "2025-07-20T07:30:12-07:00",
-    "edtf:inception": "2025-07-20T15:30:00Z",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7009",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753047600,
+    "flysfo:base_flight_number": "7058",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753233000,
     "flysfo:event": "A",
-    "flysfo:flight_number": "DL363",
-    "flysfo:gate": "C5",
-    "flysfo:journey": "JFK-SFO",
-    "flysfo:scheduled_timestamp": 1753047360,
-    "flysfo:timestamp": 1753047600,
+    "flysfo:flight_number": "DL442",
+    "flysfo:gate": "C7",
+    "flysfo:journey": "DTW-SFO",
+    "flysfo:scheduled_timestamp": 1753233540,
+    "flysfo:timestamp": 1753233540,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
-    "geom:latitude": 39.130638000000005,
-    "geom:longitude": -98.07939400000001,
+    "geom:bbox": "-122.370943,37.617990,-83.351709,42.218860",
+    "geom:latitude": 39.918425,
+    "geom:longitude": -102.86132599999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
-    "icao:aircraft": "B752",
     "icao:airline": "DAL",
-    "icao:base_airline": "KQA",
-    "lbl:latitude": 37.615184,
-    "lbl:longitude": -122.382965,
-    "sfomuseum:aircraft_id": 1159289939,
+    "icao:base_airline": "KLM",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-KQA-7009",
-    "sfomuseum:departure_id": 102534365,
-    "sfomuseum:flight_id": "20250720-A-DAL-363",
+    "sfomuseum:base_flight_id": "20250722-A-KLM-7058",
+    "sfomuseum:departure_id": 102525635,
+    "sfomuseum:flight_id": "20250722-A-DAL-442",
     "sfomuseum:flight_number": [
-      "DAL363",
-      "DL363"
+      "DAL442",
+      "DL442"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-approach"
-    ],
-    "swim:tail_number": "N707TW",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -59,17 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304675,
+      1947304669,
       1947304591,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "105921389",
-      "swim:gufi": "KN51960100"
-    },
     "wof:country": "US",
-    "wof:created": 1753114242,
-    "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
+    "wof:created": 1753286783,
+    "wof:geomhash": "a23858bb4e93419105e139a22bd92749",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -83,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304675,
+        "venue_id": 1947304669,
         "wing_id": 1947304591
       },
       {
@@ -96,22 +82,21 @@
         "custom_id": 1980907993,
         "flight_id": 1980907993,
         "region_id": 85688637,
-        "venue_id": 1947304675,
+        "venue_id": 1947304669,
         "wing_id": 1947304591
       }
     ],
     "wof:id": 1980907993,
     "wof:involves": [
-      1159289939,
       102527513,
-      102534365,
+      102525635,
       1159284261,
-      1947304675,
-      1159284603
+      1947304669,
+      1159284613
     ],
-    "wof:lastmodified": 1753116141,
-    "wof:name": "DL363 (JFK-SFO)",
-    "wof:parent_id": 1947304675,
+    "wof:lastmodified": 1753286783,
+    "wof:name": "DL442 (DTW-SFO)",
+    "wof:parent_id": 1947304669,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -123,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -73.787845,
-    40.643286
+    -83.351709,
+    42.21886
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-83.351709,42.21886],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -2,40 +2,40 @@
   "id": 1980913727,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "QR",
+    "flysfo:airline": "AT",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7411",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753035300,
+    "flysfo:base_flight_number": "5005",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753204440,
     "flysfo:event": "D",
-    "flysfo:flight_number": "QR3383",
-    "flysfo:gate": "B17",
-    "flysfo:journey": "SFO-IAD",
-    "flysfo:scheduled_timestamp": 1753035000,
-    "flysfo:timestamp": 1753035300,
+    "flysfo:flight_number": "AT5005",
+    "flysfo:gate": "B25",
+    "flysfo:journey": "SFO-JFK",
+    "flysfo:scheduled_timestamp": 1753204440,
+    "flysfo:timestamp": 1753204440,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-77.453702,38.949246",
-    "geom:latitude": 38.283618000000004,
-    "geom:longitude": -99.9123225,
-    "iata:airline": "QR",
+    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
+    "geom:latitude": 39.130638000000005,
+    "geom:longitude": -98.07939400000001,
+    "iata:airline": "AT",
     "iata:base_airline": "",
-    "icao:airline": "QTR",
-    "icao:base_airline": "AAL",
+    "icao:airline": "RAM",
+    "icao:base_airline": "RAM",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159286153,
-    "sfomuseum:arrival_id": 102528817,
-    "sfomuseum:base_flight_id": "20250720-D-AAL-7411",
+    "sfomuseum:airline_id": 1159285081,
+    "sfomuseum:arrival_id": 102534365,
+    "sfomuseum:base_flight_id": "20250722-D-RAM-5005",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-QTR-3383",
+    "sfomuseum:flight_id": "20250722-D-RAM-5005",
     "sfomuseum:flight_number": [
-      "QTR3383",
-      "QR3383"
+      "RAM5005",
+      "AT5005"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304285,
+      1947304309,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115662,
-    "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
+    "wof:created": 1753287462,
+    "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304285,
+        "venue_id": 1947304309,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980913727,
         "flight_id": 1980913727,
         "region_id": 85688637,
-        "venue_id": 1947304285,
+        "venue_id": 1947304309,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980913727,
     "wof:involves": [
-      102528817,
+      102534365,
       102527513,
-      1159286153,
-      1947304285,
-      1159283849
+      1159285081,
+      1947304309,
+      1159285081
     ],
-    "wof:lastmodified": 1753115662,
-    "wof:name": "QR3383 (SFO-IAD)",
-    "wof:parent_id": 1947304285,
+    "wof:lastmodified": 1753287462,
+    "wof:name": "AT5005 (SFO-JFK)",
+    "wof:parent_id": 1947304309,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -77.453702,
-    38.949246
+    -73.787845,
+    40.643286
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-77.453702,38.949246]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}
 }

@@ -2,53 +2,43 @@
   "id": 1980912593,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-21",
-    "date:cessation_upper": "2025-07-21",
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
-    "edtf:cessation": "2025-07-21T00:56:00Z",
-    "edtf:inception": "2025-07-20T10:00:53-07:00",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4621",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753053480,
+    "flysfo:base_flight_number": "2750",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753236900,
     "flysfo:event": "D",
-    "flysfo:flight_number": "DL2267",
+    "flysfo:flight_number": "DL750",
     "flysfo:gate": "C8",
-    "flysfo:journey": "SFO-LAX",
-    "flysfo:scheduled_timestamp": 1753051500,
-    "flysfo:timestamp": 1753053480,
+    "flysfo:journey": "SFO-ATL",
+    "flysfo:scheduled_timestamp": 1753223400,
+    "flysfo:timestamp": 1753236900,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
-    "geom:latitude": 35.780291500000004,
-    "geom:longitude": -120.38022649999999,
+    "geom:bbox": "-122.370943,33.636518,-84.430686,37.617990",
+    "geom:latitude": 35.627254,
+    "geom:longitude": -103.4008145,
     "iata:airline": "DL",
     "iata:base_airline": "",
-    "icao:aircraft": "B738",
     "icao:airline": "DAL",
-    "icao:base_airline": "AMX",
+    "icao:base_airline": "ITY",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
-    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159284261,
-    "sfomuseum:arrival_id": 102533795,
-    "sfomuseum:base_flight_id": "20250720-D-AMX-4621",
+    "sfomuseum:arrival_id": 102526927,
+    "sfomuseum:base_flight_id": "20250722-D-ITY-2750",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-DAL-2267",
+    "sfomuseum:flight_id": "20250722-D-DAL-750",
     "sfomuseum:flight_number": [
-      "DAL2267",
-      "DL2267"
+      "DAL750",
+      "DL750"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-takeoff"
-    ],
-    "swim:tail_number": "N377DE",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -63,13 +53,9 @@
       1947304591,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "105958885",
-      "swim:gufi": "KO78960100"
-    },
     "wof:country": "US",
-    "wof:created": 1753115380,
-    "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
+    "wof:created": 1753287337,
+    "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -102,15 +88,14 @@
     ],
     "wof:id": 1980912593,
     "wof:involves": [
+      102526927,
+      102527513,
       1159284261,
       1947304681,
-      1159283539,
-      1159289871,
-      102533795,
-      102527513
+      1763699293
     ],
-    "wof:lastmodified": 1753116145,
-    "wof:name": "DL2267 (SFO-LAX)",
+    "wof:lastmodified": 1753287337,
+    "wof:name": "DL750 (SFO-ATL)",
     "wof:parent_id": 1947304681,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -122,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    33.942593,
-    -118.38951,
+    33.636518,
+    -84.430686,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-84.430686,33.636518]],"type":"MultiPoint"}
 }

@@ -2,26 +2,26 @@
   "id": 1980911621,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "NZ",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9085",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753040220,
+    "flysfo:base_flight_number": "9119",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753192200,
     "flysfo:event": "D",
-    "flysfo:flight_number": "NZ9085",
+    "flysfo:flight_number": "NZ9119",
     "flysfo:gate": "E3",
-    "flysfo:journey": "SFO-MSO",
-    "flysfo:scheduled_timestamp": 1753039500,
-    "flysfo:timestamp": 1753040220,
+    "flysfo:journey": "SFO-AUS",
+    "flysfo:scheduled_timestamp": 1753192800,
+    "flysfo:timestamp": 1753192800,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-114.080763,46.919119",
-    "geom:latitude": 42.2685545,
-    "geom:longitude": -118.225853,
+    "geom:bbox": "-122.370943,30.206175,-97.643029,37.617990",
+    "geom:latitude": 33.9120825,
+    "geom:longitude": -110.006986,
     "iata:airline": "NZ",
     "iata:base_airline": "",
     "icao:airline": "ANZ",
@@ -29,13 +29,13 @@
     "lbl:latitude": 37.618578,
     "lbl:longitude": -122.385434,
     "sfomuseum:airline_id": 1159283697,
-    "sfomuseum:arrival_id": 102531063,
-    "sfomuseum:base_flight_id": "20250720-D-ANZ-9085",
+    "sfomuseum:arrival_id": 102521851,
+    "sfomuseum:base_flight_id": "20250722-D-ANZ-9119",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-ANZ-9085",
+    "sfomuseum:flight_id": "20250722-D-ANZ-9119",
     "sfomuseum:flight_number": [
-      "ANZ9085",
-      "NZ9085"
+      "ANZ9119",
+      "NZ9119"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115136,
-    "wof:geomhash": "98521312a76d8c7ba1b876edbe80e0fc",
+    "wof:created": 1753287229,
+    "wof:geomhash": "f1e29c4a83094711ef061292cfad3358",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -88,14 +88,14 @@
     ],
     "wof:id": 1980911621,
     "wof:involves": [
-      102531063,
+      102521851,
       102527513,
       1159283697,
       1947304495,
       1159283697
     ],
-    "wof:lastmodified": 1753115136,
-    "wof:name": "NZ9085 (SFO-MSO)",
+    "wof:lastmodified": 1753287229,
+    "wof:name": "NZ9119 (SFO-AUS)",
     "wof:parent_id": 1947304495,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -114.080763,
-    46.919119
+    30.206175,
+    -97.643029,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-114.080763,46.919119]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-97.643029,30.206175]],"type":"MultiPoint"}
 }

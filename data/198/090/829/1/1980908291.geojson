@@ -2,40 +2,40 @@
   "id": 1980908291,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "EY",
+    "flysfo:airline": "BF",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "8364",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753080180,
+    "flysfo:base_flight_number": "6714",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753216500,
     "flysfo:event": "A",
-    "flysfo:flight_number": "EY8364",
-    "flysfo:gate": "B6",
-    "flysfo:journey": "JFK-SFO",
-    "flysfo:scheduled_timestamp": 1753080180,
-    "flysfo:timestamp": 1753080180,
+    "flysfo:flight_number": "BF714",
+    "flysfo:gate": "B11",
+    "flysfo:journey": "ORY-SFO",
+    "flysfo:scheduled_timestamp": 1753217400,
+    "flysfo:timestamp": 1753217400,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
-    "geom:latitude": 39.130638000000005,
-    "geom:longitude": -98.07939400000001,
-    "iata:airline": "EY",
+    "geom:bbox": "-122.370943,37.617990,2.366130,48.729315",
+    "geom:latitude": 43.1736525,
+    "geom:longitude": -60.0024065,
+    "iata:airline": "BF",
     "iata:base_airline": "",
-    "icao:airline": "ETD",
-    "icao:base_airline": "ETD",
+    "icao:airline": "FBU",
+    "icao:base_airline": "FWI",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159285587,
+    "sfomuseum:airline_id": 1377649073,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ETD-8364",
-    "sfomuseum:departure_id": 102534365,
-    "sfomuseum:flight_id": "20250720-A-ETD-8364",
+    "sfomuseum:base_flight_id": "20250722-A-FWI-6714",
+    "sfomuseum:departure_id": 102544453,
+    "sfomuseum:flight_id": "20250722-A-FBU-714",
     "sfomuseum:flight_number": [
-      "ETD8364",
-      "EY8364"
+      "FBU714",
+      "BF714"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304313,
+      1947304311,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114316,
-    "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
+    "wof:created": 1753286817,
+    "wof:geomhash": "ccdcde8e2753acf4845b350f07bc56a7",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304313,
+        "venue_id": 1947304311,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980908291,
         "flight_id": 1980908291,
         "region_id": 85688637,
-        "venue_id": 1947304313,
+        "venue_id": 1947304311,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980908291,
     "wof:involves": [
       102527513,
-      102534365,
-      1159285587,
-      1947304313,
-      1159285587
+      102544453,
+      1377649073,
+      1947304311,
+      1779782741
     ],
-    "wof:lastmodified": 1753114316,
-    "wof:name": "EY8364 (JFK-SFO)",
-    "wof:parent_id": 1947304313,
+    "wof:lastmodified": 1753286817,
+    "wof:name": "BF714 (ORY-SFO)",
+    "wof:parent_id": 1947304311,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -73.787845,
-    40.643286
+    2.36613,
+    48.729315
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[2.36613,48.729315],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -2,53 +2,43 @@
   "id": 1980910247,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-20",
-    "date:cessation_upper": "2025-07-20",
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
-    "edtf:cessation": "2025-07-20T10:12:19-07:00",
-    "edtf:inception": "2025-07-20T13:54:00Z",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "3724",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753057200,
+    "flysfo:base_flight_number": "5082",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753221540,
     "flysfo:event": "A",
-    "flysfo:flight_number": "UA969",
+    "flysfo:flight_number": "UA949",
     "flysfo:gate": "G1",
-    "flysfo:journey": "AMS-SFO",
-    "flysfo:scheduled_timestamp": 1753055700,
-    "flysfo:timestamp": 1753057200,
+    "flysfo:journey": "LHR-SFO",
+    "flysfo:scheduled_timestamp": 1753222800,
+    "flysfo:timestamp": 1753222800,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,4.782907,52.314791",
-    "geom:latitude": 44.9663905,
-    "geom:longitude": -58.794018,
+    "geom:bbox": "-122.370943,37.617990,-0.450443,51.470087",
+    "geom:latitude": 44.5440385,
+    "geom:longitude": -61.410693,
     "iata:airline": "UA",
     "iata:base_airline": "",
-    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.617321,
     "lbl:longitude": -122.389477,
-    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ACA-3724",
-    "sfomuseum:departure_id": 102542801,
-    "sfomuseum:flight_id": "20250720-A-UAL-969",
+    "sfomuseum:base_flight_id": "20250722-A-ACA-5082",
+    "sfomuseum:departure_id": 102556703,
+    "sfomuseum:flight_id": "20250722-A-UAL-949",
     "sfomuseum:flight_number": [
-      "UAL969",
-      "UA969"
+      "UAL949",
+      "UA949"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-approach"
-    ],
-    "swim:tail_number": "N57016",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -63,12 +53,9 @@
       1947304069,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "105909029"
-    },
     "wof:country": "US",
-    "wof:created": 1753114802,
-    "wof:geomhash": "bfe9b4dfbd612ca8de6bd9460273f90d",
+    "wof:created": 1753287078,
+    "wof:geomhash": "c7bf5337358552a3a60caed0c1e9ea63",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -101,15 +88,14 @@
     ],
     "wof:id": 1980910247,
     "wof:involves": [
-      1947304155,
-      1159283597,
-      1159289985,
       102527513,
-      102542801,
-      1159285413
+      102556703,
+      1159285413,
+      1947304155,
+      1159283597
     ],
-    "wof:lastmodified": 1753116130,
-    "wof:name": "UA969 (AMS-SFO)",
+    "wof:lastmodified": 1753287078,
+    "wof:name": "UA949 (LHR-SFO)",
     "wof:parent_id": 1947304155,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -122,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    4.782907,
-    52.314791
+    -0.450443,
+    51.470087
   ],
-  "geometry": {"coordinates":[[4.782907,52.314791],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-0.450443,51.470087],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

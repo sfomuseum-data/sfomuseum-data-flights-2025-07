@@ -2,40 +2,40 @@
   "id": 1980907427,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "6302",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753079400,
+    "flysfo:base_flight_number": "5805",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753246080,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AS597",
-    "flysfo:gate": "B21",
-    "flysfo:journey": "ORD-SFO",
-    "flysfo:scheduled_timestamp": 1753074360,
-    "flysfo:timestamp": 1753079400,
+    "flysfo:flight_number": "AS7",
+    "flysfo:gate": "B14",
+    "flysfo:journey": "DCA-SFO",
+    "flysfo:scheduled_timestamp": 1753246380,
+    "flysfo:timestamp": 1753246380,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-87.894364,41.983038",
-    "geom:latitude": 39.800514,
-    "geom:longitude": -105.1326535,
+    "geom:bbox": "-122.370943,37.617990,-77.041643,38.850639",
+    "geom:latitude": 38.234314499999996,
+    "geom:longitude": -99.70629299999999,
     "iata:airline": "AS",
     "iata:base_airline": "",
     "icao:airline": "ASA",
-    "icao:base_airline": "HAL",
+    "icao:base_airline": "FJI",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-HAL-6302",
-    "sfomuseum:departure_id": 102533631,
-    "sfomuseum:flight_id": "20250720-A-ASA-597",
+    "sfomuseum:base_flight_id": "20250722-A-FJI-5805",
+    "sfomuseum:departure_id": 1746879047,
+    "sfomuseum:flight_id": "20250722-A-ASA-7",
     "sfomuseum:flight_number": [
-      "ASA597",
-      "AS597"
+      "ASA7",
+      "AS7"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304315,
+      1947304273,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114104,
-    "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
+    "wof:created": 1753286718,
+    "wof:geomhash": "cfff966b0a5de3ca50080923c4337cfe",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304315,
+        "venue_id": 1947304273,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980907427,
         "flight_id": 1980907427,
         "region_id": 85688637,
-        "venue_id": 1947304315,
+        "venue_id": 1947304273,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980907427,
     "wof:involves": [
       102527513,
-      102533631,
+      1746879047,
       1159283813,
-      1947304315,
-      1159284489
+      1947304273,
+      1159283717
     ],
-    "wof:lastmodified": 1753114104,
-    "wof:name": "AS597 (ORD-SFO)",
-    "wof:parent_id": 1947304315,
+    "wof:lastmodified": 1753286718,
+    "wof:name": "AS7 (DCA-SFO)",
+    "wof:parent_id": 1947304273,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -87.894364,
-    41.983038
+    -77.041643,
+    38.850639
   ],
-  "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-77.041643,38.850639],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

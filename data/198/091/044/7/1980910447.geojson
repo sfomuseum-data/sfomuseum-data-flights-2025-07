@@ -2,22 +2,22 @@
   "id": 1980910447,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "VA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4541",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753019160,
+    "flysfo:base_flight_number": "4531",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753247580,
     "flysfo:event": "A",
-    "flysfo:flight_number": "VA8267",
-    "flysfo:gate": "F6",
+    "flysfo:flight_number": "VA8183",
+    "flysfo:gate": "F18",
     "flysfo:journey": "SMF-SFO",
-    "flysfo:scheduled_timestamp": 1753020900,
-    "flysfo:timestamp": 1753020900,
+    "flysfo:scheduled_timestamp": 1753245780,
+    "flysfo:timestamp": 1753247580,
     "geom:area": 0,
     "geom:bbox": "-122.370943,37.617990,-121.589912,38.685533",
     "geom:latitude": 38.1517615,
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159285485,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ACA-4541",
+    "sfomuseum:base_flight_id": "20250722-A-ACA-4531",
     "sfomuseum:departure_id": 102530559,
-    "sfomuseum:flight_id": "20250720-A-VOZ-8267",
+    "sfomuseum:flight_id": "20250722-A-VOZ-8183",
     "sfomuseum:flight_number": [
-      "VOZ8267",
-      "VA8267"
+      "VOZ8183",
+      "VA8183"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,12 +49,12 @@
       85922583,
       554784711,
       85688637,
-      1947304461,
+      1947304477,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114851,
+    "wof:created": 1753287099,
     "wof:geomhash": "f5805f1be1c56ce2a2965880e252c65f",
     "wof:hierarchy": [
       {
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304461,
+        "venue_id": 1947304477,
         "wing_id": 1947304447
       },
       {
@@ -82,7 +82,7 @@
         "custom_id": 1980910447,
         "flight_id": 1980910447,
         "region_id": 85688637,
-        "venue_id": 1947304461,
+        "venue_id": 1947304477,
         "wing_id": 1947304447
       }
     ],
@@ -91,12 +91,12 @@
       102527513,
       102530559,
       1159285485,
-      1947304461,
+      1947304477,
       1159283597
     ],
-    "wof:lastmodified": 1753114851,
-    "wof:name": "VA8267 (SMF-SFO)",
-    "wof:parent_id": 1947304461,
+    "wof:lastmodified": 1753287099,
+    "wof:name": "VA8183 (SMF-SFO)",
+    "wof:parent_id": 1947304477,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

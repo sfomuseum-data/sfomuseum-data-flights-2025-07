@@ -2,22 +2,22 @@
   "id": 1980907545,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AV",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7829",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753075140,
+    "flysfo:base_flight_number": "3112",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753210860,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AV560",
-    "flysfo:gate": "A15",
+    "flysfo:flight_number": "AV562",
+    "flysfo:gate": "A4",
     "flysfo:journey": "SAL-SFO",
-    "flysfo:scheduled_timestamp": 1753076700,
-    "flysfo:timestamp": 1753076700,
+    "flysfo:scheduled_timestamp": 1753212900,
+    "flysfo:timestamp": 1753212900,
     "geom:area": 0,
     "geom:bbox": "-122.370943,13.444749,-89.058566,37.617990",
     "geom:latitude": 25.5313695,
@@ -25,17 +25,17 @@
     "iata:airline": "AV",
     "iata:base_airline": "",
     "icao:airline": "AVA",
-    "icao:base_airline": "ANA",
-    "lbl:latitude": 37.611664,
-    "lbl:longitude": -122.390495,
+    "icao:base_airline": "EVA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159285749,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ANA-7829",
+    "sfomuseum:base_flight_id": "20250722-A-EVA-3112",
     "sfomuseum:departure_id": 102556081,
-    "sfomuseum:flight_id": "20250720-A-AVA-560",
+    "sfomuseum:flight_id": "20250722-A-AVA-562",
     "sfomuseum:flight_number": [
-      "AVA560",
-      "AV560"
+      "AVA562",
+      "AV562"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,12 +49,12 @@
       85922583,
       554784711,
       85688637,
-      1947304095,
+      1947304081,
       1947304069,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114133,
+    "wof:created": 1753286732,
     "wof:geomhash": "5bc73b85d9408e1579ad3f82b41c3e68",
     "wof:hierarchy": [
       {
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304095,
+        "venue_id": 1947304081,
         "wing_id": 1947304069
       },
       {
@@ -82,7 +82,7 @@
         "custom_id": 1980907545,
         "flight_id": 1980907545,
         "region_id": 85688637,
-        "venue_id": 1947304095,
+        "venue_id": 1947304081,
         "wing_id": 1947304069
       }
     ],
@@ -91,12 +91,12 @@
       102527513,
       102556081,
       1159285749,
-      1947304095,
-      1159283875
+      1947304081,
+      1159284349
     ],
-    "wof:lastmodified": 1753114133,
-    "wof:name": "AV560 (SAL-SFO)",
-    "wof:parent_id": 1947304095,
+    "wof:lastmodified": 1753286732,
+    "wof:name": "AV562 (SAL-SFO)",
+    "wof:parent_id": 1947304081,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

@@ -2,26 +2,26 @@
   "id": 1980910875,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9325",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753059300,
+    "flysfo:base_flight_number": "9338",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753221480,
     "flysfo:event": "D",
-    "flysfo:flight_number": "AA9325",
-    "flysfo:gate": "B13",
-    "flysfo:journey": "SFO-SNA",
-    "flysfo:scheduled_timestamp": 1753058160,
-    "flysfo:timestamp": 1753059300,
+    "flysfo:flight_number": "AA9338",
+    "flysfo:gate": "B17",
+    "flysfo:journey": "SFO-RDM",
+    "flysfo:scheduled_timestamp": 1753216560,
+    "flysfo:timestamp": 1753221480,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,33.677724,-117.866280,37.617990",
-    "geom:latitude": 35.647857,
-    "geom:longitude": -120.1186115,
+    "geom:bbox": "-122.370943,37.617990,-121.157137,44.259811",
+    "geom:latitude": 40.9389005,
+    "geom:longitude": -121.76404,
     "iata:airline": "AA",
     "iata:base_airline": "",
     "icao:airline": "AAL",
@@ -29,13 +29,13 @@
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159283849,
-    "sfomuseum:arrival_id": 102534161,
-    "sfomuseum:base_flight_id": "20250720-D-AAL-9325",
+    "sfomuseum:arrival_id": 102530507,
+    "sfomuseum:base_flight_id": "20250722-D-AAL-9338",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-AAL-9325",
+    "sfomuseum:flight_id": "20250722-D-AAL-9338",
     "sfomuseum:flight_number": [
-      "AAL9325",
-      "AA9325"
+      "AAL9338",
+      "AA9338"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304267,
+      1947304285,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114955,
-    "wof:geomhash": "b700d5ae3794da4176af6b85f6cd6669",
+    "wof:created": 1753287147,
+    "wof:geomhash": "398b6cf59cf3bdf390f5834c7a336099",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304267,
+        "venue_id": 1947304285,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980910875,
         "flight_id": 1980910875,
         "region_id": 85688637,
-        "venue_id": 1947304267,
+        "venue_id": 1947304285,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980910875,
     "wof:involves": [
-      102534161,
+      102530507,
       102527513,
       1159283849,
-      1947304267,
+      1947304285,
       1159283849
     ],
-    "wof:lastmodified": 1753114955,
-    "wof:name": "AA9325 (SFO-SNA)",
-    "wof:parent_id": 1947304267,
+    "wof:lastmodified": 1753287147,
+    "wof:name": "AA9338 (SFO-RDM)",
+    "wof:parent_id": 1947304285,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    33.677724,
-    -117.86628,
-    37.61799
+    37.61799,
+    -121.157137,
+    44.259811
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-117.86628,33.677724]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-121.157137,44.259811]],"type":"MultiPoint"}
 }

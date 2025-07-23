@@ -2,26 +2,26 @@
   "id": 1980907345,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9359",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753042560,
+    "flysfo:base_flight_number": "7539",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753241640,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AS3208",
-    "flysfo:gate": "B21",
-    "flysfo:journey": "JAC-SFO",
-    "flysfo:scheduled_timestamp": 1753042800,
-    "flysfo:timestamp": 1753042800,
+    "flysfo:flight_number": "AS3275",
+    "flysfo:gate": "B7",
+    "flysfo:journey": "GEG-SFO",
+    "flysfo:scheduled_timestamp": 1753236540,
+    "flysfo:timestamp": 1753241640,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-110.738540,43.606600",
-    "geom:latitude": 40.612295,
-    "geom:longitude": -116.5547415,
+    "geom:bbox": "-122.370943,37.617990,-117.531916,47.625686",
+    "geom:latitude": 42.621838,
+    "geom:longitude": -119.95142949999999,
     "iata:airline": "AS",
     "iata:base_airline": "",
     "icao:airline": "ASA",
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AAL-9359",
-    "sfomuseum:departure_id": 102534217,
-    "sfomuseum:flight_id": "20250720-A-ASA-3208",
+    "sfomuseum:base_flight_id": "20250722-A-AAL-7539",
+    "sfomuseum:departure_id": 102533331,
+    "sfomuseum:flight_id": "20250722-A-ASA-3275",
     "sfomuseum:flight_number": [
-      "ASA3208",
-      "AS3208"
+      "ASA3275",
+      "AS3275"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304315,
+      1947304293,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114081,
-    "wof:geomhash": "8649ee81ac1d01facd07821b56f3d6b7",
+    "wof:created": 1753286710,
+    "wof:geomhash": "a4e0879e5fc6968e3e72ecbd42744790",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304315,
+        "venue_id": 1947304293,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980907345,
         "flight_id": 1980907345,
         "region_id": 85688637,
-        "venue_id": 1947304315,
+        "venue_id": 1947304293,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980907345,
     "wof:involves": [
       102527513,
-      102534217,
+      102533331,
       1159283813,
-      1947304315,
+      1947304293,
       1159283849
     ],
-    "wof:lastmodified": 1753114081,
-    "wof:name": "AS3208 (JAC-SFO)",
-    "wof:parent_id": 1947304315,
+    "wof:lastmodified": 1753286710,
+    "wof:name": "AS3275 (GEG-SFO)",
+    "wof:parent_id": 1947304293,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -110.73854,
-    43.6066
+    -117.531916,
+    47.625686
   ],
-  "geometry": {"coordinates":[[-110.73854,43.6066],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-117.531916,47.625686],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

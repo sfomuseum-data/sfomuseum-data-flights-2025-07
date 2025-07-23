@@ -2,22 +2,22 @@
   "id": 1980906115,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7506",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753037880,
+    "flysfo:base_flight_number": "7453",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753244640,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AA7506",
-    "flysfo:gate": "B13",
+    "flysfo:flight_number": "AA7453",
+    "flysfo:gate": "B17",
     "flysfo:journey": "EWR-SFO",
-    "flysfo:scheduled_timestamp": 1753038780,
-    "flysfo:timestamp": 1753038780,
+    "flysfo:scheduled_timestamp": 1753246140,
+    "flysfo:timestamp": 1753246140,
     "geom:area": 0,
     "geom:bbox": "-122.370943,37.617990,-74.177526,40.691243",
     "geom:latitude": 39.1546165,
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AAL-7506",
+    "sfomuseum:base_flight_id": "20250722-A-AAL-7453",
     "sfomuseum:departure_id": 102530049,
-    "sfomuseum:flight_id": "20250720-A-AAL-7506",
+    "sfomuseum:flight_id": "20250722-A-AAL-7453",
     "sfomuseum:flight_number": [
-      "AAL7506",
-      "AA7506"
+      "AAL7453",
+      "AA7453"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,12 +49,12 @@
       85922583,
       554784711,
       85688637,
-      1947304267,
+      1947304285,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753113760,
+    "wof:created": 1753286552,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
     "wof:hierarchy": [
       {
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304267,
+        "venue_id": 1947304285,
         "wing_id": 1947304259
       },
       {
@@ -82,7 +82,7 @@
         "custom_id": 1980906115,
         "flight_id": 1980906115,
         "region_id": 85688637,
-        "venue_id": 1947304267,
+        "venue_id": 1947304285,
         "wing_id": 1947304259
       }
     ],
@@ -91,12 +91,12 @@
       102527513,
       102530049,
       1159283849,
-      1947304267,
+      1947304285,
       1159283849
     ],
-    "wof:lastmodified": 1753113760,
-    "wof:name": "AA7506 (EWR-SFO)",
-    "wof:parent_id": 1947304267,
+    "wof:lastmodified": 1753286552,
+    "wof:name": "AA7453 (EWR-SFO)",
+    "wof:parent_id": 1947304285,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

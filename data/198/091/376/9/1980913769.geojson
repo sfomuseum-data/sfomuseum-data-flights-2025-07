@@ -2,40 +2,35 @@
   "id": 1980913769,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "QR",
-    "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "5868",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753020000,
+    "flysfo:airline": "SY",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753233900,
     "flysfo:event": "D",
-    "flysfo:flight_number": "QR4290",
-    "flysfo:gate": "B18",
-    "flysfo:journey": "SFO-PAE",
-    "flysfo:scheduled_timestamp": 1753020000,
-    "flysfo:timestamp": 1753020000,
+    "flysfo:flight_number": "SY396",
+    "flysfo:gate": "B20",
+    "flysfo:journey": "SFO-MSP",
+    "flysfo:scheduled_timestamp": 1753233060,
+    "flysfo:timestamp": 1753233900,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-122.279084,47.908767",
-    "geom:latitude": 42.7633785,
-    "geom:longitude": -122.3250135,
-    "iata:airline": "QR",
-    "iata:base_airline": "",
-    "icao:airline": "QTR",
-    "icao:base_airline": "FJI",
+    "geom:bbox": "-122.370943,37.617990,-93.200317,44.883321",
+    "geom:latitude": 41.2506555,
+    "geom:longitude": -107.78563,
+    "iata:airline": "SY",
+    "icao:airline": "SCX",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159286153,
-    "sfomuseum:arrival_id": 102526657,
-    "sfomuseum:base_flight_id": "20250720-D-FJI-5868",
+    "sfomuseum:airline_id": 1159285227,
+    "sfomuseum:arrival_id": 102531131,
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-QTR-4290",
+    "sfomuseum:flight_id": "20250722-D-SCX-396",
     "sfomuseum:flight_number": [
-      "QTR4290",
-      "QR4290"
+      "SCX396",
+      "SY396"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +44,13 @@
       85922583,
       554784711,
       85688637,
-      1947304297,
+      1947304281,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115672,
-    "wof:geomhash": "4d7458fcd2bb2c2db9950abb8dd848d3",
+    "wof:created": 1753287466,
+    "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +64,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304297,
+        "venue_id": 1947304281,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +77,20 @@
         "custom_id": 1980913769,
         "flight_id": 1980913769,
         "region_id": 85688637,
-        "venue_id": 1947304297,
+        "venue_id": 1947304281,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980913769,
     "wof:involves": [
-      102526657,
+      102531131,
       102527513,
-      1159286153,
-      1947304297,
-      1159283717
+      1159285227,
+      1947304281
     ],
-    "wof:lastmodified": 1753115672,
-    "wof:name": "QR4290 (SFO-PAE)",
-    "wof:parent_id": 1947304297,
+    "wof:lastmodified": 1753287466,
+    "wof:name": "SY396 (SFO-MSP)",
+    "wof:parent_id": 1947304281,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -108,8 +102,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -122.279084,
-    47.908767
+    -93.200317,
+    44.883321
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.279084,47.908767]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-93.200317,44.883321]],"type":"MultiPoint"}
 }

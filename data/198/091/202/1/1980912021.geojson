@@ -2,26 +2,26 @@
   "id": 1980912021,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9303",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753055280,
+    "flysfo:base_flight_number": "9301",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753243680,
     "flysfo:event": "D",
-    "flysfo:flight_number": "AS2053",
-    "flysfo:gate": "B7",
-    "flysfo:journey": "SFO-BUR",
-    "flysfo:scheduled_timestamp": 1753055280,
-    "flysfo:timestamp": 1753055280,
+    "flysfo:flight_number": "AS3447",
+    "flysfo:gate": "B12",
+    "flysfo:journey": "SFO-PSP",
+    "flysfo:scheduled_timestamp": 1753243680,
+    "flysfo:timestamp": 1753243680,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,34.196704,-118.353322,37.617990",
-    "geom:latitude": 35.907347,
-    "geom:longitude": -120.3621325,
+    "geom:bbox": "-122.370943,33.824619,-116.506042,37.617990",
+    "geom:latitude": 35.7213045,
+    "geom:longitude": -119.4384925,
     "iata:airline": "AS",
     "iata:base_airline": "",
     "icao:airline": "ASA",
@@ -29,13 +29,13 @@
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159283813,
-    "sfomuseum:arrival_id": 1746879083,
-    "sfomuseum:base_flight_id": "20250720-D-AAL-9303",
+    "sfomuseum:arrival_id": 102533591,
+    "sfomuseum:base_flight_id": "20250722-D-AAL-9301",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-ASA-2053",
+    "sfomuseum:flight_id": "20250722-D-ASA-3447",
     "sfomuseum:flight_number": [
-      "ASA2053",
-      "AS2053"
+      "ASA3447",
+      "AS3447"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304293,
+      1947304263,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115233,
-    "wof:geomhash": "5b5841a3ebf3c57d9843115edfb8ee6b",
+    "wof:created": 1753287273,
+    "wof:geomhash": "e84c3ec216fbaf9440bbf99d412a1253",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304293,
+        "venue_id": 1947304263,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980912021,
         "flight_id": 1980912021,
         "region_id": 85688637,
-        "venue_id": 1947304293,
+        "venue_id": 1947304263,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980912021,
     "wof:involves": [
-      1746879083,
+      102533591,
       102527513,
       1159283813,
-      1947304293,
+      1947304263,
       1159283849
     ],
-    "wof:lastmodified": 1753115233,
-    "wof:name": "AS2053 (SFO-BUR)",
-    "wof:parent_id": 1947304293,
+    "wof:lastmodified": 1753287273,
+    "wof:name": "AS3447 (SFO-PSP)",
+    "wof:parent_id": 1947304263,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    34.196704,
-    -118.353322,
+    33.824619,
+    -116.506042,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-118.353322,34.196704]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-116.506042,33.824619]],"type":"MultiPoint"}
 }

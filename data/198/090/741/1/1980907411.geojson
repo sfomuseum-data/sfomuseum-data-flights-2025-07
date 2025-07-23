@@ -2,51 +2,43 @@
   "id": 1980907411,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-21",
-    "date:cessation_upper": "2025-07-21",
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
-    "edtf:cessation": "2025-07-21T10:22:00Z",
-    "edtf:inception": "2025-07-21T07:21:00Z",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7431",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753093860,
+    "flysfo:base_flight_number": "7514",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753201500,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AS513",
-    "flysfo:gate": "B9",
-    "flysfo:journey": "AUS-SFO",
-    "flysfo:scheduled_timestamp": 1753075740,
-    "flysfo:timestamp": 1753093860,
+    "flysfo:flight_number": "AS526",
+    "flysfo:gate": "B12",
+    "flysfo:journey": "PDX-SFO",
+    "flysfo:scheduled_timestamp": 1753199580,
+    "flysfo:timestamp": 1753201500,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,30.206175,-97.643029,37.617990",
-    "geom:latitude": 33.9120825,
-    "geom:longitude": -110.006986,
+    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
+    "geom:latitude": 41.602067,
+    "geom:longitude": -122.484166,
     "iata:airline": "AS",
     "iata:base_airline": "",
-    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AAL-7431",
-    "sfomuseum:departure_id": 102521851,
-    "sfomuseum:flight_id": "20250720-A-ASA-513",
+    "sfomuseum:base_flight_id": "20250722-A-AAL-7514",
+    "sfomuseum:departure_id": 102532251,
+    "sfomuseum:flight_id": "20250722-A-ASA-526",
     "sfomuseum:flight_number": [
-      "ASA513",
-      "AS513"
+      "ASA526",
+      "AS526"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route"
-    ],
-    "swim:tail_number": "N978AK",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -57,17 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304303,
+      1947304263,
       1947304259,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "105889756",
-      "swim:gufi": "KH02532200"
-    },
     "wof:country": "US",
-    "wof:created": 1753114100,
-    "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
+    "wof:created": 1753286717,
+    "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -81,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304303,
+        "venue_id": 1947304263,
         "wing_id": 1947304259
       },
       {
@@ -94,22 +82,21 @@
         "custom_id": 1980907411,
         "flight_id": 1980907411,
         "region_id": 85688637,
-        "venue_id": 1947304303,
+        "venue_id": 1947304263,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980907411,
     "wof:involves": [
-      1159283813,
-      1947304303,
-      1159283849,
-      1528104577,
       102527513,
-      102521851
+      102532251,
+      1159283813,
+      1947304263,
+      1159283849
     ],
-    "wof:lastmodified": 1753116138,
-    "wof:name": "AS513 (AUS-SFO)",
-    "wof:parent_id": 1947304303,
+    "wof:lastmodified": 1753286717,
+    "wof:name": "AS526 (PDX-SFO)",
+    "wof:parent_id": 1947304263,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -119,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
+    -122.597389,
+    37.61799,
     -122.370943,
-    30.206175,
-    -97.643029,
-    37.61799
+    45.586144
   ],
-  "geometry": {"coordinates":[[-97.643029,30.206175],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

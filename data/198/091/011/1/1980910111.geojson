@@ -2,40 +2,35 @@
   "id": 1980910111,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
-    "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7897",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753050180,
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753198500,
     "flysfo:event": "A",
-    "flysfo:flight_number": "UA5951",
-    "flysfo:gate": "F18",
-    "flysfo:journey": "SBP-SFO",
-    "flysfo:scheduled_timestamp": 1753050900,
-    "flysfo:timestamp": 1753050900,
+    "flysfo:flight_number": "UA5926",
+    "flysfo:gate": "F8",
+    "flysfo:journey": "OMA-SFO",
+    "flysfo:scheduled_timestamp": 1753199100,
+    "flysfo:timestamp": 1753199100,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,35.236920,-120.643230,37.617990",
-    "geom:latitude": 36.427454999999995,
-    "geom:longitude": -121.5070865,
+    "geom:bbox": "-122.370943,37.617990,-95.897601,41.301438",
+    "geom:latitude": 39.459714,
+    "geom:longitude": -109.134272,
     "iata:airline": "UA",
-    "iata:base_airline": "",
     "icao:airline": "UAL",
-    "icao:base_airline": "DLH",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-DLH-7897",
-    "sfomuseum:departure_id": 102527351,
-    "sfomuseum:flight_id": "20250720-A-UAL-5951",
+    "sfomuseum:departure_id": 102524739,
+    "sfomuseum:flight_id": "20250722-A-UAL-5926",
     "sfomuseum:flight_number": [
-      "UAL5951",
-      "UA5951"
+      "UAL5926",
+      "UA5926"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +44,13 @@
       85922583,
       554784711,
       85688637,
-      1947304477,
+      1947304469,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114769,
-    "wof:geomhash": "2af895d7dc7816e28cbc6da81f2a802b",
+    "wof:created": 1753287062,
+    "wof:geomhash": "a4023a41644574291fc7580f5443d9f4",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +64,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304477,
+        "venue_id": 1947304469,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +77,20 @@
         "custom_id": 1980910111,
         "flight_id": 1980910111,
         "region_id": 85688637,
-        "venue_id": 1947304477,
+        "venue_id": 1947304469,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980910111,
     "wof:involves": [
       102527513,
-      102527351,
+      102524739,
       1159285413,
-      1947304477,
-      1159286015
+      1947304469
     ],
-    "wof:lastmodified": 1753114769,
-    "wof:name": "UA5951 (SBP-SFO)",
-    "wof:parent_id": 1947304477,
+    "wof:lastmodified": 1753287062,
+    "wof:name": "UA5926 (OMA-SFO)",
+    "wof:parent_id": 1947304469,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +101,9 @@
   },
   "bbox": [
     -122.370943,
-    35.23692,
-    -120.64323,
-    37.61799
+    37.61799,
+    -95.897601,
+    41.301438
   ],
-  "geometry": {"coordinates":[[-120.64323,35.23692],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-95.897601,41.301438],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

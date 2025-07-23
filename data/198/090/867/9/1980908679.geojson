@@ -2,22 +2,22 @@
   "id": 1980908679,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "FI",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7890",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753041600,
+    "flysfo:base_flight_number": "7889",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753201500,
     "flysfo:event": "A",
-    "flysfo:flight_number": "FI7890",
+    "flysfo:flight_number": "FI7889",
     "flysfo:gate": "B6",
     "flysfo:journey": "JFK-SFO",
-    "flysfo:scheduled_timestamp": 1753037820,
-    "flysfo:timestamp": 1753041600,
+    "flysfo:scheduled_timestamp": 1753202700,
+    "flysfo:timestamp": 1753202700,
     "geom:area": 0,
     "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
     "geom:latitude": 39.130638000000005,
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159284513,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ICE-7890",
+    "sfomuseum:base_flight_id": "20250722-A-ICE-7889",
     "sfomuseum:departure_id": 102534365,
-    "sfomuseum:flight_id": "20250720-A-ICE-7890",
+    "sfomuseum:flight_id": "20250722-A-ICE-7889",
     "sfomuseum:flight_number": [
-      "ICE7890",
-      "FI7890"
+      "ICE7889",
+      "FI7889"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,7 +54,7 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114412,
+    "wof:created": 1753286877,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
     "wof:hierarchy": [
       {
@@ -94,8 +94,8 @@
       1947304313,
       1159284513
     ],
-    "wof:lastmodified": 1753114412,
-    "wof:name": "FI7890 (JFK-SFO)",
+    "wof:lastmodified": 1753286877,
+    "wof:name": "FI7889 (JFK-SFO)",
     "wof:parent_id": 1947304313,
     "wof:placetype": "custom",
     "wof:placetype_alt": [

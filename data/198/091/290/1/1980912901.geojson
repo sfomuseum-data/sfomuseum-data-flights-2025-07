@@ -2,40 +2,40 @@
   "id": 1980912901,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "EY",
+    "flysfo:airline": "FJ",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9563",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753075800,
+    "flysfo:base_flight_number": "5804",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753204500,
     "flysfo:event": "D",
-    "flysfo:flight_number": "EY8394",
-    "flysfo:gate": "B3",
-    "flysfo:journey": "SFO-JFK",
-    "flysfo:scheduled_timestamp": 1753075800,
-    "flysfo:timestamp": 1753075800,
+    "flysfo:flight_number": "FJ5804",
+    "flysfo:gate": "B17",
+    "flysfo:journey": "SFO-DCA",
+    "flysfo:scheduled_timestamp": 1753202700,
+    "flysfo:timestamp": 1753204500,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
-    "geom:latitude": 39.130638000000005,
-    "geom:longitude": -98.07939400000001,
-    "iata:airline": "EY",
+    "geom:bbox": "-122.370943,37.617990,-77.041643,38.850639",
+    "geom:latitude": 38.234314499999996,
+    "geom:longitude": -99.70629299999999,
+    "iata:airline": "FJ",
     "iata:base_airline": "",
-    "icao:airline": "ETD",
-    "icao:base_airline": "RAM",
+    "icao:airline": "FJI",
+    "icao:base_airline": "FJI",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159285587,
-    "sfomuseum:arrival_id": 102534365,
-    "sfomuseum:base_flight_id": "20250720-D-RAM-9563",
+    "sfomuseum:airline_id": 1159283717,
+    "sfomuseum:arrival_id": 1746879047,
+    "sfomuseum:base_flight_id": "20250722-D-FJI-5804",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-ETD-8394",
+    "sfomuseum:flight_id": "20250722-D-FJI-5804",
     "sfomuseum:flight_number": [
-      "ETD8394",
-      "EY8394"
+      "FJI5804",
+      "FJ5804"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304289,
+      1947304285,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115459,
-    "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
+    "wof:created": 1753287370,
+    "wof:geomhash": "df4d5906f2523703f9da91c779be1785",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304289,
+        "venue_id": 1947304285,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980912901,
         "flight_id": 1980912901,
         "region_id": 85688637,
-        "venue_id": 1947304289,
+        "venue_id": 1947304285,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980912901,
     "wof:involves": [
-      102534365,
+      1746879047,
       102527513,
-      1159285587,
-      1947304289,
-      1159285081
+      1159283717,
+      1947304285,
+      1159283717
     ],
-    "wof:lastmodified": 1753115459,
-    "wof:name": "EY8394 (SFO-JFK)",
-    "wof:parent_id": 1947304289,
+    "wof:lastmodified": 1753287370,
+    "wof:name": "FJ5804 (SFO-DCA)",
+    "wof:parent_id": 1947304285,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -73.787845,
-    40.643286
+    -77.041643,
+    38.850639
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-77.041643,38.850639]],"type":"MultiPoint"}
 }

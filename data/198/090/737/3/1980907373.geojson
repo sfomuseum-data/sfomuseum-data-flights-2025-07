@@ -2,40 +2,40 @@
   "id": 1980907373,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7607",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753057020,
+    "flysfo:base_flight_number": "7415",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753220280,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AS3407",
+    "flysfo:flight_number": "AS3449",
     "flysfo:gate": "B13",
-    "flysfo:journey": "LAX-SFO",
-    "flysfo:scheduled_timestamp": 1753056660,
-    "flysfo:timestamp": 1753057020,
+    "flysfo:journey": "BUR-SFO",
+    "flysfo:scheduled_timestamp": 1753218720,
+    "flysfo:timestamp": 1753220280,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
-    "geom:latitude": 35.780291500000004,
-    "geom:longitude": -120.38022649999999,
+    "geom:bbox": "-122.370943,34.196704,-118.353322,37.617990",
+    "geom:latitude": 35.907347,
+    "geom:longitude": -120.3621325,
     "iata:airline": "AS",
     "iata:base_airline": "",
     "icao:airline": "ASA",
-    "icao:base_airline": "BAW",
+    "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-BAW-7607",
-    "sfomuseum:departure_id": 102533795,
-    "sfomuseum:flight_id": "20250720-A-ASA-3407",
+    "sfomuseum:base_flight_id": "20250722-A-AAL-7415",
+    "sfomuseum:departure_id": 1746879083,
+    "sfomuseum:flight_id": "20250722-A-ASA-3449",
     "sfomuseum:flight_number": [
-      "ASA3407",
-      "AS3407"
+      "ASA3449",
+      "AS3449"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114088,
-    "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
+    "wof:created": 1753286712,
+    "wof:geomhash": "579cc6c0d5668ba584a946b357aa3191",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -89,13 +89,13 @@
     "wof:id": 1980907373,
     "wof:involves": [
       102527513,
-      102533795,
+      1746879083,
       1159283813,
       1947304267,
-      1159284021
+      1159283849
     ],
-    "wof:lastmodified": 1753114088,
-    "wof:name": "AS3407 (LAX-SFO)",
+    "wof:lastmodified": 1753286712,
+    "wof:name": "AS3449 (BUR-SFO)",
     "wof:parent_id": 1947304267,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    33.942593,
-    -118.38951,
+    34.196704,
+    -118.353322,
     37.61799
   ],
-  "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-118.353322,34.196704],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

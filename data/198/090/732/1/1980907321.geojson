@@ -2,40 +2,40 @@
   "id": 1980907321,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "5167",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753044060,
+    "flysfo:base_flight_number": "5869",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753232100,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AS2062",
-    "flysfo:gate": "B12",
-    "flysfo:journey": "BOI-SFO",
-    "flysfo:scheduled_timestamp": 1753044540,
-    "flysfo:timestamp": 1753044540,
+    "flysfo:flight_number": "AS2078",
+    "flysfo:gate": "B14",
+    "flysfo:journey": "PAE-SFO",
+    "flysfo:scheduled_timestamp": 1753233180,
+    "flysfo:timestamp": 1753233180,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-116.224634,43.564048",
-    "geom:latitude": 40.591019,
-    "geom:longitude": -119.2977885,
+    "geom:bbox": "-122.370943,37.617990,-122.279084,47.908767",
+    "geom:latitude": 42.7633785,
+    "geom:longitude": -122.3250135,
     "iata:airline": "AS",
     "iata:base_airline": "",
     "icao:airline": "ASA",
-    "icao:base_airline": "CFG",
+    "icao:base_airline": "FJI",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-CFG-5167",
-    "sfomuseum:departure_id": 102527733,
-    "sfomuseum:flight_id": "20250720-A-ASA-2062",
+    "sfomuseum:base_flight_id": "20250722-A-FJI-5869",
+    "sfomuseum:departure_id": 102526657,
+    "sfomuseum:flight_id": "20250722-A-ASA-2078",
     "sfomuseum:flight_number": [
-      "ASA2062",
-      "AS2062"
+      "ASA2078",
+      "AS2078"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304263,
+      1947304273,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114075,
-    "wof:geomhash": "e506e1cc6e68aaf992ce3bac53e4e4fa",
+    "wof:created": 1753286707,
+    "wof:geomhash": "c01fce3544b8d9a4d0cb6d6783ef8a82",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304263,
+        "venue_id": 1947304273,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980907321,
         "flight_id": 1980907321,
         "region_id": 85688637,
-        "venue_id": 1947304263,
+        "venue_id": 1947304273,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980907321,
     "wof:involves": [
       102527513,
-      102527733,
+      102526657,
       1159283813,
-      1947304263,
-      1159284193
+      1947304273,
+      1159283717
     ],
-    "wof:lastmodified": 1753114075,
-    "wof:name": "AS2062 (BOI-SFO)",
-    "wof:parent_id": 1947304263,
+    "wof:lastmodified": 1753286707,
+    "wof:name": "AS2078 (PAE-SFO)",
+    "wof:parent_id": 1947304273,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -116.224634,
-    43.564048
+    -122.279084,
+    47.908767
   ],
-  "geometry": {"coordinates":[[-116.224634,43.564048],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.279084,47.908767],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -2,40 +2,40 @@
   "id": 1980908899,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "LA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "5647",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753077420,
+    "flysfo:base_flight_number": "3332",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753203180,
     "flysfo:event": "A",
-    "flysfo:flight_number": "LA7912",
-    "flysfo:gate": "C11",
-    "flysfo:journey": "LAX-SFO",
-    "flysfo:scheduled_timestamp": 1753078260,
-    "flysfo:timestamp": 1753078260,
+    "flysfo:flight_number": "LA6407",
+    "flysfo:gate": "C3",
+    "flysfo:journey": "JFK-SFO",
+    "flysfo:scheduled_timestamp": 1753204800,
+    "flysfo:timestamp": 1753204800,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
-    "geom:latitude": 35.780291500000004,
-    "geom:longitude": -120.38022649999999,
+    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
+    "geom:latitude": 39.130638000000005,
+    "geom:longitude": -98.07939400000001,
     "iata:airline": "LA",
     "iata:base_airline": "",
     "icao:airline": "LAN",
-    "icao:base_airline": "AFR",
-    "lbl:latitude": 37.614792,
-    "lbl:longitude": -122.382166,
+    "icao:base_airline": "ITY",
+    "lbl:latitude": 37.615398,
+    "lbl:longitude": -122.383426,
     "sfomuseum:airline_id": 1159285641,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AFR-5647",
-    "sfomuseum:departure_id": 102533795,
-    "sfomuseum:flight_id": "20250720-A-LAN-7912",
+    "sfomuseum:base_flight_id": "20250722-A-ITY-3332",
+    "sfomuseum:departure_id": 102534365,
+    "sfomuseum:flight_id": "20250722-A-LAN-6407",
     "sfomuseum:flight_number": [
-      "LAN7912",
-      "LA7912"
+      "LAN6407",
+      "LA6407"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304677,
+      1947304671,
       1947304591,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114467,
-    "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
+    "wof:created": 1753286901,
+    "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304677,
+        "venue_id": 1947304671,
         "wing_id": 1947304591
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980908899,
         "flight_id": 1980908899,
         "region_id": 85688637,
-        "venue_id": 1947304677,
+        "venue_id": 1947304671,
         "wing_id": 1947304591
       }
     ],
     "wof:id": 1980908899,
     "wof:involves": [
       102527513,
-      102533795,
+      102534365,
       1159285641,
-      1947304677,
-      1159283627
+      1947304671,
+      1763699293
     ],
-    "wof:lastmodified": 1753114467,
-    "wof:name": "LA7912 (LAX-SFO)",
-    "wof:parent_id": 1947304677,
+    "wof:lastmodified": 1753286901,
+    "wof:name": "LA6407 (JFK-SFO)",
+    "wof:parent_id": 1947304671,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    33.942593,
-    -118.38951,
-    37.61799
+    37.61799,
+    -73.787845,
+    40.643286
   ],
-  "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

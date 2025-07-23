@@ -2,40 +2,40 @@
   "id": 1980910837,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7933",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753077300,
+    "flysfo:base_flight_number": "8517",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753231500,
     "flysfo:event": "D",
-    "flysfo:flight_number": "AA7933",
-    "flysfo:gate": "A10",
-    "flysfo:journey": "SFO-NAN",
-    "flysfo:scheduled_timestamp": 1753077300,
-    "flysfo:timestamp": 1753077300,
+    "flysfo:flight_number": "AA8517",
+    "flysfo:gate": "A1",
+    "flysfo:journey": "SFO-MAD",
+    "flysfo:scheduled_timestamp": 1753231500,
+    "flysfo:timestamp": 1753231500,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,-17.806865,177.376360,37.617990",
-    "geom:latitude": 9.9055625,
-    "geom:longitude": 27.502708500000004,
+    "geom:bbox": "-122.370943,37.617990,-3.562012,40.477078",
+    "geom:latitude": 39.047534,
+    "geom:longitude": -62.966477499999996,
     "iata:airline": "AA",
     "iata:base_airline": "",
     "icao:airline": "AAL",
     "icao:base_airline": "AAL",
-    "lbl:latitude": 37.61227,
-    "lbl:longitude": -122.390079,
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159283849,
-    "sfomuseum:arrival_id": 102555575,
-    "sfomuseum:base_flight_id": "20250720-D-AAL-7933",
+    "sfomuseum:arrival_id": 102545773,
+    "sfomuseum:base_flight_id": "20250722-D-AAL-8517",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-AAL-7933",
+    "sfomuseum:flight_id": "20250722-D-AAL-8517",
     "sfomuseum:flight_number": [
-      "AAL7933",
-      "AA7933"
+      "AAL8517",
+      "AA8517"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304101,
+      1947304079,
       1947304069,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114946,
-    "wof:geomhash": "ac04d12b9bb720d89a4c8027fbef35a5",
+    "wof:created": 1753287143,
+    "wof:geomhash": "6af9ffc3b522178d45af0dec8d95c767",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304101,
+        "venue_id": 1947304079,
         "wing_id": 1947304069
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980910837,
         "flight_id": 1980910837,
         "region_id": 85688637,
-        "venue_id": 1947304101,
+        "venue_id": 1947304079,
         "wing_id": 1947304069
       }
     ],
     "wof:id": 1980910837,
     "wof:involves": [
-      102555575,
+      102545773,
       102527513,
       1159283849,
-      1947304101,
+      1947304079,
       1159283849
     ],
-    "wof:lastmodified": 1753114946,
-    "wof:name": "AA7933 (SFO-NAN)",
-    "wof:parent_id": 1947304101,
+    "wof:lastmodified": 1753287143,
+    "wof:name": "AA8517 (SFO-MAD)",
+    "wof:parent_id": 1947304079,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    -17.806865,
-    177.37636,
-    37.61799
+    37.61799,
+    -3.562012,
+    40.477078
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[177.37636,-17.806865]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-3.562012,40.477078]],"type":"MultiPoint"}
 }

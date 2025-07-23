@@ -2,22 +2,22 @@
   "id": 1980909103,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "QR",
     "flysfo:base_airline": "",
     "flysfo:base_flight_number": "9276",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753042740,
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753217040,
     "flysfo:event": "A",
     "flysfo:flight_number": "QR2143",
-    "flysfo:gate": "B8",
+    "flysfo:gate": "B14",
     "flysfo:journey": "SAN-SFO",
-    "flysfo:scheduled_timestamp": 1753040460,
-    "flysfo:timestamp": 1753042740,
+    "flysfo:scheduled_timestamp": 1753213260,
+    "flysfo:timestamp": 1753217040,
     "geom:area": 0,
     "geom:bbox": "-122.370943,32.733534,-117.185927,37.617990",
     "geom:latitude": 35.175762,
@@ -30,9 +30,9 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159286153,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AAL-9276",
+    "sfomuseum:base_flight_id": "20250722-A-AAL-9276",
     "sfomuseum:departure_id": 102528997,
-    "sfomuseum:flight_id": "20250720-A-QTR-2143",
+    "sfomuseum:flight_id": "20250722-A-QTR-2143",
     "sfomuseum:flight_number": [
       "QTR2143",
       "QR2143"
@@ -49,12 +49,12 @@
       85922583,
       554784711,
       85688637,
-      1947304275,
+      1947304273,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114518,
+    "wof:created": 1753286938,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
     "wof:hierarchy": [
       {
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304275,
+        "venue_id": 1947304273,
         "wing_id": 1947304259
       },
       {
@@ -82,7 +82,7 @@
         "custom_id": 1980909103,
         "flight_id": 1980909103,
         "region_id": 85688637,
-        "venue_id": 1947304275,
+        "venue_id": 1947304273,
         "wing_id": 1947304259
       }
     ],
@@ -91,12 +91,12 @@
       102527513,
       102528997,
       1159286153,
-      1947304275,
+      1947304273,
       1159283849
     ],
-    "wof:lastmodified": 1753114518,
+    "wof:lastmodified": 1753286938,
     "wof:name": "QR2143 (SAN-SFO)",
-    "wof:parent_id": 1947304275,
+    "wof:parent_id": 1947304273,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

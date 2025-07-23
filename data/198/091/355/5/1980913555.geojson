@@ -2,40 +2,40 @@
   "id": 1980913555,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "LO",
+    "flysfo:airline": "QF",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9557",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753016400,
+    "flysfo:base_flight_number": "9380",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753245240,
     "flysfo:event": "D",
-    "flysfo:flight_number": "LO5772",
-    "flysfo:gate": "B3",
-    "flysfo:journey": "SFO-JFK",
-    "flysfo:scheduled_timestamp": 1753016400,
-    "flysfo:timestamp": 1753016400,
+    "flysfo:flight_number": "QF3789",
+    "flysfo:gate": "B9",
+    "flysfo:journey": "SFO-PDX",
+    "flysfo:scheduled_timestamp": 1753242600,
+    "flysfo:timestamp": 1753245240,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
-    "geom:latitude": 39.130638000000005,
-    "geom:longitude": -98.07939400000001,
-    "iata:airline": "LO",
+    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
+    "geom:latitude": 41.602067,
+    "geom:longitude": -122.484166,
+    "iata:airline": "QF",
     "iata:base_airline": "",
-    "icao:airline": "LOT",
-    "icao:base_airline": "RAM",
+    "icao:airline": "QFA",
+    "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159284705,
-    "sfomuseum:arrival_id": 102534365,
-    "sfomuseum:base_flight_id": "20250720-D-RAM-9557",
+    "sfomuseum:airline_id": 1159285043,
+    "sfomuseum:arrival_id": 102532251,
+    "sfomuseum:base_flight_id": "20250722-D-AAL-9380",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-LOT-5772",
+    "sfomuseum:flight_id": "20250722-D-QFA-3789",
     "sfomuseum:flight_number": [
-      "LOT5772",
-      "LO5772"
+      "QFA3789",
+      "QF3789"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304289,
+      1947304303,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115620,
-    "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
+    "wof:created": 1753287443,
+    "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304289,
+        "venue_id": 1947304303,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980913555,
         "flight_id": 1980913555,
         "region_id": 85688637,
-        "venue_id": 1947304289,
+        "venue_id": 1947304303,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980913555,
     "wof:involves": [
-      102534365,
+      102532251,
       102527513,
-      1159284705,
-      1947304289,
-      1159285081
+      1159285043,
+      1947304303,
+      1159283849
     ],
-    "wof:lastmodified": 1753115620,
-    "wof:name": "LO5772 (SFO-JFK)",
-    "wof:parent_id": 1947304289,
+    "wof:lastmodified": 1753287443,
+    "wof:name": "QF3789 (SFO-PDX)",
+    "wof:parent_id": 1947304303,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943,
+    -122.597389,
     37.61799,
-    -73.787845,
-    40.643286
+    -122.370943,
+    45.586144
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.597389,45.586144]],"type":"MultiPoint"}
 }

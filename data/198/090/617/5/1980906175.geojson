@@ -2,26 +2,26 @@
   "id": 1980906175,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9331",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753083900,
+    "flysfo:base_flight_number": "9286",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753225500,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AA9331",
+    "flysfo:flight_number": "AA9286",
     "flysfo:gate": "B7",
-    "flysfo:journey": "MCO-SFO",
-    "flysfo:scheduled_timestamp": 1753077540,
-    "flysfo:timestamp": 1753083900,
+    "flysfo:journey": "SNA-SFO",
+    "flysfo:scheduled_timestamp": 1753218600,
+    "flysfo:timestamp": 1753225500,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,28.431495,-81.307537,37.617990",
-    "geom:latitude": 33.0247425,
-    "geom:longitude": -101.83923999999999,
+    "geom:bbox": "-122.370943,33.677724,-117.866280,37.617990",
+    "geom:latitude": 35.647857,
+    "geom:longitude": -120.1186115,
     "iata:airline": "AA",
     "iata:base_airline": "",
     "icao:airline": "AAL",
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AAL-9331",
-    "sfomuseum:departure_id": 102533657,
-    "sfomuseum:flight_id": "20250720-A-AAL-9331",
+    "sfomuseum:base_flight_id": "20250722-A-AAL-9286",
+    "sfomuseum:departure_id": 102534161,
+    "sfomuseum:flight_id": "20250722-A-AAL-9286",
     "sfomuseum:flight_number": [
-      "AAL9331",
-      "AA9331"
+      "AAL9286",
+      "AA9286"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753113777,
-    "wof:geomhash": "5fe9a4073f558f5d433cae4f846ab71e",
+    "wof:created": 1753286561,
+    "wof:geomhash": "01009f732d03a7803d3f7fd23cf321f4",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -89,13 +89,13 @@
     "wof:id": 1980906175,
     "wof:involves": [
       102527513,
-      102533657,
+      102534161,
       1159283849,
       1947304293,
       1159283849
     ],
-    "wof:lastmodified": 1753113777,
-    "wof:name": "AA9331 (MCO-SFO)",
+    "wof:lastmodified": 1753286561,
+    "wof:name": "AA9286 (SNA-SFO)",
     "wof:parent_id": 1947304293,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    28.431495,
-    -81.307537,
+    33.677724,
+    -117.86628,
     37.61799
   ],
-  "geometry": {"coordinates":[[-81.307537,28.431495],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -2,26 +2,26 @@
   "id": 1980907381,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9336",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753022700,
+    "flysfo:base_flight_number": "9372",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753221840,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AS3463",
+    "flysfo:flight_number": "AS3464",
     "flysfo:gate": "B21",
-    "flysfo:journey": "SAN-SFO",
-    "flysfo:scheduled_timestamp": 1753023600,
-    "flysfo:timestamp": 1753023600,
+    "flysfo:journey": "SNA-SFO",
+    "flysfo:scheduled_timestamp": 1753221720,
+    "flysfo:timestamp": 1753221840,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,32.733534,-117.185927,37.617990",
-    "geom:latitude": 35.175762,
-    "geom:longitude": -119.778435,
+    "geom:bbox": "-122.370943,33.677724,-117.866280,37.617990",
+    "geom:latitude": 35.647857,
+    "geom:longitude": -120.1186115,
     "iata:airline": "AS",
     "iata:base_airline": "",
     "icao:airline": "ASA",
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AAL-9336",
-    "sfomuseum:departure_id": 102528997,
-    "sfomuseum:flight_id": "20250720-A-ASA-3463",
+    "sfomuseum:base_flight_id": "20250722-A-AAL-9372",
+    "sfomuseum:departure_id": 102534161,
+    "sfomuseum:flight_id": "20250722-A-ASA-3464",
     "sfomuseum:flight_number": [
-      "ASA3463",
-      "AS3463"
+      "ASA3464",
+      "AS3464"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114091,
-    "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
+    "wof:created": 1753286713,
+    "wof:geomhash": "01009f732d03a7803d3f7fd23cf321f4",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -89,13 +89,13 @@
     "wof:id": 1980907381,
     "wof:involves": [
       102527513,
-      102528997,
+      102534161,
       1159283813,
       1947304315,
       1159283849
     ],
-    "wof:lastmodified": 1753114091,
-    "wof:name": "AS3463 (SAN-SFO)",
+    "wof:lastmodified": 1753286713,
+    "wof:name": "AS3464 (SNA-SFO)",
     "wof:parent_id": 1947304315,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    32.733534,
-    -117.185927,
+    33.677724,
+    -117.86628,
     37.61799
   ],
-  "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

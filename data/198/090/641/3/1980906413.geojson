@@ -2,40 +2,40 @@
   "id": 1980906413,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4110",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753052100,
+    "flysfo:base_flight_number": "4080",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753194540,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AC4110",
-    "flysfo:gate": "D16",
-    "flysfo:journey": "AUS-SFO",
-    "flysfo:scheduled_timestamp": 1753050300,
-    "flysfo:timestamp": 1753052100,
+    "flysfo:flight_number": "AC4080",
+    "flysfo:gate": "D15",
+    "flysfo:journey": "ONT-SFO",
+    "flysfo:scheduled_timestamp": 1753195020,
+    "flysfo:timestamp": 1753195020,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,30.206175,-97.643029,37.617990",
-    "geom:latitude": 33.9120825,
-    "geom:longitude": -110.006986,
+    "geom:bbox": "-122.370943,34.059934,-117.587749,37.617990",
+    "geom:latitude": 35.838961999999995,
+    "geom:longitude": -119.97934599999999,
     "iata:airline": "AC",
     "iata:base_airline": "",
     "icao:airline": "ACA",
     "icao:base_airline": "ACA",
-    "lbl:latitude": 37.617532,
-    "lbl:longitude": -122.382384,
+    "lbl:latitude": 37.617921,
+    "lbl:longitude": -122.38181,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ACA-4110",
-    "sfomuseum:departure_id": 102521851,
-    "sfomuseum:flight_id": "20250720-A-ACA-4110",
+    "sfomuseum:base_flight_id": "20250722-A-ACA-4080",
+    "sfomuseum:departure_id": 102533575,
+    "sfomuseum:flight_id": "20250722-A-ACA-4080",
     "sfomuseum:flight_number": [
-      "ACA4110",
-      "AC4110"
+      "ACA4080",
+      "AC4080"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304619,
+      1947304623,
       1947304591,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753113846,
-    "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
+    "wof:created": 1753286597,
+    "wof:geomhash": "094b2380067f0814bdd38962ab53e3d3",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304619,
+        "venue_id": 1947304623,
         "wing_id": 1947304591
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980906413,
         "flight_id": 1980906413,
         "region_id": 85688637,
-        "venue_id": 1947304619,
+        "venue_id": 1947304623,
         "wing_id": 1947304591
       }
     ],
     "wof:id": 1980906413,
     "wof:involves": [
       102527513,
-      102521851,
+      102533575,
       1159283597,
-      1947304619,
+      1947304623,
       1159283597
     ],
-    "wof:lastmodified": 1753113846,
-    "wof:name": "AC4110 (AUS-SFO)",
-    "wof:parent_id": 1947304619,
+    "wof:lastmodified": 1753286597,
+    "wof:name": "AC4080 (ONT-SFO)",
+    "wof:parent_id": 1947304623,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    30.206175,
-    -97.643029,
+    34.059934,
+    -117.587749,
     37.61799
   ],
-  "geometry": {"coordinates":[[-97.643029,30.206175],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-117.587749,34.059934],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

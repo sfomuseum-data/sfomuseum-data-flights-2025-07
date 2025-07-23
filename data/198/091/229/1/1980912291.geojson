@@ -2,26 +2,26 @@
   "id": 1980912291,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "BA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9380",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753080600,
+    "flysfo:base_flight_number": "9306",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753243920,
     "flysfo:event": "D",
-    "flysfo:flight_number": "BA2984",
+    "flysfo:flight_number": "BA6430",
     "flysfo:gate": "B7",
-    "flysfo:journey": "SFO-PDX",
-    "flysfo:scheduled_timestamp": 1753069800,
-    "flysfo:timestamp": 1753080600,
+    "flysfo:journey": "SFO-SAN",
+    "flysfo:scheduled_timestamp": 1753238940,
+    "flysfo:timestamp": 1753243920,
     "geom:area": 0,
-    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
-    "geom:latitude": 41.602067,
-    "geom:longitude": -122.484166,
+    "geom:bbox": "-122.370943,32.733534,-117.185927,37.617990",
+    "geom:latitude": 35.175762,
+    "geom:longitude": -119.778435,
     "iata:airline": "BA",
     "iata:base_airline": "",
     "icao:airline": "BAW",
@@ -29,13 +29,13 @@
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159284021,
-    "sfomuseum:arrival_id": 102532251,
-    "sfomuseum:base_flight_id": "20250720-D-AAL-9380",
+    "sfomuseum:arrival_id": 102528997,
+    "sfomuseum:base_flight_id": "20250722-D-AAL-9306",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-BAW-2984",
+    "sfomuseum:flight_id": "20250722-D-BAW-6430",
     "sfomuseum:flight_number": [
-      "BAW2984",
-      "BA2984"
+      "BAW6430",
+      "BA6430"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115303,
-    "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
+    "wof:created": 1753287303,
+    "wof:geomhash": "25f5345529d944df781e36098260a435",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -88,14 +88,14 @@
     ],
     "wof:id": 1980912291,
     "wof:involves": [
-      102532251,
+      102528997,
       102527513,
       1159284021,
       1947304293,
       1159283849
     ],
-    "wof:lastmodified": 1753115303,
-    "wof:name": "BA2984 (SFO-PDX)",
+    "wof:lastmodified": 1753287303,
+    "wof:name": "BA6430 (SFO-SAN)",
     "wof:parent_id": 1947304293,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389,
-    37.61799,
     -122.370943,
-    45.586144
+    32.733534,
+    -117.185927,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.597389,45.586144]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}
 }

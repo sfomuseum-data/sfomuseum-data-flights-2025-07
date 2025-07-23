@@ -2,40 +2,40 @@
   "id": 1980908795,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "8012",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753071840,
+    "flysfo:base_flight_number": "9556",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753173180,
     "flysfo:event": "A",
-    "flysfo:flight_number": "B65812",
-    "flysfo:gate": "B11",
-    "flysfo:journey": "HNL-SFO",
-    "flysfo:scheduled_timestamp": 1753072500,
-    "flysfo:timestamp": 1753072500,
+    "flysfo:flight_number": "B6515",
+    "flysfo:gate": "B19",
+    "flysfo:journey": "JFK-SFO",
+    "flysfo:scheduled_timestamp": 1753173780,
+    "flysfo:timestamp": 1753173780,
     "geom:area": 0,
-    "geom:bbox": "-157.918416,21.332508,-122.370943,37.617990",
-    "geom:latitude": 29.475248999999998,
-    "geom:longitude": -140.1446795,
+    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
+    "geom:latitude": 39.130638000000005,
+    "geom:longitude": -98.07939400000001,
     "iata:airline": "B6",
     "iata:base_airline": "",
     "icao:airline": "JBU",
-    "icao:base_airline": "ASA",
+    "icao:base_airline": "RAM",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ASA-8012",
-    "sfomuseum:departure_id": 102533997,
-    "sfomuseum:flight_id": "20250720-A-JBU-5812",
+    "sfomuseum:base_flight_id": "20250722-A-RAM-9556",
+    "sfomuseum:departure_id": 102534365,
+    "sfomuseum:flight_id": "20250722-A-JBU-515",
     "sfomuseum:flight_number": [
-      "JBU5812",
-      "B65812"
+      "JBU515",
+      "B6515"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304311,
+      1947304301,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114442,
-    "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
+    "wof:created": 1753286890,
+    "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304311,
+        "venue_id": 1947304301,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980908795,
         "flight_id": 1980908795,
         "region_id": 85688637,
-        "venue_id": 1947304311,
+        "venue_id": 1947304301,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980908795,
     "wof:involves": [
       102527513,
-      102533997,
+      102534365,
       1159284583,
-      1947304311,
-      1159283813
+      1947304301,
+      1159285081
     ],
-    "wof:lastmodified": 1753114442,
-    "wof:name": "B65812 (HNL-SFO)",
-    "wof:parent_id": 1947304311,
+    "wof:lastmodified": 1753286890,
+    "wof:name": "B6515 (JFK-SFO)",
+    "wof:parent_id": 1947304301,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416,
-    21.332508,
     -122.370943,
-    37.61799
+    37.61799,
+    -73.787845,
+    40.643286
   ],
-  "geometry": {"coordinates":[[-157.918416,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

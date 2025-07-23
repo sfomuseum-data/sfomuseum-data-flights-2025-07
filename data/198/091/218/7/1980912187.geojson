@@ -2,40 +2,40 @@
   "id": 1980912187,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "OS",
+    "flysfo:airline": "AV",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4724",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753041240,
+    "flysfo:base_flight_number": "2878",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753219800,
     "flysfo:event": "D",
-    "flysfo:flight_number": "OS8216",
-    "flysfo:gate": "D1",
-    "flysfo:journey": "SFO-YYZ",
-    "flysfo:scheduled_timestamp": 1753038900,
-    "flysfo:timestamp": 1753041240,
+    "flysfo:flight_number": "AV2878",
+    "flysfo:gate": "D11",
+    "flysfo:journey": "SFO-YEG",
+    "flysfo:scheduled_timestamp": 1753214700,
+    "flysfo:timestamp": 1753219800,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-79.628342,43.676352",
-    "geom:latitude": 40.647171,
-    "geom:longitude": -100.9996425,
-    "iata:airline": "OS",
+    "geom:bbox": "-122.370943,37.617990,-113.584752,53.308108",
+    "geom:latitude": 45.463049,
+    "geom:longitude": -117.9778475,
+    "iata:airline": "AV",
     "iata:base_airline": "",
-    "icao:airline": "AUA",
-    "icao:base_airline": "ANZ",
-    "lbl:latitude": 37.616987,
-    "lbl:longitude": -122.382479,
-    "sfomuseum:airline_id": 1159283947,
-    "sfomuseum:arrival_id": 102555091,
-    "sfomuseum:base_flight_id": "20250720-D-ANZ-4724",
+    "icao:airline": "AVA",
+    "icao:base_airline": "AVA",
+    "lbl:latitude": 37.618139,
+    "lbl:longitude": -122.381258,
+    "sfomuseum:airline_id": 1159285749,
+    "sfomuseum:arrival_id": 102554473,
+    "sfomuseum:base_flight_id": "20250722-D-AVA-2878",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-AUA-8216",
+    "sfomuseum:flight_id": "20250722-D-AVA-2878",
     "sfomuseum:flight_number": [
-      "AUA8216",
-      "OS8216"
+      "AVA2878",
+      "AV2878"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304625,
+      1947304627,
       1947304591,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115277,
-    "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
+    "wof:created": 1753287292,
+    "wof:geomhash": "d4a7e38ab5b38aac9300ec43a62729ca",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304625,
+        "venue_id": 1947304627,
         "wing_id": 1947304591
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980912187,
         "flight_id": 1980912187,
         "region_id": 85688637,
-        "venue_id": 1947304625,
+        "venue_id": 1947304627,
         "wing_id": 1947304591
       }
     ],
     "wof:id": 1980912187,
     "wof:involves": [
-      102555091,
+      102554473,
       102527513,
-      1159283947,
-      1947304625,
-      1159283697
+      1159285749,
+      1947304627,
+      1159285749
     ],
-    "wof:lastmodified": 1753115277,
-    "wof:name": "OS8216 (SFO-YYZ)",
-    "wof:parent_id": 1947304625,
+    "wof:lastmodified": 1753287292,
+    "wof:name": "AV2878 (SFO-YEG)",
+    "wof:parent_id": 1947304627,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -79.628342,
-    43.676352
+    -113.584752,
+    53.308108
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-79.628342,43.676352]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-113.584752,53.308108]],"type":"MultiPoint"}
 }

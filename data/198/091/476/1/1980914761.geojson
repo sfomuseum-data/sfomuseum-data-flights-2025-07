@@ -2,40 +2,35 @@
   "id": 1980914761,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
-    "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "2068",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753052880,
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753253220,
     "flysfo:event": "D",
-    "flysfo:flight_number": "UA5664",
-    "flysfo:gate": "E2",
-    "flysfo:journey": "SFO-EUG",
-    "flysfo:scheduled_timestamp": 1753053000,
-    "flysfo:timestamp": 1753053000,
+    "flysfo:flight_number": "UA877",
+    "flysfo:gate": "F13",
+    "flysfo:journey": "SFO-HKG",
+    "flysfo:scheduled_timestamp": 1753253400,
+    "flysfo:timestamp": 1753253400,
     "geom:area": 0,
-    "geom:bbox": "-123.213030,37.617990,-122.370943,44.119058",
-    "geom:latitude": 40.868524,
-    "geom:longitude": -122.79198650000001,
+    "geom:bbox": "-122.370943,22.307471,113.927436,37.617990",
+    "geom:latitude": 29.9627305,
+    "geom:longitude": -4.221753499999998,
     "iata:airline": "UA",
-    "iata:base_airline": "",
     "icao:airline": "UAL",
-    "icao:base_airline": "AVA",
-    "lbl:latitude": 37.618678,
-    "lbl:longitude": -122.385955,
+    "lbl:latitude": 37.620534,
+    "lbl:longitude": -122.388506,
     "sfomuseum:airline_id": 1159285413,
-    "sfomuseum:arrival_id": 102533927,
-    "sfomuseum:base_flight_id": "20250720-D-AVA-2068",
+    "sfomuseum:arrival_id": 102541737,
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-UAL-5664",
+    "sfomuseum:flight_id": "20250722-D-UAL-877",
     "sfomuseum:flight_number": [
-      "UAL5664",
-      "UA5664"
+      "UAL877",
+      "UA877"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +44,13 @@
       85922583,
       554784711,
       85688637,
-      1947304481,
+      1947304459,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115954,
-    "wof:geomhash": "ac29143dee46faf8dc4d82fa5cfc7601",
+    "wof:created": 1753287577,
+    "wof:geomhash": "b8fc8d95bb44b1c6b9f6cb201e4d2ca9",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +64,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304481,
+        "venue_id": 1947304459,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +77,20 @@
         "custom_id": 1980914761,
         "flight_id": 1980914761,
         "region_id": 85688637,
-        "venue_id": 1947304481,
+        "venue_id": 1947304459,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980914761,
     "wof:involves": [
-      102533927,
+      102541737,
       102527513,
       1159285413,
-      1947304481,
-      1159285749
+      1947304459
     ],
-    "wof:lastmodified": 1753115954,
-    "wof:name": "UA5664 (SFO-EUG)",
-    "wof:parent_id": 1947304481,
+    "wof:lastmodified": 1753287577,
+    "wof:name": "UA877 (SFO-HKG)",
+    "wof:parent_id": 1947304459,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +100,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -123.21303,
-    37.61799,
     -122.370943,
-    44.119058
+    22.307471,
+    113.927436,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-123.21303,44.119058]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[113.927436,22.307471]],"type":"MultiPoint"}
 }

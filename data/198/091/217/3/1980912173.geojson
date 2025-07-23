@@ -2,40 +2,40 @@
   "id": 1980912173,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "OS",
+    "flysfo:airline": "AV",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "5448",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753041420,
+    "flysfo:base_flight_number": "2350",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753198380,
     "flysfo:event": "D",
-    "flysfo:flight_number": "OS7856",
-    "flysfo:gate": "F11",
-    "flysfo:journey": "SFO-LHR",
-    "flysfo:scheduled_timestamp": 1753041600,
-    "flysfo:timestamp": 1753041600,
+    "flysfo:flight_number": "AV2350",
+    "flysfo:gate": "F21",
+    "flysfo:journey": "SFO-LIH",
+    "flysfo:scheduled_timestamp": 1753198500,
+    "flysfo:timestamp": 1753198500,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-0.450443,51.470087",
-    "geom:latitude": 44.5440385,
-    "geom:longitude": -61.410693,
-    "iata:airline": "OS",
+    "geom:bbox": "-159.347789,21.981539,-122.370943,37.617990",
+    "geom:latitude": 29.799764500000002,
+    "geom:longitude": -140.859366,
+    "iata:airline": "AV",
     "iata:base_airline": "",
-    "icao:airline": "AUA",
-    "icao:base_airline": "ACA",
-    "lbl:latitude": 37.620244,
-    "lbl:longitude": -122.387813,
-    "sfomuseum:airline_id": 1159283947,
-    "sfomuseum:arrival_id": 102556703,
-    "sfomuseum:base_flight_id": "20250720-D-ACA-5448",
+    "icao:airline": "AVA",
+    "icao:base_airline": "AVA",
+    "lbl:latitude": 37.621173,
+    "lbl:longitude": -122.390131,
+    "sfomuseum:airline_id": 1159285749,
+    "sfomuseum:arrival_id": 102528943,
+    "sfomuseum:base_flight_id": "20250722-D-AVA-2350",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-AUA-7856",
+    "sfomuseum:flight_id": "20250722-D-AVA-2350",
     "sfomuseum:flight_number": [
-      "AUA7856",
-      "OS7856"
+      "AVA2350",
+      "AV2350"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304463,
+      1947304491,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115274,
-    "wof:geomhash": "86f41e039827d60bcd1a72801f72cbc2",
+    "wof:created": 1753287290,
+    "wof:geomhash": "a2498fe603884edb23014f03e0e3c121",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304463,
+        "venue_id": 1947304491,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980912173,
         "flight_id": 1980912173,
         "region_id": 85688637,
-        "venue_id": 1947304463,
+        "venue_id": 1947304491,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980912173,
     "wof:involves": [
-      102556703,
+      102528943,
       102527513,
-      1159283947,
-      1947304463,
-      1159283597
+      1159285749,
+      1947304491,
+      1159285749
     ],
-    "wof:lastmodified": 1753115274,
-    "wof:name": "OS7856 (SFO-LHR)",
-    "wof:parent_id": 1947304463,
+    "wof:lastmodified": 1753287290,
+    "wof:name": "AV2350 (SFO-LIH)",
+    "wof:parent_id": 1947304491,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
+    -159.347789,
+    21.981539,
     -122.370943,
-    37.61799,
-    -0.450443,
-    51.470087
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-0.450443,51.470087]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-159.347789,21.981539]],"type":"MultiPoint"}
 }

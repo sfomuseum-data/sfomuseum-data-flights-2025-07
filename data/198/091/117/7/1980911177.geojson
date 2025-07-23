@@ -2,40 +2,40 @@
   "id": 1980911177,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4379",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753053420,
+    "flysfo:base_flight_number": "4468",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753201440,
     "flysfo:event": "D",
-    "flysfo:flight_number": "AC4379",
-    "flysfo:gate": "F8",
-    "flysfo:journey": "SFO-BOI",
-    "flysfo:scheduled_timestamp": 1753053900,
-    "flysfo:timestamp": 1753053900,
+    "flysfo:flight_number": "AC4468",
+    "flysfo:gate": "F9",
+    "flysfo:journey": "SFO-SLC",
+    "flysfo:scheduled_timestamp": 1753201800,
+    "flysfo:timestamp": 1753201800,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-116.224634,43.564048",
-    "geom:latitude": 40.591019,
-    "geom:longitude": -119.2977885,
+    "geom:bbox": "-122.370943,37.617990,-111.980566,40.782170",
+    "geom:latitude": 39.20008,
+    "geom:longitude": -117.1757545,
     "iata:airline": "AC",
     "iata:base_airline": "",
     "icao:airline": "ACA",
     "icao:base_airline": "ACA",
-    "lbl:latitude": 37.61799,
-    "lbl:longitude": -122.370943,
+    "lbl:latitude": 37.620731,
+    "lbl:longitude": -122.387053,
     "sfomuseum:airline_id": 1159283597,
-    "sfomuseum:arrival_id": 102527733,
-    "sfomuseum:base_flight_id": "20250720-D-ACA-4379",
+    "sfomuseum:arrival_id": 102527363,
+    "sfomuseum:base_flight_id": "20250722-D-ACA-4468",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-ACA-4379",
+    "sfomuseum:flight_id": "20250722-D-ACA-4468",
     "sfomuseum:flight_number": [
-      "ACA4379",
-      "AC4379"
+      "ACA4468",
+      "AC4468"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304469,
+      1947304493,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115028,
-    "wof:geomhash": "5c4ab4afb4473393075e7e0145a9edb2",
+    "wof:created": 1753287181,
+    "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304469,
+        "venue_id": 1947304493,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980911177,
         "flight_id": 1980911177,
         "region_id": 85688637,
-        "venue_id": 1947304469,
+        "venue_id": 1947304493,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980911177,
     "wof:involves": [
-      102527733,
+      102527363,
       102527513,
       1159283597,
-      1947304469,
+      1947304493,
       1159283597
     ],
-    "wof:lastmodified": 1753115028,
-    "wof:name": "AC4379 (SFO-BOI)",
-    "wof:parent_id": 1947304469,
+    "wof:lastmodified": 1753287181,
+    "wof:name": "AC4468 (SFO-SLC)",
+    "wof:parent_id": 1947304493,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -116.224634,
-    43.564048
+    -111.980566,
+    40.78217
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-116.224634,43.564048]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-111.980566,40.78217]],"type":"MultiPoint"}
 }

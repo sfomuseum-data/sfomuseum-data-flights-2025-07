@@ -2,26 +2,26 @@
   "id": 1980906107,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7462",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753028280,
+    "flysfo:base_flight_number": "7421",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753238880,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AA7462",
-    "flysfo:gate": "B9",
-    "flysfo:journey": "SEA-SFO",
-    "flysfo:scheduled_timestamp": 1753028160,
-    "flysfo:timestamp": 1753028280,
+    "flysfo:flight_number": "AA7421",
+    "flysfo:gate": "B13",
+    "flysfo:journey": "AUS-SFO",
+    "flysfo:scheduled_timestamp": 1753232220,
+    "flysfo:timestamp": 1753238880,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-122.304268,47.441823",
-    "geom:latitude": 42.529906499999996,
-    "geom:longitude": -122.3376055,
+    "geom:bbox": "-122.370943,30.206175,-97.643029,37.617990",
+    "geom:latitude": 33.9120825,
+    "geom:longitude": -110.006986,
     "iata:airline": "AA",
     "iata:base_airline": "",
     "icao:airline": "AAL",
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AAL-7462",
-    "sfomuseum:departure_id": 102533269,
-    "sfomuseum:flight_id": "20250720-A-AAL-7462",
+    "sfomuseum:base_flight_id": "20250722-A-AAL-7421",
+    "sfomuseum:departure_id": 102521851,
+    "sfomuseum:flight_id": "20250722-A-AAL-7421",
     "sfomuseum:flight_number": [
-      "AAL7462",
-      "AA7462"
+      "AAL7421",
+      "AA7421"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304303,
+      1947304267,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753113758,
-    "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
+    "wof:created": 1753286550,
+    "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304303,
+        "venue_id": 1947304267,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980906107,
         "flight_id": 1980906107,
         "region_id": 85688637,
-        "venue_id": 1947304303,
+        "venue_id": 1947304267,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980906107,
     "wof:involves": [
       102527513,
-      102533269,
+      102521851,
       1159283849,
-      1947304303,
+      1947304267,
       1159283849
     ],
-    "wof:lastmodified": 1753113758,
-    "wof:name": "AA7462 (SEA-SFO)",
-    "wof:parent_id": 1947304303,
+    "wof:lastmodified": 1753286550,
+    "wof:name": "AA7421 (AUS-SFO)",
+    "wof:parent_id": 1947304267,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -122.304268,
-    47.441823
+    30.206175,
+    -97.643029,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-97.643029,30.206175],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

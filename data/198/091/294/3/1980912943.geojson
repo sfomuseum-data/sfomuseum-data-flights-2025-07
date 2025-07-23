@@ -2,48 +2,43 @@
   "id": 1980912943,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-21",
-    "date:cessation_upper": "2025-07-21",
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
-    "edtf:cessation": "2025-07-21T10:27:00Z",
-    "edtf:inception": "2025-07-21T07:26:00Z",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "F9",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753081020,
+    "flysfo:airline": "GF",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "6507",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753226760,
     "flysfo:event": "D",
-    "flysfo:flight_number": "F94000",
-    "flysfo:gate": "B4",
-    "flysfo:journey": "SFO-DFW",
-    "flysfo:scheduled_timestamp": 1753079400,
-    "flysfo:timestamp": 1753081020,
+    "flysfo:flight_number": "GF4201",
+    "flysfo:gate": "B22",
+    "flysfo:journey": "SFO-LAX",
+    "flysfo:scheduled_timestamp": 1753226700,
+    "flysfo:timestamp": 1753226760,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,32.903660,-97.050966,37.617990",
-    "geom:latitude": 35.260825,
-    "geom:longitude": -109.7109545,
-    "iata:airline": "F9",
-    "icao:aircraft": "A21N",
-    "icao:airline": "FFT",
+    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
+    "geom:latitude": 35.780291500000004,
+    "geom:longitude": -120.38022649999999,
+    "iata:airline": "GF",
+    "iata:base_airline": "",
+    "icao:airline": "GFA",
+    "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:aircraft_id": 1377564297,
-    "sfomuseum:airline_id": 1159284401,
-    "sfomuseum:arrival_id": 102528541,
+    "sfomuseum:airline_id": 1159284467,
+    "sfomuseum:arrival_id": 102533795,
+    "sfomuseum:base_flight_id": "20250722-D-BAW-6507",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-FFT-4000",
+    "sfomuseum:flight_id": "20250722-D-GFA-4201",
     "sfomuseum:flight_number": [
-      "FFT4000",
-      "F94000"
+      "GFA4201",
+      "GF4201"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-takeoff"
-    ],
-    "swim:tail_number": "N613FR",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -54,16 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304279,
+      1947304295,
       1947304259,
       102085387
     ],
-    "wof:concordances": {
-      "swim:gufi": "KO19887200"
-    },
     "wof:country": "US",
-    "wof:created": 1753115469,
-    "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
+    "wof:created": 1753287375,
+    "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -77,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304279,
+        "venue_id": 1947304295,
         "wing_id": 1947304259
       },
       {
@@ -90,21 +82,21 @@
         "custom_id": 1980912943,
         "flight_id": 1980912943,
         "region_id": 85688637,
-        "venue_id": 1947304279,
+        "venue_id": 1947304295,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980912943,
     "wof:involves": [
-      1377564297,
-      102528541,
+      102533795,
       102527513,
-      1159284401,
-      1947304279
+      1159284467,
+      1947304295,
+      1159284021
     ],
-    "wof:lastmodified": 1753116148,
-    "wof:name": "F94000 (SFO-DFW)",
-    "wof:parent_id": 1947304279,
+    "wof:lastmodified": 1753287375,
+    "wof:name": "GF4201 (SFO-LAX)",
+    "wof:parent_id": 1947304295,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -115,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    32.90366,
-    -97.050966,
+    33.942593,
+    -118.38951,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}
 }

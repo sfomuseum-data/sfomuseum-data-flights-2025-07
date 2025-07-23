@@ -2,40 +2,40 @@
   "id": 1980912487,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "DE",
+    "flysfo:airline": "CZ",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9380",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753080600,
+    "flysfo:base_flight_number": "7602",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753170900,
     "flysfo:event": "D",
-    "flysfo:flight_number": "DE5302",
-    "flysfo:gate": "B7",
-    "flysfo:journey": "SFO-PDX",
-    "flysfo:scheduled_timestamp": 1753069800,
-    "flysfo:timestamp": 1753080600,
+    "flysfo:flight_number": "CZ1602",
+    "flysfo:gate": "B26",
+    "flysfo:journey": "SFO-DFW",
+    "flysfo:scheduled_timestamp": 1753170900,
+    "flysfo:timestamp": 1753170900,
     "geom:area": 0,
-    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
-    "geom:latitude": 41.602067,
-    "geom:longitude": -122.484166,
-    "iata:airline": "DE",
+    "geom:bbox": "-122.370943,32.903660,-97.050966,37.617990",
+    "geom:latitude": 35.260825,
+    "geom:longitude": -109.7109545,
+    "iata:airline": "CZ",
     "iata:base_airline": "",
-    "icao:airline": "CFG",
-    "icao:base_airline": "AAL",
+    "icao:airline": "CSN",
+    "icao:base_airline": "CPA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159284193,
-    "sfomuseum:arrival_id": 102532251,
-    "sfomuseum:base_flight_id": "20250720-D-AAL-9380",
+    "sfomuseum:airline_id": 1159284165,
+    "sfomuseum:arrival_id": 102528541,
+    "sfomuseum:base_flight_id": "20250722-D-CPA-7602",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-CFG-5302",
+    "sfomuseum:flight_id": "20250722-D-CSN-1602",
     "sfomuseum:flight_number": [
-      "CFG5302",
-      "DE5302"
+      "CSN1602",
+      "CZ1602"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304293,
+      1947304283,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115353,
-    "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
+    "wof:created": 1753287325,
+    "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304293,
+        "venue_id": 1947304283,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980912487,
         "flight_id": 1980912487,
         "region_id": 85688637,
-        "venue_id": 1947304293,
+        "venue_id": 1947304283,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980912487,
     "wof:involves": [
-      102532251,
+      102528541,
       102527513,
-      1159284193,
-      1947304293,
-      1159283849
+      1159284165,
+      1947304283,
+      1159284127
     ],
-    "wof:lastmodified": 1753115353,
-    "wof:name": "DE5302 (SFO-PDX)",
-    "wof:parent_id": 1947304293,
+    "wof:lastmodified": 1753287325,
+    "wof:name": "CZ1602 (SFO-DFW)",
+    "wof:parent_id": 1947304283,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389,
-    37.61799,
     -122.370943,
-    45.586144
+    32.90366,
+    -97.050966,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.597389,45.586144]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]],"type":"MultiPoint"}
 }

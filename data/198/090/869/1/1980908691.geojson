@@ -2,20 +2,20 @@
   "id": 1980908691,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "6E",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753031040,
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753226340,
     "flysfo:event": "A",
-    "flysfo:flight_number": "6E4041",
+    "flysfo:flight_number": "6E4039",
     "flysfo:gate": "A2",
     "flysfo:journey": "IST-SFO",
-    "flysfo:scheduled_timestamp": 1753032900,
-    "flysfo:timestamp": 1753032900,
+    "flysfo:scheduled_timestamp": 1753227600,
+    "flysfo:timestamp": 1753227600,
     "geom:area": 0,
     "geom:bbox": "-122.370943,37.617990,28.727778,41.262222",
     "geom:latitude": 39.440106,
@@ -27,10 +27,10 @@
     "sfomuseum:airline_id": -1,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 1779770747,
-    "sfomuseum:flight_id": "20250720-A-IGO-4041",
+    "sfomuseum:flight_id": "20250722-A-IGO-4039",
     "sfomuseum:flight_number": [
-      "IGO4041",
-      "6E4041"
+      "IGO4039",
+      "6E4039"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,7 +49,7 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114416,
+    "wof:created": 1753286878,
     "wof:geomhash": "4d2f43ff669fe1502d86c3c45d37677c",
     "wof:hierarchy": [
       {
@@ -88,8 +88,8 @@
       -1,
       1947304075
     ],
-    "wof:lastmodified": 1753114416,
-    "wof:name": "6E4041 (IST-SFO)",
+    "wof:lastmodified": 1753286878,
+    "wof:name": "6E4039 (IST-SFO)",
     "wof:parent_id": 1947304075,
     "wof:placetype": "custom",
     "wof:placetype_alt": [

@@ -2,53 +2,38 @@
   "id": 1980914669,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-20",
-    "date:cessation_upper": "2025-07-20",
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
-    "edtf:cessation": "2025-07-20T11:20:53Z",
-    "edtf:inception": "2025-07-20T18:11:26-07:00",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
-    "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9190",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1752996840,
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753207080,
     "flysfo:event": "D",
-    "flysfo:flight_number": "UA512",
-    "flysfo:gate": "F12",
-    "flysfo:journey": "SFO-IAH",
-    "flysfo:scheduled_timestamp": 1752996600,
-    "flysfo:timestamp": 1752996840,
+    "flysfo:flight_number": "UA6001",
+    "flysfo:gate": "F7",
+    "flysfo:journey": "SFO-MTY",
+    "flysfo:scheduled_timestamp": 1753207440,
+    "flysfo:timestamp": 1753207440,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,29.977186,-95.338444,37.617990",
-    "geom:latitude": 33.797588,
-    "geom:longitude": -108.8546935,
+    "geom:bbox": "-122.370943,25.780084,-100.114904,37.617990",
+    "geom:latitude": 31.699036999999997,
+    "geom:longitude": -111.24292349999999,
     "iata:airline": "UA",
-    "iata:base_airline": "",
-    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
-    "icao:base_airline": "ANZ",
-    "lbl:latitude": 37.620058,
-    "lbl:longitude": -122.38824,
-    "sfomuseum:aircraft_id": 1528104577,
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159285413,
-    "sfomuseum:arrival_id": 102534097,
-    "sfomuseum:base_flight_id": "20250720-D-ANZ-9190",
+    "sfomuseum:arrival_id": 102536351,
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-UAL-512",
+    "sfomuseum:flight_id": "20250722-D-UAL-6001",
     "sfomuseum:flight_number": [
-      "UAL512",
-      "UA512"
+      "UAL6001",
+      "UA6001"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-takeoff"
-    ],
-    "swim:tail_number": "N37508",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -59,17 +44,13 @@
       85922583,
       554784711,
       85688637,
-      1947304483,
+      1947304465,
       1947304447,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "105897354",
-      "swim:gufi": "KO13632100"
-    },
     "wof:country": "US",
-    "wof:created": 1753115932,
-    "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
+    "wof:created": 1753287567,
+    "wof:geomhash": "48153b691162a6beee6fa4d9e191993e",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -83,7 +64,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304483,
+        "venue_id": 1947304465,
         "wing_id": 1947304447
       },
       {
@@ -96,22 +77,20 @@
         "custom_id": 1980914669,
         "flight_id": 1980914669,
         "region_id": 85688637,
-        "venue_id": 1947304483,
+        "venue_id": 1947304465,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980914669,
     "wof:involves": [
-      1528104577,
-      102534097,
+      102536351,
       102527513,
       1159285413,
-      1947304483,
-      1159283697
+      1947304465
     ],
-    "wof:lastmodified": 1753116161,
-    "wof:name": "UA512 (SFO-IAH)",
-    "wof:parent_id": 1947304483,
+    "wof:lastmodified": 1753287567,
+    "wof:name": "UA6001 (SFO-MTY)",
+    "wof:parent_id": 1947304465,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -122,9 +101,9 @@
   },
   "bbox": [
     -122.370943,
-    29.977186,
-    -95.338444,
+    25.780084,
+    -100.114904,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-95.338444,29.977186]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-100.114904,25.780084]],"type":"MultiPoint"}
 }

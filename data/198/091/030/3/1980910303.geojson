@@ -2,22 +2,22 @@
   "id": 1980910303,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "VS",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4313",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753073100,
+    "flysfo:base_flight_number": "2653",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753213200,
     "flysfo:event": "A",
-    "flysfo:flight_number": "VS4542",
-    "flysfo:gate": "C7",
+    "flysfo:flight_number": "VS4538",
+    "flysfo:gate": "C3",
     "flysfo:journey": "SLC-SFO",
-    "flysfo:scheduled_timestamp": 1753073640,
-    "flysfo:timestamp": 1753073640,
+    "flysfo:scheduled_timestamp": 1753211520,
+    "flysfo:timestamp": 1753213200,
     "geom:area": 0,
     "geom:bbox": "-122.370943,37.617990,-111.980566,40.782170",
     "geom:latitude": 39.20008,
@@ -25,17 +25,17 @@
     "iata:airline": "VS",
     "iata:base_airline": "",
     "icao:airline": "VIR",
-    "icao:base_airline": "AMX",
-    "lbl:latitude": 37.61799,
-    "lbl:longitude": -122.370943,
+    "icao:base_airline": "AFR",
+    "lbl:latitude": 37.615398,
+    "lbl:longitude": -122.383426,
     "sfomuseum:airline_id": 1159285483,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AMX-4313",
+    "sfomuseum:base_flight_id": "20250722-A-AFR-2653",
     "sfomuseum:departure_id": 102527363,
-    "sfomuseum:flight_id": "20250720-A-VIR-4542",
+    "sfomuseum:flight_id": "20250722-A-VIR-4538",
     "sfomuseum:flight_number": [
-      "VIR4542",
-      "VS4542"
+      "VIR4538",
+      "VS4538"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,12 +49,12 @@
       85922583,
       554784711,
       85688637,
-      1947304669,
+      1947304671,
       1947304591,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114816,
+    "wof:created": 1753287084,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
     "wof:hierarchy": [
       {
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304669,
+        "venue_id": 1947304671,
         "wing_id": 1947304591
       },
       {
@@ -82,7 +82,7 @@
         "custom_id": 1980910303,
         "flight_id": 1980910303,
         "region_id": 85688637,
-        "venue_id": 1947304669,
+        "venue_id": 1947304671,
         "wing_id": 1947304591
       }
     ],
@@ -91,12 +91,12 @@
       102527513,
       102527363,
       1159285483,
-      1947304669,
-      1159283539
+      1947304671,
+      1159283627
     ],
-    "wof:lastmodified": 1753114816,
-    "wof:name": "VS4542 (SLC-SFO)",
-    "wof:parent_id": 1947304669,
+    "wof:lastmodified": 1753287084,
+    "wof:name": "VS4538 (SLC-SFO)",
+    "wof:parent_id": 1947304671,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

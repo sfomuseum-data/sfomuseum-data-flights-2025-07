@@ -2,40 +2,40 @@
   "id": 1980908965,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "QF",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "5322",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753059000,
+    "flysfo:base_flight_number": "5004",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753252980,
     "flysfo:event": "A",
-    "flysfo:flight_number": "QF3106",
-    "flysfo:gate": "B22",
-    "flysfo:journey": "ORD-SFO",
-    "flysfo:scheduled_timestamp": 1753059240,
-    "flysfo:timestamp": 1753059240,
+    "flysfo:flight_number": "QF3080",
+    "flysfo:gate": "B27",
+    "flysfo:journey": "JFK-SFO",
+    "flysfo:scheduled_timestamp": 1753253280,
+    "flysfo:timestamp": 1753253280,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-87.894364,41.983038",
-    "geom:latitude": 39.800514,
-    "geom:longitude": -105.1326535,
+    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
+    "geom:latitude": 39.130638000000005,
+    "geom:longitude": -98.07939400000001,
     "iata:airline": "QF",
     "iata:base_airline": "",
     "icao:airline": "QFA",
-    "icao:base_airline": "BAW",
+    "icao:base_airline": "RAM",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159285043,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-BAW-5322",
-    "sfomuseum:departure_id": 102533631,
-    "sfomuseum:flight_id": "20250720-A-QFA-3106",
+    "sfomuseum:base_flight_id": "20250722-A-RAM-5004",
+    "sfomuseum:departure_id": 102534365,
+    "sfomuseum:flight_id": "20250722-A-QFA-3080",
     "sfomuseum:flight_number": [
-      "QFA3106",
-      "QF3106"
+      "QFA3080",
+      "QF3080"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304295,
+      1947304291,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114484,
-    "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
+    "wof:created": 1753286909,
+    "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304295,
+        "venue_id": 1947304291,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980908965,
         "flight_id": 1980908965,
         "region_id": 85688637,
-        "venue_id": 1947304295,
+        "venue_id": 1947304291,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980908965,
     "wof:involves": [
       102527513,
-      102533631,
+      102534365,
       1159285043,
-      1947304295,
-      1159284021
+      1947304291,
+      1159285081
     ],
-    "wof:lastmodified": 1753114484,
-    "wof:name": "QF3106 (ORD-SFO)",
-    "wof:parent_id": 1947304295,
+    "wof:lastmodified": 1753286909,
+    "wof:name": "QF3080 (JFK-SFO)",
+    "wof:parent_id": 1947304291,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -87.894364,
-    41.983038
+    -73.787845,
+    40.643286
   ],
-  "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

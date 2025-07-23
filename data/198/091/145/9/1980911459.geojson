@@ -2,26 +2,26 @@
   "id": 1980911459,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "NH",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4368",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753053480,
+    "flysfo:base_flight_number": "3996",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753217880,
     "flysfo:event": "D",
-    "flysfo:flight_number": "NH7306",
+    "flysfo:flight_number": "NH7334",
     "flysfo:gate": "E9",
-    "flysfo:journey": "SFO-PHX",
-    "flysfo:scheduled_timestamp": 1753053900,
-    "flysfo:timestamp": 1753053900,
+    "flysfo:journey": "SFO-BOI",
+    "flysfo:scheduled_timestamp": 1753217940,
+    "flysfo:timestamp": 1753217940,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,33.432684,-112.017392,37.617990",
-    "geom:latitude": 35.525337,
-    "geom:longitude": -117.19416749999999,
+    "geom:bbox": "-122.370943,37.617990,-116.224634,43.564048",
+    "geom:latitude": 40.591019,
+    "geom:longitude": -119.2977885,
     "iata:airline": "NH",
     "iata:base_airline": "",
     "icao:airline": "ANA",
@@ -29,13 +29,13 @@
     "lbl:latitude": 37.619124,
     "lbl:longitude": -122.383949,
     "sfomuseum:airline_id": 1159283875,
-    "sfomuseum:arrival_id": 102526751,
-    "sfomuseum:base_flight_id": "20250720-D-ACA-4368",
+    "sfomuseum:arrival_id": 102527733,
+    "sfomuseum:base_flight_id": "20250722-D-ACA-3996",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-ANA-7306",
+    "sfomuseum:flight_id": "20250722-D-ANA-7334",
     "sfomuseum:flight_number": [
-      "ANA7306",
-      "NH7306"
+      "ANA7334",
+      "NH7334"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115096,
-    "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
+    "wof:created": 1753287211,
+    "wof:geomhash": "5c4ab4afb4473393075e7e0145a9edb2",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -88,14 +88,14 @@
     ],
     "wof:id": 1980911459,
     "wof:involves": [
-      102526751,
+      102527733,
       102527513,
       1159283875,
       1947304523,
       1159283597
     ],
-    "wof:lastmodified": 1753115096,
-    "wof:name": "NH7306 (SFO-PHX)",
+    "wof:lastmodified": 1753287211,
+    "wof:name": "NH7334 (SFO-BOI)",
     "wof:parent_id": 1947304523,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    33.432684,
-    -112.017392,
-    37.61799
+    37.61799,
+    -116.224634,
+    43.564048
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-112.017392,33.432684]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-116.224634,43.564048]],"type":"MultiPoint"}
 }

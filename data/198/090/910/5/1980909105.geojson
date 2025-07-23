@@ -2,22 +2,22 @@
   "id": 1980909105,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "QR",
     "flysfo:base_airline": "",
     "flysfo:base_flight_number": "6449",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753041540,
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753219140,
     "flysfo:event": "A",
     "flysfo:flight_number": "QR2146",
-    "flysfo:gate": "B7",
+    "flysfo:gate": "B17",
     "flysfo:journey": "LAX-SFO",
-    "flysfo:scheduled_timestamp": 1753041360,
-    "flysfo:timestamp": 1753041540,
+    "flysfo:scheduled_timestamp": 1753214160,
+    "flysfo:timestamp": 1753219140,
     "geom:area": 0,
     "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
     "geom:latitude": 35.780291500000004,
@@ -30,9 +30,9 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159286153,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-BAW-6449",
+    "sfomuseum:base_flight_id": "20250722-A-BAW-6449",
     "sfomuseum:departure_id": 102533795,
-    "sfomuseum:flight_id": "20250720-A-QTR-2146",
+    "sfomuseum:flight_id": "20250722-A-QTR-2146",
     "sfomuseum:flight_number": [
       "QTR2146",
       "QR2146"
@@ -49,12 +49,12 @@
       85922583,
       554784711,
       85688637,
-      1947304293,
+      1947304285,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114519,
+    "wof:created": 1753286938,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304293,
+        "venue_id": 1947304285,
         "wing_id": 1947304259
       },
       {
@@ -82,7 +82,7 @@
         "custom_id": 1980909105,
         "flight_id": 1980909105,
         "region_id": 85688637,
-        "venue_id": 1947304293,
+        "venue_id": 1947304285,
         "wing_id": 1947304259
       }
     ],
@@ -91,12 +91,12 @@
       102527513,
       102533795,
       1159286153,
-      1947304293,
+      1947304285,
       1159284021
     ],
-    "wof:lastmodified": 1753114519,
+    "wof:lastmodified": 1753286938,
     "wof:name": "QR2146 (LAX-SFO)",
-    "wof:parent_id": 1947304293,
+    "wof:parent_id": 1947304285,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

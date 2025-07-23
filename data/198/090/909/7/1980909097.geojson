@@ -2,22 +2,22 @@
   "id": 1980909097,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "QR",
     "flysfo:base_airline": "",
     "flysfo:base_flight_number": "7511",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753041120,
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753213200,
     "flysfo:event": "A",
     "flysfo:flight_number": "QR2139",
-    "flysfo:gate": "B17",
+    "flysfo:gate": "B21",
     "flysfo:journey": "PDX-SFO",
-    "flysfo:scheduled_timestamp": 1753039440,
-    "flysfo:timestamp": 1753041120,
+    "flysfo:scheduled_timestamp": 1753212240,
+    "flysfo:timestamp": 1753213200,
     "geom:area": 0,
     "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
     "geom:latitude": 41.602067,
@@ -30,9 +30,9 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159286153,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AAL-7511",
+    "sfomuseum:base_flight_id": "20250722-A-AAL-7511",
     "sfomuseum:departure_id": 102532251,
-    "sfomuseum:flight_id": "20250720-A-QTR-2139",
+    "sfomuseum:flight_id": "20250722-A-QTR-2139",
     "sfomuseum:flight_number": [
       "QTR2139",
       "QR2139"
@@ -49,12 +49,12 @@
       85922583,
       554784711,
       85688637,
-      1947304285,
+      1947304315,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114517,
+    "wof:created": 1753286938,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
     "wof:hierarchy": [
       {
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304285,
+        "venue_id": 1947304315,
         "wing_id": 1947304259
       },
       {
@@ -82,7 +82,7 @@
         "custom_id": 1980909097,
         "flight_id": 1980909097,
         "region_id": 85688637,
-        "venue_id": 1947304285,
+        "venue_id": 1947304315,
         "wing_id": 1947304259
       }
     ],
@@ -91,12 +91,12 @@
       102527513,
       102532251,
       1159286153,
-      1947304285,
+      1947304315,
       1159283849
     ],
-    "wof:lastmodified": 1753114517,
+    "wof:lastmodified": 1753286938,
     "wof:name": "QR2139 (PDX-SFO)",
-    "wof:parent_id": 1947304285,
+    "wof:parent_id": 1947304315,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

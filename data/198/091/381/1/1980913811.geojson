@@ -2,40 +2,40 @@
   "id": 1980913811,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "QR",
+    "flysfo:airline": "SQ",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7528",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753020000,
+    "flysfo:base_flight_number": "7408",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753192800,
     "flysfo:event": "D",
-    "flysfo:flight_number": "QR8810",
-    "flysfo:gate": "B7",
-    "flysfo:journey": "SFO-SEA",
-    "flysfo:scheduled_timestamp": 1753020000,
-    "flysfo:timestamp": 1753020000,
+    "flysfo:flight_number": "SQ1368",
+    "flysfo:gate": "B13",
+    "flysfo:journey": "SFO-AUS",
+    "flysfo:scheduled_timestamp": 1753192800,
+    "flysfo:timestamp": 1753192800,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-122.304268,47.441823",
-    "geom:latitude": 42.529906499999996,
-    "geom:longitude": -122.3376055,
-    "iata:airline": "QR",
+    "geom:bbox": "-122.370943,30.206175,-97.643029,37.617990",
+    "geom:latitude": 33.9120825,
+    "geom:longitude": -110.006986,
+    "iata:airline": "SQ",
     "iata:base_airline": "",
-    "icao:airline": "QTR",
+    "icao:airline": "SIA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159286153,
-    "sfomuseum:arrival_id": 102533269,
-    "sfomuseum:base_flight_id": "20250720-D-AAL-7528",
+    "sfomuseum:airline_id": 1159286259,
+    "sfomuseum:arrival_id": 102521851,
+    "sfomuseum:base_flight_id": "20250722-D-AAL-7408",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-QTR-8810",
+    "sfomuseum:flight_id": "20250722-D-SIA-1368",
     "sfomuseum:flight_number": [
-      "QTR8810",
-      "QR8810"
+      "SIA1368",
+      "SQ1368"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304293,
+      1947304267,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115683,
-    "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
+    "wof:created": 1753287471,
+    "wof:geomhash": "f1e29c4a83094711ef061292cfad3358",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304293,
+        "venue_id": 1947304267,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980913811,
         "flight_id": 1980913811,
         "region_id": 85688637,
-        "venue_id": 1947304293,
+        "venue_id": 1947304267,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980913811,
     "wof:involves": [
-      102533269,
+      102521851,
       102527513,
-      1159286153,
-      1947304293,
+      1159286259,
+      1947304267,
       1159283849
     ],
-    "wof:lastmodified": 1753115683,
-    "wof:name": "QR8810 (SFO-SEA)",
-    "wof:parent_id": 1947304293,
+    "wof:lastmodified": 1753287471,
+    "wof:name": "SQ1368 (SFO-AUS)",
+    "wof:parent_id": 1947304267,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -122.304268,
-    47.441823
+    30.206175,
+    -97.643029,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.304268,47.441823]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-97.643029,30.206175]],"type":"MultiPoint"}
 }

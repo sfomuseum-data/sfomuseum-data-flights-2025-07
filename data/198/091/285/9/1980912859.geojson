@@ -2,40 +2,35 @@
   "id": 1980912859,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "EI",
-    "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "5613",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753031880,
+    "flysfo:airline": "F9",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753208400,
     "flysfo:event": "D",
-    "flysfo:flight_number": "EI7303",
-    "flysfo:gate": "B24",
-    "flysfo:journey": "SFO-ORD",
-    "flysfo:scheduled_timestamp": 1753031880,
-    "flysfo:timestamp": 1753031880,
+    "flysfo:flight_number": "F93308",
+    "flysfo:gate": "B4",
+    "flysfo:journey": "SFO-LAX",
+    "flysfo:scheduled_timestamp": 1753208400,
+    "flysfo:timestamp": 1753208400,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-87.894364,41.983038",
-    "geom:latitude": 39.800514,
-    "geom:longitude": -105.1326535,
-    "iata:airline": "EI",
-    "iata:base_airline": "",
-    "icao:airline": "EIN",
-    "icao:base_airline": "BAW",
+    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
+    "geom:latitude": 35.780291500000004,
+    "geom:longitude": -120.38022649999999,
+    "iata:airline": "F9",
+    "icao:airline": "FFT",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159283495,
-    "sfomuseum:arrival_id": 102533631,
-    "sfomuseum:base_flight_id": "20250720-D-BAW-5613",
+    "sfomuseum:airline_id": 1159284401,
+    "sfomuseum:arrival_id": 102533795,
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-EIN-7303",
+    "sfomuseum:flight_id": "20250722-D-FFT-3308",
     "sfomuseum:flight_number": [
-      "EIN7303",
-      "EI7303"
+      "FFT3308",
+      "F93308"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +44,13 @@
       85922583,
       554784711,
       85688637,
-      1947304277,
+      1947304279,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115449,
-    "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
+    "wof:created": 1753287366,
+    "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +64,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304277,
+        "venue_id": 1947304279,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +77,20 @@
         "custom_id": 1980912859,
         "flight_id": 1980912859,
         "region_id": 85688637,
-        "venue_id": 1947304277,
+        "venue_id": 1947304279,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980912859,
     "wof:involves": [
-      102533631,
+      102533795,
       102527513,
-      1159283495,
-      1947304277,
-      1159284021
+      1159284401,
+      1947304279
     ],
-    "wof:lastmodified": 1753115449,
-    "wof:name": "EI7303 (SFO-ORD)",
-    "wof:parent_id": 1947304277,
+    "wof:lastmodified": 1753287366,
+    "wof:name": "F93308 (SFO-LAX)",
+    "wof:parent_id": 1947304279,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +101,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -87.894364,
-    41.983038
+    33.942593,
+    -118.38951,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}
 }

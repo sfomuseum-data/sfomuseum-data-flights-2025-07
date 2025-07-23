@@ -2,40 +2,40 @@
   "id": 1980912471,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "DE",
+    "flysfo:airline": "CX",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7543",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753066140,
+    "flysfo:base_flight_number": "9380",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753245240,
     "flysfo:event": "D",
-    "flysfo:flight_number": "DE5055",
+    "flysfo:flight_number": "CX7960",
     "flysfo:gate": "B9",
-    "flysfo:journey": "SFO-SEA",
-    "flysfo:scheduled_timestamp": 1753064760,
-    "flysfo:timestamp": 1753066140,
+    "flysfo:journey": "SFO-PDX",
+    "flysfo:scheduled_timestamp": 1753242600,
+    "flysfo:timestamp": 1753245240,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-122.304268,47.441823",
-    "geom:latitude": 42.529906499999996,
-    "geom:longitude": -122.3376055,
-    "iata:airline": "DE",
+    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
+    "geom:latitude": 41.602067,
+    "geom:longitude": -122.484166,
+    "iata:airline": "CX",
     "iata:base_airline": "",
-    "icao:airline": "CFG",
-    "icao:base_airline": "BAW",
+    "icao:airline": "CPA",
+    "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159284193,
-    "sfomuseum:arrival_id": 102533269,
-    "sfomuseum:base_flight_id": "20250720-D-BAW-7543",
+    "sfomuseum:airline_id": 1159284127,
+    "sfomuseum:arrival_id": 102532251,
+    "sfomuseum:base_flight_id": "20250722-D-AAL-9380",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-CFG-5055",
+    "sfomuseum:flight_id": "20250722-D-CPA-7960",
     "sfomuseum:flight_number": [
-      "CFG5055",
-      "DE5055"
+      "CPA7960",
+      "CX7960"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115350,
-    "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
+    "wof:created": 1753287323,
+    "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -88,14 +88,14 @@
     ],
     "wof:id": 1980912471,
     "wof:involves": [
-      102533269,
+      102532251,
       102527513,
-      1159284193,
+      1159284127,
       1947304303,
-      1159284021
+      1159283849
     ],
-    "wof:lastmodified": 1753115350,
-    "wof:name": "DE5055 (SFO-SEA)",
+    "wof:lastmodified": 1753287323,
+    "wof:name": "CX7960 (SFO-PDX)",
     "wof:parent_id": 1947304303,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943,
+    -122.597389,
     37.61799,
-    -122.304268,
-    47.441823
+    -122.370943,
+    45.586144
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.304268,47.441823]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.597389,45.586144]],"type":"MultiPoint"}
 }

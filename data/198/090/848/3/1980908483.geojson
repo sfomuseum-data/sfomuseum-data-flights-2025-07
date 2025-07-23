@@ -2,26 +2,26 @@
   "id": 1980908483,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "HA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7494",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753060680,
+    "flysfo:base_flight_number": "9444",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753210560,
     "flysfo:event": "A",
-    "flysfo:flight_number": "HA4758",
+    "flysfo:flight_number": "HA4981",
     "flysfo:gate": "B17",
-    "flysfo:journey": "ANC-SFO",
-    "flysfo:scheduled_timestamp": 1753059900,
-    "flysfo:timestamp": 1753060680,
+    "flysfo:journey": "IAD-SFO",
+    "flysfo:scheduled_timestamp": 1753206900,
+    "flysfo:timestamp": 1753210560,
     "geom:area": 0,
-    "geom:bbox": "-149.968401,37.617990,-122.370943,61.173606",
-    "geom:latitude": 49.395798,
-    "geom:longitude": -136.169672,
+    "geom:bbox": "-122.370943,37.617990,-77.453702,38.949246",
+    "geom:latitude": 38.283618000000004,
+    "geom:longitude": -99.9123225,
     "iata:airline": "HA",
     "iata:base_airline": "",
     "icao:airline": "HAL",
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159284489,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AAL-7494",
-    "sfomuseum:departure_id": 102531979,
-    "sfomuseum:flight_id": "20250720-A-HAL-4758",
+    "sfomuseum:base_flight_id": "20250722-A-AAL-9444",
+    "sfomuseum:departure_id": 102528817,
+    "sfomuseum:flight_id": "20250722-A-HAL-4981",
     "sfomuseum:flight_number": [
-      "HAL4758",
-      "HA4758"
+      "HAL4981",
+      "HA4981"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114363,
-    "wof:geomhash": "40576486fbb454d3a66da49d62a0ae33",
+    "wof:created": 1753286840,
+    "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -89,13 +89,13 @@
     "wof:id": 1980908483,
     "wof:involves": [
       102527513,
-      102531979,
+      102528817,
       1159284489,
       1947304285,
       1159283849
     ],
-    "wof:lastmodified": 1753114363,
-    "wof:name": "HA4758 (ANC-SFO)",
+    "wof:lastmodified": 1753286840,
+    "wof:name": "HA4981 (IAD-SFO)",
     "wof:parent_id": 1947304285,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -149.968401,
-    37.61799,
     -122.370943,
-    61.173606
+    37.61799,
+    -77.453702,
+    38.949246
   ],
-  "geometry": {"coordinates":[[-149.968401,61.173606],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-77.453702,38.949246],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

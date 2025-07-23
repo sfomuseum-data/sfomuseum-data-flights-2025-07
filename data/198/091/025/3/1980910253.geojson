@@ -2,40 +2,40 @@
   "id": 1980910253,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9728",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753053900,
+    "flysfo:base_flight_number": "2054",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753190520,
     "flysfo:event": "A",
-    "flysfo:flight_number": "UA9728",
-    "flysfo:gate": "G9",
-    "flysfo:journey": "ZRH-SFO",
-    "flysfo:scheduled_timestamp": 1753053000,
-    "flysfo:timestamp": 1753053900,
+    "flysfo:flight_number": "UA97",
+    "flysfo:gate": "G1",
+    "flysfo:journey": "BNE-SFO",
+    "flysfo:scheduled_timestamp": 1753190700,
+    "flysfo:timestamp": 1753190700,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,8.559692,47.455793",
-    "geom:latitude": 42.536891499999996,
-    "geom:longitude": -56.9056255,
+    "geom:bbox": "-122.370943,-27.390847,153.120898,37.617990",
+    "geom:latitude": 5.113571499999999,
+    "geom:longitude": 15.374977500000007,
     "iata:airline": "UA",
     "iata:base_airline": "",
     "icao:airline": "UAL",
-    "icao:base_airline": "UAL",
-    "lbl:latitude": 37.61844,
-    "lbl:longitude": -122.392214,
+    "icao:base_airline": "AVA",
+    "lbl:latitude": 37.617321,
+    "lbl:longitude": -122.389477,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-UAL-9728",
-    "sfomuseum:departure_id": 102553957,
-    "sfomuseum:flight_id": "20250720-A-UAL-9728",
+    "sfomuseum:base_flight_id": "20250722-A-AVA-2054",
+    "sfomuseum:departure_id": 102557775,
+    "sfomuseum:flight_id": "20250722-A-UAL-97",
     "sfomuseum:flight_number": [
-      "UAL9728",
-      "UA9728"
+      "UAL97",
+      "UA97"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304153,
+      1947304155,
       1947304069,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114803,
-    "wof:geomhash": "59c1b41e582a5fde12da38b49a2c462f",
+    "wof:created": 1753287078,
+    "wof:geomhash": "25d9e57260b787ba2ae69f7c2107fd81",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304153,
+        "venue_id": 1947304155,
         "wing_id": 1947304069
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980910253,
         "flight_id": 1980910253,
         "region_id": 85688637,
-        "venue_id": 1947304153,
+        "venue_id": 1947304155,
         "wing_id": 1947304069
       }
     ],
     "wof:id": 1980910253,
     "wof:involves": [
       102527513,
-      102553957,
+      102557775,
       1159285413,
-      1947304153,
-      1159285413
+      1947304155,
+      1159285749
     ],
-    "wof:lastmodified": 1753114803,
-    "wof:name": "UA9728 (ZRH-SFO)",
-    "wof:parent_id": 1947304153,
+    "wof:lastmodified": 1753287078,
+    "wof:name": "UA97 (BNE-SFO)",
+    "wof:parent_id": 1947304155,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    8.559692,
-    47.455793
+    -27.390847,
+    153.120898,
+    37.61799
   ],
-  "geometry": {"coordinates":[[8.559692,47.455793],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[153.120898,-27.390847],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

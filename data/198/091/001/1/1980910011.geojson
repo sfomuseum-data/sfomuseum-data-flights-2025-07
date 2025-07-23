@@ -2,26 +2,26 @@
   "id": 1980910011,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4243",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753058400,
+    "flysfo:base_flight_number": "4349",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753239780,
     "flysfo:event": "A",
-    "flysfo:flight_number": "UA5419",
-    "flysfo:gate": "F8",
-    "flysfo:journey": "SNA-SFO",
-    "flysfo:scheduled_timestamp": 1753058040,
-    "flysfo:timestamp": 1753058400,
+    "flysfo:flight_number": "UA5349",
+    "flysfo:gate": "F18",
+    "flysfo:journey": "FAT-SFO",
+    "flysfo:scheduled_timestamp": 1753240200,
+    "flysfo:timestamp": 1753240200,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,33.677724,-117.866280,37.617990",
-    "geom:latitude": 35.647857,
-    "geom:longitude": -120.1186115,
+    "geom:bbox": "-122.370943,36.768728,-119.721272,37.617990",
+    "geom:latitude": 37.193359,
+    "geom:longitude": -121.0461075,
     "iata:airline": "UA",
     "iata:base_airline": "",
     "icao:airline": "UAL",
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ACA-4243",
-    "sfomuseum:departure_id": 102534161,
-    "sfomuseum:flight_id": "20250720-A-UAL-5419",
+    "sfomuseum:base_flight_id": "20250722-A-ACA-4349",
+    "sfomuseum:departure_id": 102530717,
+    "sfomuseum:flight_id": "20250722-A-UAL-5349",
     "sfomuseum:flight_number": [
-      "UAL5419",
-      "UA5419"
+      "UAL5349",
+      "UA5349"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304469,
+      1947304477,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114744,
-    "wof:geomhash": "01009f732d03a7803d3f7fd23cf321f4",
+    "wof:created": 1753287044,
+    "wof:geomhash": "b157be63e9453882f41d2e530854b6a2",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304469,
+        "venue_id": 1947304477,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980910011,
         "flight_id": 1980910011,
         "region_id": 85688637,
-        "venue_id": 1947304469,
+        "venue_id": 1947304477,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980910011,
     "wof:involves": [
       102527513,
-      102534161,
+      102530717,
       1159285413,
-      1947304469,
+      1947304477,
       1159283597
     ],
-    "wof:lastmodified": 1753114744,
-    "wof:name": "UA5419 (SNA-SFO)",
-    "wof:parent_id": 1947304469,
+    "wof:lastmodified": 1753287044,
+    "wof:name": "UA5349 (FAT-SFO)",
+    "wof:parent_id": 1947304477,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    33.677724,
-    -117.86628,
+    36.768728,
+    -119.721272,
     37.61799
   ],
-  "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-119.721272,36.768728],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

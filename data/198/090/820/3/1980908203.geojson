@@ -2,40 +2,40 @@
   "id": 1980908203,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "LH",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4134",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753043700,
+    "flysfo:base_flight_number": "3531",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753191840,
     "flysfo:event": "A",
-    "flysfo:flight_number": "LH9247",
-    "flysfo:gate": "F9",
-    "flysfo:journey": "SNA-SFO",
-    "flysfo:scheduled_timestamp": 1753043400,
-    "flysfo:timestamp": 1753043700,
+    "flysfo:flight_number": "LH9393",
+    "flysfo:gate": "F21",
+    "flysfo:journey": "KOA-SFO",
+    "flysfo:scheduled_timestamp": 1753192740,
+    "flysfo:timestamp": 1753192740,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,33.677724,-117.866280,37.617990",
-    "geom:latitude": 35.647857,
-    "geom:longitude": -120.1186115,
+    "geom:bbox": "-156.035060,19.732444,-122.370943,37.617990",
+    "geom:latitude": 28.675217,
+    "geom:longitude": -139.2030015,
     "iata:airline": "LH",
     "iata:base_airline": "",
     "icao:airline": "DLH",
     "icao:base_airline": "ACA",
-    "lbl:latitude": 37.620731,
-    "lbl:longitude": -122.387053,
+    "lbl:latitude": 37.621173,
+    "lbl:longitude": -122.390131,
     "sfomuseum:airline_id": 1159286015,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ACA-4134",
-    "sfomuseum:departure_id": 102534161,
-    "sfomuseum:flight_id": "20250720-A-DLH-9247",
+    "sfomuseum:base_flight_id": "20250722-A-ACA-3531",
+    "sfomuseum:departure_id": 102532939,
+    "sfomuseum:flight_id": "20250722-A-DLH-9393",
     "sfomuseum:flight_number": [
-      "DLH9247",
-      "LH9247"
+      "DLH9393",
+      "LH9393"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304493,
+      1947304491,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114295,
-    "wof:geomhash": "01009f732d03a7803d3f7fd23cf321f4",
+    "wof:created": 1753286807,
+    "wof:geomhash": "d5ad4a83d3d679d1b3fe86e419b08d84",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304493,
+        "venue_id": 1947304491,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980908203,
         "flight_id": 1980908203,
         "region_id": 85688637,
-        "venue_id": 1947304493,
+        "venue_id": 1947304491,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980908203,
     "wof:involves": [
       102527513,
-      102534161,
+      102532939,
       1159286015,
-      1947304493,
+      1947304491,
       1159283597
     ],
-    "wof:lastmodified": 1753114295,
-    "wof:name": "LH9247 (SNA-SFO)",
-    "wof:parent_id": 1947304493,
+    "wof:lastmodified": 1753286807,
+    "wof:name": "LH9393 (KOA-SFO)",
+    "wof:parent_id": 1947304491,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
+    -156.03506,
+    19.732444,
     -122.370943,
-    33.677724,
-    -117.86628,
     37.61799
   ],
-  "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-156.03506,19.732444],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -2,22 +2,22 @@
   "id": 1980910285,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "VS",
     "flysfo:base_airline": "",
     "flysfo:base_flight_number": "9659",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753064700,
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753235160,
     "flysfo:event": "A",
     "flysfo:flight_number": "VS41",
-    "flysfo:gate": "A12",
+    "flysfo:gate": "A5",
     "flysfo:journey": "LHR-SFO",
-    "flysfo:scheduled_timestamp": 1753065000,
-    "flysfo:timestamp": 1753065000,
+    "flysfo:scheduled_timestamp": 1753237800,
+    "flysfo:timestamp": 1753237800,
     "geom:area": 0,
     "geom:bbox": "-122.370943,37.617990,-0.450443,51.470087",
     "geom:latitude": 44.5440385,
@@ -26,13 +26,13 @@
     "iata:base_airline": "",
     "icao:airline": "VIR",
     "icao:base_airline": "AFR",
-    "lbl:latitude": 37.611747,
-    "lbl:longitude": -122.39043,
+    "lbl:latitude": 37.613288,
+    "lbl:longitude": -122.389396,
     "sfomuseum:airline_id": 1159285483,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AFR-9659",
+    "sfomuseum:base_flight_id": "20250722-A-AFR-9659",
     "sfomuseum:departure_id": 102556703,
-    "sfomuseum:flight_id": "20250720-A-VIR-41",
+    "sfomuseum:flight_id": "20250722-A-VIR-41",
     "sfomuseum:flight_number": [
       "VIR41",
       "VS41"
@@ -49,12 +49,12 @@
       85922583,
       554784711,
       85688637,
-      1947304083,
+      1947304087,
       1947304069,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114812,
+    "wof:created": 1753287082,
     "wof:geomhash": "c7bf5337358552a3a60caed0c1e9ea63",
     "wof:hierarchy": [
       {
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304083,
+        "venue_id": 1947304087,
         "wing_id": 1947304069
       },
       {
@@ -82,7 +82,7 @@
         "custom_id": 1980910285,
         "flight_id": 1980910285,
         "region_id": 85688637,
-        "venue_id": 1947304083,
+        "venue_id": 1947304087,
         "wing_id": 1947304069
       }
     ],
@@ -91,12 +91,12 @@
       102527513,
       102556703,
       1159285483,
-      1947304083,
+      1947304087,
       1159283627
     ],
-    "wof:lastmodified": 1753114812,
+    "wof:lastmodified": 1753287082,
     "wof:name": "VS41 (LHR-SFO)",
-    "wof:parent_id": 1947304083,
+    "wof:parent_id": 1947304087,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

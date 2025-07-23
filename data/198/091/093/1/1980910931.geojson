@@ -2,26 +2,26 @@
   "id": 1980910931,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "OZ",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4206",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753077780,
+    "flysfo:base_flight_number": "5044",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753197600,
     "flysfo:event": "D",
-    "flysfo:flight_number": "OZ6313",
+    "flysfo:flight_number": "OZ6338",
     "flysfo:gate": "E12",
-    "flysfo:journey": "SFO-DFW",
-    "flysfo:scheduled_timestamp": 1753077900,
-    "flysfo:timestamp": 1753077900,
+    "flysfo:journey": "SFO-LAS",
+    "flysfo:scheduled_timestamp": 1753197900,
+    "flysfo:timestamp": 1753197900,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,32.903660,-97.050966,37.617990",
-    "geom:latitude": 35.260825,
-    "geom:longitude": -109.7109545,
+    "geom:bbox": "-122.370943,36.081003,-115.156440,37.617990",
+    "geom:latitude": 36.8494965,
+    "geom:longitude": -118.7636915,
     "iata:airline": "OZ",
     "iata:base_airline": "",
     "icao:airline": "AAR",
@@ -29,13 +29,13 @@
     "lbl:latitude": 37.619531,
     "lbl:longitude": -122.384262,
     "sfomuseum:airline_id": 1159283917,
-    "sfomuseum:arrival_id": 102528541,
-    "sfomuseum:base_flight_id": "20250720-D-ACA-4206",
+    "sfomuseum:arrival_id": 102527209,
+    "sfomuseum:base_flight_id": "20250722-D-ACA-5044",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-AAR-6313",
+    "sfomuseum:flight_id": "20250722-D-AAR-6338",
     "sfomuseum:flight_number": [
-      "AAR6313",
-      "OZ6313"
+      "AAR6338",
+      "OZ6338"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114969,
-    "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
+    "wof:created": 1753287153,
+    "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -88,14 +88,14 @@
     ],
     "wof:id": 1980910931,
     "wof:involves": [
-      102528541,
+      102527209,
       102527513,
       1159283917,
       1947304531,
       1159283597
     ],
-    "wof:lastmodified": 1753114969,
-    "wof:name": "OZ6313 (SFO-DFW)",
+    "wof:lastmodified": 1753287153,
+    "wof:name": "OZ6338 (SFO-LAS)",
     "wof:parent_id": 1947304531,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    32.90366,
-    -97.050966,
+    36.081003,
+    -115.15644,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-115.15644,36.081003]],"type":"MultiPoint"}
 }

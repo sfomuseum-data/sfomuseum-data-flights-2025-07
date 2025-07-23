@@ -2,22 +2,22 @@
   "id": 1980907261,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "NZ",
     "flysfo:base_airline": "",
     "flysfo:base_flight_number": "5082",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753050240,
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753221540,
     "flysfo:event": "A",
     "flysfo:flight_number": "NZ9855",
-    "flysfo:gate": "G8",
+    "flysfo:gate": "G1",
     "flysfo:journey": "LHR-SFO",
-    "flysfo:scheduled_timestamp": 1753050000,
-    "flysfo:timestamp": 1753050240,
+    "flysfo:scheduled_timestamp": 1753222800,
+    "flysfo:timestamp": 1753222800,
     "geom:area": 0,
     "geom:bbox": "-122.370943,37.617990,-0.450443,51.470087",
     "geom:latitude": 44.5440385,
@@ -26,13 +26,13 @@
     "iata:base_airline": "",
     "icao:airline": "ANZ",
     "icao:base_airline": "ACA",
-    "lbl:latitude": 37.61836,
-    "lbl:longitude": -122.393229,
+    "lbl:latitude": 37.617321,
+    "lbl:longitude": -122.389477,
     "sfomuseum:airline_id": 1159283697,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ACA-5082",
+    "sfomuseum:base_flight_id": "20250722-A-ACA-5082",
     "sfomuseum:departure_id": 102556703,
-    "sfomuseum:flight_id": "20250720-A-ANZ-9855",
+    "sfomuseum:flight_id": "20250722-A-ANZ-9855",
     "sfomuseum:flight_number": [
       "ANZ9855",
       "NZ9855"
@@ -49,12 +49,12 @@
       85922583,
       554784711,
       85688637,
-      1947304133,
+      1947304155,
       1947304069,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114060,
+    "wof:created": 1753286701,
     "wof:geomhash": "c7bf5337358552a3a60caed0c1e9ea63",
     "wof:hierarchy": [
       {
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304133,
+        "venue_id": 1947304155,
         "wing_id": 1947304069
       },
       {
@@ -82,7 +82,7 @@
         "custom_id": 1980907261,
         "flight_id": 1980907261,
         "region_id": 85688637,
-        "venue_id": 1947304133,
+        "venue_id": 1947304155,
         "wing_id": 1947304069
       }
     ],
@@ -91,12 +91,12 @@
       102527513,
       102556703,
       1159283697,
-      1947304133,
+      1947304155,
       1159283597
     ],
-    "wof:lastmodified": 1753114060,
+    "wof:lastmodified": 1753286701,
     "wof:name": "NZ9855 (LHR-SFO)",
-    "wof:parent_id": 1947304133,
+    "wof:parent_id": 1947304155,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

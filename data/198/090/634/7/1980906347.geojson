@@ -2,26 +2,26 @@
   "id": 1980906347,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "3614",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753041900,
+    "flysfo:base_flight_number": "3569",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753238160,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AC3614",
+    "flysfo:flight_number": "AC3569",
     "flysfo:gate": "D8",
-    "flysfo:journey": "DEN-SFO",
-    "flysfo:scheduled_timestamp": 1753042140,
-    "flysfo:timestamp": 1753042140,
+    "flysfo:journey": "BUR-SFO",
+    "flysfo:scheduled_timestamp": 1753239360,
+    "flysfo:timestamp": 1753239360,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-104.672219,39.864939",
-    "geom:latitude": 38.7414645,
-    "geom:longitude": -113.521581,
+    "geom:bbox": "-122.370943,34.196704,-118.353322,37.617990",
+    "geom:latitude": 35.907347,
+    "geom:longitude": -120.3621325,
     "iata:airline": "AC",
     "iata:base_airline": "",
     "icao:airline": "ACA",
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.380916,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ACA-3614",
-    "sfomuseum:departure_id": 102531189,
-    "sfomuseum:flight_id": "20250720-A-ACA-3614",
+    "sfomuseum:base_flight_id": "20250722-A-ACA-3569",
+    "sfomuseum:departure_id": 1746879083,
+    "sfomuseum:flight_id": "20250722-A-ACA-3569",
     "sfomuseum:flight_number": [
-      "ACA3614",
-      "AC3614"
+      "ACA3569",
+      "AC3569"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753113827,
-    "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
+    "wof:created": 1753286588,
+    "wof:geomhash": "579cc6c0d5668ba584a946b357aa3191",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -89,13 +89,13 @@
     "wof:id": 1980906347,
     "wof:involves": [
       102527513,
-      102531189,
+      1746879083,
       1159283597,
       1947304617,
       1159283597
     ],
-    "wof:lastmodified": 1753113827,
-    "wof:name": "AC3614 (DEN-SFO)",
+    "wof:lastmodified": 1753286588,
+    "wof:name": "AC3569 (BUR-SFO)",
     "wof:parent_id": 1947304617,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -104.672219,
-    39.864939
+    34.196704,
+    -118.353322,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-118.353322,34.196704],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

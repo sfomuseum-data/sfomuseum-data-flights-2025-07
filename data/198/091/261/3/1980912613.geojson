@@ -2,40 +2,40 @@
   "id": 1980912613,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "6481",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753029300,
+    "flysfo:base_flight_number": "7109",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753216620,
     "flysfo:event": "D",
-    "flysfo:flight_number": "DL3636",
-    "flysfo:gate": "C6",
-    "flysfo:journey": "SFO-SEA",
-    "flysfo:scheduled_timestamp": 1753029300,
-    "flysfo:timestamp": 1753029300,
+    "flysfo:flight_number": "DL902",
+    "flysfo:gate": "C3",
+    "flysfo:journey": "SFO-SLC",
+    "flysfo:scheduled_timestamp": 1753215420,
+    "flysfo:timestamp": 1753216620,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-122.304268,47.441823",
-    "geom:latitude": 42.529906499999996,
-    "geom:longitude": -122.3376055,
+    "geom:bbox": "-122.370943,37.617990,-111.980566,40.782170",
+    "geom:latitude": 39.20008,
+    "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
     "icao:airline": "DAL",
     "icao:base_airline": "KLM",
-    "lbl:latitude": 37.614759,
-    "lbl:longitude": -122.382707,
+    "lbl:latitude": 37.615398,
+    "lbl:longitude": -122.383426,
     "sfomuseum:airline_id": 1159284261,
-    "sfomuseum:arrival_id": 102533269,
-    "sfomuseum:base_flight_id": "20250720-D-KLM-6481",
+    "sfomuseum:arrival_id": 102527363,
+    "sfomuseum:base_flight_id": "20250722-D-KLM-7109",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-DAL-3636",
+    "sfomuseum:flight_id": "20250722-D-DAL-902",
     "sfomuseum:flight_number": [
-      "DAL3636",
-      "DL3636"
+      "DAL902",
+      "DL902"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304679,
+      1947304671,
       1947304591,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115388,
-    "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
+    "wof:created": 1753287339,
+    "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304679,
+        "venue_id": 1947304671,
         "wing_id": 1947304591
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980912613,
         "flight_id": 1980912613,
         "region_id": 85688637,
-        "venue_id": 1947304679,
+        "venue_id": 1947304671,
         "wing_id": 1947304591
       }
     ],
     "wof:id": 1980912613,
     "wof:involves": [
-      102533269,
+      102527363,
       102527513,
       1159284261,
-      1947304679,
+      1947304671,
       1159284613
     ],
-    "wof:lastmodified": 1753115388,
-    "wof:name": "DL3636 (SFO-SEA)",
-    "wof:parent_id": 1947304679,
+    "wof:lastmodified": 1753287339,
+    "wof:name": "DL902 (SFO-SLC)",
+    "wof:parent_id": 1947304671,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -122.304268,
-    47.441823
+    -111.980566,
+    40.78217
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.304268,47.441823]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-111.980566,40.78217]],"type":"MultiPoint"}
 }

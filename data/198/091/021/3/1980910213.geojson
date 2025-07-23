@@ -2,26 +2,26 @@
   "id": 1980910213,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4733",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753037880,
+    "flysfo:base_flight_number": "4843",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753251660,
     "flysfo:event": "A",
-    "flysfo:flight_number": "UA8698",
+    "flysfo:flight_number": "UA8635",
     "flysfo:gate": "D11",
-    "flysfo:journey": "YYZ-SFO",
-    "flysfo:scheduled_timestamp": 1753033080,
-    "flysfo:timestamp": 1753037880,
+    "flysfo:journey": "YVR-SFO",
+    "flysfo:scheduled_timestamp": 1753234980,
+    "flysfo:timestamp": 1753251660,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-79.628342,43.676352",
-    "geom:latitude": 40.647171,
-    "geom:longitude": -100.9996425,
+    "geom:bbox": "-123.179200,37.617990,-122.370943,49.193330",
+    "geom:latitude": 43.40566,
+    "geom:longitude": -122.7750715,
     "iata:airline": "UA",
     "iata:base_airline": "",
     "icao:airline": "UAL",
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.381258,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ANZ-4733",
-    "sfomuseum:departure_id": 102555091,
-    "sfomuseum:flight_id": "20250720-A-UAL-8698",
+    "sfomuseum:base_flight_id": "20250722-A-ANZ-4843",
+    "sfomuseum:departure_id": 102555307,
+    "sfomuseum:flight_id": "20250722-A-UAL-8635",
     "sfomuseum:flight_number": [
-      "UAL8698",
-      "UA8698"
+      "UAL8635",
+      "UA8635"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114794,
-    "wof:geomhash": "c362a07ec1dacdc6f288623946bd8d01",
+    "wof:created": 1753287073,
+    "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -89,13 +89,13 @@
     "wof:id": 1980910213,
     "wof:involves": [
       102527513,
-      102555091,
+      102555307,
       1159285413,
       1947304627,
       1159283697
     ],
-    "wof:lastmodified": 1753114794,
-    "wof:name": "UA8698 (YYZ-SFO)",
+    "wof:lastmodified": 1753287073,
+    "wof:name": "UA8635 (YVR-SFO)",
     "wof:parent_id": 1947304627,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943,
+    -123.1792,
     37.61799,
-    -79.628342,
-    43.676352
+    -122.370943,
+    49.19333
   ],
-  "geometry": {"coordinates":[[-79.628342,43.676352],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-123.1792,49.19333],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

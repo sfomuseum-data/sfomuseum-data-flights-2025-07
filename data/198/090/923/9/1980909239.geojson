@@ -2,74 +2,65 @@
   "id": 1980909239,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-20",
-    "date:cessation_upper": "2025-07-20",
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
-    "edtf:cessation": "2025-07-20T23:34:29Z",
-    "edtf:inception": "2025-07-20T13:07:00Z",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SK",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7685",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753054260,
+    "flysfo:base_flight_number": "3204",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753211460,
     "flysfo:event": "A",
-    "flysfo:flight_number": "SK935",
-    "flysfo:gate": "A13",
-    "flysfo:journey": "CPH-SFO",
-    "flysfo:scheduled_timestamp": 1753054200,
-    "flysfo:timestamp": 1753054260,
+    "flysfo:flight_number": "SK3628",
+    "flysfo:gate": "B19",
+    "flysfo:journey": "LAX-SFO",
+    "flysfo:scheduled_timestamp": 1753209120,
+    "flysfo:timestamp": 1753211460,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,12.649581,55.627628",
-    "geom:latitude": 46.622809000000004,
-    "geom:longitude": -54.860681,
+    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
+    "geom:latitude": 35.780291500000004,
+    "geom:longitude": -120.38022649999999,
     "iata:airline": "SK",
     "iata:base_airline": "",
     "icao:airline": "SAS",
-    "icao:base_airline": "DAL",
+    "icao:base_airline": "ITY",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159285129,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-DAL-7685",
-    "sfomuseum:departure_id": 102544207,
-    "sfomuseum:flight_id": "20250720-A-SAS-935",
+    "sfomuseum:base_flight_id": "20250722-A-ITY-3204",
+    "sfomuseum:departure_id": 102533795,
+    "sfomuseum:flight_id": "20250722-A-SAS-3628",
     "sfomuseum:flight_number": [
-      "SAS935",
-      "SK935"
+      "SAS3628",
+      "SK3628"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path"
-    ],
     "wof:belongsto": [
       1947304067,
       102527513,
-      1947304073,
+      1947304261,
       102191575,
       85633793,
       102087579,
       85922583,
       554784711,
       85688637,
-      1947304093,
-      1947304069,
+      1947304301,
+      1947304259,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "105905484"
-    },
     "wof:country": "US",
-    "wof:created": 1753114553,
-    "wof:geomhash": "5ce04c0590c166d926aa7a8325b74dd4",
+    "wof:created": 1753286953,
+    "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
         "campus_id": 102527513,
-        "concourse_id": 1947304073,
+        "concourse_id": 1947304261,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -78,34 +69,34 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304093,
-        "wing_id": 1947304069
+        "venue_id": 1947304301,
+        "wing_id": 1947304259
       },
       {
         "building_id": 1947304067,
         "campus_id": 102527513,
-        "concourse_id": 1947304073,
+        "concourse_id": 1947304261,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "custom_id": 1980909239,
         "flight_id": 1980909239,
         "region_id": 85688637,
-        "venue_id": 1947304093,
-        "wing_id": 1947304069
+        "venue_id": 1947304301,
+        "wing_id": 1947304259
       }
     ],
     "wof:id": 1980909239,
     "wof:involves": [
       102527513,
-      102544207,
+      102533795,
       1159285129,
-      1947304093,
-      1159284261
+      1947304301,
+      1763699293
     ],
-    "wof:lastmodified": 1753116150,
-    "wof:name": "SK935 (CPH-SFO)",
-    "wof:parent_id": 1947304093,
+    "wof:lastmodified": 1753286953,
+    "wof:name": "SK3628 (LAX-SFO)",
+    "wof:parent_id": 1947304301,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -116,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    12.649581,
-    55.627628
+    33.942593,
+    -118.38951,
+    37.61799
   ],
-  "geometry": {"coordinates":[[12.649581,55.627628],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

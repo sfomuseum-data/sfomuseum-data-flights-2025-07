@@ -2,40 +2,40 @@
   "id": 1980911073,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4057",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753042800,
+    "flysfo:base_flight_number": "4064",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753219200,
     "flysfo:event": "D",
-    "flysfo:flight_number": "AC4057",
-    "flysfo:gate": "G7",
-    "flysfo:journey": "SFO-FRA",
-    "flysfo:scheduled_timestamp": 1753042800,
-    "flysfo:timestamp": 1753042800,
+    "flysfo:flight_number": "AC4064",
+    "flysfo:gate": "G4",
+    "flysfo:journey": "SFO-ZRH",
+    "flysfo:scheduled_timestamp": 1753219200,
+    "flysfo:timestamp": 1753219200,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,7.267284,49.945918",
-    "geom:latitude": 43.781954,
-    "geom:longitude": -57.5518295,
+    "geom:bbox": "-122.370943,37.617990,8.559692,47.455793",
+    "geom:latitude": 42.536891499999996,
+    "geom:longitude": -56.9056255,
     "iata:airline": "AC",
     "iata:base_airline": "",
     "icao:airline": "ACA",
     "icao:base_airline": "ACA",
-    "lbl:latitude": 37.618057,
-    "lbl:longitude": -122.392508,
+    "lbl:latitude": 37.61776,
+    "lbl:longitude": -122.3918,
     "sfomuseum:airline_id": 1159283597,
-    "sfomuseum:arrival_id": 102549057,
-    "sfomuseum:base_flight_id": "20250720-D-ACA-4057",
+    "sfomuseum:arrival_id": 102553957,
+    "sfomuseum:base_flight_id": "20250722-D-ACA-4064",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-ACA-4057",
+    "sfomuseum:flight_id": "20250722-D-ACA-4064",
     "sfomuseum:flight_number": [
-      "ACA4057",
-      "AC4057"
+      "ACA4064",
+      "AC4064"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304149,
+      1947304137,
       1947304069,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115003,
-    "wof:geomhash": "a63fc4dac3cd4064d907a0b9ef33a7bc",
+    "wof:created": 1753287169,
+    "wof:geomhash": "75c5706ba72cddd7f95f840531183522",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304149,
+        "venue_id": 1947304137,
         "wing_id": 1947304069
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980911073,
         "flight_id": 1980911073,
         "region_id": 85688637,
-        "venue_id": 1947304149,
+        "venue_id": 1947304137,
         "wing_id": 1947304069
       }
     ],
     "wof:id": 1980911073,
     "wof:involves": [
-      102549057,
+      102553957,
       102527513,
       1159283597,
-      1947304149,
+      1947304137,
       1159283597
     ],
-    "wof:lastmodified": 1753115003,
-    "wof:name": "AC4057 (SFO-FRA)",
-    "wof:parent_id": 1947304149,
+    "wof:lastmodified": 1753287169,
+    "wof:name": "AC4064 (SFO-ZRH)",
+    "wof:parent_id": 1947304137,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    7.267284,
-    49.945918
+    8.559692,
+    47.455793
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[7.267284,49.945918]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[8.559692,47.455793]],"type":"MultiPoint"}
 }

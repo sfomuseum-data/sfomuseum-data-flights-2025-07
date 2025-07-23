@@ -2,40 +2,40 @@
   "id": 1980912873,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "EI",
+    "flysfo:airline": "AY",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "6997",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753064400,
+    "flysfo:base_flight_number": "8517",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753231500,
     "flysfo:event": "D",
-    "flysfo:flight_number": "EI8986",
-    "flysfo:gate": "A9",
-    "flysfo:journey": "SFO-LHR",
-    "flysfo:scheduled_timestamp": 1753064400,
-    "flysfo:timestamp": 1753064400,
+    "flysfo:flight_number": "AY5558",
+    "flysfo:gate": "A1",
+    "flysfo:journey": "SFO-MAD",
+    "flysfo:scheduled_timestamp": 1753231500,
+    "flysfo:timestamp": 1753231500,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-0.450443,51.470087",
-    "geom:latitude": 44.5440385,
-    "geom:longitude": -61.410693,
-    "iata:airline": "EI",
+    "geom:bbox": "-122.370943,37.617990,-3.562012,40.477078",
+    "geom:latitude": 39.047534,
+    "geom:longitude": -62.966477499999996,
+    "iata:airline": "AY",
     "iata:base_airline": "",
-    "icao:airline": "EIN",
+    "icao:airline": "FIN",
     "icao:base_airline": "AAL",
-    "lbl:latitude": 37.612893,
-    "lbl:longitude": -122.389652,
-    "sfomuseum:airline_id": 1159283495,
-    "sfomuseum:arrival_id": 102556703,
-    "sfomuseum:base_flight_id": "20250720-D-AAL-6997",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284389,
+    "sfomuseum:arrival_id": 102545773,
+    "sfomuseum:base_flight_id": "20250722-D-AAL-8517",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-EIN-8986",
+    "sfomuseum:flight_id": "20250722-D-FIN-5558",
     "sfomuseum:flight_number": [
-      "EIN8986",
-      "EI8986"
+      "FIN5558",
+      "AY5558"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304077,
+      1947304079,
       1947304069,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115452,
-    "wof:geomhash": "86f41e039827d60bcd1a72801f72cbc2",
+    "wof:created": 1753287368,
+    "wof:geomhash": "6af9ffc3b522178d45af0dec8d95c767",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304077,
+        "venue_id": 1947304079,
         "wing_id": 1947304069
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980912873,
         "flight_id": 1980912873,
         "region_id": 85688637,
-        "venue_id": 1947304077,
+        "venue_id": 1947304079,
         "wing_id": 1947304069
       }
     ],
     "wof:id": 1980912873,
     "wof:involves": [
-      102556703,
+      102545773,
       102527513,
-      1159283495,
-      1947304077,
+      1159284389,
+      1947304079,
       1159283849
     ],
-    "wof:lastmodified": 1753115452,
-    "wof:name": "EI8986 (SFO-LHR)",
-    "wof:parent_id": 1947304077,
+    "wof:lastmodified": 1753287368,
+    "wof:name": "AY5558 (SFO-MAD)",
+    "wof:parent_id": 1947304079,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -0.450443,
-    51.470087
+    -3.562012,
+    40.477078
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-0.450443,51.470087]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-3.562012,40.477078]],"type":"MultiPoint"}
 }

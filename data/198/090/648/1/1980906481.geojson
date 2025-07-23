@@ -2,26 +2,26 @@
   "id": 1980906481,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4367",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753030080,
+    "flysfo:base_flight_number": "4359",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753217880,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AC4367",
+    "flysfo:flight_number": "AC4359",
     "flysfo:gate": "F7",
-    "flysfo:journey": "SBA-SFO",
-    "flysfo:scheduled_timestamp": 1753028700,
-    "flysfo:timestamp": 1753030080,
+    "flysfo:journey": "SMF-SFO",
+    "flysfo:scheduled_timestamp": 1753209360,
+    "flysfo:timestamp": 1753217880,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,34.427974,-119.837133,37.617990",
-    "geom:latitude": 36.022982,
-    "geom:longitude": -121.104038,
+    "geom:bbox": "-122.370943,37.617990,-121.589912,38.685533",
+    "geom:latitude": 38.1517615,
+    "geom:longitude": -121.98042749999999,
     "iata:airline": "AC",
     "iata:base_airline": "",
     "icao:airline": "ACA",
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ACA-4367",
-    "sfomuseum:departure_id": 102527337,
-    "sfomuseum:flight_id": "20250720-A-ACA-4367",
+    "sfomuseum:base_flight_id": "20250722-A-ACA-4359",
+    "sfomuseum:departure_id": 102530559,
+    "sfomuseum:flight_id": "20250722-A-ACA-4359",
     "sfomuseum:flight_number": [
-      "ACA4367",
-      "AC4367"
+      "ACA4359",
+      "AC4359"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753113864,
-    "wof:geomhash": "aae625247f3652ef8a50cae9f49d2791",
+    "wof:created": 1753286605,
+    "wof:geomhash": "f5805f1be1c56ce2a2965880e252c65f",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -89,13 +89,13 @@
     "wof:id": 1980906481,
     "wof:involves": [
       102527513,
-      102527337,
+      102530559,
       1159283597,
       1947304465,
       1159283597
     ],
-    "wof:lastmodified": 1753113864,
-    "wof:name": "AC4367 (SBA-SFO)",
+    "wof:lastmodified": 1753286605,
+    "wof:name": "AC4359 (SMF-SFO)",
     "wof:parent_id": 1947304465,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    34.427974,
-    -119.837133,
-    37.61799
+    37.61799,
+    -121.589912,
+    38.685533
   ],
-  "geometry": {"coordinates":[[-119.837133,34.427974],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-121.589912,38.685533],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

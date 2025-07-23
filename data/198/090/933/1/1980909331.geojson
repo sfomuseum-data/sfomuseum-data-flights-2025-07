@@ -2,22 +2,22 @@
   "id": 1980909331,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SQ",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7889",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753027920,
+    "flysfo:base_flight_number": "7890",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753209120,
     "flysfo:event": "A",
-    "flysfo:flight_number": "SQ1543",
-    "flysfo:gate": "B11",
+    "flysfo:flight_number": "SQ1462",
+    "flysfo:gate": "B3",
     "flysfo:journey": "JFK-SFO",
-    "flysfo:scheduled_timestamp": 1753029900,
-    "flysfo:timestamp": 1753029900,
+    "flysfo:scheduled_timestamp": 1753210620,
+    "flysfo:timestamp": 1753210620,
     "geom:area": 0,
     "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
     "geom:latitude": 39.130638000000005,
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159286259,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ICE-7889",
+    "sfomuseum:base_flight_id": "20250722-A-ICE-7890",
     "sfomuseum:departure_id": 102534365,
-    "sfomuseum:flight_id": "20250720-A-SIA-1543",
+    "sfomuseum:flight_id": "20250722-A-SIA-1462",
     "sfomuseum:flight_number": [
-      "SIA1543",
-      "SQ1543"
+      "SIA1462",
+      "SQ1462"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,12 +49,12 @@
       85922583,
       554784711,
       85688637,
-      1947304311,
+      1947304289,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114575,
+    "wof:created": 1753286964,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
     "wof:hierarchy": [
       {
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304311,
+        "venue_id": 1947304289,
         "wing_id": 1947304259
       },
       {
@@ -82,7 +82,7 @@
         "custom_id": 1980909331,
         "flight_id": 1980909331,
         "region_id": 85688637,
-        "venue_id": 1947304311,
+        "venue_id": 1947304289,
         "wing_id": 1947304259
       }
     ],
@@ -91,12 +91,12 @@
       102527513,
       102534365,
       1159286259,
-      1947304311,
+      1947304289,
       1159284513
     ],
-    "wof:lastmodified": 1753114575,
-    "wof:name": "SQ1543 (JFK-SFO)",
-    "wof:parent_id": 1947304311,
+    "wof:lastmodified": 1753286964,
+    "wof:name": "SQ1462 (JFK-SFO)",
+    "wof:parent_id": 1947304289,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

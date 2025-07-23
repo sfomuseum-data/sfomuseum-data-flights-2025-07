@@ -2,26 +2,26 @@
   "id": 1980906109,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7464",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753065480,
+    "flysfo:base_flight_number": "7431",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753249440,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AA7464",
-    "flysfo:gate": "B18",
-    "flysfo:journey": "PDX-SFO",
-    "flysfo:scheduled_timestamp": 1753066080,
-    "flysfo:timestamp": 1753066080,
+    "flysfo:flight_number": "AA7431",
+    "flysfo:gate": "B9",
+    "flysfo:journey": "AUS-SFO",
+    "flysfo:scheduled_timestamp": 1753248540,
+    "flysfo:timestamp": 1753249440,
     "geom:area": 0,
-    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
-    "geom:latitude": 41.602067,
-    "geom:longitude": -122.484166,
+    "geom:bbox": "-122.370943,30.206175,-97.643029,37.617990",
+    "geom:latitude": 33.9120825,
+    "geom:longitude": -110.006986,
     "iata:airline": "AA",
     "iata:base_airline": "",
     "icao:airline": "AAL",
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AAL-7464",
-    "sfomuseum:departure_id": 102532251,
-    "sfomuseum:flight_id": "20250720-A-AAL-7464",
+    "sfomuseum:base_flight_id": "20250722-A-AAL-7431",
+    "sfomuseum:departure_id": 102521851,
+    "sfomuseum:flight_id": "20250722-A-AAL-7431",
     "sfomuseum:flight_number": [
-      "AAL7464",
-      "AA7464"
+      "AAL7431",
+      "AA7431"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304297,
+      1947304303,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753113759,
-    "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
+    "wof:created": 1753286550,
+    "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304297,
+        "venue_id": 1947304303,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980906109,
         "flight_id": 1980906109,
         "region_id": 85688637,
-        "venue_id": 1947304297,
+        "venue_id": 1947304303,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980906109,
     "wof:involves": [
       102527513,
-      102532251,
+      102521851,
       1159283849,
-      1947304297,
+      1947304303,
       1159283849
     ],
-    "wof:lastmodified": 1753113759,
-    "wof:name": "AA7464 (PDX-SFO)",
-    "wof:parent_id": 1947304297,
+    "wof:lastmodified": 1753286550,
+    "wof:name": "AA7431 (AUS-SFO)",
+    "wof:parent_id": 1947304303,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389,
-    37.61799,
     -122.370943,
-    45.586144
+    30.206175,
+    -97.643029,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-97.643029,30.206175],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -2,26 +2,26 @@
   "id": 1980910057,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "3770",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753048260,
+    "flysfo:base_flight_number": "4367",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753204320,
     "flysfo:event": "A",
-    "flysfo:flight_number": "UA5583",
+    "flysfo:flight_number": "UA5571",
     "flysfo:gate": "F5",
-    "flysfo:journey": "TUS-SFO",
-    "flysfo:scheduled_timestamp": 1753048740,
-    "flysfo:timestamp": 1753048740,
+    "flysfo:journey": "SBA-SFO",
+    "flysfo:scheduled_timestamp": 1753201500,
+    "flysfo:timestamp": 1753204320,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,32.119362,-110.946818,37.617990",
-    "geom:latitude": 34.868676,
-    "geom:longitude": -116.6588805,
+    "geom:bbox": "-122.370943,34.427974,-119.837133,37.617990",
+    "geom:latitude": 36.022982,
+    "geom:longitude": -121.104038,
     "iata:airline": "UA",
     "iata:base_airline": "",
     "icao:airline": "UAL",
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.387194,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ACA-3770",
-    "sfomuseum:departure_id": 102527853,
-    "sfomuseum:flight_id": "20250720-A-UAL-5583",
+    "sfomuseum:base_flight_id": "20250722-A-ACA-4367",
+    "sfomuseum:departure_id": 102527337,
+    "sfomuseum:flight_id": "20250722-A-UAL-5571",
     "sfomuseum:flight_number": [
-      "UAL5583",
-      "UA5583"
+      "UAL5571",
+      "UA5571"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114755,
-    "wof:geomhash": "82918c5e99f5bb53bff81082f1f1666f",
+    "wof:created": 1753287055,
+    "wof:geomhash": "aae625247f3652ef8a50cae9f49d2791",
     "wof:hierarchy": [
       {
         "building_id": 1914600839,
@@ -89,13 +89,13 @@
     "wof:id": 1980910057,
     "wof:involves": [
       102527513,
-      102527853,
+      102527337,
       1159285413,
       1930457221,
       1159283597
     ],
-    "wof:lastmodified": 1753114755,
-    "wof:name": "UA5583 (TUS-SFO)",
+    "wof:lastmodified": 1753287055,
+    "wof:name": "UA5571 (SBA-SFO)",
     "wof:parent_id": 1930457221,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    32.119362,
-    -110.946818,
+    34.427974,
+    -119.837133,
     37.61799
   ],
-  "geometry": {"coordinates":[[-110.946818,32.119362],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-119.837133,34.427974],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -2,40 +2,40 @@
   "id": 1980909033,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "QF",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7464",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753065480,
+    "flysfo:base_flight_number": "5869",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753232100,
     "flysfo:event": "A",
-    "flysfo:flight_number": "QF3788",
-    "flysfo:gate": "B18",
-    "flysfo:journey": "PDX-SFO",
-    "flysfo:scheduled_timestamp": 1753066080,
-    "flysfo:timestamp": 1753066080,
+    "flysfo:flight_number": "QF3778",
+    "flysfo:gate": "B14",
+    "flysfo:journey": "PAE-SFO",
+    "flysfo:scheduled_timestamp": 1753233180,
+    "flysfo:timestamp": 1753233180,
     "geom:area": 0,
-    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
-    "geom:latitude": 41.602067,
-    "geom:longitude": -122.484166,
+    "geom:bbox": "-122.370943,37.617990,-122.279084,47.908767",
+    "geom:latitude": 42.7633785,
+    "geom:longitude": -122.3250135,
     "iata:airline": "QF",
     "iata:base_airline": "",
     "icao:airline": "QFA",
-    "icao:base_airline": "AAL",
+    "icao:base_airline": "FJI",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159285043,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AAL-7464",
-    "sfomuseum:departure_id": 102532251,
-    "sfomuseum:flight_id": "20250720-A-QFA-3788",
+    "sfomuseum:base_flight_id": "20250722-A-FJI-5869",
+    "sfomuseum:departure_id": 102526657,
+    "sfomuseum:flight_id": "20250722-A-QFA-3778",
     "sfomuseum:flight_number": [
-      "QFA3788",
-      "QF3788"
+      "QFA3778",
+      "QF3778"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304297,
+      1947304273,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114501,
-    "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
+    "wof:created": 1753286930,
+    "wof:geomhash": "c01fce3544b8d9a4d0cb6d6783ef8a82",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304297,
+        "venue_id": 1947304273,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980909033,
         "flight_id": 1980909033,
         "region_id": 85688637,
-        "venue_id": 1947304297,
+        "venue_id": 1947304273,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980909033,
     "wof:involves": [
       102527513,
-      102532251,
+      102526657,
       1159285043,
-      1947304297,
-      1159283849
+      1947304273,
+      1159283717
     ],
-    "wof:lastmodified": 1753114501,
-    "wof:name": "QF3788 (PDX-SFO)",
-    "wof:parent_id": 1947304297,
+    "wof:lastmodified": 1753286930,
+    "wof:name": "QF3778 (PAE-SFO)",
+    "wof:parent_id": 1947304273,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389,
-    37.61799,
     -122.370943,
-    45.586144
+    37.61799,
+    -122.279084,
+    47.908767
   ],
-  "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.279084,47.908767],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

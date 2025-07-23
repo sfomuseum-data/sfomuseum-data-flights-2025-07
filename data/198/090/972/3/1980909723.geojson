@@ -2,46 +2,43 @@
   "id": 1980909723,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-20",
-    "date:cessation_upper": "2025-07-20",
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
-    "edtf:cessation": "2025-07-20T23:17:00Z",
-    "edtf:inception": "2025-07-20T18:23:00Z",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753053720,
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "5098",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753225680,
     "flysfo:event": "A",
-    "flysfo:flight_number": "UA1948",
+    "flysfo:flight_number": "UA1931",
     "flysfo:gate": "G11",
-    "flysfo:journey": "CUN-SFO",
-    "flysfo:scheduled_timestamp": 1753055460,
-    "flysfo:timestamp": 1753055460,
+    "flysfo:journey": "SJD-SFO",
+    "flysfo:scheduled_timestamp": 1753225860,
+    "flysfo:timestamp": 1753225860,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,21.040317,-86.872856,37.617990",
-    "geom:latitude": 29.3291535,
-    "geom:longitude": -104.6218995,
+    "geom:bbox": "-122.370943,23.160962,-109.717461,37.617990",
+    "geom:latitude": 30.389476000000002,
+    "geom:longitude": -116.044202,
     "iata:airline": "UA",
-    "icao:aircraft": "B39M",
+    "iata:base_airline": "",
     "icao:airline": "UAL",
+    "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:departure_id": 102536223,
-    "sfomuseum:flight_id": "20250720-A-UAL-1948",
+    "sfomuseum:base_flight_id": "20250722-A-ACA-5098",
+    "sfomuseum:departure_id": 102536441,
+    "sfomuseum:flight_id": "20250722-A-UAL-1931",
     "sfomuseum:flight_number": [
-      "UAL1948",
-      "UA1948"
+      "UAL1931",
+      "UA1931"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path"
-    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -56,13 +53,9 @@
       1947304069,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "105936825",
-      "swim:gufi": "KH66999100"
-    },
     "wof:country": "US",
-    "wof:created": 1753114671,
-    "wof:geomhash": "c1b858affbd20b2c728ba535a4ce178e",
+    "wof:created": 1753287012,
+    "wof:geomhash": "57b2b594ef41523ab9fe7c26d147f9bd",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -95,14 +88,14 @@
     ],
     "wof:id": 1980909723,
     "wof:involves": [
-      1528104577,
       102527513,
-      102536223,
+      102536441,
       1159285413,
-      1947304139
+      1947304139,
+      1159283597
     ],
-    "wof:lastmodified": 1753116155,
-    "wof:name": "UA1948 (CUN-SFO)",
+    "wof:lastmodified": 1753287012,
+    "wof:name": "UA1931 (SJD-SFO)",
     "wof:parent_id": 1947304139,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -114,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    21.040317,
-    -86.872856,
+    23.160962,
+    -109.717461,
     37.61799
   ],
-  "geometry": {"coordinates":[[-86.872856,21.040317],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-109.717461,23.160962],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

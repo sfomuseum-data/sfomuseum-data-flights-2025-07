@@ -2,53 +2,43 @@
   "id": 1980909595,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-20",
-    "date:cessation_upper": "2025-07-20",
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
-    "edtf:cessation": "2025-07-20T10:23:38-07:00",
-    "edtf:inception": "2025-07-20T22:32:00Z",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "3278",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753057620,
+    "flysfo:base_flight_number": "9046",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753239420,
     "flysfo:event": "A",
-    "flysfo:flight_number": "UA1230",
+    "flysfo:flight_number": "UA1126",
     "flysfo:gate": "E4",
-    "flysfo:journey": "YVR-SFO",
-    "flysfo:scheduled_timestamp": 1753058400,
-    "flysfo:timestamp": 1753058400,
+    "flysfo:journey": "CLE-SFO",
+    "flysfo:scheduled_timestamp": 1753239840,
+    "flysfo:timestamp": 1753239840,
     "geom:area": 0,
-    "geom:bbox": "-123.179200,37.617990,-122.370943,49.193330",
-    "geom:latitude": 43.40566,
-    "geom:longitude": -122.7750715,
+    "geom:bbox": "-122.370943,37.617990,-81.835629,41.406844",
+    "geom:latitude": 39.512417,
+    "geom:longitude": -102.103286,
     "iata:airline": "UA",
     "iata:base_airline": "",
-    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
-    "icao:base_airline": "ACA",
+    "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618161,
     "lbl:longitude": -122.384735,
-    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ACA-3278",
-    "sfomuseum:departure_id": 102555307,
-    "sfomuseum:flight_id": "20250720-A-UAL-1230",
+    "sfomuseum:base_flight_id": "20250722-A-ANZ-9046",
+    "sfomuseum:departure_id": 102534019,
+    "sfomuseum:flight_id": "20250722-A-UAL-1126",
     "sfomuseum:flight_number": [
-      "UAL1230",
-      "UA1230"
+      "UAL1126",
+      "UA1126"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-approach"
-    ],
-    "swim:tail_number": "N47570",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -63,13 +53,9 @@
       1763588269,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "105957818",
-      "swim:gufi": "KS77282100"
-    },
     "wof:country": "US",
-    "wof:created": 1753114640,
-    "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
+    "wof:created": 1753286998,
+    "wof:geomhash": "b9e617aa80dabb56896871b70acf102e",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -102,15 +88,14 @@
     ],
     "wof:id": 1980909595,
     "wof:involves": [
-      1528104577,
       102527513,
-      102555307,
+      102534019,
       1159285413,
       1763588337,
-      1159283597
+      1159283697
     ],
-    "wof:lastmodified": 1753116153,
-    "wof:name": "UA1230 (YVR-SFO)",
+    "wof:lastmodified": 1753286998,
+    "wof:name": "UA1126 (CLE-SFO)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -121,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -123.1792,
-    37.61799,
     -122.370943,
-    49.19333
+    37.61799,
+    -81.835629,
+    41.406844
   ],
-  "geometry": {"coordinates":[[-123.1792,49.19333],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-81.835629,41.406844],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

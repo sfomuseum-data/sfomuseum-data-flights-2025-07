@@ -2,26 +2,26 @@
   "id": 1980909957,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4597",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753057800,
+    "flysfo:base_flight_number": "4283",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753221720,
     "flysfo:event": "A",
-    "flysfo:flight_number": "UA4779",
-    "flysfo:gate": "F18",
-    "flysfo:journey": "RNO-SFO",
-    "flysfo:scheduled_timestamp": 1753059000,
-    "flysfo:timestamp": 1753059000,
+    "flysfo:flight_number": "UA4729",
+    "flysfo:gate": "F7",
+    "flysfo:journey": "MRY-SFO",
+    "flysfo:scheduled_timestamp": 1753222200,
+    "flysfo:timestamp": 1753222200,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-119.772167,39.505219",
-    "geom:latitude": 38.5616045,
-    "geom:longitude": -121.07155499999999,
+    "geom:bbox": "-122.370943,36.587900,-121.839390,37.617990",
+    "geom:latitude": 37.102945,
+    "geom:longitude": -122.1051665,
     "iata:airline": "UA",
     "iata:base_airline": "",
     "icao:airline": "UAL",
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ACA-4597",
-    "sfomuseum:departure_id": 102525535,
-    "sfomuseum:flight_id": "20250720-A-UAL-4779",
+    "sfomuseum:base_flight_id": "20250722-A-ACA-4283",
+    "sfomuseum:departure_id": 102525191,
+    "sfomuseum:flight_id": "20250722-A-UAL-4729",
     "sfomuseum:flight_number": [
-      "UAL4779",
-      "UA4779"
+      "UAL4729",
+      "UA4729"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304477,
+      1947304465,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114730,
-    "wof:geomhash": "a4d4dc469296ca0f5ad383dc766835b1",
+    "wof:created": 1753287038,
+    "wof:geomhash": "9156ee38a86542341666d641670fb814",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304477,
+        "venue_id": 1947304465,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980909957,
         "flight_id": 1980909957,
         "region_id": 85688637,
-        "venue_id": 1947304477,
+        "venue_id": 1947304465,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980909957,
     "wof:involves": [
       102527513,
-      102525535,
+      102525191,
       1159285413,
-      1947304477,
+      1947304465,
       1159283597
     ],
-    "wof:lastmodified": 1753114730,
-    "wof:name": "UA4779 (RNO-SFO)",
-    "wof:parent_id": 1947304477,
+    "wof:lastmodified": 1753287038,
+    "wof:name": "UA4729 (MRY-SFO)",
+    "wof:parent_id": 1947304465,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -119.772167,
-    39.505219
+    36.5879,
+    -121.83939,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-119.772167,39.505219],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-121.83939,36.5879],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

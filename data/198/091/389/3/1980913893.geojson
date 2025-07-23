@@ -2,40 +2,35 @@
   "id": 1980913893,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "SQ",
-    "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4724",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753041240,
+    "flysfo:airline": "WN",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753188900,
     "flysfo:event": "D",
-    "flysfo:flight_number": "SQ1018",
+    "flysfo:flight_number": "WN3419",
     "flysfo:gate": "D1",
-    "flysfo:journey": "SFO-YYZ",
-    "flysfo:scheduled_timestamp": 1753038900,
-    "flysfo:timestamp": 1753041240,
+    "flysfo:journey": "SFO-LAX",
+    "flysfo:scheduled_timestamp": 1753188900,
+    "flysfo:timestamp": 1753188900,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-79.628342,43.676352",
-    "geom:latitude": 40.647171,
-    "geom:longitude": -100.9996425,
-    "iata:airline": "SQ",
-    "iata:base_airline": "",
-    "icao:airline": "SIA",
-    "icao:base_airline": "ANZ",
+    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
+    "geom:latitude": 35.780291500000004,
+    "geom:longitude": -120.38022649999999,
+    "iata:airline": "WN",
+    "icao:airline": "SWA",
     "lbl:latitude": 37.616987,
     "lbl:longitude": -122.382479,
-    "sfomuseum:airline_id": 1159286259,
-    "sfomuseum:arrival_id": 102555091,
-    "sfomuseum:base_flight_id": "20250720-D-ANZ-4724",
+    "sfomuseum:airline_id": 1159285591,
+    "sfomuseum:arrival_id": 102533795,
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-SIA-1018",
+    "sfomuseum:flight_id": "20250722-D-SWA-3419",
     "sfomuseum:flight_number": [
-      "SIA1018",
-      "SQ1018"
+      "SWA3419",
+      "WN3419"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +49,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115702,
-    "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
+    "wof:created": 1753287480,
+    "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -88,14 +83,13 @@
     ],
     "wof:id": 1980913893,
     "wof:involves": [
-      102555091,
+      102533795,
       102527513,
-      1159286259,
-      1947304625,
-      1159283697
+      1159285591,
+      1947304625
     ],
-    "wof:lastmodified": 1753115702,
-    "wof:name": "SQ1018 (SFO-YYZ)",
+    "wof:lastmodified": 1753287480,
+    "wof:name": "WN3419 (SFO-LAX)",
     "wof:parent_id": 1947304625,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -107,9 +101,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -79.628342,
-    43.676352
+    33.942593,
+    -118.38951,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-79.628342,43.676352]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}
 }

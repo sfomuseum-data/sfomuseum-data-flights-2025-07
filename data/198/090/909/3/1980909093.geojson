@@ -2,26 +2,26 @@
   "id": 1980909093,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "QR",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9359",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753042560,
+    "flysfo:base_flight_number": "7532",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753252380,
     "flysfo:event": "A",
-    "flysfo:flight_number": "QR2106",
-    "flysfo:gate": "B21",
-    "flysfo:journey": "JAC-SFO",
-    "flysfo:scheduled_timestamp": 1753042800,
-    "flysfo:timestamp": 1753042800,
+    "flysfo:flight_number": "QR2099",
+    "flysfo:gate": "B13",
+    "flysfo:journey": "PDX-SFO",
+    "flysfo:scheduled_timestamp": 1753252740,
+    "flysfo:timestamp": 1753252740,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-110.738540,43.606600",
-    "geom:latitude": 40.612295,
-    "geom:longitude": -116.5547415,
+    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
+    "geom:latitude": 41.602067,
+    "geom:longitude": -122.484166,
     "iata:airline": "QR",
     "iata:base_airline": "",
     "icao:airline": "QTR",
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159286153,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AAL-9359",
-    "sfomuseum:departure_id": 102534217,
-    "sfomuseum:flight_id": "20250720-A-QTR-2106",
+    "sfomuseum:base_flight_id": "20250722-A-AAL-7532",
+    "sfomuseum:departure_id": 102532251,
+    "sfomuseum:flight_id": "20250722-A-QTR-2099",
     "sfomuseum:flight_number": [
-      "QTR2106",
-      "QR2106"
+      "QTR2099",
+      "QR2099"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304315,
+      1947304267,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114516,
-    "wof:geomhash": "8649ee81ac1d01facd07821b56f3d6b7",
+    "wof:created": 1753286937,
+    "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304315,
+        "venue_id": 1947304267,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980909093,
         "flight_id": 1980909093,
         "region_id": 85688637,
-        "venue_id": 1947304315,
+        "venue_id": 1947304267,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980909093,
     "wof:involves": [
       102527513,
-      102534217,
+      102532251,
       1159286153,
-      1947304315,
+      1947304267,
       1159283849
     ],
-    "wof:lastmodified": 1753114516,
-    "wof:name": "QR2106 (JAC-SFO)",
-    "wof:parent_id": 1947304315,
+    "wof:lastmodified": 1753286937,
+    "wof:name": "QR2099 (PDX-SFO)",
+    "wof:parent_id": 1947304267,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943,
+    -122.597389,
     37.61799,
-    -110.73854,
-    43.6066
+    -122.370943,
+    45.586144
   ],
-  "geometry": {"coordinates":[[-110.73854,43.6066],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

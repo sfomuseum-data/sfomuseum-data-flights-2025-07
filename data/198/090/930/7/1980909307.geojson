@@ -2,22 +2,22 @@
   "id": 1980909307,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SQ",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9305",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753044660,
+    "flysfo:base_flight_number": "9336",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753195740,
     "flysfo:event": "A",
-    "flysfo:flight_number": "SQ1385",
+    "flysfo:flight_number": "SQ1348",
     "flysfo:gate": "C1",
     "flysfo:journey": "SAN-SFO",
-    "flysfo:scheduled_timestamp": 1753045440,
-    "flysfo:timestamp": 1753045440,
+    "flysfo:scheduled_timestamp": 1753196400,
+    "flysfo:timestamp": 1753196400,
     "geom:area": 0,
     "geom:bbox": "-122.370943,32.733534,-117.185927,37.617990",
     "geom:latitude": 35.175762,
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159286259,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AAL-9305",
+    "sfomuseum:base_flight_id": "20250722-A-AAL-9336",
     "sfomuseum:departure_id": 102528997,
-    "sfomuseum:flight_id": "20250720-A-SIA-1385",
+    "sfomuseum:flight_id": "20250722-A-SIA-1348",
     "sfomuseum:flight_number": [
-      "SIA1385",
-      "SQ1385"
+      "SIA1348",
+      "SQ1348"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,7 +54,7 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114569,
+    "wof:created": 1753286961,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
     "wof:hierarchy": [
       {
@@ -94,8 +94,8 @@
       1947304387,
       1159283849
     ],
-    "wof:lastmodified": 1753114569,
-    "wof:name": "SQ1385 (SAN-SFO)",
+    "wof:lastmodified": 1753286961,
+    "wof:name": "SQ1348 (SAN-SFO)",
     "wof:parent_id": 1947304387,
     "wof:placetype": "custom",
     "wof:placetype_alt": [

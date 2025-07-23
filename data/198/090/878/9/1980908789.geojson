@@ -2,53 +2,43 @@
   "id": 1980908789,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-20",
-    "date:cessation_upper": "2025-07-20",
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
-    "edtf:cessation": "2025-07-20T22:26:00Z",
-    "edtf:inception": "2025-07-20T16:53:00Z",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9560",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753051620,
+    "flysfo:base_flight_number": "7402",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753205340,
     "flysfo:event": "A",
-    "flysfo:flight_number": "B6415",
-    "flysfo:gate": "B6",
-    "flysfo:journey": "JFK-SFO",
-    "flysfo:scheduled_timestamp": 1753050000,
-    "flysfo:timestamp": 1753051620,
+    "flysfo:flight_number": "B6377",
+    "flysfo:gate": "B5",
+    "flysfo:journey": "FLL-SFO",
+    "flysfo:scheduled_timestamp": 1753205700,
+    "flysfo:timestamp": 1753205700,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
-    "geom:latitude": 39.130638000000005,
-    "geom:longitude": -98.07939400000001,
+    "geom:bbox": "-122.370943,26.074860,-80.138518,37.617990",
+    "geom:latitude": 31.846425,
+    "geom:longitude": -101.2547305,
     "iata:airline": "B6",
     "iata:base_airline": "",
-    "icao:aircraft": "A321",
     "icao:airline": "JBU",
-    "icao:base_airline": "RAM",
+    "icao:base_airline": "AZU",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-RAM-9560",
-    "sfomuseum:departure_id": 102534365,
-    "sfomuseum:flight_id": "20250720-A-JBU-415",
+    "sfomuseum:base_flight_id": "20250722-A-AZU-7402",
+    "sfomuseum:departure_id": 102530841,
+    "sfomuseum:flight_id": "20250722-A-JBU-377",
     "sfomuseum:flight_number": [
-      "JBU415",
-      "B6415"
+      "JBU377",
+      "B6377"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-approach"
-    ],
-    "swim:tail_number": "N937JB",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -59,17 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304313,
+      1947304299,
       1947304259,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "105925191",
-      "swim:gufi": "KN51340100"
-    },
     "wof:country": "US",
-    "wof:created": 1753114441,
-    "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
+    "wof:created": 1753286889,
+    "wof:geomhash": "d17d7e3187ba5afa3de1a7310fca2526",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -83,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304313,
+        "venue_id": 1947304299,
         "wing_id": 1947304259
       },
       {
@@ -96,22 +82,21 @@
         "custom_id": 1980908789,
         "flight_id": 1980908789,
         "region_id": 85688637,
-        "venue_id": 1947304313,
+        "venue_id": 1947304299,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980908789,
     "wof:involves": [
-      1159289411,
       102527513,
-      102534365,
+      102530841,
       1159284583,
-      1947304313,
-      1159285081
+      1947304299,
+      1779770723
     ],
-    "wof:lastmodified": 1753116147,
-    "wof:name": "B6415 (JFK-SFO)",
-    "wof:parent_id": 1947304313,
+    "wof:lastmodified": 1753286889,
+    "wof:name": "B6377 (FLL-SFO)",
+    "wof:parent_id": 1947304299,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -122,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -73.787845,
-    40.643286
+    26.07486,
+    -80.138518,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-80.138518,26.07486],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

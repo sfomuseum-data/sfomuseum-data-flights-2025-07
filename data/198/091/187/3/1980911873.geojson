@@ -2,26 +2,26 @@
   "id": 1980911873,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "NZ",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9489",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753055040,
+    "flysfo:base_flight_number": "9619",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753252200,
     "flysfo:event": "D",
-    "flysfo:flight_number": "NZ9489",
+    "flysfo:flight_number": "NZ9619",
     "flysfo:gate": "D9",
-    "flysfo:journey": "SFO-JAC",
-    "flysfo:scheduled_timestamp": 1753055400,
-    "flysfo:timestamp": 1753055400,
+    "flysfo:journey": "SFO-SBA",
+    "flysfo:scheduled_timestamp": 1753248900,
+    "flysfo:timestamp": 1753252200,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-110.738540,43.606600",
-    "geom:latitude": 40.612295,
-    "geom:longitude": -116.5547415,
+    "geom:bbox": "-122.370943,34.427974,-119.837133,37.617990",
+    "geom:latitude": 36.022982,
+    "geom:longitude": -121.104038,
     "iata:airline": "NZ",
     "iata:base_airline": "",
     "icao:airline": "ANZ",
@@ -29,13 +29,13 @@
     "lbl:latitude": 37.61756,
     "lbl:longitude": -122.381052,
     "sfomuseum:airline_id": 1159283697,
-    "sfomuseum:arrival_id": 102534217,
-    "sfomuseum:base_flight_id": "20250720-D-ANZ-9489",
+    "sfomuseum:arrival_id": 102527337,
+    "sfomuseum:base_flight_id": "20250722-D-ANZ-9619",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-ANZ-9489",
+    "sfomuseum:flight_id": "20250722-D-ANZ-9619",
     "sfomuseum:flight_number": [
-      "ANZ9489",
-      "NZ9489"
+      "ANZ9619",
+      "NZ9619"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115197,
-    "wof:geomhash": "9f2aefec298b0356dc0b4065c5b61f73",
+    "wof:created": 1753287256,
+    "wof:geomhash": "1d9a5fa2c9575ebb155d9645f1016c57",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -88,14 +88,14 @@
     ],
     "wof:id": 1980911873,
     "wof:involves": [
-      102534217,
+      102527337,
       102527513,
       1159283697,
       1947304609,
       1159283697
     ],
-    "wof:lastmodified": 1753115197,
-    "wof:name": "NZ9489 (SFO-JAC)",
+    "wof:lastmodified": 1753287256,
+    "wof:name": "NZ9619 (SFO-SBA)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -110.73854,
-    43.6066
+    34.427974,
+    -119.837133,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-110.73854,43.6066]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-119.837133,34.427974]],"type":"MultiPoint"}
 }

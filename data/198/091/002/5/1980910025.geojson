@@ -2,40 +2,35 @@
   "id": 1980910025,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
-    "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9086",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753062720,
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753222500,
     "flysfo:event": "A",
-    "flysfo:flight_number": "UA5468",
+    "flysfo:flight_number": "UA5452",
     "flysfo:gate": "F5",
-    "flysfo:journey": "MSO-SFO",
-    "flysfo:scheduled_timestamp": 1753059300,
-    "flysfo:timestamp": 1753062720,
+    "flysfo:journey": "RDD-SFO",
+    "flysfo:scheduled_timestamp": 1753222920,
+    "flysfo:timestamp": 1753222920,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-114.080763,46.919119",
-    "geom:latitude": 42.2685545,
-    "geom:longitude": -118.225853,
+    "geom:bbox": "-122.370943,37.617990,-122.298220,40.507596",
+    "geom:latitude": 39.062793,
+    "geom:longitude": -122.3345815,
     "iata:airline": "UA",
-    "iata:base_airline": "",
     "icao:airline": "UAL",
-    "icao:base_airline": "ANZ",
     "lbl:latitude": 37.620164,
     "lbl:longitude": -122.387194,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ANZ-9086",
-    "sfomuseum:departure_id": 102531063,
-    "sfomuseum:flight_id": "20250720-A-UAL-5468",
+    "sfomuseum:departure_id": 102527969,
+    "sfomuseum:flight_id": "20250722-A-UAL-5452",
     "sfomuseum:flight_number": [
-      "UAL5468",
-      "UA5468"
+      "UAL5452",
+      "UA5452"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +49,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114748,
-    "wof:geomhash": "55de5dabeccf344fdb9470452678c7c7",
+    "wof:created": 1753287046,
+    "wof:geomhash": "dc56b2c846de1922adefc5feb6f75c92",
     "wof:hierarchy": [
       {
         "building_id": 1914600839,
@@ -89,13 +84,12 @@
     "wof:id": 1980910025,
     "wof:involves": [
       102527513,
-      102531063,
+      102527969,
       1159285413,
-      1930457221,
-      1159283697
+      1930457221
     ],
-    "wof:lastmodified": 1753114748,
-    "wof:name": "UA5468 (MSO-SFO)",
+    "wof:lastmodified": 1753287046,
+    "wof:name": "UA5452 (RDD-SFO)",
     "wof:parent_id": 1930457221,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -108,8 +102,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -114.080763,
-    46.919119
+    -122.29822,
+    40.507596
   ],
-  "geometry": {"coordinates":[[-114.080763,46.919119],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.29822,40.507596],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

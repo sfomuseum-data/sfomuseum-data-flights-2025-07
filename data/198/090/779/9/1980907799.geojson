@@ -2,40 +2,40 @@
   "id": 1980907799,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CM",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "2150",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753074300,
+    "flysfo:base_flight_number": "3474",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753242540,
     "flysfo:event": "A",
-    "flysfo:flight_number": "CM1062",
-    "flysfo:gate": "E7",
-    "flysfo:journey": "LAX-SFO",
-    "flysfo:scheduled_timestamp": 1753067940,
-    "flysfo:timestamp": 1753074300,
+    "flysfo:flight_number": "CM1890",
+    "flysfo:gate": "E13",
+    "flysfo:journey": "LAS-SFO",
+    "flysfo:scheduled_timestamp": 1753242960,
+    "flysfo:timestamp": 1753242960,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
-    "geom:latitude": 35.780291500000004,
-    "geom:longitude": -120.38022649999999,
+    "geom:bbox": "-122.370943,36.081003,-115.156440,37.617990",
+    "geom:latitude": 36.8494965,
+    "geom:longitude": -118.7636915,
     "iata:airline": "CM",
     "iata:base_airline": "",
     "icao:airline": "CMP",
-    "icao:base_airline": "AVA",
-    "lbl:latitude": 37.618874,
-    "lbl:longitude": -122.38419,
+    "icao:base_airline": "ACA",
+    "lbl:latitude": 37.619425,
+    "lbl:longitude": -122.384028,
     "sfomuseum:airline_id": 1159284211,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AVA-2150",
-    "sfomuseum:departure_id": 102533795,
-    "sfomuseum:flight_id": "20250720-A-CMP-1062",
+    "sfomuseum:base_flight_id": "20250722-A-ACA-3474",
+    "sfomuseum:departure_id": 102527209,
+    "sfomuseum:flight_id": "20250722-A-CMP-1890",
     "sfomuseum:flight_number": [
-      "CMP1062",
-      "CM1062"
+      "CMP1890",
+      "CM1890"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304529,
+      1947304517,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114195,
-    "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
+    "wof:created": 1753286761,
+    "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304529,
+        "venue_id": 1947304517,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980907799,
         "flight_id": 1980907799,
         "region_id": 85688637,
-        "venue_id": 1947304529,
+        "venue_id": 1947304517,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980907799,
     "wof:involves": [
       102527513,
-      102533795,
+      102527209,
       1159284211,
-      1947304529,
-      1159285749
+      1947304517,
+      1159283597
     ],
-    "wof:lastmodified": 1753114195,
-    "wof:name": "CM1062 (LAX-SFO)",
-    "wof:parent_id": 1947304529,
+    "wof:lastmodified": 1753286761,
+    "wof:name": "CM1890 (LAS-SFO)",
+    "wof:parent_id": 1947304517,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    33.942593,
-    -118.38951,
+    36.081003,
+    -115.15644,
     37.61799
   ],
-  "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

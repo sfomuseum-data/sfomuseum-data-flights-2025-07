@@ -2,26 +2,26 @@
   "id": 1980908373,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "FJ",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7464",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753065480,
+    "flysfo:base_flight_number": "7459",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753257300,
     "flysfo:event": "A",
-    "flysfo:flight_number": "FJ5817",
+    "flysfo:flight_number": "FJ5863",
     "flysfo:gate": "B18",
-    "flysfo:journey": "PDX-SFO",
-    "flysfo:scheduled_timestamp": 1753066080,
-    "flysfo:timestamp": 1753066080,
+    "flysfo:journey": "BOS-SFO",
+    "flysfo:scheduled_timestamp": 1753253940,
+    "flysfo:timestamp": 1753257300,
     "geom:area": 0,
-    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
-    "geom:latitude": 41.602067,
-    "geom:longitude": -122.484166,
+    "geom:bbox": "-122.370943,37.617990,-71.014750,42.362322",
+    "geom:latitude": 39.990156,
+    "geom:longitude": -96.6928465,
     "iata:airline": "FJ",
     "iata:base_airline": "",
     "icao:airline": "FJI",
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159283717,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AAL-7464",
-    "sfomuseum:departure_id": 102532251,
-    "sfomuseum:flight_id": "20250720-A-FJI-5817",
+    "sfomuseum:base_flight_id": "20250722-A-AAL-7459",
+    "sfomuseum:departure_id": 102530741,
+    "sfomuseum:flight_id": "20250722-A-FJI-5863",
     "sfomuseum:flight_number": [
-      "FJI5817",
-      "FJ5817"
+      "FJI5863",
+      "FJ5863"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114336,
-    "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
+    "wof:created": 1753286827,
+    "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -89,13 +89,13 @@
     "wof:id": 1980908373,
     "wof:involves": [
       102527513,
-      102532251,
+      102530741,
       1159283717,
       1947304297,
       1159283849
     ],
-    "wof:lastmodified": 1753114336,
-    "wof:name": "FJ5817 (PDX-SFO)",
+    "wof:lastmodified": 1753286827,
+    "wof:name": "FJ5863 (BOS-SFO)",
     "wof:parent_id": 1947304297,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389,
-    37.61799,
     -122.370943,
-    45.586144
+    37.61799,
+    -71.01475,
+    42.362322
   ],
-  "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

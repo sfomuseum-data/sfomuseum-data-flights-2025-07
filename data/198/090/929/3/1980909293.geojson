@@ -2,22 +2,22 @@
   "id": 1980909293,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SQ",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7607",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753057020,
+    "flysfo:base_flight_number": "6212",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753198440,
     "flysfo:event": "A",
-    "flysfo:flight_number": "SQ1343",
-    "flysfo:gate": "B13",
+    "flysfo:flight_number": "SQ1339",
+    "flysfo:gate": "B7",
     "flysfo:journey": "LAX-SFO",
-    "flysfo:scheduled_timestamp": 1753056660,
-    "flysfo:timestamp": 1753057020,
+    "flysfo:scheduled_timestamp": 1753198140,
+    "flysfo:timestamp": 1753198440,
     "geom:area": 0,
     "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
     "geom:latitude": 35.780291500000004,
@@ -25,17 +25,17 @@
     "iata:airline": "SQ",
     "iata:base_airline": "",
     "icao:airline": "SIA",
-    "icao:base_airline": "BAW",
+    "icao:base_airline": "HAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159286259,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-BAW-7607",
+    "sfomuseum:base_flight_id": "20250722-A-HAL-6212",
     "sfomuseum:departure_id": 102533795,
-    "sfomuseum:flight_id": "20250720-A-SIA-1343",
+    "sfomuseum:flight_id": "20250722-A-SIA-1339",
     "sfomuseum:flight_number": [
-      "SIA1343",
-      "SQ1343"
+      "SIA1339",
+      "SQ1339"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,12 +49,12 @@
       85922583,
       554784711,
       85688637,
-      1947304267,
+      1947304293,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114566,
+    "wof:created": 1753286959,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304267,
+        "venue_id": 1947304293,
         "wing_id": 1947304259
       },
       {
@@ -82,7 +82,7 @@
         "custom_id": 1980909293,
         "flight_id": 1980909293,
         "region_id": 85688637,
-        "venue_id": 1947304267,
+        "venue_id": 1947304293,
         "wing_id": 1947304259
       }
     ],
@@ -91,12 +91,12 @@
       102527513,
       102533795,
       1159286259,
-      1947304267,
-      1159284021
+      1947304293,
+      1159284489
     ],
-    "wof:lastmodified": 1753114566,
-    "wof:name": "SQ1343 (LAX-SFO)",
-    "wof:parent_id": 1947304267,
+    "wof:lastmodified": 1753286959,
+    "wof:name": "SQ1339 (LAX-SFO)",
+    "wof:parent_id": 1947304293,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

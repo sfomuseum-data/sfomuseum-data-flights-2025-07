@@ -2,40 +2,35 @@
   "id": 1980911343,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "AF",
-    "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "8456",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753069380,
+    "flysfo:airline": "AI",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753203600,
     "flysfo:event": "D",
-    "flysfo:flight_number": "AF81",
-    "flysfo:gate": "A6",
-    "flysfo:journey": "SFO-CDG",
-    "flysfo:scheduled_timestamp": 1753068300,
-    "flysfo:timestamp": 1753069380,
+    "flysfo:flight_number": "AI174",
+    "flysfo:gate": "A1",
+    "flysfo:journey": "SFO-DEL",
+    "flysfo:scheduled_timestamp": 1753203600,
+    "flysfo:timestamp": 1753203600,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,2.542809,49.007854",
-    "geom:latitude": 43.312922,
-    "geom:longitude": -59.914066999999996,
-    "iata:airline": "AF",
-    "iata:base_airline": "",
-    "icao:airline": "AFR",
-    "icao:base_airline": "DAL",
-    "lbl:latitude": 37.612674,
-    "lbl:longitude": -122.389174,
-    "sfomuseum:airline_id": 1159283627,
-    "sfomuseum:arrival_id": 102544459,
-    "sfomuseum:base_flight_id": "20250720-D-DAL-8456",
+    "geom:bbox": "-122.370943,28.561954,77.098117,37.617990",
+    "geom:latitude": 33.089972,
+    "geom:longitude": -22.636412999999997,
+    "iata:airline": "AI",
+    "icao:airline": "AIC",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283649,
+    "sfomuseum:arrival_id": 102555709,
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-AFR-81",
+    "sfomuseum:flight_id": "20250722-D-AIC-174",
     "sfomuseum:flight_number": [
-      "AFR81",
-      "AF81"
+      "AIC174",
+      "AI174"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +44,13 @@
       85922583,
       554784711,
       85688637,
-      1947304085,
+      1947304079,
       1947304069,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115068,
-    "wof:geomhash": "ad7dd7ece479a882a3440fb19be6ff4c",
+    "wof:created": 1753287199,
+    "wof:geomhash": "5685f56014cf853d095c4b0f2d5ea6d9",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +64,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304085,
+        "venue_id": 1947304079,
         "wing_id": 1947304069
       },
       {
@@ -82,21 +77,20 @@
         "custom_id": 1980911343,
         "flight_id": 1980911343,
         "region_id": 85688637,
-        "venue_id": 1947304085,
+        "venue_id": 1947304079,
         "wing_id": 1947304069
       }
     ],
     "wof:id": 1980911343,
     "wof:involves": [
-      102544459,
+      102555709,
       102527513,
-      1159283627,
-      1947304085,
-      1159284261
+      1159283649,
+      1947304079
     ],
-    "wof:lastmodified": 1753115068,
-    "wof:name": "AF81 (SFO-CDG)",
-    "wof:parent_id": 1947304085,
+    "wof:lastmodified": 1753287199,
+    "wof:name": "AI174 (SFO-DEL)",
+    "wof:parent_id": 1947304079,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +101,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    2.542809,
-    49.007854
+    28.561954,
+    77.098117,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[2.542809,49.007854]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[77.098117,28.561954]],"type":"MultiPoint"}
 }

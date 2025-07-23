@@ -2,40 +2,40 @@
   "id": 1980909311,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SQ",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7514",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753027620,
+    "flysfo:base_flight_number": "6302",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753251120,
     "flysfo:event": "A",
-    "flysfo:flight_number": "SQ1399",
-    "flysfo:gate": "B12",
-    "flysfo:journey": "PDX-SFO",
-    "flysfo:scheduled_timestamp": 1753026780,
-    "flysfo:timestamp": 1753027620,
+    "flysfo:flight_number": "SQ1357",
+    "flysfo:gate": "B21",
+    "flysfo:journey": "ORD-SFO",
+    "flysfo:scheduled_timestamp": 1753247160,
+    "flysfo:timestamp": 1753251120,
     "geom:area": 0,
-    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
-    "geom:latitude": 41.602067,
-    "geom:longitude": -122.484166,
+    "geom:bbox": "-122.370943,37.617990,-87.894364,41.983038",
+    "geom:latitude": 39.800514,
+    "geom:longitude": -105.1326535,
     "iata:airline": "SQ",
     "iata:base_airline": "",
     "icao:airline": "SIA",
-    "icao:base_airline": "AAL",
+    "icao:base_airline": "HAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159286259,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AAL-7514",
-    "sfomuseum:departure_id": 102532251,
-    "sfomuseum:flight_id": "20250720-A-SIA-1399",
+    "sfomuseum:base_flight_id": "20250722-A-HAL-6302",
+    "sfomuseum:departure_id": 102533631,
+    "sfomuseum:flight_id": "20250722-A-SIA-1357",
     "sfomuseum:flight_number": [
-      "SIA1399",
-      "SQ1399"
+      "SIA1357",
+      "SQ1357"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304263,
+      1947304315,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114570,
-    "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
+    "wof:created": 1753286961,
+    "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304263,
+        "venue_id": 1947304315,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980909311,
         "flight_id": 1980909311,
         "region_id": 85688637,
-        "venue_id": 1947304263,
+        "venue_id": 1947304315,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980909311,
     "wof:involves": [
       102527513,
-      102532251,
+      102533631,
       1159286259,
-      1947304263,
-      1159283849
+      1947304315,
+      1159284489
     ],
-    "wof:lastmodified": 1753114570,
-    "wof:name": "SQ1399 (PDX-SFO)",
-    "wof:parent_id": 1947304263,
+    "wof:lastmodified": 1753286961,
+    "wof:name": "SQ1357 (ORD-SFO)",
+    "wof:parent_id": 1947304315,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389,
-    37.61799,
     -122.370943,
-    45.586144
+    37.61799,
+    -87.894364,
+    41.983038
   ],
-  "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

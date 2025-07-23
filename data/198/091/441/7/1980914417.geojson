@@ -2,40 +2,40 @@
   "id": 1980914417,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "1359",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753078200,
+    "flysfo:base_flight_number": "9196",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753220760,
     "flysfo:event": "D",
-    "flysfo:flight_number": "UA1870",
-    "flysfo:gate": "F14",
-    "flysfo:journey": "SFO-IAD",
-    "flysfo:scheduled_timestamp": 1753077900,
-    "flysfo:timestamp": 1753078200,
+    "flysfo:flight_number": "UA2855",
+    "flysfo:gate": "F16",
+    "flysfo:journey": "SFO-IAH",
+    "flysfo:scheduled_timestamp": 1753220940,
+    "flysfo:timestamp": 1753220940,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-77.453702,38.949246",
-    "geom:latitude": 38.283618000000004,
-    "geom:longitude": -99.9123225,
+    "geom:bbox": "-122.370943,29.977186,-95.338444,37.617990",
+    "geom:latitude": 33.797588,
+    "geom:longitude": -108.8546935,
     "iata:airline": "UA",
     "iata:base_airline": "",
     "icao:airline": "UAL",
-    "icao:base_airline": "ETH",
-    "lbl:latitude": 37.620304,
-    "lbl:longitude": -122.388827,
+    "icao:base_airline": "ANZ",
+    "lbl:latitude": 37.620533,
+    "lbl:longitude": -122.389374,
     "sfomuseum:airline_id": 1159285413,
-    "sfomuseum:arrival_id": 102528817,
-    "sfomuseum:base_flight_id": "20250720-D-ETH-1359",
+    "sfomuseum:arrival_id": 102534097,
+    "sfomuseum:base_flight_id": "20250722-D-ANZ-9196",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-UAL-1870",
+    "sfomuseum:flight_id": "20250722-D-UAL-2855",
     "sfomuseum:flight_number": [
-      "UAL1870",
-      "UA1870"
+      "UAL2855",
+      "UA2855"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304453,
+      1947304457,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115829,
-    "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
+    "wof:created": 1753287538,
+    "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304453,
+        "venue_id": 1947304457,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980914417,
         "flight_id": 1980914417,
         "region_id": 85688637,
-        "venue_id": 1947304453,
+        "venue_id": 1947304457,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980914417,
     "wof:involves": [
-      102528817,
+      102534097,
       102527513,
       1159285413,
-      1947304453,
-      1159284341
+      1947304457,
+      1159283697
     ],
-    "wof:lastmodified": 1753115829,
-    "wof:name": "UA1870 (SFO-IAD)",
-    "wof:parent_id": 1947304453,
+    "wof:lastmodified": 1753287538,
+    "wof:name": "UA2855 (SFO-IAH)",
+    "wof:parent_id": 1947304457,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -77.453702,
-    38.949246
+    29.977186,
+    -95.338444,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-77.453702,38.949246]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-95.338444,29.977186]],"type":"MultiPoint"}
 }

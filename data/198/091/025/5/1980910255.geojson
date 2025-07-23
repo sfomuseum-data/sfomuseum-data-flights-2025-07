@@ -2,53 +2,43 @@
   "id": 1980910255,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-20",
-    "date:cessation_upper": "2025-07-20",
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
-    "edtf:cessation": "2025-07-20T04:08:09-07:00",
-    "edtf:inception": "2025-07-20T07:43:00Z",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "3298",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753036500,
+    "flysfo:base_flight_number": "9728",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753225080,
     "flysfo:event": "A",
-    "flysfo:flight_number": "UA984",
-    "flysfo:gate": "G3",
-    "flysfo:journey": "CDG-SFO",
-    "flysfo:scheduled_timestamp": 1753037100,
-    "flysfo:timestamp": 1753037100,
+    "flysfo:flight_number": "UA9728",
+    "flysfo:gate": "G9",
+    "flysfo:journey": "ZRH-SFO",
+    "flysfo:scheduled_timestamp": 1753225800,
+    "flysfo:timestamp": 1753225800,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,2.542809,49.007854",
-    "geom:latitude": 43.312922,
-    "geom:longitude": -59.914066999999996,
+    "geom:bbox": "-122.370943,37.617990,8.559692,47.455793",
+    "geom:latitude": 42.536891499999996,
+    "geom:longitude": -56.9056255,
     "iata:airline": "UA",
     "iata:base_airline": "",
-    "icao:aircraft": "B772",
     "icao:airline": "UAL",
-    "icao:base_airline": "ACA",
-    "lbl:latitude": 37.617458,
-    "lbl:longitude": -122.391079,
-    "sfomuseum:aircraft_id": 1159289985,
+    "icao:base_airline": "UAL",
+    "lbl:latitude": 37.61844,
+    "lbl:longitude": -122.392214,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ACA-3298",
-    "sfomuseum:departure_id": 102544459,
-    "sfomuseum:flight_id": "20250720-A-UAL-984",
+    "sfomuseum:base_flight_id": "20250722-A-UAL-9728",
+    "sfomuseum:departure_id": 102553957,
+    "sfomuseum:flight_id": "20250722-A-UAL-9728",
     "sfomuseum:flight_number": [
-      "UAL984",
-      "UA984"
+      "UAL9728",
+      "UA9728"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-approach"
-    ],
-    "swim:tail_number": "N227UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -59,17 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304131,
+      1947304153,
       1947304069,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "105896573",
-      "swim:gufi": "KS56785100"
-    },
     "wof:country": "US",
-    "wof:created": 1753114804,
-    "wof:geomhash": "07d689097487ceb3bc0a07973d8c4b93",
+    "wof:created": 1753287078,
+    "wof:geomhash": "59c1b41e582a5fde12da38b49a2c462f",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -83,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304131,
+        "venue_id": 1947304153,
         "wing_id": 1947304069
       },
       {
@@ -96,22 +82,21 @@
         "custom_id": 1980910255,
         "flight_id": 1980910255,
         "region_id": 85688637,
-        "venue_id": 1947304131,
+        "venue_id": 1947304153,
         "wing_id": 1947304069
       }
     ],
     "wof:id": 1980910255,
     "wof:involves": [
-      1159289985,
       102527513,
-      102544459,
+      102553957,
       1159285413,
-      1947304131,
-      1159283597
+      1947304153,
+      1159285413
     ],
-    "wof:lastmodified": 1753116130,
-    "wof:name": "UA984 (CDG-SFO)",
-    "wof:parent_id": 1947304131,
+    "wof:lastmodified": 1753287078,
+    "wof:name": "UA9728 (ZRH-SFO)",
+    "wof:parent_id": 1947304153,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -123,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    2.542809,
-    49.007854
+    8.559692,
+    47.455793
   ],
-  "geometry": {"coordinates":[[2.542809,49.007854],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[8.559692,47.455793],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

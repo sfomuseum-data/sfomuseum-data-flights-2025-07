@@ -2,40 +2,40 @@
   "id": 1980906341,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "3600",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753039020,
+    "flysfo:base_flight_number": "3554",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753190700,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AC3600",
-    "flysfo:gate": "F13",
-    "flysfo:journey": "DEN-SFO",
-    "flysfo:scheduled_timestamp": 1753029900,
-    "flysfo:timestamp": 1753039020,
+    "flysfo:flight_number": "AC3554",
+    "flysfo:gate": "F19",
+    "flysfo:journey": "OGG-SFO",
+    "flysfo:scheduled_timestamp": 1753191300,
+    "flysfo:timestamp": 1753191300,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-104.672219,39.864939",
-    "geom:latitude": 38.7414645,
-    "geom:longitude": -113.521581,
+    "geom:bbox": "-156.437877,20.894952,-122.370943,37.617990",
+    "geom:latitude": 29.256470999999998,
+    "geom:longitude": -139.40440999999998,
     "iata:airline": "AC",
     "iata:base_airline": "",
     "icao:airline": "ACA",
     "icao:base_airline": "ACA",
-    "lbl:latitude": 37.620534,
-    "lbl:longitude": -122.388506,
+    "lbl:latitude": 37.620929,
+    "lbl:longitude": -122.390272,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ACA-3600",
-    "sfomuseum:departure_id": 102531189,
-    "sfomuseum:flight_id": "20250720-A-ACA-3600",
+    "sfomuseum:base_flight_id": "20250722-A-ACA-3554",
+    "sfomuseum:departure_id": 102532929,
+    "sfomuseum:flight_id": "20250722-A-ACA-3554",
     "sfomuseum:flight_number": [
-      "ACA3600",
-      "AC3600"
+      "ACA3554",
+      "AC3554"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304459,
+      1947304487,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753113826,
-    "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
+    "wof:created": 1753286587,
+    "wof:geomhash": "e4ae4c60ed0a76df38dbcfaaa5dd6a55",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304459,
+        "venue_id": 1947304487,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980906341,
         "flight_id": 1980906341,
         "region_id": 85688637,
-        "venue_id": 1947304459,
+        "venue_id": 1947304487,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980906341,
     "wof:involves": [
       102527513,
-      102531189,
+      102532929,
       1159283597,
-      1947304459,
+      1947304487,
       1159283597
     ],
-    "wof:lastmodified": 1753113826,
-    "wof:name": "AC3600 (DEN-SFO)",
-    "wof:parent_id": 1947304459,
+    "wof:lastmodified": 1753286587,
+    "wof:name": "AC3554 (OGG-SFO)",
+    "wof:parent_id": 1947304487,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
+    -156.437877,
+    20.894952,
     -122.370943,
-    37.61799,
-    -104.672219,
-    39.864939
+    37.61799
   ],
-  "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-156.437877,20.894952],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

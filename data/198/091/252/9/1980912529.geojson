@@ -2,40 +2,40 @@
   "id": 1980912529,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "CX",
+    "flysfo:airline": "DL",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9399",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753048320,
+    "flysfo:base_flight_number": "4941",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753214700,
     "flysfo:event": "D",
-    "flysfo:flight_number": "CX7858",
-    "flysfo:gate": "B9",
-    "flysfo:journey": "SFO-SEA",
-    "flysfo:scheduled_timestamp": 1753048320,
-    "flysfo:timestamp": 1753048320,
+    "flysfo:flight_number": "DL2272",
+    "flysfo:gate": "B19",
+    "flysfo:journey": "SFO-LAX",
+    "flysfo:scheduled_timestamp": 1753212600,
+    "flysfo:timestamp": 1753214700,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-122.304268,47.441823",
-    "geom:latitude": 42.529906499999996,
-    "geom:longitude": -122.3376055,
-    "iata:airline": "CX",
+    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
+    "geom:latitude": 35.780291500000004,
+    "geom:longitude": -120.38022649999999,
+    "iata:airline": "DL",
     "iata:base_airline": "",
-    "icao:airline": "CPA",
-    "icao:base_airline": "AAL",
+    "icao:airline": "DAL",
+    "icao:base_airline": "AMX",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159284127,
-    "sfomuseum:arrival_id": 102533269,
-    "sfomuseum:base_flight_id": "20250720-D-AAL-9399",
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102533795,
+    "sfomuseum:base_flight_id": "20250722-D-AMX-4941",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-CPA-7858",
+    "sfomuseum:flight_id": "20250722-D-DAL-2272",
     "sfomuseum:flight_number": [
-      "CPA7858",
-      "CX7858"
+      "DAL2272",
+      "DL2272"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304303,
+      1947304301,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115364,
-    "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
+    "wof:created": 1753287330,
+    "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304303,
+        "venue_id": 1947304301,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980912529,
         "flight_id": 1980912529,
         "region_id": 85688637,
-        "venue_id": 1947304303,
+        "venue_id": 1947304301,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980912529,
     "wof:involves": [
-      102533269,
+      102533795,
       102527513,
-      1159284127,
-      1947304303,
-      1159283849
+      1159284261,
+      1947304301,
+      1159283539
     ],
-    "wof:lastmodified": 1753115364,
-    "wof:name": "CX7858 (SFO-SEA)",
-    "wof:parent_id": 1947304303,
+    "wof:lastmodified": 1753287330,
+    "wof:name": "DL2272 (SFO-LAX)",
+    "wof:parent_id": 1947304301,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -122.304268,
-    47.441823
+    33.942593,
+    -118.38951,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.304268,47.441823]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}
 }

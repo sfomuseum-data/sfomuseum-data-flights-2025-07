@@ -2,22 +2,22 @@
   "id": 1980907267,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "NZ",
     "flysfo:base_airline": "",
     "flysfo:base_flight_number": "5110",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753028460,
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753202100,
     "flysfo:event": "A",
     "flysfo:flight_number": "NZ9876",
-    "flysfo:gate": "D15",
+    "flysfo:gate": "D5",
     "flysfo:journey": "YVR-SFO",
-    "flysfo:scheduled_timestamp": 1753028700,
-    "flysfo:timestamp": 1753028700,
+    "flysfo:scheduled_timestamp": 1753201500,
+    "flysfo:timestamp": 1753202100,
     "geom:area": 0,
     "geom:bbox": "-123.179200,37.617990,-122.370943,49.193330",
     "geom:latitude": 43.40566,
@@ -26,13 +26,13 @@
     "iata:base_airline": "",
     "icao:airline": "ANZ",
     "icao:base_airline": "ACA",
-    "lbl:latitude": 37.617921,
-    "lbl:longitude": -122.38181,
+    "lbl:latitude": 37.616825,
+    "lbl:longitude": -122.381021,
     "sfomuseum:airline_id": 1159283697,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ACA-5110",
+    "sfomuseum:base_flight_id": "20250722-A-ACA-5110",
     "sfomuseum:departure_id": 102555307,
-    "sfomuseum:flight_id": "20250720-A-ANZ-9876",
+    "sfomuseum:flight_id": "20250722-A-ANZ-9876",
     "sfomuseum:flight_number": [
       "ANZ9876",
       "NZ9876"
@@ -49,12 +49,12 @@
       85922583,
       554784711,
       85688637,
-      1947304623,
+      1947304607,
       1947304591,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114062,
+    "wof:created": 1753286701,
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
     "wof:hierarchy": [
       {
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304623,
+        "venue_id": 1947304607,
         "wing_id": 1947304591
       },
       {
@@ -82,7 +82,7 @@
         "custom_id": 1980907267,
         "flight_id": 1980907267,
         "region_id": 85688637,
-        "venue_id": 1947304623,
+        "venue_id": 1947304607,
         "wing_id": 1947304591
       }
     ],
@@ -91,12 +91,12 @@
       102527513,
       102555307,
       1159283697,
-      1947304623,
+      1947304607,
       1159283597
     ],
-    "wof:lastmodified": 1753114062,
+    "wof:lastmodified": 1753286701,
     "wof:name": "NZ9876 (YVR-SFO)",
-    "wof:parent_id": 1947304623,
+    "wof:parent_id": 1947304607,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

@@ -2,40 +2,40 @@
   "id": 1980906527,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "5082",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753050240,
+    "flysfo:base_flight_number": "5033",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753208460,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AC5082",
-    "flysfo:gate": "G8",
-    "flysfo:journey": "LHR-SFO",
-    "flysfo:scheduled_timestamp": 1753050000,
-    "flysfo:timestamp": 1753050240,
+    "flysfo:flight_number": "AC5033",
+    "flysfo:gate": "G3",
+    "flysfo:journey": "MEX-SFO",
+    "flysfo:scheduled_timestamp": 1753208460,
+    "flysfo:timestamp": 1753208460,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-0.450443,51.470087",
-    "geom:latitude": 44.5440385,
-    "geom:longitude": -61.410693,
+    "geom:bbox": "-122.370943,19.431302,-99.080804,37.617990",
+    "geom:latitude": 28.524645999999997,
+    "geom:longitude": -110.7258735,
     "iata:airline": "AC",
     "iata:base_airline": "",
     "icao:airline": "ACA",
     "icao:base_airline": "ACA",
-    "lbl:latitude": 37.61836,
-    "lbl:longitude": -122.393229,
+    "lbl:latitude": 37.617458,
+    "lbl:longitude": -122.391079,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ACA-5082",
-    "sfomuseum:departure_id": 102556703,
-    "sfomuseum:flight_id": "20250720-A-ACA-5082",
+    "sfomuseum:base_flight_id": "20250722-A-ACA-5033",
+    "sfomuseum:departure_id": 102536579,
+    "sfomuseum:flight_id": "20250722-A-ACA-5033",
     "sfomuseum:flight_number": [
-      "ACA5082",
-      "AC5082"
+      "ACA5033",
+      "AC5033"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304133,
+      1947304131,
       1947304069,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753113875,
-    "wof:geomhash": "c7bf5337358552a3a60caed0c1e9ea63",
+    "wof:created": 1753286610,
+    "wof:geomhash": "4224d1c4c9907a232ddfbf90e60373e4",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304133,
+        "venue_id": 1947304131,
         "wing_id": 1947304069
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980906527,
         "flight_id": 1980906527,
         "region_id": 85688637,
-        "venue_id": 1947304133,
+        "venue_id": 1947304131,
         "wing_id": 1947304069
       }
     ],
     "wof:id": 1980906527,
     "wof:involves": [
       102527513,
-      102556703,
+      102536579,
       1159283597,
-      1947304133,
+      1947304131,
       1159283597
     ],
-    "wof:lastmodified": 1753113875,
-    "wof:name": "AC5082 (LHR-SFO)",
-    "wof:parent_id": 1947304133,
+    "wof:lastmodified": 1753286610,
+    "wof:name": "AC5033 (MEX-SFO)",
+    "wof:parent_id": 1947304131,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -0.450443,
-    51.470087
+    19.431302,
+    -99.080804,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-0.450443,51.470087],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-99.080804,19.431302],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

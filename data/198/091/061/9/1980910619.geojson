@@ -2,22 +2,22 @@
   "id": 1980910619,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "VA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9123",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753071420,
+    "flysfo:base_flight_number": "7886",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753249380,
     "flysfo:event": "A",
-    "flysfo:flight_number": "VA8517",
-    "flysfo:gate": "F16",
+    "flysfo:flight_number": "VA8515",
+    "flysfo:gate": "F20",
     "flysfo:journey": "EWR-SFO",
-    "flysfo:scheduled_timestamp": 1753068300,
-    "flysfo:timestamp": 1753071420,
+    "flysfo:scheduled_timestamp": 1753245720,
+    "flysfo:timestamp": 1753249380,
     "geom:area": 0,
     "geom:bbox": "-122.370943,37.617990,-74.177526,40.691243",
     "geom:latitude": 39.1546165,
@@ -25,17 +25,17 @@
     "iata:airline": "VA",
     "iata:base_airline": "",
     "icao:airline": "VOZ",
-    "icao:base_airline": "ANZ",
-    "lbl:latitude": 37.620533,
-    "lbl:longitude": -122.389374,
+    "icao:base_airline": "DLH",
+    "lbl:latitude": 37.621076,
+    "lbl:longitude": -122.390239,
     "sfomuseum:airline_id": 1159285485,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-ANZ-9123",
+    "sfomuseum:base_flight_id": "20250722-A-DLH-7886",
     "sfomuseum:departure_id": 102530049,
-    "sfomuseum:flight_id": "20250720-A-VOZ-8517",
+    "sfomuseum:flight_id": "20250722-A-VOZ-8515",
     "sfomuseum:flight_number": [
-      "VOZ8517",
-      "VA8517"
+      "VOZ8515",
+      "VA8515"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,12 +49,12 @@
       85922583,
       554784711,
       85688637,
-      1947304457,
+      1947304489,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114894,
+    "wof:created": 1753287118,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
     "wof:hierarchy": [
       {
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304457,
+        "venue_id": 1947304489,
         "wing_id": 1947304447
       },
       {
@@ -82,7 +82,7 @@
         "custom_id": 1980910619,
         "flight_id": 1980910619,
         "region_id": 85688637,
-        "venue_id": 1947304457,
+        "venue_id": 1947304489,
         "wing_id": 1947304447
       }
     ],
@@ -91,12 +91,12 @@
       102527513,
       102530049,
       1159285485,
-      1947304457,
-      1159283697
+      1947304489,
+      1159286015
     ],
-    "wof:lastmodified": 1753114894,
-    "wof:name": "VA8517 (EWR-SFO)",
-    "wof:parent_id": 1947304457,
+    "wof:lastmodified": 1753287118,
+    "wof:name": "VA8515 (EWR-SFO)",
+    "wof:parent_id": 1947304489,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

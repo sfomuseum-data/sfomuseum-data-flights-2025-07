@@ -2,40 +2,40 @@
   "id": 1980915089,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "VA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "5366",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753017540,
+    "flysfo:base_flight_number": "5612",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753219680,
     "flysfo:event": "D",
-    "flysfo:flight_number": "VA8097",
-    "flysfo:gate": "F13",
-    "flysfo:journey": "SFO-ORD",
-    "flysfo:scheduled_timestamp": 1753017000,
-    "flysfo:timestamp": 1753017540,
+    "flysfo:flight_number": "VA8431",
+    "flysfo:gate": "F12",
+    "flysfo:journey": "SFO-SAN",
+    "flysfo:scheduled_timestamp": 1753215900,
+    "flysfo:timestamp": 1753219680,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-87.894364,41.983038",
-    "geom:latitude": 39.800514,
-    "geom:longitude": -105.1326535,
+    "geom:bbox": "-122.370943,32.733534,-117.185927,37.617990",
+    "geom:latitude": 35.175762,
+    "geom:longitude": -119.778435,
     "iata:airline": "VA",
     "iata:base_airline": "",
     "icao:airline": "VOZ",
     "icao:base_airline": "ACA",
-    "lbl:latitude": 37.620534,
-    "lbl:longitude": -122.388506,
+    "lbl:latitude": 37.620058,
+    "lbl:longitude": -122.38824,
     "sfomuseum:airline_id": 1159285485,
-    "sfomuseum:arrival_id": 102533631,
-    "sfomuseum:base_flight_id": "20250720-D-ACA-5366",
+    "sfomuseum:arrival_id": 102528997,
+    "sfomuseum:base_flight_id": "20250722-D-ACA-5612",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-VOZ-8097",
+    "sfomuseum:flight_id": "20250722-D-VOZ-8431",
     "sfomuseum:flight_number": [
-      "VOZ8097",
-      "VA8097"
+      "VOZ8431",
+      "VA8431"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304459,
+      1947304483,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753116035,
-    "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
+    "wof:created": 1753287614,
+    "wof:geomhash": "25f5345529d944df781e36098260a435",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304459,
+        "venue_id": 1947304483,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980915089,
         "flight_id": 1980915089,
         "region_id": 85688637,
-        "venue_id": 1947304459,
+        "venue_id": 1947304483,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980915089,
     "wof:involves": [
-      102533631,
+      102528997,
       102527513,
       1159285485,
-      1947304459,
+      1947304483,
       1159283597
     ],
-    "wof:lastmodified": 1753116035,
-    "wof:name": "VA8097 (SFO-ORD)",
-    "wof:parent_id": 1947304459,
+    "wof:lastmodified": 1753287614,
+    "wof:name": "VA8431 (SFO-SAN)",
+    "wof:parent_id": 1947304483,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -87.894364,
-    41.983038
+    32.733534,
+    -117.185927,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}
 }

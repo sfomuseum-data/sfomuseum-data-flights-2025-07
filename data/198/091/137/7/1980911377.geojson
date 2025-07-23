@@ -2,40 +2,40 @@
   "id": 1980911377,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AM",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4297",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753017000,
+    "flysfo:base_flight_number": "4885",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753235100,
     "flysfo:event": "D",
-    "flysfo:flight_number": "AM4297",
-    "flysfo:gate": "C3",
-    "flysfo:journey": "SFO-ATL",
-    "flysfo:scheduled_timestamp": 1753017300,
-    "flysfo:timestamp": 1753017300,
+    "flysfo:flight_number": "AM4885",
+    "flysfo:gate": "C6",
+    "flysfo:journey": "SFO-LAX",
+    "flysfo:scheduled_timestamp": 1753235400,
+    "flysfo:timestamp": 1753235400,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,33.636518,-84.430686,37.617990",
-    "geom:latitude": 35.627254,
-    "geom:longitude": -103.4008145,
+    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
+    "geom:latitude": 35.780291500000004,
+    "geom:longitude": -120.38022649999999,
     "iata:airline": "AM",
     "iata:base_airline": "",
     "icao:airline": "AMX",
     "icao:base_airline": "AMX",
-    "lbl:latitude": 37.615398,
-    "lbl:longitude": -122.383426,
+    "lbl:latitude": 37.614759,
+    "lbl:longitude": -122.382707,
     "sfomuseum:airline_id": 1159283539,
-    "sfomuseum:arrival_id": 102526927,
-    "sfomuseum:base_flight_id": "20250720-D-AMX-4297",
+    "sfomuseum:arrival_id": 102533795,
+    "sfomuseum:base_flight_id": "20250722-D-AMX-4885",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-AMX-4297",
+    "sfomuseum:flight_id": "20250722-D-AMX-4885",
     "sfomuseum:flight_number": [
-      "AMX4297",
-      "AM4297"
+      "AMX4885",
+      "AM4885"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304671,
+      1947304679,
       1947304591,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753115076,
-    "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
+    "wof:created": 1753287203,
+    "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304671,
+        "venue_id": 1947304679,
         "wing_id": 1947304591
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980911377,
         "flight_id": 1980911377,
         "region_id": 85688637,
-        "venue_id": 1947304671,
+        "venue_id": 1947304679,
         "wing_id": 1947304591
       }
     ],
     "wof:id": 1980911377,
     "wof:involves": [
-      102526927,
+      102533795,
       102527513,
       1159283539,
-      1947304671,
+      1947304679,
       1159283539
     ],
-    "wof:lastmodified": 1753115076,
-    "wof:name": "AM4297 (SFO-ATL)",
-    "wof:parent_id": 1947304671,
+    "wof:lastmodified": 1753287203,
+    "wof:name": "AM4885 (SFO-LAX)",
+    "wof:parent_id": 1947304679,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    33.636518,
-    -84.430686,
+    33.942593,
+    -118.38951,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-84.430686,33.636518]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}
 }

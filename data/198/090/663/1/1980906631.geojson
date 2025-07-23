@@ -2,40 +2,40 @@
   "id": 1980906631,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "AF",
+    "flysfo:airline": "UX",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "2653",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753039260,
+    "flysfo:base_flight_number": "5906",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753173180,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AF2653",
+    "flysfo:flight_number": "UX3402",
     "flysfo:gate": "C3",
-    "flysfo:journey": "SLC-SFO",
-    "flysfo:scheduled_timestamp": 1753038720,
-    "flysfo:timestamp": 1753039260,
+    "flysfo:journey": "JFK-SFO",
+    "flysfo:scheduled_timestamp": 1753173300,
+    "flysfo:timestamp": 1753173300,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-111.980566,40.782170",
-    "geom:latitude": 39.20008,
-    "geom:longitude": -117.1757545,
-    "iata:airline": "AF",
+    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
+    "geom:latitude": 39.130638000000005,
+    "geom:longitude": -98.07939400000001,
+    "iata:airline": "UX",
     "iata:base_airline": "",
-    "icao:airline": "AFR",
-    "icao:base_airline": "AFR",
+    "icao:airline": "AEA",
+    "icao:base_airline": "ITY",
     "lbl:latitude": 37.615398,
     "lbl:longitude": -122.383426,
-    "sfomuseum:airline_id": 1159283627,
+    "sfomuseum:airline_id": 1159283617,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AFR-2653",
-    "sfomuseum:departure_id": 102527363,
-    "sfomuseum:flight_id": "20250720-A-AFR-2653",
+    "sfomuseum:base_flight_id": "20250722-A-ITY-5906",
+    "sfomuseum:departure_id": 102534365,
+    "sfomuseum:flight_id": "20250722-A-AEA-3402",
     "sfomuseum:flight_number": [
-      "AFR2653",
-      "AF2653"
+      "AEA3402",
+      "UX3402"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753113902,
-    "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
+    "wof:created": 1753286624,
+    "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -89,13 +89,13 @@
     "wof:id": 1980906631,
     "wof:involves": [
       102527513,
-      102527363,
-      1159283627,
+      102534365,
+      1159283617,
       1947304671,
-      1159283627
+      1763699293
     ],
-    "wof:lastmodified": 1753113902,
-    "wof:name": "AF2653 (SLC-SFO)",
+    "wof:lastmodified": 1753286624,
+    "wof:name": "UX3402 (JFK-SFO)",
     "wof:parent_id": 1947304671,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -111.980566,
-    40.78217
+    -73.787845,
+    40.643286
   ],
-  "geometry": {"coordinates":[[-111.980566,40.78217],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

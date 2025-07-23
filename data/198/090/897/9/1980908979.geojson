@@ -2,40 +2,40 @@
   "id": 1980908979,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "QF",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4024",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753061940,
+    "flysfo:base_flight_number": "7533",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753249260,
     "flysfo:event": "A",
-    "flysfo:flight_number": "QF3234",
-    "flysfo:gate": "B24",
-    "flysfo:journey": "DFW-SFO",
-    "flysfo:scheduled_timestamp": 1753062180,
-    "flysfo:timestamp": 1753062180,
+    "flysfo:flight_number": "QF3193",
+    "flysfo:gate": "B26",
+    "flysfo:journey": "LAX-SFO",
+    "flysfo:scheduled_timestamp": 1753249020,
+    "flysfo:timestamp": 1753249260,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,32.903660,-97.050966,37.617990",
-    "geom:latitude": 35.260825,
-    "geom:longitude": -109.7109545,
+    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
+    "geom:latitude": 35.780291500000004,
+    "geom:longitude": -120.38022649999999,
     "iata:airline": "QF",
     "iata:base_airline": "",
     "icao:airline": "QFA",
-    "icao:base_airline": "FIN",
+    "icao:base_airline": "EIN",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159285043,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-FIN-4024",
-    "sfomuseum:departure_id": 102528541,
-    "sfomuseum:flight_id": "20250720-A-QFA-3234",
+    "sfomuseum:base_flight_id": "20250722-A-EIN-7533",
+    "sfomuseum:departure_id": 102533795,
+    "sfomuseum:flight_id": "20250722-A-QFA-3193",
     "sfomuseum:flight_number": [
-      "QFA3234",
-      "QF3234"
+      "QFA3193",
+      "QF3193"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304277,
+      1947304283,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114487,
-    "wof:geomhash": "865973335526f09b753756c305bf4946",
+    "wof:created": 1753286910,
+    "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304277,
+        "venue_id": 1947304283,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980908979,
         "flight_id": 1980908979,
         "region_id": 85688637,
-        "venue_id": 1947304277,
+        "venue_id": 1947304283,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980908979,
     "wof:involves": [
       102527513,
-      102528541,
+      102533795,
       1159285043,
-      1947304277,
-      1159284389
+      1947304283,
+      1159283495
     ],
-    "wof:lastmodified": 1753114487,
-    "wof:name": "QF3234 (DFW-SFO)",
-    "wof:parent_id": 1947304277,
+    "wof:lastmodified": 1753286910,
+    "wof:name": "QF3193 (LAX-SFO)",
+    "wof:parent_id": 1947304283,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    32.90366,
-    -97.050966,
+    33.942593,
+    -118.38951,
     37.61799
   ],
-  "geometry": {"coordinates":[[-97.050966,32.90366],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

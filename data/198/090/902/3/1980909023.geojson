@@ -2,22 +2,22 @@
   "id": 1980909023,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "QF",
     "flysfo:base_airline": "",
     "flysfo:base_flight_number": "7494",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753060680,
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753234260,
     "flysfo:event": "A",
     "flysfo:flight_number": "QF3765",
-    "flysfo:gate": "B17",
+    "flysfo:gate": "B7",
     "flysfo:journey": "ANC-SFO",
-    "flysfo:scheduled_timestamp": 1753059900,
-    "flysfo:timestamp": 1753060680,
+    "flysfo:scheduled_timestamp": 1753232700,
+    "flysfo:timestamp": 1753234260,
     "geom:area": 0,
     "geom:bbox": "-149.968401,37.617990,-122.370943,61.173606",
     "geom:latitude": 49.395798,
@@ -30,9 +30,9 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159285043,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AAL-7494",
+    "sfomuseum:base_flight_id": "20250722-A-AAL-7494",
     "sfomuseum:departure_id": 102531979,
-    "sfomuseum:flight_id": "20250720-A-QFA-3765",
+    "sfomuseum:flight_id": "20250722-A-QFA-3765",
     "sfomuseum:flight_number": [
       "QFA3765",
       "QF3765"
@@ -49,12 +49,12 @@
       85922583,
       554784711,
       85688637,
-      1947304285,
+      1947304293,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114499,
+    "wof:created": 1753286915,
     "wof:geomhash": "40576486fbb454d3a66da49d62a0ae33",
     "wof:hierarchy": [
       {
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304285,
+        "venue_id": 1947304293,
         "wing_id": 1947304259
       },
       {
@@ -82,7 +82,7 @@
         "custom_id": 1980909023,
         "flight_id": 1980909023,
         "region_id": 85688637,
-        "venue_id": 1947304285,
+        "venue_id": 1947304293,
         "wing_id": 1947304259
       }
     ],
@@ -91,12 +91,12 @@
       102527513,
       102531979,
       1159285043,
-      1947304285,
+      1947304293,
       1159283849
     ],
-    "wof:lastmodified": 1753114499,
+    "wof:lastmodified": 1753286915,
     "wof:name": "QF3765 (ANC-SFO)",
-    "wof:parent_id": 1947304285,
+    "wof:parent_id": 1947304293,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

@@ -2,26 +2,26 @@
   "id": 1980909041,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "QF",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7932",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753043640,
+    "flysfo:base_flight_number": "9275",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753212660,
     "flysfo:event": "A",
-    "flysfo:flight_number": "QF3855",
-    "flysfo:gate": "B11",
-    "flysfo:journey": "NAN-SFO",
-    "flysfo:scheduled_timestamp": 1753044300,
-    "flysfo:timestamp": 1753044300,
+    "flysfo:flight_number": "QF3794",
+    "flysfo:gate": "B8",
+    "flysfo:journey": "PSP-SFO",
+    "flysfo:scheduled_timestamp": 1753206300,
+    "flysfo:timestamp": 1753212660,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,-17.806865,177.376360,37.617990",
-    "geom:latitude": 9.9055625,
-    "geom:longitude": 27.502708500000004,
+    "geom:bbox": "-122.370943,33.824619,-116.506042,37.617990",
+    "geom:latitude": 35.7213045,
+    "geom:longitude": -119.4384925,
     "iata:airline": "QF",
     "iata:base_airline": "",
     "icao:airline": "QFA",
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159285043,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AAL-7932",
-    "sfomuseum:departure_id": 102555575,
-    "sfomuseum:flight_id": "20250720-A-QFA-3855",
+    "sfomuseum:base_flight_id": "20250722-A-AAL-9275",
+    "sfomuseum:departure_id": 102533591,
+    "sfomuseum:flight_id": "20250722-A-QFA-3794",
     "sfomuseum:flight_number": [
-      "QFA3855",
-      "QF3855"
+      "QFA3794",
+      "QF3794"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304311,
+      1947304275,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753114503,
-    "wof:geomhash": "b214b79a783c652f01bac93c835ba981",
+    "wof:created": 1753286931,
+    "wof:geomhash": "a35a6e87f0ae0f1f716f88067ee31aa3",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304311,
+        "venue_id": 1947304275,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980909041,
         "flight_id": 1980909041,
         "region_id": 85688637,
-        "venue_id": 1947304311,
+        "venue_id": 1947304275,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980909041,
     "wof:involves": [
       102527513,
-      102555575,
+      102533591,
       1159285043,
-      1947304311,
+      1947304275,
       1159283849
     ],
-    "wof:lastmodified": 1753114503,
-    "wof:name": "QF3855 (NAN-SFO)",
-    "wof:parent_id": 1947304311,
+    "wof:lastmodified": 1753286931,
+    "wof:name": "QF3794 (PSP-SFO)",
+    "wof:parent_id": 1947304275,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    -17.806865,
-    177.37636,
+    33.824619,
+    -116.506042,
     37.61799
   ],
-  "geometry": {"coordinates":[[177.37636,-17.806865],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-116.506042,33.824619],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

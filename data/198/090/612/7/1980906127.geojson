@@ -2,26 +2,26 @@
   "id": 1980906127,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
+    "date:inception_lower": "2025-07-22",
+    "date:inception_upper": "2025-07-22",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-20",
+    "edtf:inception": "2025-07-22",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7538",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753034160,
+    "flysfo:base_flight_number": "7494",
+    "flysfo:date": "2025-07-22",
+    "flysfo:estimated_timestamp": 1753234260,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AA7538",
-    "flysfo:gate": "B9",
-    "flysfo:journey": "BOS-SFO",
-    "flysfo:scheduled_timestamp": 1753034820,
-    "flysfo:timestamp": 1753034820,
+    "flysfo:flight_number": "AA7494",
+    "flysfo:gate": "B7",
+    "flysfo:journey": "ANC-SFO",
+    "flysfo:scheduled_timestamp": 1753232700,
+    "flysfo:timestamp": 1753234260,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-71.014750,42.362322",
-    "geom:latitude": 39.990156,
-    "geom:longitude": -96.6928465,
+    "geom:bbox": "-149.968401,37.617990,-122.370943,61.173606",
+    "geom:latitude": 49.395798,
+    "geom:longitude": -136.169672,
     "iata:airline": "AA",
     "iata:base_airline": "",
     "icao:airline": "AAL",
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250720-A-AAL-7538",
-    "sfomuseum:departure_id": 102530741,
-    "sfomuseum:flight_id": "20250720-A-AAL-7538",
+    "sfomuseum:base_flight_id": "20250722-A-AAL-7494",
+    "sfomuseum:departure_id": 102531979,
+    "sfomuseum:flight_id": "20250722-A-AAL-7494",
     "sfomuseum:flight_number": [
-      "AAL7538",
-      "AA7538"
+      "AAL7494",
+      "AA7494"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304303,
+      1947304293,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753113763,
-    "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
+    "wof:created": 1753286554,
+    "wof:geomhash": "40576486fbb454d3a66da49d62a0ae33",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304303,
+        "venue_id": 1947304293,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980906127,
         "flight_id": 1980906127,
         "region_id": 85688637,
-        "venue_id": 1947304303,
+        "venue_id": 1947304293,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980906127,
     "wof:involves": [
       102527513,
-      102530741,
+      102531979,
       1159283849,
-      1947304303,
+      1947304293,
       1159283849
     ],
-    "wof:lastmodified": 1753113763,
-    "wof:name": "AA7538 (BOS-SFO)",
-    "wof:parent_id": 1947304303,
+    "wof:lastmodified": 1753286554,
+    "wof:name": "AA7494 (ANC-SFO)",
+    "wof:parent_id": 1947304293,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943,
+    -149.968401,
     37.61799,
-    -71.01475,
-    42.362322
+    -122.370943,
+    61.173606
   ],
-  "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-149.968401,61.173606],[-122.370943,37.61799]],"type":"MultiPoint"}
 }
