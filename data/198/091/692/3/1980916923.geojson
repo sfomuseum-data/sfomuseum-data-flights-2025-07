@@ -2,50 +2,43 @@
   "id": 1980916923,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-21",
-    "date:cessation_upper": "2025-07-21",
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
-    "edtf:cessation": "2025-07-21T15:43:00Z",
-    "edtf:inception": "2025-07-21T14:24:00Z",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "AS",
+    "flysfo:airline": "BA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7514",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753113120,
+    "flysfo:base_flight_number": "6449",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753299540,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AS526",
+    "flysfo:flight_number": "BA6449",
     "flysfo:gate": "B12",
-    "flysfo:journey": "PDX-SFO",
-    "flysfo:scheduled_timestamp": 1753113180,
-    "flysfo:timestamp": 1753113180,
+    "flysfo:journey": "LAX-SFO",
+    "flysfo:scheduled_timestamp": 1753300560,
+    "flysfo:timestamp": 1753300560,
     "geom:area": 0,
-    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
-    "geom:latitude": 41.602067,
-    "geom:longitude": -122.484166,
-    "iata:airline": "AS",
+    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
+    "geom:latitude": 35.780291500000004,
+    "geom:longitude": -120.38022649999999,
+    "iata:airline": "BA",
     "iata:base_airline": "",
-    "icao:aircraft": "B38M",
-    "icao:airline": "ASA",
-    "icao:base_airline": "AAL",
+    "icao:airline": "BAW",
+    "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:aircraft_id": 1528104575,
-    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:airline_id": 1159284021,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-AAL-7514",
-    "sfomuseum:departure_id": 102532251,
-    "sfomuseum:flight_id": "20250721-A-ASA-526",
+    "sfomuseum:base_flight_id": "20250723-A-BAW-6449",
+    "sfomuseum:departure_id": 102533795,
+    "sfomuseum:flight_id": "20250723-A-BAW-6449",
     "sfomuseum:flight_number": [
-      "ASA526",
-      "AS526"
+      "BAW6449",
+      "BA6449"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route"
-    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -60,12 +53,9 @@
       1947304259,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "105996649"
-    },
     "wof:country": "US",
-    "wof:created": 1753200503,
-    "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
+    "wof:created": 1753373124,
+    "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -98,15 +88,14 @@
     ],
     "wof:id": 1980916923,
     "wof:involves": [
-      1159283849,
-      1528104575,
       102527513,
-      102532251,
-      1159283813,
-      1947304263
+      102533795,
+      1159284021,
+      1947304263,
+      1159284021
     ],
-    "wof:lastmodified": 1753202498,
-    "wof:name": "AS526 (PDX-SFO)",
+    "wof:lastmodified": 1753373124,
+    "wof:name": "BA6449 (LAX-SFO)",
     "wof:parent_id": 1947304263,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -117,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389,
-    37.61799,
     -122.370943,
-    45.586144
+    33.942593,
+    -118.38951,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

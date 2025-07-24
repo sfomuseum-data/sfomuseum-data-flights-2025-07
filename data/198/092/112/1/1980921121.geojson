@@ -2,40 +2,40 @@
   "id": 1980921121,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "NZ",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4700",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753112460,
+    "flysfo:base_flight_number": "4362",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753313160,
     "flysfo:event": "D",
-    "flysfo:flight_number": "NZ4700",
-    "flysfo:gate": "D12",
-    "flysfo:journey": "SFO-YUL",
-    "flysfo:scheduled_timestamp": 1753111200,
-    "flysfo:timestamp": 1753112460,
+    "flysfo:flight_number": "NZ9617",
+    "flysfo:gate": "D15",
+    "flysfo:journey": "SFO-SBA",
+    "flysfo:scheduled_timestamp": 1753313520,
+    "flysfo:timestamp": 1753313520,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-73.744749,45.462004",
-    "geom:latitude": 41.539997,
-    "geom:longitude": -98.057846,
+    "geom:bbox": "-122.370943,34.427974,-119.837133,37.617990",
+    "geom:latitude": 36.022982,
+    "geom:longitude": -121.104038,
     "iata:airline": "NZ",
     "iata:base_airline": "",
     "icao:airline": "ANZ",
-    "icao:base_airline": "ANZ",
-    "lbl:latitude": 37.618249,
-    "lbl:longitude": -122.381477,
+    "icao:base_airline": "ACA",
+    "lbl:latitude": 37.617921,
+    "lbl:longitude": -122.38181,
     "sfomuseum:airline_id": 1159283697,
-    "sfomuseum:arrival_id": 102554351,
-    "sfomuseum:base_flight_id": "20250721-D-ANZ-4700",
+    "sfomuseum:arrival_id": 102527337,
+    "sfomuseum:base_flight_id": "20250723-D-ACA-4362",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-ANZ-4700",
+    "sfomuseum:flight_id": "20250723-D-ANZ-9617",
     "sfomuseum:flight_number": [
-      "ANZ4700",
-      "NZ4700"
+      "ANZ9617",
+      "NZ9617"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304631,
+      1947304623,
       1947304591,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753201525,
-    "wof:geomhash": "60b8ec845b4af47518c8aaafc3d98633",
+    "wof:created": 1753373597,
+    "wof:geomhash": "1d9a5fa2c9575ebb155d9645f1016c57",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304631,
+        "venue_id": 1947304623,
         "wing_id": 1947304591
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980921121,
         "flight_id": 1980921121,
         "region_id": 85688637,
-        "venue_id": 1947304631,
+        "venue_id": 1947304623,
         "wing_id": 1947304591
       }
     ],
     "wof:id": 1980921121,
     "wof:involves": [
-      102554351,
+      102527337,
       102527513,
       1159283697,
-      1947304631,
-      1159283697
+      1947304623,
+      1159283597
     ],
-    "wof:lastmodified": 1753201525,
-    "wof:name": "NZ4700 (SFO-YUL)",
-    "wof:parent_id": 1947304631,
+    "wof:lastmodified": 1753373597,
+    "wof:name": "NZ9617 (SFO-SBA)",
+    "wof:parent_id": 1947304623,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -73.744749,
-    45.462004
+    34.427974,
+    -119.837133,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-73.744749,45.462004]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-119.837133,34.427974]],"type":"MultiPoint"}
 }

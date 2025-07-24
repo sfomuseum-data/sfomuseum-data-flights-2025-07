@@ -2,53 +2,43 @@
   "id": 1980915491,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-21",
-    "date:cessation_upper": "2025-07-21",
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
-    "edtf:cessation": "2025-07-21T03:53:31-07:00",
-    "edtf:inception": "2025-07-21T14:53:00Z",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7613",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753120860,
+    "flysfo:base_flight_number": "9359",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753301400,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AA1996",
-    "flysfo:gate": "B26",
-    "flysfo:journey": "DFW-SFO",
-    "flysfo:scheduled_timestamp": 1753118880,
-    "flysfo:timestamp": 1753120860,
+    "flysfo:flight_number": "AA9359",
+    "flysfo:gate": "B17",
+    "flysfo:journey": "JAC-SFO",
+    "flysfo:scheduled_timestamp": 1753302000,
+    "flysfo:timestamp": 1753302000,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,32.903660,-97.050966,37.617990",
-    "geom:latitude": 35.260825,
-    "geom:longitude": -109.7109545,
+    "geom:bbox": "-122.370943,37.617990,-110.738540,43.606600",
+    "geom:latitude": 40.612295,
+    "geom:longitude": -116.5547415,
     "iata:airline": "AA",
     "iata:base_airline": "",
-    "icao:aircraft": "A321",
     "icao:airline": "AAL",
-    "icao:base_airline": "CPA",
+    "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-CPA-7613",
-    "sfomuseum:departure_id": 102528541,
-    "sfomuseum:flight_id": "20250721-A-AAL-1996",
+    "sfomuseum:base_flight_id": "20250723-A-AAL-9359",
+    "sfomuseum:departure_id": 102534217,
+    "sfomuseum:flight_id": "20250723-A-AAL-9359",
     "sfomuseum:flight_number": [
-      "AAL1996",
-      "AA1996"
+      "AAL9359",
+      "AA9359"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-approach"
-    ],
-    "swim:tail_number": "N576UW",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -59,17 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304283,
+      1947304285,
       1947304259,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "105994061",
-      "swim:gufi": "KF44666200"
-    },
     "wof:country": "US",
-    "wof:created": 1753200130,
-    "wof:geomhash": "865973335526f09b753756c305bf4946",
+    "wof:created": 1753372948,
+    "wof:geomhash": "8649ee81ac1d01facd07821b56f3d6b7",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -83,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304283,
+        "venue_id": 1947304285,
         "wing_id": 1947304259
       },
       {
@@ -96,22 +82,21 @@
         "custom_id": 1980915491,
         "flight_id": 1980915491,
         "region_id": 85688637,
-        "venue_id": 1947304283,
+        "venue_id": 1947304285,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980915491,
     "wof:involves": [
-      102528541,
+      102527513,
+      102534217,
       1159283849,
-      1947304283,
-      1159284127,
-      1159289411,
-      102527513
+      1947304285,
+      1159283849
     ],
-    "wof:lastmodified": 1753202490,
-    "wof:name": "AA1996 (DFW-SFO)",
-    "wof:parent_id": 1947304283,
+    "wof:lastmodified": 1753372948,
+    "wof:name": "AA9359 (JAC-SFO)",
+    "wof:parent_id": 1947304285,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -122,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    32.90366,
-    -97.050966,
-    37.61799
+    37.61799,
+    -110.73854,
+    43.6066
   ],
-  "geometry": {"coordinates":[[-97.050966,32.90366],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-110.73854,43.6066],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

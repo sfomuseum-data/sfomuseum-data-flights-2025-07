@@ -2,40 +2,40 @@
   "id": 1980920479,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "AA",
+    "flysfo:airline": "AC",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9429",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753106400,
+    "flysfo:base_flight_number": "5376",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753325760,
     "flysfo:event": "D",
-    "flysfo:flight_number": "AA9429",
-    "flysfo:gate": "G13",
-    "flysfo:journey": "SFO-SJD",
-    "flysfo:scheduled_timestamp": 1753106400,
-    "flysfo:timestamp": 1753106400,
+    "flysfo:flight_number": "AC5376",
+    "flysfo:gate": "G7",
+    "flysfo:journey": "SFO-LHR",
+    "flysfo:scheduled_timestamp": 1753325400,
+    "flysfo:timestamp": 1753325760,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,23.160962,-109.717461,37.617990",
-    "geom:latitude": 30.389476000000002,
-    "geom:longitude": -116.044202,
-    "iata:airline": "AA",
+    "geom:bbox": "-122.370943,37.617990,-0.450443,51.470087",
+    "geom:latitude": 44.5440385,
+    "geom:longitude": -61.410693,
+    "iata:airline": "AC",
     "iata:base_airline": "",
-    "icao:airline": "AAL",
-    "icao:base_airline": "AAL",
-    "lbl:latitude": 37.61799,
-    "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159283849,
-    "sfomuseum:arrival_id": 102536441,
-    "sfomuseum:base_flight_id": "20250721-D-AAL-9429",
+    "icao:airline": "ACA",
+    "icao:base_airline": "ACA",
+    "lbl:latitude": 37.618057,
+    "lbl:longitude": -122.392508,
+    "sfomuseum:airline_id": 1159283597,
+    "sfomuseum:arrival_id": 102556703,
+    "sfomuseum:base_flight_id": "20250723-D-ACA-5376",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-AAL-9429",
+    "sfomuseum:flight_id": "20250723-D-ACA-5376",
     "sfomuseum:flight_number": [
-      "AAL9429",
-      "AA9429"
+      "ACA5376",
+      "AC5376"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304159,
+      1947304149,
       1947304069,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753201369,
-    "wof:geomhash": "7babf6b9ba279da48525185e0724d212",
+    "wof:created": 1753373527,
+    "wof:geomhash": "86f41e039827d60bcd1a72801f72cbc2",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304159,
+        "venue_id": 1947304149,
         "wing_id": 1947304069
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980920479,
         "flight_id": 1980920479,
         "region_id": 85688637,
-        "venue_id": 1947304159,
+        "venue_id": 1947304149,
         "wing_id": 1947304069
       }
     ],
     "wof:id": 1980920479,
     "wof:involves": [
-      102536441,
+      102556703,
       102527513,
-      1159283849,
-      1947304159,
-      1159283849
+      1159283597,
+      1947304149,
+      1159283597
     ],
-    "wof:lastmodified": 1753201369,
-    "wof:name": "AA9429 (SFO-SJD)",
-    "wof:parent_id": 1947304159,
+    "wof:lastmodified": 1753373527,
+    "wof:name": "AC5376 (SFO-LHR)",
+    "wof:parent_id": 1947304149,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    23.160962,
-    -109.717461,
-    37.61799
+    37.61799,
+    -0.450443,
+    51.470087
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-109.717461,23.160962]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-0.450443,51.470087]],"type":"MultiPoint"}
 }

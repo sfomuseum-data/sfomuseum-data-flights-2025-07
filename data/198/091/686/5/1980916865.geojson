@@ -2,40 +2,40 @@
   "id": 1980916865,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "AS",
+    "flysfo:airline": "BA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7611",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753160700,
+    "flysfo:base_flight_number": "7419",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753291560,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AS3325",
-    "flysfo:gate": "B13",
-    "flysfo:journey": "LAX-SFO",
-    "flysfo:scheduled_timestamp": 1753154880,
-    "flysfo:timestamp": 1753160700,
+    "flysfo:flight_number": "BA2954",
+    "flysfo:gate": "B17",
+    "flysfo:journey": "LAS-SFO",
+    "flysfo:scheduled_timestamp": 1753290600,
+    "flysfo:timestamp": 1753291560,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
-    "geom:latitude": 35.780291500000004,
-    "geom:longitude": -120.38022649999999,
-    "iata:airline": "AS",
+    "geom:bbox": "-122.370943,36.081003,-115.156440,37.617990",
+    "geom:latitude": 36.8494965,
+    "geom:longitude": -118.7636915,
+    "iata:airline": "BA",
     "iata:base_airline": "",
-    "icao:airline": "ASA",
-    "icao:base_airline": "BAW",
+    "icao:airline": "BAW",
+    "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:airline_id": 1159284021,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-BAW-7611",
-    "sfomuseum:departure_id": 102533795,
-    "sfomuseum:flight_id": "20250721-A-ASA-3325",
+    "sfomuseum:base_flight_id": "20250723-A-AAL-7419",
+    "sfomuseum:departure_id": 102527209,
+    "sfomuseum:flight_id": "20250723-A-BAW-2954",
     "sfomuseum:flight_number": [
-      "ASA3325",
-      "AS3325"
+      "BAW2954",
+      "BA2954"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304267,
+      1947304285,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200488,
-    "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
+    "wof:created": 1753373117,
+    "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304267,
+        "venue_id": 1947304285,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980916865,
         "flight_id": 1980916865,
         "region_id": 85688637,
-        "venue_id": 1947304267,
+        "venue_id": 1947304285,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980916865,
     "wof:involves": [
       102527513,
-      102533795,
-      1159283813,
-      1947304267,
-      1159284021
+      102527209,
+      1159284021,
+      1947304285,
+      1159283849
     ],
-    "wof:lastmodified": 1753200488,
-    "wof:name": "AS3325 (LAX-SFO)",
-    "wof:parent_id": 1947304267,
+    "wof:lastmodified": 1753373117,
+    "wof:name": "BA2954 (LAS-SFO)",
+    "wof:parent_id": 1947304285,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    33.942593,
-    -118.38951,
+    36.081003,
+    -115.15644,
     37.61799
   ],
-  "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

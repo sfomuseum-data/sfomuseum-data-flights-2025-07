@@ -2,40 +2,35 @@
   "id": 1980923793,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "EK",
-    "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4107",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753139100,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753297980,
     "flysfo:event": "D",
-    "flysfo:flight_number": "EK6377",
-    "flysfo:gate": "F6",
-    "flysfo:journey": "SFO-PSP",
-    "flysfo:scheduled_timestamp": 1753139400,
-    "flysfo:timestamp": 1753139400,
+    "flysfo:flight_number": "UA5304",
+    "flysfo:gate": "F9",
+    "flysfo:journey": "SFO-FCA",
+    "flysfo:scheduled_timestamp": 1753297260,
+    "flysfo:timestamp": 1753297980,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,33.824619,-116.506042,37.617990",
-    "geom:latitude": 35.7213045,
-    "geom:longitude": -119.4384925,
-    "iata:airline": "EK",
-    "iata:base_airline": "",
-    "icao:airline": "UAE",
-    "icao:base_airline": "ACA",
-    "lbl:latitude": 37.61799,
-    "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159284333,
-    "sfomuseum:arrival_id": 102533591,
-    "sfomuseum:base_flight_id": "20250721-D-ACA-4107",
+    "geom:bbox": "-122.370943,37.617990,-114.254457,48.309054",
+    "geom:latitude": 42.963522,
+    "geom:longitude": -118.3127,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.620731,
+    "lbl:longitude": -122.387053,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102528363,
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-UAE-6377",
+    "sfomuseum:flight_id": "20250723-D-UAL-5304",
     "sfomuseum:flight_number": [
-      "UAE6377",
-      "EK6377"
+      "UAL5304",
+      "UA5304"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +44,13 @@
       85922583,
       554784711,
       85688637,
-      1947304461,
+      1947304493,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753202175,
-    "wof:geomhash": "e84c3ec216fbaf9440bbf99d412a1253",
+    "wof:created": 1753373894,
+    "wof:geomhash": "a5add9b66add88268a967cc7812997cb",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +64,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304461,
+        "venue_id": 1947304493,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +77,20 @@
         "custom_id": 1980923793,
         "flight_id": 1980923793,
         "region_id": 85688637,
-        "venue_id": 1947304461,
+        "venue_id": 1947304493,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980923793,
     "wof:involves": [
-      102533591,
+      102528363,
       102527513,
-      1159284333,
-      1947304461,
-      1159283597
+      1159285413,
+      1947304493
     ],
-    "wof:lastmodified": 1753202175,
-    "wof:name": "EK6377 (SFO-PSP)",
-    "wof:parent_id": 1947304461,
+    "wof:lastmodified": 1753373894,
+    "wof:name": "UA5304 (SFO-FCA)",
+    "wof:parent_id": 1947304493,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +101,9 @@
   },
   "bbox": [
     -122.370943,
-    33.824619,
-    -116.506042,
-    37.61799
+    37.61799,
+    -114.254457,
+    48.309054
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-116.506042,33.824619]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-114.254457,48.309054]],"type":"MultiPoint"}
 }

@@ -2,40 +2,40 @@
   "id": 1980916283,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "NH",
+    "flysfo:airline": "NZ",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "3997",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753112640,
+    "flysfo:base_flight_number": "1131",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753326960,
     "flysfo:event": "A",
-    "flysfo:flight_number": "NH7335",
-    "flysfo:gate": "F18",
-    "flysfo:journey": "BOI-SFO",
-    "flysfo:scheduled_timestamp": 1753112700,
-    "flysfo:timestamp": 1753112700,
+    "flysfo:flight_number": "NZ9172",
+    "flysfo:gate": "F9",
+    "flysfo:journey": "EUG-SFO",
+    "flysfo:scheduled_timestamp": 1753326600,
+    "flysfo:timestamp": 1753326960,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-116.224634,43.564048",
-    "geom:latitude": 40.591019,
-    "geom:longitude": -119.2977885,
-    "iata:airline": "NH",
+    "geom:bbox": "-123.213030,37.617990,-122.370943,44.119058",
+    "geom:latitude": 40.868524,
+    "geom:longitude": -122.79198650000001,
+    "iata:airline": "NZ",
     "iata:base_airline": "",
-    "icao:airline": "ANA",
-    "icao:base_airline": "ACA",
-    "lbl:latitude": 37.61799,
-    "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159283875,
+    "icao:airline": "ANZ",
+    "icao:base_airline": "CMP",
+    "lbl:latitude": 37.620731,
+    "lbl:longitude": -122.387053,
+    "sfomuseum:airline_id": 1159283697,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-ACA-3997",
-    "sfomuseum:departure_id": 102527733,
-    "sfomuseum:flight_id": "20250721-A-ANA-7335",
+    "sfomuseum:base_flight_id": "20250723-A-CMP-1131",
+    "sfomuseum:departure_id": 102533927,
+    "sfomuseum:flight_id": "20250723-A-ANZ-9172",
     "sfomuseum:flight_number": [
-      "ANA7335",
-      "NH7335"
+      "ANZ9172",
+      "NZ9172"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304477,
+      1947304493,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200342,
-    "wof:geomhash": "e506e1cc6e68aaf992ce3bac53e4e4fa",
+    "wof:created": 1753373049,
+    "wof:geomhash": "68b06bbd791163721a20ab955d143e55",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304477,
+        "venue_id": 1947304493,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980916283,
         "flight_id": 1980916283,
         "region_id": 85688637,
-        "venue_id": 1947304477,
+        "venue_id": 1947304493,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980916283,
     "wof:involves": [
       102527513,
-      102527733,
-      1159283875,
-      1947304477,
-      1159283597
+      102533927,
+      1159283697,
+      1947304493,
+      1159284211
     ],
-    "wof:lastmodified": 1753200342,
-    "wof:name": "NH7335 (BOI-SFO)",
-    "wof:parent_id": 1947304477,
+    "wof:lastmodified": 1753373049,
+    "wof:name": "NZ9172 (EUG-SFO)",
+    "wof:parent_id": 1947304493,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943,
+    -123.21303,
     37.61799,
-    -116.224634,
-    43.564048
+    -122.370943,
+    44.119058
   ],
-  "geometry": {"coordinates":[[-116.224634,43.564048],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-123.21303,44.119058],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -2,40 +2,40 @@
   "id": 1980919633,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "UA",
+    "flysfo:airline": "VA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4393",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753109640,
+    "flysfo:base_flight_number": "5395",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753329540,
     "flysfo:event": "A",
-    "flysfo:flight_number": "UA5736",
-    "flysfo:gate": "E2",
-    "flysfo:journey": "SLC-SFO",
-    "flysfo:scheduled_timestamp": 1753108920,
-    "flysfo:timestamp": 1753109640,
+    "flysfo:flight_number": "VA8090",
+    "flysfo:gate": "F20",
+    "flysfo:journey": "ORD-SFO",
+    "flysfo:scheduled_timestamp": 1753330140,
+    "flysfo:timestamp": 1753330140,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-111.980566,40.782170",
-    "geom:latitude": 39.20008,
-    "geom:longitude": -117.1757545,
-    "iata:airline": "UA",
+    "geom:bbox": "-122.370943,37.617990,-87.894364,41.983038",
+    "geom:latitude": 39.800514,
+    "geom:longitude": -105.1326535,
+    "iata:airline": "VA",
     "iata:base_airline": "",
-    "icao:airline": "UAL",
+    "icao:airline": "VOZ",
     "icao:base_airline": "ACA",
-    "lbl:latitude": 37.618678,
-    "lbl:longitude": -122.385955,
-    "sfomuseum:airline_id": 1159285413,
+    "lbl:latitude": 37.621076,
+    "lbl:longitude": -122.390239,
+    "sfomuseum:airline_id": 1159285485,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-ACA-4393",
-    "sfomuseum:departure_id": 102527363,
-    "sfomuseum:flight_id": "20250721-A-UAL-5736",
+    "sfomuseum:base_flight_id": "20250723-A-ACA-5395",
+    "sfomuseum:departure_id": 102533631,
+    "sfomuseum:flight_id": "20250723-A-VOZ-8090",
     "sfomuseum:flight_number": [
-      "UAL5736",
-      "UA5736"
+      "VOZ8090",
+      "VA8090"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304481,
+      1947304489,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753201165,
-    "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
+    "wof:created": 1753373433,
+    "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304481,
+        "venue_id": 1947304489,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980919633,
         "flight_id": 1980919633,
         "region_id": 85688637,
-        "venue_id": 1947304481,
+        "venue_id": 1947304489,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980919633,
     "wof:involves": [
       102527513,
-      102527363,
-      1159285413,
-      1947304481,
+      102533631,
+      1159285485,
+      1947304489,
       1159283597
     ],
-    "wof:lastmodified": 1753201165,
-    "wof:name": "UA5736 (SLC-SFO)",
-    "wof:parent_id": 1947304481,
+    "wof:lastmodified": 1753373433,
+    "wof:name": "VA8090 (ORD-SFO)",
+    "wof:parent_id": 1947304489,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -111.980566,
-    40.78217
+    -87.894364,
+    41.983038
   ],
-  "geometry": {"coordinates":[[-111.980566,40.78217],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

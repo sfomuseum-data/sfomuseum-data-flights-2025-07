@@ -2,53 +2,43 @@
   "id": 1980916103,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-21",
-    "date:cessation_upper": "2025-07-21",
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
-    "edtf:cessation": "2025-07-21T14:14:32-07:00",
-    "edtf:inception": "2025-07-21T22:57:00Z",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "AC",
+    "flysfo:airline": "NH",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4737",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753158600,
+    "flysfo:base_flight_number": "4371",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753281300,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AC745",
-    "flysfo:gate": "D12",
-    "flysfo:journey": "YYZ-SFO",
-    "flysfo:scheduled_timestamp": 1753156380,
-    "flysfo:timestamp": 1753158600,
+    "flysfo:flight_number": "NH7379",
+    "flysfo:gate": "D10",
+    "flysfo:journey": "RNO-SFO",
+    "flysfo:scheduled_timestamp": 1753280940,
+    "flysfo:timestamp": 1753281300,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-79.628342,43.676352",
-    "geom:latitude": 40.647171,
-    "geom:longitude": -100.9996425,
-    "iata:airline": "AC",
+    "geom:bbox": "-122.370943,37.617990,-119.772167,39.505219",
+    "geom:latitude": 38.5616045,
+    "geom:longitude": -121.07155499999999,
+    "iata:airline": "NH",
     "iata:base_airline": "",
-    "icao:aircraft": "B38M",
-    "icao:airline": "ACA",
-    "icao:base_airline": "ANZ",
-    "lbl:latitude": 37.618249,
-    "lbl:longitude": -122.381477,
-    "sfomuseum:aircraft_id": 1528104575,
-    "sfomuseum:airline_id": 1159283597,
+    "icao:airline": "ANA",
+    "icao:base_airline": "ACA",
+    "lbl:latitude": 37.617908,
+    "lbl:longitude": -122.381084,
+    "sfomuseum:airline_id": 1159283875,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-ANZ-4737",
-    "sfomuseum:departure_id": 102555091,
-    "sfomuseum:flight_id": "20250721-A-ACA-745",
+    "sfomuseum:base_flight_id": "20250723-A-ACA-4371",
+    "sfomuseum:departure_id": 102525535,
+    "sfomuseum:flight_id": "20250723-A-ANA-7379",
     "sfomuseum:flight_number": [
-      "ACA745",
-      "AC745"
+      "ANA7379",
+      "NH7379"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-approach"
-    ],
-    "swim:tail_number": "CGELQ",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -59,17 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304631,
+      1947304603,
       1947304591,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "106039345",
-      "swim:gufi": "KC78171200"
-    },
     "wof:country": "US",
-    "wof:created": 1753200294,
-    "wof:geomhash": "c362a07ec1dacdc6f288623946bd8d01",
+    "wof:created": 1753373029,
+    "wof:geomhash": "a4d4dc469296ca0f5ad383dc766835b1",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -83,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304631,
+        "venue_id": 1947304603,
         "wing_id": 1947304591
       },
       {
@@ -96,22 +82,21 @@
         "custom_id": 1980916103,
         "flight_id": 1980916103,
         "region_id": 85688637,
-        "venue_id": 1947304631,
+        "venue_id": 1947304603,
         "wing_id": 1947304591
       }
     ],
     "wof:id": 1980916103,
     "wof:involves": [
-      1528104575,
       102527513,
-      102555091,
-      1159283597,
-      1947304631,
-      1159283697
+      102525535,
+      1159283875,
+      1947304603,
+      1159283597
     ],
-    "wof:lastmodified": 1753202493,
-    "wof:name": "AC745 (YYZ-SFO)",
-    "wof:parent_id": 1947304631,
+    "wof:lastmodified": 1753373029,
+    "wof:name": "NH7379 (RNO-SFO)",
+    "wof:parent_id": 1947304603,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -123,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -79.628342,
-    43.676352
+    -119.772167,
+    39.505219
   ],
-  "geometry": {"coordinates":[[-79.628342,43.676352],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-119.772167,39.505219],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

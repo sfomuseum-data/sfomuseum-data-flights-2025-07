@@ -2,40 +2,40 @@
   "id": 1980917941,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "TX",
+    "flysfo:airline": "FI",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "6711",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753159380,
+    "flysfo:base_flight_number": "7532",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753340880,
     "flysfo:event": "A",
-    "flysfo:flight_number": "TX6711",
-    "flysfo:gate": "B11",
-    "flysfo:journey": "PPT-SFO",
-    "flysfo:scheduled_timestamp": 1753146300,
-    "flysfo:timestamp": 1753159380,
+    "flysfo:flight_number": "FI7692",
+    "flysfo:gate": "B8",
+    "flysfo:journey": "PDX-SFO",
+    "flysfo:scheduled_timestamp": 1753339140,
+    "flysfo:timestamp": 1753340880,
     "geom:area": 0,
-    "geom:bbox": "-149.617144,-17.573463,-122.370943,37.617990",
-    "geom:latitude": 10.0222635,
-    "geom:longitude": -135.9940435,
-    "iata:airline": "TX",
+    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
+    "geom:latitude": 41.602067,
+    "geom:longitude": -122.484166,
+    "iata:airline": "FI",
     "iata:base_airline": "",
-    "icao:airline": "FWI",
-    "icao:base_airline": "FWI",
+    "icao:airline": "ICE",
+    "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1779782741,
+    "sfomuseum:airline_id": 1159284513,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-FWI-6711",
-    "sfomuseum:departure_id": 102558779,
-    "sfomuseum:flight_id": "20250721-A-FWI-6711",
+    "sfomuseum:base_flight_id": "20250723-A-AAL-7532",
+    "sfomuseum:departure_id": 102532251,
+    "sfomuseum:flight_id": "20250723-A-ICE-7692",
     "sfomuseum:flight_number": [
-      "FWI6711",
-      "TX6711"
+      "ICE7692",
+      "FI7692"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304311,
+      1947304275,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200755,
-    "wof:geomhash": "cb635fc427df70f0d5f88d1f39ad4ded",
+    "wof:created": 1753373240,
+    "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304311,
+        "venue_id": 1947304275,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980917941,
         "flight_id": 1980917941,
         "region_id": 85688637,
-        "venue_id": 1947304311,
+        "venue_id": 1947304275,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980917941,
     "wof:involves": [
       102527513,
-      102558779,
-      1779782741,
-      1947304311,
-      1779782741
+      102532251,
+      1159284513,
+      1947304275,
+      1159283849
     ],
-    "wof:lastmodified": 1753200755,
-    "wof:name": "TX6711 (PPT-SFO)",
-    "wof:parent_id": 1947304311,
+    "wof:lastmodified": 1753373240,
+    "wof:name": "FI7692 (PDX-SFO)",
+    "wof:parent_id": 1947304275,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -149.617144,
-    -17.573463,
+    -122.597389,
+    37.61799,
     -122.370943,
-    37.61799
+    45.586144
   ],
-  "geometry": {"coordinates":[[-149.617144,-17.573463],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

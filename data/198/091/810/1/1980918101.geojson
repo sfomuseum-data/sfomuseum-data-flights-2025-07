@@ -2,40 +2,40 @@
   "id": 1980918101,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "HA",
+    "flysfo:airline": "KE",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9366",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753150260,
+    "flysfo:base_flight_number": "8012",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753334400,
     "flysfo:event": "A",
-    "flysfo:flight_number": "HA6459",
-    "flysfo:gate": "B14",
-    "flysfo:journey": "PSP-SFO",
-    "flysfo:scheduled_timestamp": 1753148760,
-    "flysfo:timestamp": 1753150260,
+    "flysfo:flight_number": "KE7861",
+    "flysfo:gate": "B11",
+    "flysfo:journey": "HNL-SFO",
+    "flysfo:scheduled_timestamp": 1753331700,
+    "flysfo:timestamp": 1753334400,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,33.824619,-116.506042,37.617990",
-    "geom:latitude": 35.7213045,
-    "geom:longitude": -119.4384925,
-    "iata:airline": "HA",
+    "geom:bbox": "-157.918416,21.332508,-122.370943,37.617990",
+    "geom:latitude": 29.475248999999998,
+    "geom:longitude": -140.1446795,
+    "iata:airline": "KE",
     "iata:base_airline": "",
-    "icao:airline": "HAL",
-    "icao:base_airline": "AAL",
+    "icao:airline": "KAL",
+    "icao:base_airline": "ASA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159284489,
+    "sfomuseum:airline_id": 1159284625,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-AAL-9366",
-    "sfomuseum:departure_id": 102533591,
-    "sfomuseum:flight_id": "20250721-A-HAL-6459",
+    "sfomuseum:base_flight_id": "20250723-A-ASA-8012",
+    "sfomuseum:departure_id": 102533997,
+    "sfomuseum:flight_id": "20250723-A-KAL-7861",
     "sfomuseum:flight_number": [
-      "HAL6459",
-      "HA6459"
+      "KAL7861",
+      "KE7861"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304273,
+      1947304311,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200793,
-    "wof:geomhash": "a35a6e87f0ae0f1f716f88067ee31aa3",
+    "wof:created": 1753373258,
+    "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304273,
+        "venue_id": 1947304311,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980918101,
         "flight_id": 1980918101,
         "region_id": 85688637,
-        "venue_id": 1947304273,
+        "venue_id": 1947304311,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980918101,
     "wof:involves": [
       102527513,
-      102533591,
-      1159284489,
-      1947304273,
-      1159283849
+      102533997,
+      1159284625,
+      1947304311,
+      1159283813
     ],
-    "wof:lastmodified": 1753200793,
-    "wof:name": "HA6459 (PSP-SFO)",
-    "wof:parent_id": 1947304273,
+    "wof:lastmodified": 1753373258,
+    "wof:name": "KE7861 (HNL-SFO)",
+    "wof:parent_id": 1947304311,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
+    -157.918416,
+    21.332508,
     -122.370943,
-    33.824619,
-    -116.506042,
     37.61799
   ],
-  "geometry": {"coordinates":[[-116.506042,33.824619],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-157.918416,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

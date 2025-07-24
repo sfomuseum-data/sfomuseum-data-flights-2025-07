@@ -2,52 +2,43 @@
   "id": 1980924451,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-22",
-    "date:cessation_upper": "2025-07-22",
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
-    "edtf:cessation": "2025-07-22T02:54:00Z",
-    "edtf:inception": "2025-07-21T23:34:00Z",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "UA",
+    "flysfo:airline": "VA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9200",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753139520,
+    "flysfo:base_flight_number": "9568",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753328220,
     "flysfo:event": "D",
-    "flysfo:flight_number": "UA776",
+    "flysfo:flight_number": "VA8573",
     "flysfo:gate": "F20",
-    "flysfo:journey": "SFO-IAH",
-    "flysfo:scheduled_timestamp": 1753139700,
-    "flysfo:timestamp": 1753139700,
+    "flysfo:journey": "SFO-RDU",
+    "flysfo:scheduled_timestamp": 1753328700,
+    "flysfo:timestamp": 1753328700,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,29.977186,-95.338444,37.617990",
-    "geom:latitude": 33.797588,
-    "geom:longitude": -108.8546935,
-    "iata:airline": "UA",
+    "geom:bbox": "-122.370943,35.876323,-78.790399,37.617990",
+    "geom:latitude": 36.7471565,
+    "geom:longitude": -100.580671,
+    "iata:airline": "VA",
     "iata:base_airline": "",
-    "icao:aircraft": "B739",
-    "icao:airline": "UAL",
+    "icao:airline": "VOZ",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.621076,
     "lbl:longitude": -122.390239,
-    "sfomuseum:aircraft_id": 1377564285,
-    "sfomuseum:airline_id": 1159285413,
-    "sfomuseum:arrival_id": 102534097,
-    "sfomuseum:base_flight_id": "20250721-D-ANZ-9200",
+    "sfomuseum:airline_id": 1159285485,
+    "sfomuseum:arrival_id": 102528779,
+    "sfomuseum:base_flight_id": "20250723-D-ANZ-9568",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-UAL-776",
+    "sfomuseum:flight_id": "20250723-D-VOZ-8573",
     "sfomuseum:flight_number": [
-      "UAL776",
-      "UA776"
+      "VOZ8573",
+      "VA8573"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path"
-    ],
-    "swim:tail_number": "N38467",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -62,13 +53,9 @@
       1947304447,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "106043460",
-      "swim:gufi": "KO75233200"
-    },
     "wof:country": "US",
-    "wof:created": 1753202338,
-    "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
+    "wof:created": 1753373967,
+    "wof:geomhash": "739cf7062aa24bbf1662c0bae366af8d",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -101,15 +88,14 @@
     ],
     "wof:id": 1980924451,
     "wof:involves": [
-      102534097,
+      102528779,
       102527513,
-      1159285413,
+      1159285485,
       1947304489,
-      1159283697,
-      1377564285
+      1159283697
     ],
-    "wof:lastmodified": 1753202518,
-    "wof:name": "UA776 (SFO-IAH)",
+    "wof:lastmodified": 1753373967,
+    "wof:name": "VA8573 (SFO-RDU)",
     "wof:parent_id": 1947304489,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -121,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    29.977186,
-    -95.338444,
+    35.876323,
+    -78.790399,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-95.338444,29.977186]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-78.790399,35.876323]],"type":"MultiPoint"}
 }

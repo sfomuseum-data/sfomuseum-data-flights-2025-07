@@ -2,40 +2,40 @@
   "id": 1980917203,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "SN",
+    "flysfo:airline": "CM",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9176",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753143720,
+    "flysfo:base_flight_number": "5605",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753323240,
     "flysfo:event": "A",
-    "flysfo:flight_number": "SN8947",
+    "flysfo:flight_number": "CM2518",
     "flysfo:gate": "F17",
-    "flysfo:journey": "IAD-SFO",
-    "flysfo:scheduled_timestamp": 1753145220,
-    "flysfo:timestamp": 1753145220,
+    "flysfo:journey": "SAN-SFO",
+    "flysfo:scheduled_timestamp": 1753324080,
+    "flysfo:timestamp": 1753324080,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-77.453702,38.949246",
-    "geom:latitude": 38.283618000000004,
-    "geom:longitude": -99.9123225,
-    "iata:airline": "SN",
+    "geom:bbox": "-122.370943,32.733534,-117.185927,37.617990",
+    "geom:latitude": 35.175762,
+    "geom:longitude": -119.778435,
+    "iata:airline": "CM",
     "iata:base_airline": "",
-    "icao:airline": "BEL",
-    "icao:base_airline": "ANZ",
+    "icao:airline": "CMP",
+    "icao:base_airline": "ACA",
     "lbl:latitude": 37.620791,
     "lbl:longitude": -122.390014,
-    "sfomuseum:airline_id": 1377675597,
+    "sfomuseum:airline_id": 1159284211,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-ANZ-9176",
-    "sfomuseum:departure_id": 102528817,
-    "sfomuseum:flight_id": "20250721-A-BEL-8947",
+    "sfomuseum:base_flight_id": "20250723-A-ACA-5605",
+    "sfomuseum:departure_id": 102528997,
+    "sfomuseum:flight_id": "20250723-A-CMP-2518",
     "sfomuseum:flight_number": [
-      "BEL8947",
-      "SN8947"
+      "CMP2518",
+      "CM2518"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200573,
-    "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
+    "wof:created": 1753373156,
+    "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -89,13 +89,13 @@
     "wof:id": 1980917203,
     "wof:involves": [
       102527513,
-      102528817,
-      1377675597,
+      102528997,
+      1159284211,
       1947304473,
-      1159283697
+      1159283597
     ],
-    "wof:lastmodified": 1753200573,
-    "wof:name": "SN8947 (IAD-SFO)",
+    "wof:lastmodified": 1753373156,
+    "wof:name": "CM2518 (SAN-SFO)",
     "wof:parent_id": 1947304473,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -77.453702,
-    38.949246
+    32.733534,
+    -117.185927,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-77.453702,38.949246],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

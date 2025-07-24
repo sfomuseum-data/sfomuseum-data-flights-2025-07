@@ -2,40 +2,35 @@
   "id": 1980922573,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "FJ",
-    "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7518",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753148400,
+    "flysfo:airline": "B6",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753305600,
     "flysfo:event": "D",
-    "flysfo:flight_number": "FJ5842",
-    "flysfo:gate": "B17",
-    "flysfo:journey": "SFO-LAS",
-    "flysfo:scheduled_timestamp": 1753148400,
-    "flysfo:timestamp": 1753148400,
+    "flysfo:flight_number": "B6416",
+    "flysfo:gate": "B3",
+    "flysfo:journey": "SFO-JFK",
+    "flysfo:scheduled_timestamp": 1753301400,
+    "flysfo:timestamp": 1753305600,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,36.081003,-115.156440,37.617990",
-    "geom:latitude": 36.8494965,
-    "geom:longitude": -118.7636915,
-    "iata:airline": "FJ",
-    "iata:base_airline": "",
-    "icao:airline": "FJI",
-    "icao:base_airline": "AAL",
+    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
+    "geom:latitude": 39.130638000000005,
+    "geom:longitude": -98.07939400000001,
+    "iata:airline": "B6",
+    "icao:airline": "JBU",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159283717,
-    "sfomuseum:arrival_id": 102527209,
-    "sfomuseum:base_flight_id": "20250721-D-AAL-7518",
+    "sfomuseum:airline_id": 1159284583,
+    "sfomuseum:arrival_id": 102534365,
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-FJI-5842",
+    "sfomuseum:flight_id": "20250723-D-JBU-416",
     "sfomuseum:flight_number": [
-      "FJI5842",
-      "FJ5842"
+      "JBU416",
+      "B6416"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +44,13 @@
       85922583,
       554784711,
       85688637,
-      1947304285,
+      1947304289,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753201881,
-    "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
+    "wof:created": 1753373759,
+    "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +64,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304285,
+        "venue_id": 1947304289,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +77,20 @@
         "custom_id": 1980922573,
         "flight_id": 1980922573,
         "region_id": 85688637,
-        "venue_id": 1947304285,
+        "venue_id": 1947304289,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980922573,
     "wof:involves": [
-      102527209,
+      102534365,
       102527513,
-      1159283717,
-      1947304285,
-      1159283849
+      1159284583,
+      1947304289
     ],
-    "wof:lastmodified": 1753201881,
-    "wof:name": "FJ5842 (SFO-LAS)",
-    "wof:parent_id": 1947304285,
+    "wof:lastmodified": 1753373759,
+    "wof:name": "B6416 (SFO-JFK)",
+    "wof:parent_id": 1947304289,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +101,9 @@
   },
   "bbox": [
     -122.370943,
-    36.081003,
-    -115.15644,
-    37.61799
+    37.61799,
+    -73.787845,
+    40.643286
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-115.15644,36.081003]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}
 }

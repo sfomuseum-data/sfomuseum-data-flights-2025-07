@@ -2,40 +2,40 @@
   "id": 1980917945,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "GF",
+    "flysfo:airline": "FI",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "2496",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753165980,
+    "flysfo:base_flight_number": "7890",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753295700,
     "flysfo:event": "A",
-    "flysfo:flight_number": "GF4210",
-    "flysfo:gate": "B26",
-    "flysfo:journey": "DFW-SFO",
-    "flysfo:scheduled_timestamp": 1753164000,
-    "flysfo:timestamp": 1753165980,
+    "flysfo:flight_number": "FI7890",
+    "flysfo:gate": "B3",
+    "flysfo:journey": "JFK-SFO",
+    "flysfo:scheduled_timestamp": 1753297020,
+    "flysfo:timestamp": 1753297020,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,32.903660,-97.050966,37.617990",
-    "geom:latitude": 35.260825,
-    "geom:longitude": -109.7109545,
-    "iata:airline": "GF",
+    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
+    "geom:latitude": 39.130638000000005,
+    "geom:longitude": -98.07939400000001,
+    "iata:airline": "FI",
     "iata:base_airline": "",
-    "icao:airline": "GFA",
-    "icao:base_airline": "BAW",
+    "icao:airline": "ICE",
+    "icao:base_airline": "ICE",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159284467,
+    "sfomuseum:airline_id": 1159284513,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-BAW-2496",
-    "sfomuseum:departure_id": 102528541,
-    "sfomuseum:flight_id": "20250721-A-GFA-4210",
+    "sfomuseum:base_flight_id": "20250723-A-ICE-7890",
+    "sfomuseum:departure_id": 102534365,
+    "sfomuseum:flight_id": "20250723-A-ICE-7890",
     "sfomuseum:flight_number": [
-      "GFA4210",
-      "GF4210"
+      "ICE7890",
+      "FI7890"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304283,
+      1947304289,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200756,
-    "wof:geomhash": "865973335526f09b753756c305bf4946",
+    "wof:created": 1753373240,
+    "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304283,
+        "venue_id": 1947304289,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980917945,
         "flight_id": 1980917945,
         "region_id": 85688637,
-        "venue_id": 1947304283,
+        "venue_id": 1947304289,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980917945,
     "wof:involves": [
       102527513,
-      102528541,
-      1159284467,
-      1947304283,
-      1159284021
+      102534365,
+      1159284513,
+      1947304289,
+      1159284513
     ],
-    "wof:lastmodified": 1753200756,
-    "wof:name": "GF4210 (DFW-SFO)",
-    "wof:parent_id": 1947304283,
+    "wof:lastmodified": 1753373240,
+    "wof:name": "FI7890 (JFK-SFO)",
+    "wof:parent_id": 1947304289,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    32.90366,
-    -97.050966,
-    37.61799
+    37.61799,
+    -73.787845,
+    40.643286
   ],
-  "geometry": {"coordinates":[[-97.050966,32.90366],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

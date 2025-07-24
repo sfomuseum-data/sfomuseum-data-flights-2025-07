@@ -2,40 +2,40 @@
   "id": 1980922427,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "EI",
+    "flysfo:airline": "HA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "5769",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753103400,
+    "flysfo:base_flight_number": "7790",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753279200,
     "flysfo:event": "D",
-    "flysfo:flight_number": "EI7154",
-    "flysfo:gate": "B26",
-    "flysfo:journey": "SFO-ORD",
-    "flysfo:scheduled_timestamp": 1753103400,
-    "flysfo:timestamp": 1753103400,
+    "flysfo:flight_number": "HA7790",
+    "flysfo:gate": "B14",
+    "flysfo:journey": "SFO-LIH",
+    "flysfo:scheduled_timestamp": 1753279200,
+    "flysfo:timestamp": 1753279200,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-87.894364,41.983038",
-    "geom:latitude": 39.800514,
-    "geom:longitude": -105.1326535,
-    "iata:airline": "EI",
+    "geom:bbox": "-159.347789,21.981539,-122.370943,37.617990",
+    "geom:latitude": 29.799764500000002,
+    "geom:longitude": -140.859366,
+    "iata:airline": "HA",
     "iata:base_airline": "",
-    "icao:airline": "EIN",
-    "icao:base_airline": "BAW",
+    "icao:airline": "HAL",
+    "icao:base_airline": "HAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159283495,
-    "sfomuseum:arrival_id": 102533631,
-    "sfomuseum:base_flight_id": "20250721-D-BAW-5769",
+    "sfomuseum:airline_id": 1159284489,
+    "sfomuseum:arrival_id": 102528943,
+    "sfomuseum:base_flight_id": "20250723-D-HAL-7790",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-EIN-7154",
+    "sfomuseum:flight_id": "20250723-D-HAL-7790",
     "sfomuseum:flight_number": [
-      "EIN7154",
-      "EI7154"
+      "HAL7790",
+      "HA7790"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304283,
+      1947304273,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753201845,
-    "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
+    "wof:created": 1753373743,
+    "wof:geomhash": "a2498fe603884edb23014f03e0e3c121",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304283,
+        "venue_id": 1947304273,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980922427,
         "flight_id": 1980922427,
         "region_id": 85688637,
-        "venue_id": 1947304283,
+        "venue_id": 1947304273,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980922427,
     "wof:involves": [
-      102533631,
+      102528943,
       102527513,
-      1159283495,
-      1947304283,
-      1159284021
+      1159284489,
+      1947304273,
+      1159284489
     ],
-    "wof:lastmodified": 1753201845,
-    "wof:name": "EI7154 (SFO-ORD)",
-    "wof:parent_id": 1947304283,
+    "wof:lastmodified": 1753373743,
+    "wof:name": "HA7790 (SFO-LIH)",
+    "wof:parent_id": 1947304273,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
+    -159.347789,
+    21.981539,
     -122.370943,
-    37.61799,
-    -87.894364,
-    41.983038
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-159.347789,21.981539]],"type":"MultiPoint"}
 }

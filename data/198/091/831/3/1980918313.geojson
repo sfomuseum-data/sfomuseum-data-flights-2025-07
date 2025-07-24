@@ -2,53 +2,43 @@
   "id": 1980918313,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-22",
-    "date:cessation_upper": "2025-07-22",
-    "date:inception_lower": "2025-07-22",
-    "date:inception_upper": "2025-07-22",
-    "edtf:cessation": "2025-07-21T18:47:52-07:00",
-    "edtf:inception": "2025-07-22T06:40:00Z",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "B6",
+    "flysfo:airline": "QR",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "2357",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753091100,
+    "flysfo:base_flight_number": "7511",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753300500,
     "flysfo:event": "A",
-    "flysfo:flight_number": "B6333",
-    "flysfo:gate": "B6",
-    "flysfo:journey": "BOS-SFO",
-    "flysfo:scheduled_timestamp": 1753084740,
-    "flysfo:timestamp": 1753091100,
+    "flysfo:flight_number": "QR2139",
+    "flysfo:gate": "B18",
+    "flysfo:journey": "PDX-SFO",
+    "flysfo:scheduled_timestamp": 1753298640,
+    "flysfo:timestamp": 1753300500,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-71.014750,42.362322",
-    "geom:latitude": 39.990156,
-    "geom:longitude": -96.6928465,
-    "iata:airline": "B6",
+    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
+    "geom:latitude": 41.602067,
+    "geom:longitude": -122.484166,
+    "iata:airline": "QR",
     "iata:base_airline": "",
-    "icao:aircraft": "A321",
-    "icao:airline": "JBU",
-    "icao:base_airline": "HAL",
+    "icao:airline": "QTR",
+    "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:aircraft_id": 1159289411,
-    "sfomuseum:airline_id": 1159284583,
+    "sfomuseum:airline_id": 1159286153,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-HAL-2357",
-    "sfomuseum:departure_id": 102530741,
-    "sfomuseum:flight_id": "20250721-A-JBU-333",
+    "sfomuseum:base_flight_id": "20250723-A-AAL-7511",
+    "sfomuseum:departure_id": 102532251,
+    "sfomuseum:flight_id": "20250723-A-QTR-2139",
     "sfomuseum:flight_number": [
-      "JBU333",
-      "B6333"
+      "QTR2139",
+      "QR2139"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-approach"
-    ],
-    "swim:tail_number": "N943JT",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -59,16 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304313,
+      1947304297,
       1947304259,
       102085387
     ],
-    "wof:concordances": {
-      "swim:gufi": "KB82653200"
-    },
     "wof:country": "US",
-    "wof:created": 1753200844,
-    "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
+    "wof:created": 1753373282,
+    "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -82,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304313,
+        "venue_id": 1947304297,
         "wing_id": 1947304259
       },
       {
@@ -95,22 +82,21 @@
         "custom_id": 1980918313,
         "flight_id": 1980918313,
         "region_id": 85688637,
-        "venue_id": 1947304313,
+        "venue_id": 1947304297,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980918313,
     "wof:involves": [
-      1159289411,
       102527513,
-      102530741,
-      1159284583,
-      1947304313,
-      1159284489
+      102532251,
+      1159286153,
+      1947304297,
+      1159283849
     ],
-    "wof:lastmodified": 1753202506,
-    "wof:name": "B6333 (BOS-SFO)",
-    "wof:parent_id": 1947304313,
+    "wof:lastmodified": 1753373282,
+    "wof:name": "QR2139 (PDX-SFO)",
+    "wof:parent_id": 1947304297,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -120,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943,
+    -122.597389,
     37.61799,
-    -71.01475,
-    42.362322
+    -122.370943,
+    45.586144
   ],
-  "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

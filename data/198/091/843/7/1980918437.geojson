@@ -2,40 +2,40 @@
   "id": 1980918437,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "LA",
+    "flysfo:airline": "SK",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "3204",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753123380,
+    "flysfo:base_flight_number": "5412",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753256700,
     "flysfo:event": "A",
-    "flysfo:flight_number": "LA8759",
-    "flysfo:gate": "C5",
-    "flysfo:journey": "LAX-SFO",
-    "flysfo:scheduled_timestamp": 1753122720,
-    "flysfo:timestamp": 1753123380,
+    "flysfo:flight_number": "SK3585",
+    "flysfo:gate": "C6",
+    "flysfo:journey": "BOS-SFO",
+    "flysfo:scheduled_timestamp": 1753256040,
+    "flysfo:timestamp": 1753256700,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
-    "geom:latitude": 35.780291500000004,
-    "geom:longitude": -120.38022649999999,
-    "iata:airline": "LA",
+    "geom:bbox": "-122.370943,37.617990,-71.014750,42.362322",
+    "geom:latitude": 39.990156,
+    "geom:longitude": -96.6928465,
+    "iata:airline": "SK",
     "iata:base_airline": "",
-    "icao:airline": "LAN",
-    "icao:base_airline": "ITY",
-    "lbl:latitude": 37.615184,
-    "lbl:longitude": -122.382965,
-    "sfomuseum:airline_id": 1159285641,
+    "icao:airline": "SAS",
+    "icao:base_airline": "KLM",
+    "lbl:latitude": 37.614759,
+    "lbl:longitude": -122.382707,
+    "sfomuseum:airline_id": 1159285129,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-ITY-3204",
-    "sfomuseum:departure_id": 102533795,
-    "sfomuseum:flight_id": "20250721-A-LAN-8759",
+    "sfomuseum:base_flight_id": "20250723-A-KLM-5412",
+    "sfomuseum:departure_id": 102530741,
+    "sfomuseum:flight_id": "20250723-A-SAS-3585",
     "sfomuseum:flight_number": [
-      "LAN8759",
-      "LA8759"
+      "SAS3585",
+      "SK3585"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304675,
+      1947304679,
       1947304591,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200874,
-    "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
+    "wof:created": 1753373296,
+    "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304675,
+        "venue_id": 1947304679,
         "wing_id": 1947304591
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980918437,
         "flight_id": 1980918437,
         "region_id": 85688637,
-        "venue_id": 1947304675,
+        "venue_id": 1947304679,
         "wing_id": 1947304591
       }
     ],
     "wof:id": 1980918437,
     "wof:involves": [
       102527513,
-      102533795,
-      1159285641,
-      1947304675,
-      1763699293
+      102530741,
+      1159285129,
+      1947304679,
+      1159284613
     ],
-    "wof:lastmodified": 1753200874,
-    "wof:name": "LA8759 (LAX-SFO)",
-    "wof:parent_id": 1947304675,
+    "wof:lastmodified": 1753373296,
+    "wof:name": "SK3585 (BOS-SFO)",
+    "wof:parent_id": 1947304679,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    33.942593,
-    -118.38951,
-    37.61799
+    37.61799,
+    -71.01475,
+    42.362322
   ],
-  "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

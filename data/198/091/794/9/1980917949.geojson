@@ -2,40 +2,40 @@
   "id": 1980917949,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "GF",
+    "flysfo:airline": "FI",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "5021",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753163940,
+    "flysfo:base_flight_number": "7899",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753287420,
     "flysfo:event": "A",
-    "flysfo:flight_number": "GF4360",
-    "flysfo:gate": "B24",
-    "flysfo:journey": "MIA-SFO",
-    "flysfo:scheduled_timestamp": 1753163400,
-    "flysfo:timestamp": 1753163940,
+    "flysfo:flight_number": "FI7899",
+    "flysfo:gate": "B3",
+    "flysfo:journey": "BOS-SFO",
+    "flysfo:scheduled_timestamp": 1753289040,
+    "flysfo:timestamp": 1753289040,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,25.790470,-80.296006,37.617990",
-    "geom:latitude": 31.70423,
-    "geom:longitude": -101.3334745,
-    "iata:airline": "GF",
+    "geom:bbox": "-122.370943,37.617990,-71.014750,42.362322",
+    "geom:latitude": 39.990156,
+    "geom:longitude": -96.6928465,
+    "iata:airline": "FI",
     "iata:base_airline": "",
-    "icao:airline": "GFA",
-    "icao:base_airline": "BAW",
+    "icao:airline": "ICE",
+    "icao:base_airline": "ICE",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159284467,
+    "sfomuseum:airline_id": 1159284513,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-BAW-5021",
-    "sfomuseum:departure_id": 102531023,
-    "sfomuseum:flight_id": "20250721-A-GFA-4360",
+    "sfomuseum:base_flight_id": "20250723-A-ICE-7899",
+    "sfomuseum:departure_id": 102530741,
+    "sfomuseum:flight_id": "20250723-A-ICE-7899",
     "sfomuseum:flight_number": [
-      "GFA4360",
-      "GF4360"
+      "ICE7899",
+      "FI7899"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304277,
+      1947304289,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200757,
-    "wof:geomhash": "38f88108bbae8bb050c3144d37bdc384",
+    "wof:created": 1753373241,
+    "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304277,
+        "venue_id": 1947304289,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980917949,
         "flight_id": 1980917949,
         "region_id": 85688637,
-        "venue_id": 1947304277,
+        "venue_id": 1947304289,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980917949,
     "wof:involves": [
       102527513,
-      102531023,
-      1159284467,
-      1947304277,
-      1159284021
+      102530741,
+      1159284513,
+      1947304289,
+      1159284513
     ],
-    "wof:lastmodified": 1753200757,
-    "wof:name": "GF4360 (MIA-SFO)",
-    "wof:parent_id": 1947304277,
+    "wof:lastmodified": 1753373241,
+    "wof:name": "FI7899 (BOS-SFO)",
+    "wof:parent_id": 1947304289,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    25.79047,
-    -80.296006,
-    37.61799
+    37.61799,
+    -71.01475,
+    42.362322
   ],
-  "geometry": {"coordinates":[[-80.296006,25.79047],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

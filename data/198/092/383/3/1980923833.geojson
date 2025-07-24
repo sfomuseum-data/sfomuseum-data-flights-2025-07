@@ -2,79 +2,60 @@
   "id": 1980923833,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-21",
-    "date:cessation_upper": "2025-07-21",
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
-    "edtf:cessation": "2025-07-21T16:11:00Z",
-    "edtf:inception": "2025-07-21T14:56:00Z",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
-    "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9344",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753108680,
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753294500,
     "flysfo:event": "D",
-    "flysfo:flight_number": "UA1027",
-    "flysfo:gate": "D16",
-    "flysfo:journey": "SFO-PDX",
-    "flysfo:scheduled_timestamp": 1753106940,
-    "flysfo:timestamp": 1753108680,
+    "flysfo:flight_number": "UA5509",
+    "flysfo:gate": "F9",
+    "flysfo:journey": "SFO-OTH",
+    "flysfo:scheduled_timestamp": 1753291440,
+    "flysfo:timestamp": 1753294500,
     "geom:area": 0,
-    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
-    "geom:latitude": 41.602067,
-    "geom:longitude": -122.484166,
+    "geom:bbox": "-124.243730,37.617990,-122.370943,43.417060",
+    "geom:latitude": 40.517525,
+    "geom:longitude": -123.30733649999999,
     "iata:airline": "UA",
-    "iata:base_airline": "",
-    "icao:aircraft": "A320",
     "icao:airline": "UAL",
-    "icao:base_airline": "ANZ",
-    "lbl:latitude": 37.617532,
-    "lbl:longitude": -122.382384,
-    "sfomuseum:aircraft_id": 1159292085,
+    "lbl:latitude": 37.620731,
+    "lbl:longitude": -122.387053,
     "sfomuseum:airline_id": 1159285413,
-    "sfomuseum:arrival_id": 102532251,
-    "sfomuseum:base_flight_id": "20250721-D-ANZ-9344",
+    "sfomuseum:arrival_id": 102530081,
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-UAL-1027",
+    "sfomuseum:flight_id": "20250723-D-UAL-5509",
     "sfomuseum:flight_number": [
-      "UAL1027",
-      "UA1027"
+      "UAL5509",
+      "UA5509"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-takeoff"
-    ],
-    "swim:tail_number": "N1902U",
     "wof:belongsto": [
       1947304067,
       102527513,
-      1947304595,
+      1947304451,
       102191575,
       85633793,
       102087579,
       85922583,
       554784711,
       85688637,
-      1947304619,
-      1947304591,
+      1947304493,
+      1947304447,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "105996444",
-      "swim:gufi": "KO40192200"
-    },
     "wof:country": "US",
-    "wof:created": 1753202185,
-    "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
+    "wof:created": 1753373898,
+    "wof:geomhash": "35bbc0945da54b0b429931c4fc7f97cd",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
         "campus_id": 102527513,
-        "concourse_id": 1947304595,
+        "concourse_id": 1947304451,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -83,35 +64,33 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304619,
-        "wing_id": 1947304591
+        "venue_id": 1947304493,
+        "wing_id": 1947304447
       },
       {
         "building_id": 1947304067,
         "campus_id": 102527513,
-        "concourse_id": 1947304595,
+        "concourse_id": 1947304451,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "custom_id": 1980923833,
         "flight_id": 1980923833,
         "region_id": 85688637,
-        "venue_id": 1947304619,
-        "wing_id": 1947304591
+        "venue_id": 1947304493,
+        "wing_id": 1947304447
       }
     ],
     "wof:id": 1980923833,
     "wof:involves": [
-      1159292085,
-      102532251,
+      102530081,
       102527513,
       1159285413,
-      1947304619,
-      1159283697
+      1947304493
     ],
-    "wof:lastmodified": 1753202512,
-    "wof:name": "UA1027 (SFO-PDX)",
-    "wof:parent_id": 1947304619,
+    "wof:lastmodified": 1753373898,
+    "wof:name": "UA5509 (SFO-OTH)",
+    "wof:parent_id": 1947304493,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -121,10 +100,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389,
+    -124.24373,
     37.61799,
     -122.370943,
-    45.586144
+    43.41706
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.597389,45.586144]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-124.24373,43.41706]],"type":"MultiPoint"}
 }

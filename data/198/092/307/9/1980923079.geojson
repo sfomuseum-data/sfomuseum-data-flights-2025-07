@@ -2,40 +2,40 @@
   "id": 1980923079,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "KL",
+    "flysfo:airline": "SQ",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7053",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753109100,
+    "flysfo:base_flight_number": "7695",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753304340,
     "flysfo:event": "D",
-    "flysfo:flight_number": "KL9705",
-    "flysfo:gate": "B5",
-    "flysfo:journey": "SFO-YYC",
-    "flysfo:scheduled_timestamp": 1753108200,
-    "flysfo:timestamp": 1753109100,
+    "flysfo:flight_number": "SQ1546",
+    "flysfo:gate": "B6",
+    "flysfo:journey": "SFO-FLL",
+    "flysfo:scheduled_timestamp": 1753304340,
+    "flysfo:timestamp": 1753304340,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-114.020920,51.119526",
-    "geom:latitude": 44.368758,
-    "geom:longitude": -118.1959315,
-    "iata:airline": "KL",
+    "geom:bbox": "-122.370943,26.074860,-80.138518,37.617990",
+    "geom:latitude": 31.846425,
+    "geom:longitude": -101.2547305,
+    "iata:airline": "SQ",
     "iata:base_airline": "",
-    "icao:airline": "KLM",
-    "icao:base_airline": "AMX",
+    "icao:airline": "SIA",
+    "icao:base_airline": "AZU",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159284613,
-    "sfomuseum:arrival_id": 102554947,
-    "sfomuseum:base_flight_id": "20250721-D-AMX-7053",
+    "sfomuseum:airline_id": 1159286259,
+    "sfomuseum:arrival_id": 102530841,
+    "sfomuseum:base_flight_id": "20250723-D-AZU-7695",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-KLM-9705",
+    "sfomuseum:flight_id": "20250723-D-SIA-1546",
     "sfomuseum:flight_number": [
-      "KLM9705",
-      "KL9705"
+      "SIA1546",
+      "SQ1546"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304299,
+      1947304313,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753202004,
-    "wof:geomhash": "a7dd599440af55c5534b52449c3164ed",
+    "wof:created": 1753373815,
+    "wof:geomhash": "2155b19e54308f477f2a379762b2f6c8",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304299,
+        "venue_id": 1947304313,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980923079,
         "flight_id": 1980923079,
         "region_id": 85688637,
-        "venue_id": 1947304299,
+        "venue_id": 1947304313,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980923079,
     "wof:involves": [
-      102554947,
+      102530841,
       102527513,
-      1159284613,
-      1947304299,
-      1159283539
+      1159286259,
+      1947304313,
+      1779770723
     ],
-    "wof:lastmodified": 1753202004,
-    "wof:name": "KL9705 (SFO-YYC)",
-    "wof:parent_id": 1947304299,
+    "wof:lastmodified": 1753373815,
+    "wof:name": "SQ1546 (SFO-FLL)",
+    "wof:parent_id": 1947304313,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -114.02092,
-    51.119526
+    26.07486,
+    -80.138518,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-114.02092,51.119526]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-80.138518,26.07486]],"type":"MultiPoint"}
 }

@@ -2,40 +2,40 @@
   "id": 1980922767,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "HA",
+    "flysfo:airline": "QF",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "5868",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753128000,
+    "flysfo:base_flight_number": "4140",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753313820,
     "flysfo:event": "D",
-    "flysfo:flight_number": "HA7003",
-    "flysfo:gate": "B17",
-    "flysfo:journey": "SFO-PAE",
-    "flysfo:scheduled_timestamp": 1753106400,
-    "flysfo:timestamp": 1753128000,
+    "flysfo:flight_number": "QF3141",
+    "flysfo:gate": "B26",
+    "flysfo:journey": "SFO-ORD",
+    "flysfo:scheduled_timestamp": 1753302000,
+    "flysfo:timestamp": 1753313820,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-122.279084,47.908767",
-    "geom:latitude": 42.7633785,
-    "geom:longitude": -122.3250135,
-    "iata:airline": "HA",
+    "geom:bbox": "-122.370943,37.617990,-87.894364,41.983038",
+    "geom:latitude": 39.800514,
+    "geom:longitude": -105.1326535,
+    "iata:airline": "QF",
     "iata:base_airline": "",
-    "icao:airline": "HAL",
-    "icao:base_airline": "FJI",
+    "icao:airline": "QFA",
+    "icao:base_airline": "FIN",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159284489,
-    "sfomuseum:arrival_id": 102526657,
-    "sfomuseum:base_flight_id": "20250721-D-FJI-5868",
+    "sfomuseum:airline_id": 1159285043,
+    "sfomuseum:arrival_id": 102533631,
+    "sfomuseum:base_flight_id": "20250723-D-FIN-4140",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-HAL-7003",
+    "sfomuseum:flight_id": "20250723-D-QFA-3141",
     "sfomuseum:flight_number": [
-      "HAL7003",
-      "HA7003"
+      "QFA3141",
+      "QF3141"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304285,
+      1947304283,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753201928,
-    "wof:geomhash": "4d7458fcd2bb2c2db9950abb8dd848d3",
+    "wof:created": 1753373780,
+    "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304285,
+        "venue_id": 1947304283,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980922767,
         "flight_id": 1980922767,
         "region_id": 85688637,
-        "venue_id": 1947304285,
+        "venue_id": 1947304283,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980922767,
     "wof:involves": [
-      102526657,
+      102533631,
       102527513,
-      1159284489,
-      1947304285,
-      1159283717
+      1159285043,
+      1947304283,
+      1159284389
     ],
-    "wof:lastmodified": 1753201928,
-    "wof:name": "HA7003 (SFO-PAE)",
-    "wof:parent_id": 1947304285,
+    "wof:lastmodified": 1753373780,
+    "wof:name": "QF3141 (SFO-ORD)",
+    "wof:parent_id": 1947304283,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -122.279084,
-    47.908767
+    -87.894364,
+    41.983038
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.279084,47.908767]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]],"type":"MultiPoint"}
 }

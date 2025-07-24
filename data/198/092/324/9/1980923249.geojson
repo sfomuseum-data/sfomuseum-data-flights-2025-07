@@ -2,40 +2,40 @@
   "id": 1980923249,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "QF",
+    "flysfo:airline": "TN",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "5601",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753167540,
+    "flysfo:base_flight_number": "7528",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753279200,
     "flysfo:event": "D",
-    "flysfo:flight_number": "QF4479",
-    "flysfo:gate": "B16",
-    "flysfo:journey": "SFO-DFW",
-    "flysfo:scheduled_timestamp": 1753167540,
-    "flysfo:timestamp": 1753167540,
+    "flysfo:flight_number": "TN2705",
+    "flysfo:gate": "B7",
+    "flysfo:journey": "SFO-SEA",
+    "flysfo:scheduled_timestamp": 1753279200,
+    "flysfo:timestamp": 1753279200,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,32.903660,-97.050966,37.617990",
-    "geom:latitude": 35.260825,
-    "geom:longitude": -109.7109545,
-    "iata:airline": "QF",
+    "geom:bbox": "-122.370943,37.617990,-122.304268,47.441823",
+    "geom:latitude": 42.529906499999996,
+    "geom:longitude": -122.3376055,
+    "iata:airline": "TN",
     "iata:base_airline": "",
-    "icao:airline": "QFA",
-    "icao:base_airline": "BAW",
+    "icao:airline": "THT",
+    "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159285043,
-    "sfomuseum:arrival_id": 102528541,
-    "sfomuseum:base_flight_id": "20250721-D-BAW-5601",
+    "sfomuseum:airline_id": 1159283747,
+    "sfomuseum:arrival_id": 102533269,
+    "sfomuseum:base_flight_id": "20250723-D-AAL-7528",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-QFA-4479",
+    "sfomuseum:flight_id": "20250723-D-THT-2705",
     "sfomuseum:flight_number": [
-      "QFA4479",
-      "QF4479"
+      "THT2705",
+      "TN2705"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304265,
+      1947304293,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753202044,
-    "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
+    "wof:created": 1753373834,
+    "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304265,
+        "venue_id": 1947304293,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980923249,
         "flight_id": 1980923249,
         "region_id": 85688637,
-        "venue_id": 1947304265,
+        "venue_id": 1947304293,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980923249,
     "wof:involves": [
-      102528541,
+      102533269,
       102527513,
-      1159285043,
-      1947304265,
-      1159284021
+      1159283747,
+      1947304293,
+      1159283849
     ],
-    "wof:lastmodified": 1753202044,
-    "wof:name": "QF4479 (SFO-DFW)",
-    "wof:parent_id": 1947304265,
+    "wof:lastmodified": 1753373834,
+    "wof:name": "TN2705 (SFO-SEA)",
+    "wof:parent_id": 1947304293,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    32.90366,
-    -97.050966,
-    37.61799
+    37.61799,
+    -122.304268,
+    47.441823
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.304268,47.441823]],"type":"MultiPoint"}
 }

@@ -2,40 +2,40 @@
   "id": 1980917603,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "DL",
+    "flysfo:airline": "EY",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7970",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753119060,
+    "flysfo:base_flight_number": "6774",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753305300,
     "flysfo:event": "A",
-    "flysfo:flight_number": "DL7970",
-    "flysfo:gate": "A4",
-    "flysfo:journey": "GDL-SFO",
-    "flysfo:scheduled_timestamp": 1753118700,
-    "flysfo:timestamp": 1753119060,
+    "flysfo:flight_number": "EY2746",
+    "flysfo:gate": "A2",
+    "flysfo:journey": "LIS-SFO",
+    "flysfo:scheduled_timestamp": 1753307220,
+    "flysfo:timestamp": 1753307220,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,20.525627,-103.301974,37.617990",
-    "geom:latitude": 29.0718085,
-    "geom:longitude": -112.83645849999999,
-    "iata:airline": "DL",
+    "geom:bbox": "-122.370943,37.617990,-9.135591,38.772844",
+    "geom:latitude": 38.195417,
+    "geom:longitude": -65.753267,
+    "iata:airline": "EY",
     "iata:base_airline": "",
-    "icao:airline": "DAL",
-    "icao:base_airline": "DAL",
+    "icao:airline": "ETD",
+    "icao:base_airline": "JBU",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:airline_id": 1159285587,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-DAL-7970",
-    "sfomuseum:departure_id": 102536387,
-    "sfomuseum:flight_id": "20250721-A-DAL-7970",
+    "sfomuseum:base_flight_id": "20250723-A-JBU-6774",
+    "sfomuseum:departure_id": 102535643,
+    "sfomuseum:flight_id": "20250723-A-ETD-2746",
     "sfomuseum:flight_number": [
-      "DAL7970",
-      "DL7970"
+      "ETD2746",
+      "EY2746"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304081,
+      1947304075,
       1947304069,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200672,
-    "wof:geomhash": "d1cf00e952c40abdeded8d31cdcdf72b",
+    "wof:created": 1753373202,
+    "wof:geomhash": "d927879de9f350bec45f63af3f2c3973",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304081,
+        "venue_id": 1947304075,
         "wing_id": 1947304069
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980917603,
         "flight_id": 1980917603,
         "region_id": 85688637,
-        "venue_id": 1947304081,
+        "venue_id": 1947304075,
         "wing_id": 1947304069
       }
     ],
     "wof:id": 1980917603,
     "wof:involves": [
       102527513,
-      102536387,
-      1159284261,
-      1947304081,
-      1159284261
+      102535643,
+      1159285587,
+      1947304075,
+      1159284583
     ],
-    "wof:lastmodified": 1753200672,
-    "wof:name": "DL7970 (GDL-SFO)",
-    "wof:parent_id": 1947304081,
+    "wof:lastmodified": 1753373202,
+    "wof:name": "EY2746 (LIS-SFO)",
+    "wof:parent_id": 1947304075,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    20.525627,
-    -103.301974,
-    37.61799
+    37.61799,
+    -9.135591,
+    38.772844
   ],
-  "geometry": {"coordinates":[[-103.301974,20.525627],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-9.135591,38.772844],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

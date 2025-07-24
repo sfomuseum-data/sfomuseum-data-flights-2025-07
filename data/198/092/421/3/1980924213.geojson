@@ -2,53 +2,43 @@
   "id": 1980924213,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-21",
-    "date:cessation_upper": "2025-07-21",
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
-    "edtf:cessation": "2025-07-21T21:37:00Z",
-    "edtf:inception": "2025-07-21T02:59:25-07:00",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "UA",
+    "flysfo:airline": "VA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9104",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753115640,
+    "flysfo:base_flight_number": "3171",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753292160,
     "flysfo:event": "D",
-    "flysfo:flight_number": "UA435",
-    "flysfo:gate": "F22",
+    "flysfo:flight_number": "VA8149",
+    "flysfo:gate": "F20",
     "flysfo:journey": "SFO-EWR",
-    "flysfo:scheduled_timestamp": 1753114800,
-    "flysfo:timestamp": 1753115640,
+    "flysfo:scheduled_timestamp": 1753291200,
+    "flysfo:timestamp": 1753292160,
     "geom:area": 0,
     "geom:bbox": "-122.370943,37.617990,-74.177526,40.691243",
     "geom:latitude": 39.1546165,
     "geom:longitude": -98.2742345,
-    "iata:airline": "UA",
+    "iata:airline": "VA",
     "iata:base_airline": "",
-    "icao:aircraft": "B789",
-    "icao:airline": "UAL",
-    "icao:base_airline": "ANZ",
-    "lbl:latitude": 37.621107,
-    "lbl:longitude": -122.389874,
-    "sfomuseum:aircraft_id": 1159293215,
-    "sfomuseum:airline_id": 1159285413,
+    "icao:airline": "VOZ",
+    "icao:base_airline": "SWR",
+    "lbl:latitude": 37.621076,
+    "lbl:longitude": -122.390239,
+    "sfomuseum:airline_id": 1159285485,
     "sfomuseum:arrival_id": 102530049,
-    "sfomuseum:base_flight_id": "20250721-D-ANZ-9104",
+    "sfomuseum:base_flight_id": "20250723-D-SWR-3171",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-UAL-435",
+    "sfomuseum:flight_id": "20250723-D-VOZ-8149",
     "sfomuseum:flight_number": [
-      "UAL435",
-      "UA435"
+      "VOZ8149",
+      "VA8149"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-takeoff"
-    ],
-    "swim:tail_number": "N26966",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -59,16 +49,12 @@
       85922583,
       554784711,
       85688637,
-      1947304475,
+      1947304489,
       1947304447,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "106008226",
-      "swim:gufi": "KO48708200"
-    },
     "wof:country": "US",
-    "wof:created": 1753202280,
+    "wof:created": 1753373941,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
     "wof:hierarchy": [
       {
@@ -83,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304475,
+        "venue_id": 1947304489,
         "wing_id": 1947304447
       },
       {
@@ -96,7 +82,7 @@
         "custom_id": 1980924213,
         "flight_id": 1980924213,
         "region_id": 85688637,
-        "venue_id": 1947304475,
+        "venue_id": 1947304489,
         "wing_id": 1947304447
       }
     ],
@@ -104,14 +90,13 @@
     "wof:involves": [
       102530049,
       102527513,
-      1159285413,
-      1947304475,
-      1159283697,
-      1159293215
+      1159285485,
+      1947304489,
+      1159286475
     ],
-    "wof:lastmodified": 1753202516,
-    "wof:name": "UA435 (SFO-EWR)",
-    "wof:parent_id": 1947304475,
+    "wof:lastmodified": 1753373941,
+    "wof:name": "VA8149 (SFO-EWR)",
+    "wof:parent_id": 1947304489,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

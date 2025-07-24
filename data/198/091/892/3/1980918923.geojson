@@ -2,40 +2,35 @@
   "id": 1980918923,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "LX",
-    "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "8921",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753110960,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753289100,
     "flysfo:event": "A",
-    "flysfo:flight_number": "LX3087",
-    "flysfo:gate": "G1",
-    "flysfo:journey": "MEL-SFO",
-    "flysfo:scheduled_timestamp": 1753110600,
-    "flysfo:timestamp": 1753110960,
+    "flysfo:flight_number": "UA190",
+    "flysfo:gate": "G2",
+    "flysfo:journey": "MNL-SFO",
+    "flysfo:scheduled_timestamp": 1753278000,
+    "flysfo:timestamp": 1753289100,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,-37.668253,144.843764,37.617990",
-    "geom:latitude": -0.02513150000000053,
-    "geom:longitude": 11.236410499999998,
-    "iata:airline": "LX",
-    "iata:base_airline": "",
-    "icao:airline": "SWR",
-    "icao:base_airline": "DLH",
-    "lbl:latitude": 37.617321,
-    "lbl:longitude": -122.389477,
-    "sfomuseum:airline_id": 1159286475,
+    "geom:bbox": "-122.370943,14.517768,121.015152,37.617990",
+    "geom:latitude": 26.067878999999998,
+    "geom:longitude": -0.6778954999999982,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.617615,
+    "lbl:longitude": -122.390247,
+    "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-DLH-8921",
-    "sfomuseum:departure_id": 102557779,
-    "sfomuseum:flight_id": "20250721-A-SWR-3087",
+    "sfomuseum:departure_id": 102553219,
+    "sfomuseum:flight_id": "20250723-A-UAL-190",
     "sfomuseum:flight_number": [
-      "SWR3087",
-      "LX3087"
+      "UAL190",
+      "UA190"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +44,13 @@
       85922583,
       554784711,
       85688637,
-      1947304155,
+      1947304141,
       1947304069,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200994,
-    "wof:geomhash": "87faaa2af80cb57714136e3a98b5d686",
+    "wof:created": 1753373352,
+    "wof:geomhash": "5a4fd58c6aeb5f6f6368af3561d0b192",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +64,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304155,
+        "venue_id": 1947304141,
         "wing_id": 1947304069
       },
       {
@@ -82,21 +77,20 @@
         "custom_id": 1980918923,
         "flight_id": 1980918923,
         "region_id": 85688637,
-        "venue_id": 1947304155,
+        "venue_id": 1947304141,
         "wing_id": 1947304069
       }
     ],
     "wof:id": 1980918923,
     "wof:involves": [
       102527513,
-      102557779,
-      1159286475,
-      1947304155,
-      1159286015
+      102553219,
+      1159285413,
+      1947304141
     ],
-    "wof:lastmodified": 1753200994,
-    "wof:name": "LX3087 (MEL-SFO)",
-    "wof:parent_id": 1947304155,
+    "wof:lastmodified": 1753373352,
+    "wof:name": "UA190 (MNL-SFO)",
+    "wof:parent_id": 1947304141,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +101,9 @@
   },
   "bbox": [
     -122.370943,
-    -37.668253,
-    144.843764,
+    14.517768,
+    121.015152,
     37.61799
   ],
-  "geometry": {"coordinates":[[144.843764,-37.668253],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[121.015152,14.517768],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

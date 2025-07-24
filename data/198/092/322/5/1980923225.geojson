@@ -2,40 +2,40 @@
   "id": 1980923225,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "QF",
+    "flysfo:airline": "TN",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7650",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753117200,
+    "flysfo:base_flight_number": "4887",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753277400,
     "flysfo:event": "D",
-    "flysfo:flight_number": "QF3708",
-    "flysfo:gate": "B17",
-    "flysfo:journey": "SFO-PVR",
-    "flysfo:scheduled_timestamp": 1753117200,
-    "flysfo:timestamp": 1753117200,
+    "flysfo:flight_number": "TN1123",
+    "flysfo:gate": "B10",
+    "flysfo:journey": "SFO-LAX",
+    "flysfo:scheduled_timestamp": 1753277400,
+    "flysfo:timestamp": 1753277400,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,20.660734,-105.250456,37.617990",
-    "geom:latitude": 29.139362,
-    "geom:longitude": -113.8106995,
-    "iata:airline": "QF",
+    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
+    "geom:latitude": 35.780291500000004,
+    "geom:longitude": -120.38022649999999,
+    "iata:airline": "TN",
     "iata:base_airline": "",
-    "icao:airline": "QFA",
-    "icao:base_airline": "AAL",
+    "icao:airline": "THT",
+    "icao:base_airline": "QFA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159285043,
-    "sfomuseum:arrival_id": 102536481,
-    "sfomuseum:base_flight_id": "20250721-D-AAL-7650",
+    "sfomuseum:airline_id": 1159283747,
+    "sfomuseum:arrival_id": 102533795,
+    "sfomuseum:base_flight_id": "20250723-D-QFA-4887",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-QFA-3708",
+    "sfomuseum:flight_id": "20250723-D-THT-1123",
     "sfomuseum:flight_number": [
-      "QFA3708",
-      "QF3708"
+      "THT1123",
+      "TN1123"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304285,
+      1947304307,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753202039,
-    "wof:geomhash": "ae49e61cad725fa4577f8355bb7297ad",
+    "wof:created": 1753373831,
+    "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304285,
+        "venue_id": 1947304307,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980923225,
         "flight_id": 1980923225,
         "region_id": 85688637,
-        "venue_id": 1947304285,
+        "venue_id": 1947304307,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980923225,
     "wof:involves": [
-      102536481,
+      102533795,
       102527513,
-      1159285043,
-      1947304285,
-      1159283849
+      1159283747,
+      1947304307,
+      1159285043
     ],
-    "wof:lastmodified": 1753202039,
-    "wof:name": "QF3708 (SFO-PVR)",
-    "wof:parent_id": 1947304285,
+    "wof:lastmodified": 1753373831,
+    "wof:name": "TN1123 (SFO-LAX)",
+    "wof:parent_id": 1947304307,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    20.660734,
-    -105.250456,
+    33.942593,
+    -118.38951,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-105.250456,20.660734]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}
 }

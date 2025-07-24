@@ -2,40 +2,40 @@
   "id": 1980917911,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "FJ",
+    "flysfo:airline": "IB",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7456",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753152480,
+    "flysfo:base_flight_number": "6996",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753330560,
     "flysfo:event": "A",
-    "flysfo:flight_number": "FJ5813",
-    "flysfo:gate": "B9",
-    "flysfo:journey": "SEA-SFO",
-    "flysfo:scheduled_timestamp": 1753149180,
-    "flysfo:timestamp": 1753152480,
+    "flysfo:flight_number": "IB4069",
+    "flysfo:gate": "B19",
+    "flysfo:journey": "ORD-SFO",
+    "flysfo:scheduled_timestamp": 1753331340,
+    "flysfo:timestamp": 1753331340,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-122.304268,47.441823",
-    "geom:latitude": 42.529906499999996,
-    "geom:longitude": -122.3376055,
-    "iata:airline": "FJ",
+    "geom:bbox": "-122.370943,37.617990,-87.894364,41.983038",
+    "geom:latitude": 39.800514,
+    "geom:longitude": -105.1326535,
+    "iata:airline": "IB",
     "iata:base_airline": "",
-    "icao:airline": "FJI",
-    "icao:base_airline": "AAL",
+    "icao:airline": "IBE",
+    "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159283717,
+    "sfomuseum:airline_id": 1159284511,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-AAL-7456",
-    "sfomuseum:departure_id": 102533269,
-    "sfomuseum:flight_id": "20250721-A-FJI-5813",
+    "sfomuseum:base_flight_id": "20250723-A-BAW-6996",
+    "sfomuseum:departure_id": 102533631,
+    "sfomuseum:flight_id": "20250723-A-IBE-4069",
     "sfomuseum:flight_number": [
-      "FJI5813",
-      "FJ5813"
+      "IBE4069",
+      "IB4069"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304303,
+      1947304301,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200747,
-    "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
+    "wof:created": 1753373236,
+    "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304303,
+        "venue_id": 1947304301,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980917911,
         "flight_id": 1980917911,
         "region_id": 85688637,
-        "venue_id": 1947304303,
+        "venue_id": 1947304301,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980917911,
     "wof:involves": [
       102527513,
-      102533269,
-      1159283717,
-      1947304303,
-      1159283849
+      102533631,
+      1159284511,
+      1947304301,
+      1159284021
     ],
-    "wof:lastmodified": 1753200747,
-    "wof:name": "FJ5813 (SEA-SFO)",
-    "wof:parent_id": 1947304303,
+    "wof:lastmodified": 1753373236,
+    "wof:name": "IB4069 (ORD-SFO)",
+    "wof:parent_id": 1947304301,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -122.304268,
-    47.441823
+    -87.894364,
+    41.983038
   ],
-  "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

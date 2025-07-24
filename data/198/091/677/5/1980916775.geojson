@@ -2,40 +2,40 @@
   "id": 1980916775,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "NZ",
+    "flysfo:airline": "AV",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "5696",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753164900,
+    "flysfo:base_flight_number": "2046",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753325280,
     "flysfo:event": "A",
-    "flysfo:flight_number": "NZ9877",
-    "flysfo:gate": "F20",
-    "flysfo:journey": "YVR-SFO",
-    "flysfo:scheduled_timestamp": 1753159500,
-    "flysfo:timestamp": 1753164900,
+    "flysfo:flight_number": "AV2046",
+    "flysfo:gate": "F6",
+    "flysfo:journey": "ACV-SFO",
+    "flysfo:scheduled_timestamp": 1753326180,
+    "flysfo:timestamp": 1753326180,
     "geom:area": 0,
-    "geom:bbox": "-123.179200,37.617990,-122.370943,49.193330",
-    "geom:latitude": 43.40566,
-    "geom:longitude": -122.7750715,
-    "iata:airline": "NZ",
+    "geom:bbox": "-124.108020,37.617990,-122.370943,40.971689",
+    "geom:latitude": 39.294839499999995,
+    "geom:longitude": -123.2394815,
+    "iata:airline": "AV",
     "iata:base_airline": "",
-    "icao:airline": "ANZ",
-    "icao:base_airline": "ACA",
-    "lbl:latitude": 37.621076,
-    "lbl:longitude": -122.390239,
-    "sfomuseum:airline_id": 1159283697,
+    "icao:airline": "AVA",
+    "icao:base_airline": "AVA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285749,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-ACA-5696",
-    "sfomuseum:departure_id": 102555307,
-    "sfomuseum:flight_id": "20250721-A-ANZ-9877",
+    "sfomuseum:base_flight_id": "20250723-A-AVA-2046",
+    "sfomuseum:departure_id": 102531997,
+    "sfomuseum:flight_id": "20250723-A-AVA-2046",
     "sfomuseum:flight_number": [
-      "ANZ9877",
-      "NZ9877"
+      "AVA2046",
+      "AV2046"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304489,
+      1947304461,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200466,
-    "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
+    "wof:created": 1753373106,
+    "wof:geomhash": "dcc7d5812c5708e8b42757f5054e75d6",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304489,
+        "venue_id": 1947304461,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980916775,
         "flight_id": 1980916775,
         "region_id": 85688637,
-        "venue_id": 1947304489,
+        "venue_id": 1947304461,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980916775,
     "wof:involves": [
       102527513,
-      102555307,
-      1159283697,
-      1947304489,
-      1159283597
+      102531997,
+      1159285749,
+      1947304461,
+      1159285749
     ],
-    "wof:lastmodified": 1753200466,
-    "wof:name": "NZ9877 (YVR-SFO)",
-    "wof:parent_id": 1947304489,
+    "wof:lastmodified": 1753373106,
+    "wof:name": "AV2046 (ACV-SFO)",
+    "wof:parent_id": 1947304461,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -123.1792,
+    -124.10802,
     37.61799,
     -122.370943,
-    49.19333
+    40.971689
   ],
-  "geometry": {"coordinates":[[-123.1792,49.19333],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-124.10802,40.971689],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

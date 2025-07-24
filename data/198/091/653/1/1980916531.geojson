@@ -2,26 +2,26 @@
   "id": 1980916531,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "NZ",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4033",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753114920,
+    "flysfo:base_flight_number": "4359",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753294560,
     "flysfo:event": "A",
-    "flysfo:flight_number": "NZ9233",
-    "flysfo:gate": "F7",
-    "flysfo:journey": "ABQ-SFO",
-    "flysfo:scheduled_timestamp": 1753112340,
-    "flysfo:timestamp": 1753114920,
+    "flysfo:flight_number": "NZ9677",
+    "flysfo:gate": "F6",
+    "flysfo:journey": "SMF-SFO",
+    "flysfo:scheduled_timestamp": 1753295760,
+    "flysfo:timestamp": 1753295760,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,35.048762,-106.620586,37.617990",
-    "geom:latitude": 36.333376,
-    "geom:longitude": -114.4957645,
+    "geom:bbox": "-122.370943,37.617990,-121.589912,38.685533",
+    "geom:latitude": 38.1517615,
+    "geom:longitude": -121.98042749999999,
     "iata:airline": "NZ",
     "iata:base_airline": "",
     "icao:airline": "ANZ",
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159283697,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-ACA-4033",
-    "sfomuseum:departure_id": 102529173,
-    "sfomuseum:flight_id": "20250721-A-ANZ-9233",
+    "sfomuseum:base_flight_id": "20250723-A-ACA-4359",
+    "sfomuseum:departure_id": 102530559,
+    "sfomuseum:flight_id": "20250723-A-ANZ-9677",
     "sfomuseum:flight_number": [
-      "ANZ9233",
-      "NZ9233"
+      "ANZ9677",
+      "NZ9677"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304465,
+      1947304461,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200404,
-    "wof:geomhash": "8fe6791c85dc44fbddffd72416ea0024",
+    "wof:created": 1753373078,
+    "wof:geomhash": "f5805f1be1c56ce2a2965880e252c65f",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304465,
+        "venue_id": 1947304461,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980916531,
         "flight_id": 1980916531,
         "region_id": 85688637,
-        "venue_id": 1947304465,
+        "venue_id": 1947304461,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980916531,
     "wof:involves": [
       102527513,
-      102529173,
+      102530559,
       1159283697,
-      1947304465,
+      1947304461,
       1159283597
     ],
-    "wof:lastmodified": 1753200404,
-    "wof:name": "NZ9233 (ABQ-SFO)",
-    "wof:parent_id": 1947304465,
+    "wof:lastmodified": 1753373078,
+    "wof:name": "NZ9677 (SMF-SFO)",
+    "wof:parent_id": 1947304461,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    35.048762,
-    -106.620586,
-    37.61799
+    37.61799,
+    -121.589912,
+    38.685533
   ],
-  "geometry": {"coordinates":[[-106.620586,35.048762],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-121.589912,38.685533],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

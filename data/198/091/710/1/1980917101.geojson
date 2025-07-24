@@ -2,40 +2,40 @@
   "id": 1980917101,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "BA",
+    "flysfo:airline": "DE",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7532",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753165980,
+    "flysfo:base_flight_number": "5032",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753291020,
     "flysfo:event": "A",
-    "flysfo:flight_number": "BA2985",
+    "flysfo:flight_number": "DE5032",
     "flysfo:gate": "C1",
-    "flysfo:journey": "PDX-SFO",
-    "flysfo:scheduled_timestamp": 1753166340,
-    "flysfo:timestamp": 1753166340,
+    "flysfo:journey": "LAX-SFO",
+    "flysfo:scheduled_timestamp": 1753291200,
+    "flysfo:timestamp": 1753291200,
     "geom:area": 0,
-    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
-    "geom:latitude": 41.602067,
-    "geom:longitude": -122.484166,
-    "iata:airline": "BA",
+    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
+    "geom:latitude": 35.780291500000004,
+    "geom:longitude": -120.38022649999999,
+    "iata:airline": "DE",
     "iata:base_airline": "",
-    "icao:airline": "BAW",
-    "icao:base_airline": "AAL",
+    "icao:airline": "CFG",
+    "icao:base_airline": "CFG",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159284021,
+    "sfomuseum:airline_id": 1159284193,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-AAL-7532",
-    "sfomuseum:departure_id": 102532251,
-    "sfomuseum:flight_id": "20250721-A-BAW-2985",
+    "sfomuseum:base_flight_id": "20250723-A-CFG-5032",
+    "sfomuseum:departure_id": 102533795,
+    "sfomuseum:flight_id": "20250723-A-CFG-5032",
     "sfomuseum:flight_number": [
-      "BAW2985",
-      "BA2985"
+      "CFG5032",
+      "DE5032"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200548,
-    "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
+    "wof:created": 1753373144,
+    "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -89,13 +89,13 @@
     "wof:id": 1980917101,
     "wof:involves": [
       102527513,
-      102532251,
-      1159284021,
+      102533795,
+      1159284193,
       1947304387,
-      1159283849
+      1159284193
     ],
-    "wof:lastmodified": 1753200548,
-    "wof:name": "BA2985 (PDX-SFO)",
+    "wof:lastmodified": 1753373144,
+    "wof:name": "DE5032 (LAX-SFO)",
     "wof:parent_id": 1947304387,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389,
-    37.61799,
     -122.370943,
-    45.586144
+    33.942593,
+    -118.38951,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

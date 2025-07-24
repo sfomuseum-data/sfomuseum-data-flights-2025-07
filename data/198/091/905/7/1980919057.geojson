@@ -2,40 +2,40 @@
   "id": 1980919057,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "EK",
+    "flysfo:airline": "UA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4514",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753129260,
+    "flysfo:base_flight_number": "9700",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753284600,
     "flysfo:event": "A",
-    "flysfo:flight_number": "EK6026",
-    "flysfo:gate": "F7",
-    "flysfo:journey": "BUR-SFO",
-    "flysfo:scheduled_timestamp": 1753125420,
-    "flysfo:timestamp": 1753129260,
+    "flysfo:flight_number": "UA246",
+    "flysfo:gate": "E3",
+    "flysfo:journey": "STL-SFO",
+    "flysfo:scheduled_timestamp": 1753285560,
+    "flysfo:timestamp": 1753285560,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,34.196704,-118.353322,37.617990",
-    "geom:latitude": 35.907347,
-    "geom:longitude": -120.3621325,
-    "iata:airline": "EK",
+    "geom:bbox": "-122.370943,37.617990,-90.367632,38.743872",
+    "geom:latitude": 38.180931,
+    "geom:longitude": -106.3692875,
+    "iata:airline": "UA",
     "iata:base_airline": "",
-    "icao:airline": "UAE",
-    "icao:base_airline": "ACA",
-    "lbl:latitude": 37.61799,
-    "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159284333,
+    "icao:airline": "UAL",
+    "icao:base_airline": "ANZ",
+    "lbl:latitude": 37.618578,
+    "lbl:longitude": -122.385434,
+    "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-ACA-4514",
-    "sfomuseum:departure_id": 1746879083,
-    "sfomuseum:flight_id": "20250721-A-UAE-6026",
+    "sfomuseum:base_flight_id": "20250723-A-ANZ-9700",
+    "sfomuseum:departure_id": 1746879059,
+    "sfomuseum:flight_id": "20250723-A-UAL-246",
     "sfomuseum:flight_number": [
-      "UAE6026",
-      "EK6026"
+      "UAL246",
+      "UA246"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304465,
+      1947304495,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753201026,
-    "wof:geomhash": "579cc6c0d5668ba584a946b357aa3191",
+    "wof:created": 1753373367,
+    "wof:geomhash": "5aed0915f9f8845326df52b0d348a4b7",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304465,
+        "venue_id": 1947304495,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980919057,
         "flight_id": 1980919057,
         "region_id": 85688637,
-        "venue_id": 1947304465,
+        "venue_id": 1947304495,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980919057,
     "wof:involves": [
       102527513,
-      1746879083,
-      1159284333,
-      1947304465,
-      1159283597
+      1746879059,
+      1159285413,
+      1947304495,
+      1159283697
     ],
-    "wof:lastmodified": 1753201026,
-    "wof:name": "EK6026 (BUR-SFO)",
-    "wof:parent_id": 1947304465,
+    "wof:lastmodified": 1753373367,
+    "wof:name": "UA246 (STL-SFO)",
+    "wof:parent_id": 1947304495,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    34.196704,
-    -118.353322,
-    37.61799
+    37.61799,
+    -90.367632,
+    38.743872
   ],
-  "geometry": {"coordinates":[[-118.353322,34.196704],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-90.367632,38.743872],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

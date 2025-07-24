@@ -2,26 +2,26 @@
   "id": 1980915843,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "3775",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753162080,
+    "flysfo:base_flight_number": "5211",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753281000,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AC3775",
+    "flysfo:flight_number": "AC5211",
     "flysfo:gate": "D9",
-    "flysfo:journey": "AUS-SFO",
-    "flysfo:scheduled_timestamp": 1753158900,
-    "flysfo:timestamp": 1753162080,
+    "flysfo:journey": "LAS-SFO",
+    "flysfo:scheduled_timestamp": 1753281540,
+    "flysfo:timestamp": 1753281540,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,30.206175,-97.643029,37.617990",
-    "geom:latitude": 33.9120825,
-    "geom:longitude": -110.006986,
+    "geom:bbox": "-122.370943,36.081003,-115.156440,37.617990",
+    "geom:latitude": 36.8494965,
+    "geom:longitude": -118.7636915,
     "iata:airline": "AC",
     "iata:base_airline": "",
     "icao:airline": "ACA",
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.381052,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-ACA-3775",
-    "sfomuseum:departure_id": 102521851,
-    "sfomuseum:flight_id": "20250721-A-ACA-3775",
+    "sfomuseum:base_flight_id": "20250723-A-ACA-5211",
+    "sfomuseum:departure_id": 102527209,
+    "sfomuseum:flight_id": "20250723-A-ACA-5211",
     "sfomuseum:flight_number": [
-      "ACA3775",
-      "AC3775"
+      "ACA5211",
+      "AC5211"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200227,
-    "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
+    "wof:created": 1753372998,
+    "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -89,13 +89,13 @@
     "wof:id": 1980915843,
     "wof:involves": [
       102527513,
-      102521851,
+      102527209,
       1159283597,
       1947304609,
       1159283597
     ],
-    "wof:lastmodified": 1753200227,
-    "wof:name": "AC3775 (AUS-SFO)",
+    "wof:lastmodified": 1753372998,
+    "wof:name": "AC5211 (LAS-SFO)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    30.206175,
-    -97.643029,
+    36.081003,
+    -115.15644,
     37.61799
   ],
-  "geometry": {"coordinates":[[-97.643029,30.206175],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

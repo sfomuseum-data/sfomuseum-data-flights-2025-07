@@ -2,40 +2,40 @@
   "id": 1980917587,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "DL",
+    "flysfo:airline": "LY",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7259",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753134900,
+    "flysfo:base_flight_number": "6788",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753324200,
     "flysfo:event": "A",
-    "flysfo:flight_number": "DL7054",
-    "flysfo:gate": "C4",
-    "flysfo:journey": "YVR-SFO",
-    "flysfo:scheduled_timestamp": 1753131540,
-    "flysfo:timestamp": 1753134900,
+    "flysfo:flight_number": "LY4513",
+    "flysfo:gate": "C7",
+    "flysfo:journey": "LAX-SFO",
+    "flysfo:scheduled_timestamp": 1753324680,
+    "flysfo:timestamp": 1753324680,
     "geom:area": 0,
-    "geom:bbox": "-123.179200,37.617990,-122.370943,49.193330",
-    "geom:latitude": 43.40566,
-    "geom:longitude": -122.7750715,
-    "iata:airline": "DL",
+    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
+    "geom:latitude": 35.780291500000004,
+    "geom:longitude": -120.38022649999999,
+    "iata:airline": "LY",
     "iata:base_airline": "",
-    "icao:airline": "DAL",
-    "icao:base_airline": "AMX",
-    "lbl:latitude": 37.614944,
-    "lbl:longitude": -122.383123,
-    "sfomuseum:airline_id": 1159284261,
+    "icao:airline": "ELY",
+    "icao:base_airline": "KLM",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284327,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-AMX-7259",
-    "sfomuseum:departure_id": 102555307,
-    "sfomuseum:flight_id": "20250721-A-DAL-7054",
+    "sfomuseum:base_flight_id": "20250723-A-KLM-6788",
+    "sfomuseum:departure_id": 102533795,
+    "sfomuseum:flight_id": "20250723-A-ELY-4513",
     "sfomuseum:flight_number": [
-      "DAL7054",
-      "DL7054"
+      "ELY4513",
+      "LY4513"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304667,
+      1947304669,
       1947304591,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200668,
-    "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
+    "wof:created": 1753373200,
+    "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304667,
+        "venue_id": 1947304669,
         "wing_id": 1947304591
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980917587,
         "flight_id": 1980917587,
         "region_id": 85688637,
-        "venue_id": 1947304667,
+        "venue_id": 1947304669,
         "wing_id": 1947304591
       }
     ],
     "wof:id": 1980917587,
     "wof:involves": [
       102527513,
-      102555307,
-      1159284261,
-      1947304667,
-      1159283539
+      102533795,
+      1159284327,
+      1947304669,
+      1159284613
     ],
-    "wof:lastmodified": 1753200668,
-    "wof:name": "DL7054 (YVR-SFO)",
-    "wof:parent_id": 1947304667,
+    "wof:lastmodified": 1753373200,
+    "wof:name": "LY4513 (LAX-SFO)",
+    "wof:parent_id": 1947304669,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -123.1792,
-    37.61799,
     -122.370943,
-    49.19333
+    33.942593,
+    -118.38951,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-123.1792,49.19333],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

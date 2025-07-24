@@ -2,40 +2,40 @@
   "id": 1980918265,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "JL",
+    "flysfo:airline": "QF",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7402",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753118460,
+    "flysfo:base_flight_number": "9366",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753320780,
     "flysfo:event": "A",
-    "flysfo:flight_number": "JL5891",
-    "flysfo:gate": "B5",
-    "flysfo:journey": "FLL-SFO",
-    "flysfo:scheduled_timestamp": 1753119300,
-    "flysfo:timestamp": 1753119300,
+    "flysfo:flight_number": "QF3792",
+    "flysfo:gate": "B18",
+    "flysfo:journey": "PSP-SFO",
+    "flysfo:scheduled_timestamp": 1753321560,
+    "flysfo:timestamp": 1753321560,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,26.074860,-80.138518,37.617990",
-    "geom:latitude": 31.846425,
-    "geom:longitude": -101.2547305,
-    "iata:airline": "JL",
+    "geom:bbox": "-122.370943,33.824619,-116.506042,37.617990",
+    "geom:latitude": 35.7213045,
+    "geom:longitude": -119.4384925,
+    "iata:airline": "QF",
     "iata:base_airline": "",
-    "icao:airline": "JAL",
-    "icao:base_airline": "AZU",
+    "icao:airline": "QFA",
+    "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159284563,
+    "sfomuseum:airline_id": 1159285043,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-AZU-7402",
-    "sfomuseum:departure_id": 102530841,
-    "sfomuseum:flight_id": "20250721-A-JAL-5891",
+    "sfomuseum:base_flight_id": "20250723-A-AAL-9366",
+    "sfomuseum:departure_id": 102533591,
+    "sfomuseum:flight_id": "20250723-A-QFA-3792",
     "sfomuseum:flight_number": [
-      "JAL5891",
-      "JL5891"
+      "QFA3792",
+      "QF3792"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304299,
+      1947304297,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200832,
-    "wof:geomhash": "d17d7e3187ba5afa3de1a7310fca2526",
+    "wof:created": 1753373277,
+    "wof:geomhash": "a35a6e87f0ae0f1f716f88067ee31aa3",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304299,
+        "venue_id": 1947304297,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980918265,
         "flight_id": 1980918265,
         "region_id": 85688637,
-        "venue_id": 1947304299,
+        "venue_id": 1947304297,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980918265,
     "wof:involves": [
       102527513,
-      102530841,
-      1159284563,
-      1947304299,
-      1779770723
+      102533591,
+      1159285043,
+      1947304297,
+      1159283849
     ],
-    "wof:lastmodified": 1753200832,
-    "wof:name": "JL5891 (FLL-SFO)",
-    "wof:parent_id": 1947304299,
+    "wof:lastmodified": 1753373277,
+    "wof:name": "QF3792 (PSP-SFO)",
+    "wof:parent_id": 1947304297,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    26.07486,
-    -80.138518,
+    33.824619,
+    -116.506042,
     37.61799
   ],
-  "geometry": {"coordinates":[[-80.138518,26.07486],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-116.506042,33.824619],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

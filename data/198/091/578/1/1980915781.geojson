@@ -2,40 +2,40 @@
   "id": 1980915781,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "3340",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753124820,
+    "flysfo:base_flight_number": "4371",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753281300,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AC3340",
-    "flysfo:gate": "D5",
-    "flysfo:journey": "PDX-SFO",
-    "flysfo:scheduled_timestamp": 1753123200,
-    "flysfo:timestamp": 1753124820,
+    "flysfo:flight_number": "AC4371",
+    "flysfo:gate": "D10",
+    "flysfo:journey": "RNO-SFO",
+    "flysfo:scheduled_timestamp": 1753280940,
+    "flysfo:timestamp": 1753281300,
     "geom:area": 0,
-    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
-    "geom:latitude": 41.602067,
-    "geom:longitude": -122.484166,
+    "geom:bbox": "-122.370943,37.617990,-119.772167,39.505219",
+    "geom:latitude": 38.5616045,
+    "geom:longitude": -121.07155499999999,
     "iata:airline": "AC",
     "iata:base_airline": "",
     "icao:airline": "ACA",
     "icao:base_airline": "ACA",
-    "lbl:latitude": 37.616825,
-    "lbl:longitude": -122.381021,
+    "lbl:latitude": 37.617908,
+    "lbl:longitude": -122.381084,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-ACA-3340",
-    "sfomuseum:departure_id": 102532251,
-    "sfomuseum:flight_id": "20250721-A-ACA-3340",
+    "sfomuseum:base_flight_id": "20250723-A-ACA-4371",
+    "sfomuseum:departure_id": 102525535,
+    "sfomuseum:flight_id": "20250723-A-ACA-4371",
     "sfomuseum:flight_number": [
-      "ACA3340",
-      "AC3340"
+      "ACA4371",
+      "AC4371"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304607,
+      1947304603,
       1947304591,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200210,
-    "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
+    "wof:created": 1753372991,
+    "wof:geomhash": "a4d4dc469296ca0f5ad383dc766835b1",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304607,
+        "venue_id": 1947304603,
         "wing_id": 1947304591
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980915781,
         "flight_id": 1980915781,
         "region_id": 85688637,
-        "venue_id": 1947304607,
+        "venue_id": 1947304603,
         "wing_id": 1947304591
       }
     ],
     "wof:id": 1980915781,
     "wof:involves": [
       102527513,
-      102532251,
+      102525535,
       1159283597,
-      1947304607,
+      1947304603,
       1159283597
     ],
-    "wof:lastmodified": 1753200210,
-    "wof:name": "AC3340 (PDX-SFO)",
-    "wof:parent_id": 1947304607,
+    "wof:lastmodified": 1753372991,
+    "wof:name": "AC4371 (RNO-SFO)",
+    "wof:parent_id": 1947304603,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389,
-    37.61799,
     -122.370943,
-    45.586144
+    37.61799,
+    -119.772167,
+    39.505219
   ],
-  "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-119.772167,39.505219],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

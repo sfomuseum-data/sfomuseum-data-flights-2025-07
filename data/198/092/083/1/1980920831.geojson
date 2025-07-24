@@ -2,40 +2,40 @@
   "id": 1980920831,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "AC",
+    "flysfo:airline": "NZ",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9052",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753104480,
+    "flysfo:base_flight_number": "5156",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753296120,
     "flysfo:event": "D",
-    "flysfo:flight_number": "AC5438",
-    "flysfo:gate": "D9",
-    "flysfo:journey": "SFO-DEN",
-    "flysfo:scheduled_timestamp": 1753104600,
-    "flysfo:timestamp": 1753104600,
+    "flysfo:flight_number": "NZ9080",
+    "flysfo:gate": "D15",
+    "flysfo:journey": "SFO-DFW",
+    "flysfo:scheduled_timestamp": 1753292520,
+    "flysfo:timestamp": 1753296120,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-104.672219,39.864939",
-    "geom:latitude": 38.7414645,
-    "geom:longitude": -113.521581,
-    "iata:airline": "AC",
+    "geom:bbox": "-122.370943,32.903660,-97.050966,37.617990",
+    "geom:latitude": 35.260825,
+    "geom:longitude": -109.7109545,
+    "iata:airline": "NZ",
     "iata:base_airline": "",
-    "icao:airline": "ACA",
-    "icao:base_airline": "ANZ",
-    "lbl:latitude": 37.61756,
-    "lbl:longitude": -122.381052,
-    "sfomuseum:airline_id": 1159283597,
-    "sfomuseum:arrival_id": 102531189,
-    "sfomuseum:base_flight_id": "20250721-D-ANZ-9052",
+    "icao:airline": "ANZ",
+    "icao:base_airline": "ACA",
+    "lbl:latitude": 37.617921,
+    "lbl:longitude": -122.38181,
+    "sfomuseum:airline_id": 1159283697,
+    "sfomuseum:arrival_id": 102528541,
+    "sfomuseum:base_flight_id": "20250723-D-ACA-5156",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-ACA-5438",
+    "sfomuseum:flight_id": "20250723-D-ANZ-9080",
     "sfomuseum:flight_number": [
-      "ACA5438",
-      "AC5438"
+      "ANZ9080",
+      "NZ9080"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304609,
+      1947304623,
       1947304591,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753201455,
-    "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
+    "wof:created": 1753373565,
+    "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304609,
+        "venue_id": 1947304623,
         "wing_id": 1947304591
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980920831,
         "flight_id": 1980920831,
         "region_id": 85688637,
-        "venue_id": 1947304609,
+        "venue_id": 1947304623,
         "wing_id": 1947304591
       }
     ],
     "wof:id": 1980920831,
     "wof:involves": [
-      102531189,
+      102528541,
       102527513,
-      1159283597,
-      1947304609,
-      1159283697
+      1159283697,
+      1947304623,
+      1159283597
     ],
-    "wof:lastmodified": 1753201455,
-    "wof:name": "AC5438 (SFO-DEN)",
-    "wof:parent_id": 1947304609,
+    "wof:lastmodified": 1753373565,
+    "wof:name": "NZ9080 (SFO-DFW)",
+    "wof:parent_id": 1947304623,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -104.672219,
-    39.864939
+    32.90366,
+    -97.050966,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]],"type":"MultiPoint"}
 }

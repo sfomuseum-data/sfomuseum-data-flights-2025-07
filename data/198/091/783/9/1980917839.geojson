@@ -2,40 +2,40 @@
   "id": 1980917839,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "EY",
+    "flysfo:airline": "HA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "8325",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753161900,
+    "flysfo:base_flight_number": "9366",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753320780,
     "flysfo:event": "A",
-    "flysfo:flight_number": "EY8325",
-    "flysfo:gate": "B3",
-    "flysfo:journey": "BOS-SFO",
-    "flysfo:scheduled_timestamp": 1753161300,
-    "flysfo:timestamp": 1753161900,
+    "flysfo:flight_number": "HA6459",
+    "flysfo:gate": "B18",
+    "flysfo:journey": "PSP-SFO",
+    "flysfo:scheduled_timestamp": 1753321560,
+    "flysfo:timestamp": 1753321560,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-71.014750,42.362322",
-    "geom:latitude": 39.990156,
-    "geom:longitude": -96.6928465,
-    "iata:airline": "EY",
+    "geom:bbox": "-122.370943,33.824619,-116.506042,37.617990",
+    "geom:latitude": 35.7213045,
+    "geom:longitude": -119.4384925,
+    "iata:airline": "HA",
     "iata:base_airline": "",
-    "icao:airline": "ETD",
-    "icao:base_airline": "ETD",
+    "icao:airline": "HAL",
+    "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159285587,
+    "sfomuseum:airline_id": 1159284489,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-ETD-8325",
-    "sfomuseum:departure_id": 102530741,
-    "sfomuseum:flight_id": "20250721-A-ETD-8325",
+    "sfomuseum:base_flight_id": "20250723-A-AAL-9366",
+    "sfomuseum:departure_id": 102533591,
+    "sfomuseum:flight_id": "20250723-A-HAL-6459",
     "sfomuseum:flight_number": [
-      "ETD8325",
-      "EY8325"
+      "HAL6459",
+      "HA6459"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304289,
+      1947304297,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200730,
-    "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
+    "wof:created": 1753373228,
+    "wof:geomhash": "a35a6e87f0ae0f1f716f88067ee31aa3",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304289,
+        "venue_id": 1947304297,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980917839,
         "flight_id": 1980917839,
         "region_id": 85688637,
-        "venue_id": 1947304289,
+        "venue_id": 1947304297,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980917839,
     "wof:involves": [
       102527513,
-      102530741,
-      1159285587,
-      1947304289,
-      1159285587
+      102533591,
+      1159284489,
+      1947304297,
+      1159283849
     ],
-    "wof:lastmodified": 1753200730,
-    "wof:name": "EY8325 (BOS-SFO)",
-    "wof:parent_id": 1947304289,
+    "wof:lastmodified": 1753373228,
+    "wof:name": "HA6459 (PSP-SFO)",
+    "wof:parent_id": 1947304297,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -71.01475,
-    42.362322
+    33.824619,
+    -116.506042,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-116.506042,33.824619],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

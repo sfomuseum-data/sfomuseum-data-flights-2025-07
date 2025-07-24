@@ -2,40 +2,40 @@
   "id": 1980916075,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "AC",
+    "flysfo:airline": "NH",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "5585",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753125120,
+    "flysfo:base_flight_number": "3341",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753289580,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AC5585",
-    "flysfo:gate": "E10",
-    "flysfo:journey": "SAN-SFO",
-    "flysfo:scheduled_timestamp": 1753122180,
-    "flysfo:timestamp": 1753125120,
+    "flysfo:flight_number": "NH7325",
+    "flysfo:gate": "E8",
+    "flysfo:journey": "PDX-SFO",
+    "flysfo:scheduled_timestamp": 1753288080,
+    "flysfo:timestamp": 1753289580,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,32.733534,-117.185927,37.617990",
-    "geom:latitude": 35.175762,
-    "geom:longitude": -119.778435,
-    "iata:airline": "AC",
+    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
+    "geom:latitude": 41.602067,
+    "geom:longitude": -122.484166,
+    "iata:airline": "NH",
     "iata:base_airline": "",
-    "icao:airline": "ACA",
+    "icao:airline": "ANA",
     "icao:base_airline": "ACA",
-    "lbl:latitude": 37.619451,
-    "lbl:longitude": -122.384404,
-    "sfomuseum:airline_id": 1159283597,
+    "lbl:latitude": 37.619197,
+    "lbl:longitude": -122.384496,
+    "sfomuseum:airline_id": 1159283875,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-ACA-5585",
-    "sfomuseum:departure_id": 102528997,
-    "sfomuseum:flight_id": "20250721-A-ACA-5585",
+    "sfomuseum:base_flight_id": "20250723-A-ACA-3341",
+    "sfomuseum:departure_id": 102532251,
+    "sfomuseum:flight_id": "20250723-A-ANA-7325",
     "sfomuseum:flight_number": [
-      "ACA5585",
-      "AC5585"
+      "ANA7325",
+      "NH7325"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304519,
+      1947304515,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200287,
-    "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
+    "wof:created": 1753373026,
+    "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304519,
+        "venue_id": 1947304515,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980916075,
         "flight_id": 1980916075,
         "region_id": 85688637,
-        "venue_id": 1947304519,
+        "venue_id": 1947304515,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980916075,
     "wof:involves": [
       102527513,
-      102528997,
-      1159283597,
-      1947304519,
+      102532251,
+      1159283875,
+      1947304515,
       1159283597
     ],
-    "wof:lastmodified": 1753200287,
-    "wof:name": "AC5585 (SAN-SFO)",
-    "wof:parent_id": 1947304519,
+    "wof:lastmodified": 1753373026,
+    "wof:name": "NH7325 (PDX-SFO)",
+    "wof:parent_id": 1947304515,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
+    -122.597389,
+    37.61799,
     -122.370943,
-    32.733534,
-    -117.185927,
-    37.61799
+    45.586144
   ],
-  "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

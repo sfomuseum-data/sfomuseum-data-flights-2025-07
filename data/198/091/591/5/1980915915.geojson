@@ -2,40 +2,40 @@
   "id": 1980915915,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4195",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753111140,
+    "flysfo:base_flight_number": "4703",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753293900,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AC4195",
+    "flysfo:flight_number": "AC761",
     "flysfo:gate": "D1",
-    "flysfo:journey": "BUR-SFO",
-    "flysfo:scheduled_timestamp": 1753111200,
-    "flysfo:timestamp": 1753111200,
+    "flysfo:journey": "YUL-SFO",
+    "flysfo:scheduled_timestamp": 1753294500,
+    "flysfo:timestamp": 1753294500,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,34.196704,-118.353322,37.617990",
-    "geom:latitude": 35.907347,
-    "geom:longitude": -120.3621325,
+    "geom:bbox": "-122.370943,37.617990,-73.744749,45.462004",
+    "geom:latitude": 41.539997,
+    "geom:longitude": -98.057846,
     "iata:airline": "AC",
     "iata:base_airline": "",
     "icao:airline": "ACA",
-    "icao:base_airline": "ACA",
+    "icao:base_airline": "ANZ",
     "lbl:latitude": 37.616987,
     "lbl:longitude": -122.382479,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-ACA-4195",
-    "sfomuseum:departure_id": 1746879083,
-    "sfomuseum:flight_id": "20250721-A-ACA-4195",
+    "sfomuseum:base_flight_id": "20250723-A-ANZ-4703",
+    "sfomuseum:departure_id": 102554351,
+    "sfomuseum:flight_id": "20250723-A-ACA-761",
     "sfomuseum:flight_number": [
-      "ACA4195",
-      "AC4195"
+      "ACA761",
+      "AC761"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200248,
-    "wof:geomhash": "579cc6c0d5668ba584a946b357aa3191",
+    "wof:created": 1753373006,
+    "wof:geomhash": "d6fced31e2f30d79d54c9b38b6916cc7",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -89,13 +89,13 @@
     "wof:id": 1980915915,
     "wof:involves": [
       102527513,
-      1746879083,
+      102554351,
       1159283597,
       1947304625,
-      1159283597
+      1159283697
     ],
-    "wof:lastmodified": 1753200248,
-    "wof:name": "AC4195 (BUR-SFO)",
+    "wof:lastmodified": 1753373006,
+    "wof:name": "AC761 (YUL-SFO)",
     "wof:parent_id": 1947304625,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    34.196704,
-    -118.353322,
-    37.61799
+    37.61799,
+    -73.744749,
+    45.462004
   ],
-  "geometry": {"coordinates":[[-118.353322,34.196704],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-73.744749,45.462004],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

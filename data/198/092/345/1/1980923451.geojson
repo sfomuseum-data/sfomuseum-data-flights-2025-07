@@ -2,40 +2,40 @@
   "id": 1980923451,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "SQ",
+    "flysfo:airline": "UA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4724",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753128240,
+    "flysfo:base_flight_number": "5156",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753296120,
     "flysfo:event": "D",
-    "flysfo:flight_number": "SQ1018",
-    "flysfo:gate": "D1",
-    "flysfo:journey": "SFO-YYZ",
-    "flysfo:scheduled_timestamp": 1753125300,
-    "flysfo:timestamp": 1753128240,
+    "flysfo:flight_number": "UA1517",
+    "flysfo:gate": "D15",
+    "flysfo:journey": "SFO-DFW",
+    "flysfo:scheduled_timestamp": 1753292520,
+    "flysfo:timestamp": 1753296120,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-79.628342,43.676352",
-    "geom:latitude": 40.647171,
-    "geom:longitude": -100.9996425,
-    "iata:airline": "SQ",
+    "geom:bbox": "-122.370943,32.903660,-97.050966,37.617990",
+    "geom:latitude": 35.260825,
+    "geom:longitude": -109.7109545,
+    "iata:airline": "UA",
     "iata:base_airline": "",
-    "icao:airline": "SIA",
-    "icao:base_airline": "ANZ",
-    "lbl:latitude": 37.616987,
-    "lbl:longitude": -122.382479,
-    "sfomuseum:airline_id": 1159286259,
-    "sfomuseum:arrival_id": 102555091,
-    "sfomuseum:base_flight_id": "20250721-D-ANZ-4724",
+    "icao:airline": "UAL",
+    "icao:base_airline": "ACA",
+    "lbl:latitude": 37.617921,
+    "lbl:longitude": -122.38181,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102528541,
+    "sfomuseum:base_flight_id": "20250723-D-ACA-5156",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-SIA-1018",
+    "sfomuseum:flight_id": "20250723-D-UAL-1517",
     "sfomuseum:flight_number": [
-      "SIA1018",
-      "SQ1018"
+      "UAL1517",
+      "UA1517"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304625,
+      1947304623,
       1947304591,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753202093,
-    "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
+    "wof:created": 1753373856,
+    "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304625,
+        "venue_id": 1947304623,
         "wing_id": 1947304591
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980923451,
         "flight_id": 1980923451,
         "region_id": 85688637,
-        "venue_id": 1947304625,
+        "venue_id": 1947304623,
         "wing_id": 1947304591
       }
     ],
     "wof:id": 1980923451,
     "wof:involves": [
-      102555091,
+      102528541,
       102527513,
-      1159286259,
-      1947304625,
-      1159283697
+      1159285413,
+      1947304623,
+      1159283597
     ],
-    "wof:lastmodified": 1753202093,
-    "wof:name": "SQ1018 (SFO-YYZ)",
-    "wof:parent_id": 1947304625,
+    "wof:lastmodified": 1753373856,
+    "wof:name": "UA1517 (SFO-DFW)",
+    "wof:parent_id": 1947304623,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -79.628342,
-    43.676352
+    32.90366,
+    -97.050966,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-79.628342,43.676352]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]],"type":"MultiPoint"}
 }

@@ -2,40 +2,40 @@
   "id": 1980921127,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "NZ",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4724",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753128240,
+    "flysfo:base_flight_number": "4366",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753335780,
     "flysfo:event": "D",
-    "flysfo:flight_number": "NZ4724",
-    "flysfo:gate": "D1",
-    "flysfo:journey": "SFO-YYZ",
-    "flysfo:scheduled_timestamp": 1753125300,
-    "flysfo:timestamp": 1753128240,
+    "flysfo:flight_number": "NZ9619",
+    "flysfo:gate": "D14",
+    "flysfo:journey": "SFO-SBA",
+    "flysfo:scheduled_timestamp": 1753335300,
+    "flysfo:timestamp": 1753335780,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-79.628342,43.676352",
-    "geom:latitude": 40.647171,
-    "geom:longitude": -100.9996425,
+    "geom:bbox": "-122.370943,34.427974,-119.837133,37.617990",
+    "geom:latitude": 36.022982,
+    "geom:longitude": -121.104038,
     "iata:airline": "NZ",
     "iata:base_airline": "",
     "icao:airline": "ANZ",
-    "icao:base_airline": "ANZ",
-    "lbl:latitude": 37.616987,
-    "lbl:longitude": -122.382479,
+    "icao:base_airline": "ACA",
+    "lbl:latitude": 37.618149,
+    "lbl:longitude": -122.381669,
     "sfomuseum:airline_id": 1159283697,
-    "sfomuseum:arrival_id": 102555091,
-    "sfomuseum:base_flight_id": "20250721-D-ANZ-4724",
+    "sfomuseum:arrival_id": 102527337,
+    "sfomuseum:base_flight_id": "20250723-D-ACA-4366",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-ANZ-4724",
+    "sfomuseum:flight_id": "20250723-D-ANZ-9619",
     "sfomuseum:flight_number": [
-      "ANZ4724",
-      "NZ4724"
+      "ANZ9619",
+      "NZ9619"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304625,
+      1947304613,
       1947304591,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753201527,
-    "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
+    "wof:created": 1753373597,
+    "wof:geomhash": "1d9a5fa2c9575ebb155d9645f1016c57",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304625,
+        "venue_id": 1947304613,
         "wing_id": 1947304591
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980921127,
         "flight_id": 1980921127,
         "region_id": 85688637,
-        "venue_id": 1947304625,
+        "venue_id": 1947304613,
         "wing_id": 1947304591
       }
     ],
     "wof:id": 1980921127,
     "wof:involves": [
-      102555091,
+      102527337,
       102527513,
       1159283697,
-      1947304625,
-      1159283697
+      1947304613,
+      1159283597
     ],
-    "wof:lastmodified": 1753201527,
-    "wof:name": "NZ4724 (SFO-YYZ)",
-    "wof:parent_id": 1947304625,
+    "wof:lastmodified": 1753373597,
+    "wof:name": "NZ9619 (SFO-SBA)",
+    "wof:parent_id": 1947304613,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -79.628342,
-    43.676352
+    34.427974,
+    -119.837133,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-79.628342,43.676352]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-119.837133,34.427974]],"type":"MultiPoint"}
 }

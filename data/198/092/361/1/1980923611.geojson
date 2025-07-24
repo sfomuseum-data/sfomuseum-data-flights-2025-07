@@ -2,40 +2,35 @@
   "id": 1980923611,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "LX",
-    "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "8920",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753166520,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753339260,
     "flysfo:event": "D",
-    "flysfo:flight_number": "LX3086",
-    "flysfo:gate": "G1",
-    "flysfo:journey": "SFO-MEL",
-    "flysfo:scheduled_timestamp": 1753165200,
-    "flysfo:timestamp": 1753166520,
+    "flysfo:flight_number": "UA2312",
+    "flysfo:gate": "G14",
+    "flysfo:journey": "SFO-SJO",
+    "flysfo:scheduled_timestamp": 1753338840,
+    "flysfo:timestamp": 1753339260,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,-37.668253,144.843764,37.617990",
-    "geom:latitude": -0.02513150000000053,
-    "geom:longitude": 11.236410499999998,
-    "iata:airline": "LX",
-    "iata:base_airline": "",
-    "icao:airline": "SWR",
-    "icao:base_airline": "DLH",
-    "lbl:latitude": 37.617321,
-    "lbl:longitude": -122.389477,
-    "sfomuseum:airline_id": 1159286475,
-    "sfomuseum:arrival_id": 102557779,
-    "sfomuseum:base_flight_id": "20250721-D-DLH-8920",
+    "geom:bbox": "-122.370943,9.993860,-84.208801,37.617990",
+    "geom:latitude": 23.805925,
+    "geom:longitude": -103.289872,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.618793,
+    "lbl:longitude": -122.393245,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102537555,
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-SWR-3086",
+    "sfomuseum:flight_id": "20250723-D-UAL-2312",
     "sfomuseum:flight_number": [
-      "SWR3086",
-      "LX3086"
+      "UAL2312",
+      "UA2312"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +44,13 @@
       85922583,
       554784711,
       85688637,
-      1947304155,
+      1947304135,
       1947304069,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753202132,
-    "wof:geomhash": "945559894ecf54761855aac48d7d95c2",
+    "wof:created": 1753373873,
+    "wof:geomhash": "05151bbebc72a691ecf3d87519f35adc",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +64,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304155,
+        "venue_id": 1947304135,
         "wing_id": 1947304069
       },
       {
@@ -82,21 +77,20 @@
         "custom_id": 1980923611,
         "flight_id": 1980923611,
         "region_id": 85688637,
-        "venue_id": 1947304155,
+        "venue_id": 1947304135,
         "wing_id": 1947304069
       }
     ],
     "wof:id": 1980923611,
     "wof:involves": [
-      102557779,
+      102537555,
       102527513,
-      1159286475,
-      1947304155,
-      1159286015
+      1159285413,
+      1947304135
     ],
-    "wof:lastmodified": 1753202132,
-    "wof:name": "LX3086 (SFO-MEL)",
-    "wof:parent_id": 1947304155,
+    "wof:lastmodified": 1753373873,
+    "wof:name": "UA2312 (SFO-SJO)",
+    "wof:parent_id": 1947304135,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +101,9 @@
   },
   "bbox": [
     -122.370943,
-    -37.668253,
-    144.843764,
+    9.99386,
+    -84.208801,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[144.843764,-37.668253]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-84.208801,9.99386]],"type":"MultiPoint"}
 }

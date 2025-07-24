@@ -2,53 +2,43 @@
   "id": 1980918301,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-21",
-    "date:cessation_upper": "2025-07-21",
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
-    "edtf:cessation": "2025-07-21T16:17:00Z",
-    "edtf:inception": "2025-07-21T10:20:00Z",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "B6",
+    "flysfo:airline": "QR",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7899",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753115340,
+    "flysfo:base_flight_number": "7459",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753338900,
     "flysfo:event": "A",
-    "flysfo:flight_number": "B61333",
-    "flysfo:gate": "B3",
+    "flysfo:flight_number": "QR2045",
+    "flysfo:gate": "B13",
     "flysfo:journey": "BOS-SFO",
-    "flysfo:scheduled_timestamp": 1753116240,
-    "flysfo:timestamp": 1753116240,
+    "flysfo:scheduled_timestamp": 1753340340,
+    "flysfo:timestamp": 1753340340,
     "geom:area": 0,
     "geom:bbox": "-122.370943,37.617990,-71.014750,42.362322",
     "geom:latitude": 39.990156,
     "geom:longitude": -96.6928465,
-    "iata:airline": "B6",
+    "iata:airline": "QR",
     "iata:base_airline": "",
-    "icao:aircraft": "A21N",
-    "icao:airline": "JBU",
-    "icao:base_airline": "ICE",
+    "icao:airline": "QTR",
+    "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:aircraft_id": 1377564297,
-    "sfomuseum:airline_id": 1159284583,
+    "sfomuseum:airline_id": 1159286153,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-ICE-7899",
+    "sfomuseum:base_flight_id": "20250723-A-AAL-7459",
     "sfomuseum:departure_id": 102530741,
-    "sfomuseum:flight_id": "20250721-A-JBU-1333",
+    "sfomuseum:flight_id": "20250723-A-QTR-2045",
     "sfomuseum:flight_number": [
-      "JBU1333",
-      "B61333"
+      "QTR2045",
+      "QR2045"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-approach"
-    ],
-    "swim:tail_number": "N4077J",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -59,16 +49,12 @@
       85922583,
       554784711,
       85688637,
-      1947304289,
+      1947304267,
       1947304259,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "105982509",
-      "swim:gufi": "KB32107200"
-    },
     "wof:country": "US",
-    "wof:created": 1753200841,
+    "wof:created": 1753373281,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
     "wof:hierarchy": [
       {
@@ -83,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304289,
+        "venue_id": 1947304267,
         "wing_id": 1947304259
       },
       {
@@ -96,7 +82,7 @@
         "custom_id": 1980918301,
         "flight_id": 1980918301,
         "region_id": 85688637,
-        "venue_id": 1947304289,
+        "venue_id": 1947304267,
         "wing_id": 1947304259
       }
     ],
@@ -104,14 +90,13 @@
     "wof:involves": [
       102527513,
       102530741,
-      1159284583,
-      1947304289,
-      1159284513,
-      1377564297
+      1159286153,
+      1947304267,
+      1159283849
     ],
-    "wof:lastmodified": 1753202506,
-    "wof:name": "B61333 (BOS-SFO)",
-    "wof:parent_id": 1947304289,
+    "wof:lastmodified": 1753373281,
+    "wof:name": "QR2045 (BOS-SFO)",
+    "wof:parent_id": 1947304267,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

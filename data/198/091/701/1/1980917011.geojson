@@ -2,40 +2,40 @@
   "id": 1980917011,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "AV",
+    "flysfo:airline": "CA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "2104",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753149840,
+    "flysfo:base_flight_number": "3600",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753289820,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AV2104",
-    "flysfo:gate": "F6",
-    "flysfo:journey": "SBP-SFO",
-    "flysfo:scheduled_timestamp": 1753150080,
-    "flysfo:timestamp": 1753150080,
+    "flysfo:flight_number": "CA7229",
+    "flysfo:gate": "F22",
+    "flysfo:journey": "DEN-SFO",
+    "flysfo:scheduled_timestamp": 1753289100,
+    "flysfo:timestamp": 1753289820,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,35.236920,-120.643230,37.617990",
-    "geom:latitude": 36.427454999999995,
-    "geom:longitude": -121.5070865,
-    "iata:airline": "AV",
+    "geom:bbox": "-122.370943,37.617990,-104.672219,39.864939",
+    "geom:latitude": 38.7414645,
+    "geom:longitude": -113.521581,
+    "iata:airline": "CA",
     "iata:base_airline": "",
-    "icao:airline": "AVA",
-    "icao:base_airline": "AVA",
-    "lbl:latitude": 37.61799,
-    "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159285749,
+    "icao:airline": "CCA",
+    "icao:base_airline": "ACA",
+    "lbl:latitude": 37.621107,
+    "lbl:longitude": -122.389874,
+    "sfomuseum:airline_id": 1159283605,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-AVA-2104",
-    "sfomuseum:departure_id": 102527351,
-    "sfomuseum:flight_id": "20250721-A-AVA-2104",
+    "sfomuseum:base_flight_id": "20250723-A-ACA-3600",
+    "sfomuseum:departure_id": 102531189,
+    "sfomuseum:flight_id": "20250723-A-CCA-7229",
     "sfomuseum:flight_number": [
-      "AVA2104",
-      "AV2104"
+      "CCA7229",
+      "CA7229"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304461,
+      1947304475,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200525,
-    "wof:geomhash": "2af895d7dc7816e28cbc6da81f2a802b",
+    "wof:created": 1753373134,
+    "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304461,
+        "venue_id": 1947304475,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980917011,
         "flight_id": 1980917011,
         "region_id": 85688637,
-        "venue_id": 1947304461,
+        "venue_id": 1947304475,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980917011,
     "wof:involves": [
       102527513,
-      102527351,
-      1159285749,
-      1947304461,
-      1159285749
+      102531189,
+      1159283605,
+      1947304475,
+      1159283597
     ],
-    "wof:lastmodified": 1753200525,
-    "wof:name": "AV2104 (SBP-SFO)",
-    "wof:parent_id": 1947304461,
+    "wof:lastmodified": 1753373134,
+    "wof:name": "CA7229 (DEN-SFO)",
+    "wof:parent_id": 1947304475,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    35.23692,
-    -120.64323,
-    37.61799
+    37.61799,
+    -104.672219,
+    39.864939
   ],
-  "geometry": {"coordinates":[[-120.64323,35.23692],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

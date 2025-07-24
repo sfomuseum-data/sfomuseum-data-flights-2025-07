@@ -2,40 +2,40 @@
   "id": 1980922421,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "EI",
+    "flysfo:airline": "HA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "8324",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753144800,
+    "flysfo:base_flight_number": "9315",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753285200,
     "flysfo:event": "D",
-    "flysfo:flight_number": "EI60",
-    "flysfo:gate": "B5",
-    "flysfo:journey": "SFO-DUB",
-    "flysfo:scheduled_timestamp": 1753144800,
-    "flysfo:timestamp": 1753144800,
+    "flysfo:flight_number": "HA7037",
+    "flysfo:gate": "B21",
+    "flysfo:journey": "SFO-SNA",
+    "flysfo:scheduled_timestamp": 1753285200,
+    "flysfo:timestamp": 1753285200,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-6.246362,53.425842",
-    "geom:latitude": 45.521916000000004,
-    "geom:longitude": -64.3086525,
-    "iata:airline": "EI",
+    "geom:bbox": "-122.370943,33.677724,-117.866280,37.617990",
+    "geom:latitude": 35.647857,
+    "geom:longitude": -120.1186115,
+    "iata:airline": "HA",
     "iata:base_airline": "",
-    "icao:airline": "EIN",
+    "icao:airline": "HAL",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159283495,
-    "sfomuseum:arrival_id": 102547639,
-    "sfomuseum:base_flight_id": "20250721-D-AAL-8324",
+    "sfomuseum:airline_id": 1159284489,
+    "sfomuseum:arrival_id": 102534161,
+    "sfomuseum:base_flight_id": "20250723-D-AAL-9315",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-EIN-60",
+    "sfomuseum:flight_id": "20250723-D-HAL-7037",
     "sfomuseum:flight_number": [
-      "EIN60",
-      "EI60"
+      "HAL7037",
+      "HA7037"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304299,
+      1947304315,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753201843,
-    "wof:geomhash": "3dda75dcf1fae64b97c7a2b018cfa114",
+    "wof:created": 1753373742,
+    "wof:geomhash": "b700d5ae3794da4176af6b85f6cd6669",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304299,
+        "venue_id": 1947304315,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980922421,
         "flight_id": 1980922421,
         "region_id": 85688637,
-        "venue_id": 1947304299,
+        "venue_id": 1947304315,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980922421,
     "wof:involves": [
-      102547639,
+      102534161,
       102527513,
-      1159283495,
-      1947304299,
+      1159284489,
+      1947304315,
       1159283849
     ],
-    "wof:lastmodified": 1753201843,
-    "wof:name": "EI60 (SFO-DUB)",
-    "wof:parent_id": 1947304299,
+    "wof:lastmodified": 1753373742,
+    "wof:name": "HA7037 (SFO-SNA)",
+    "wof:parent_id": 1947304315,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -6.246362,
-    53.425842
+    33.677724,
+    -117.86628,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-6.246362,53.425842]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-117.86628,33.677724]],"type":"MultiPoint"}
 }

@@ -2,40 +2,40 @@
   "id": 1980921677,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "AS",
+    "flysfo:airline": "DE",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "6997",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753152600,
+    "flysfo:base_flight_number": "8833",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753313400,
     "flysfo:event": "D",
-    "flysfo:flight_number": "AS5280",
-    "flysfo:gate": "A9",
-    "flysfo:journey": "SFO-LHR",
-    "flysfo:scheduled_timestamp": 1753150800,
-    "flysfo:timestamp": 1753152600,
+    "flysfo:flight_number": "DE2093",
+    "flysfo:gate": "A5",
+    "flysfo:journey": "SFO-FRA",
+    "flysfo:scheduled_timestamp": 1753313400,
+    "flysfo:timestamp": 1753313400,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-0.450443,51.470087",
-    "geom:latitude": 44.5440385,
-    "geom:longitude": -61.410693,
-    "iata:airline": "AS",
+    "geom:bbox": "-122.370943,37.617990,7.267284,49.945918",
+    "geom:latitude": 43.781954,
+    "geom:longitude": -57.5518295,
+    "iata:airline": "DE",
     "iata:base_airline": "",
-    "icao:airline": "ASA",
-    "icao:base_airline": "AAL",
-    "lbl:latitude": 37.612893,
-    "lbl:longitude": -122.389652,
-    "sfomuseum:airline_id": 1159283813,
-    "sfomuseum:arrival_id": 102556703,
-    "sfomuseum:base_flight_id": "20250721-D-AAL-6997",
+    "icao:airline": "CFG",
+    "icao:base_airline": "ASA",
+    "lbl:latitude": 37.613288,
+    "lbl:longitude": -122.389396,
+    "sfomuseum:airline_id": 1159284193,
+    "sfomuseum:arrival_id": 102549057,
+    "sfomuseum:base_flight_id": "20250723-D-ASA-8833",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-ASA-5280",
+    "sfomuseum:flight_id": "20250723-D-CFG-2093",
     "sfomuseum:flight_number": [
-      "ASA5280",
-      "AS5280"
+      "CFG2093",
+      "DE2093"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304077,
+      1947304087,
       1947304069,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753201661,
-    "wof:geomhash": "86f41e039827d60bcd1a72801f72cbc2",
+    "wof:created": 1753373657,
+    "wof:geomhash": "a63fc4dac3cd4064d907a0b9ef33a7bc",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304077,
+        "venue_id": 1947304087,
         "wing_id": 1947304069
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980921677,
         "flight_id": 1980921677,
         "region_id": 85688637,
-        "venue_id": 1947304077,
+        "venue_id": 1947304087,
         "wing_id": 1947304069
       }
     ],
     "wof:id": 1980921677,
     "wof:involves": [
-      102556703,
+      102549057,
       102527513,
-      1159283813,
-      1947304077,
-      1159283849
+      1159284193,
+      1947304087,
+      1159283813
     ],
-    "wof:lastmodified": 1753201661,
-    "wof:name": "AS5280 (SFO-LHR)",
-    "wof:parent_id": 1947304077,
+    "wof:lastmodified": 1753373657,
+    "wof:name": "DE2093 (SFO-FRA)",
+    "wof:parent_id": 1947304087,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -0.450443,
-    51.470087
+    7.267284,
+    49.945918
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-0.450443,51.470087]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[7.267284,49.945918]],"type":"MultiPoint"}
 }

@@ -2,40 +2,40 @@
   "id": 1980922087,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "CM",
+    "flysfo:airline": "EI",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4510",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753087140,
+    "flysfo:base_flight_number": "6997",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753323600,
     "flysfo:event": "D",
-    "flysfo:flight_number": "CM8014",
+    "flysfo:flight_number": "EI8986",
     "flysfo:gate": "A9",
-    "flysfo:journey": "SFO-TPE",
-    "flysfo:scheduled_timestamp": 1753084800,
-    "flysfo:timestamp": 1753087140,
+    "flysfo:journey": "SFO-LHR",
+    "flysfo:scheduled_timestamp": 1753323600,
+    "flysfo:timestamp": 1753323600,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,25.078566,121.233152,37.617990",
-    "geom:latitude": 31.348278,
-    "geom:longitude": -0.5688954999999964,
-    "iata:airline": "CM",
+    "geom:bbox": "-122.370943,37.617990,-0.450443,51.470087",
+    "geom:latitude": 44.5440385,
+    "geom:longitude": -61.410693,
+    "iata:airline": "EI",
     "iata:base_airline": "",
-    "icao:airline": "CMP",
-    "icao:base_airline": "AVA",
+    "icao:airline": "EIN",
+    "icao:base_airline": "AAL",
     "lbl:latitude": 37.612893,
     "lbl:longitude": -122.389652,
-    "sfomuseum:airline_id": 1159284211,
-    "sfomuseum:arrival_id": 102551487,
-    "sfomuseum:base_flight_id": "20250721-D-AVA-4510",
+    "sfomuseum:airline_id": 1159283495,
+    "sfomuseum:arrival_id": 102556703,
+    "sfomuseum:base_flight_id": "20250723-D-AAL-6997",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-CMP-8014",
+    "sfomuseum:flight_id": "20250723-D-EIN-8986",
     "sfomuseum:flight_number": [
-      "CMP8014",
-      "CM8014"
+      "EIN8986",
+      "EI8986"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753201762,
-    "wof:geomhash": "ec4a8fe4d0e09d37ae50bf109072b003",
+    "wof:created": 1753373704,
+    "wof:geomhash": "86f41e039827d60bcd1a72801f72cbc2",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -88,14 +88,14 @@
     ],
     "wof:id": 1980922087,
     "wof:involves": [
-      102551487,
+      102556703,
       102527513,
-      1159284211,
+      1159283495,
       1947304077,
-      1159285749
+      1159283849
     ],
-    "wof:lastmodified": 1753201762,
-    "wof:name": "CM8014 (SFO-TPE)",
+    "wof:lastmodified": 1753373704,
+    "wof:name": "EI8986 (SFO-LHR)",
     "wof:parent_id": 1947304077,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    25.078566,
-    121.233152,
-    37.61799
+    37.61799,
+    -0.450443,
+    51.470087
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[121.233152,25.078566]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-0.450443,51.470087]],"type":"MultiPoint"}
 }

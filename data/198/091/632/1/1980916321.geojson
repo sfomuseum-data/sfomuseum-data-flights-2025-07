@@ -2,40 +2,40 @@
   "id": 1980916321,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "NZ",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "2728",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753109520,
+    "flysfo:base_flight_number": "9209",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753326960,
     "flysfo:event": "A",
-    "flysfo:flight_number": "NZ2728",
-    "flysfo:gate": "F12",
-    "flysfo:journey": "IND-SFO",
-    "flysfo:scheduled_timestamp": 1753109400,
-    "flysfo:timestamp": 1753109520,
+    "flysfo:flight_number": "NZ9209",
+    "flysfo:gate": "F21",
+    "flysfo:journey": "IAH-SFO",
+    "flysfo:scheduled_timestamp": 1753327380,
+    "flysfo:timestamp": 1753327380,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-86.278675,39.730262",
-    "geom:latitude": 38.674126,
-    "geom:longitude": -104.324809,
+    "geom:bbox": "-122.370943,29.977186,-95.338444,37.617990",
+    "geom:latitude": 33.797588,
+    "geom:longitude": -108.8546935,
     "iata:airline": "NZ",
     "iata:base_airline": "",
     "icao:airline": "ANZ",
     "icao:base_airline": "ANZ",
-    "lbl:latitude": 37.620058,
-    "lbl:longitude": -122.38824,
+    "lbl:latitude": 37.621173,
+    "lbl:longitude": -122.390131,
     "sfomuseum:airline_id": 1159283697,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-ANZ-2728",
-    "sfomuseum:departure_id": 102534155,
-    "sfomuseum:flight_id": "20250721-A-ANZ-2728",
+    "sfomuseum:base_flight_id": "20250723-A-ANZ-9209",
+    "sfomuseum:departure_id": 102534097,
+    "sfomuseum:flight_id": "20250723-A-ANZ-9209",
     "sfomuseum:flight_number": [
-      "ANZ2728",
-      "NZ2728"
+      "ANZ9209",
+      "NZ9209"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304483,
+      1947304491,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200352,
-    "wof:geomhash": "c95405ad82a47404b222d64c163ad7d9",
+    "wof:created": 1753373053,
+    "wof:geomhash": "25dc9d98eae1cd54f40654c6c4fb6929",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304483,
+        "venue_id": 1947304491,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980916321,
         "flight_id": 1980916321,
         "region_id": 85688637,
-        "venue_id": 1947304483,
+        "venue_id": 1947304491,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980916321,
     "wof:involves": [
       102527513,
-      102534155,
+      102534097,
       1159283697,
-      1947304483,
+      1947304491,
       1159283697
     ],
-    "wof:lastmodified": 1753200352,
-    "wof:name": "NZ2728 (IND-SFO)",
-    "wof:parent_id": 1947304483,
+    "wof:lastmodified": 1753373053,
+    "wof:name": "NZ9209 (IAH-SFO)",
+    "wof:parent_id": 1947304491,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -86.278675,
-    39.730262
+    29.977186,
+    -95.338444,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-86.278675,39.730262],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-95.338444,29.977186],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

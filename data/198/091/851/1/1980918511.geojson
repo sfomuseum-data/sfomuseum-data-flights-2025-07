@@ -2,40 +2,40 @@
   "id": 1980918511,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "QF",
+    "flysfo:airline": "SQ",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "3333",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753110840,
+    "flysfo:base_flight_number": "9305",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753304820,
     "flysfo:event": "A",
-    "flysfo:flight_number": "QF3333",
-    "flysfo:gate": "B22",
-    "flysfo:journey": "LAX-SFO",
-    "flysfo:scheduled_timestamp": 1753112220,
-    "flysfo:timestamp": 1753112220,
+    "flysfo:flight_number": "SQ1385",
+    "flysfo:gate": "B21",
+    "flysfo:journey": "SAN-SFO",
+    "flysfo:scheduled_timestamp": 1753304640,
+    "flysfo:timestamp": 1753304820,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
-    "geom:latitude": 35.780291500000004,
-    "geom:longitude": -120.38022649999999,
-    "iata:airline": "QF",
+    "geom:bbox": "-122.370943,32.733534,-117.185927,37.617990",
+    "geom:latitude": 35.175762,
+    "geom:longitude": -119.778435,
+    "iata:airline": "SQ",
     "iata:base_airline": "",
-    "icao:airline": "QFA",
-    "icao:base_airline": "QFA",
+    "icao:airline": "SIA",
+    "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159285043,
+    "sfomuseum:airline_id": 1159286259,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-QFA-3333",
-    "sfomuseum:departure_id": 102533795,
-    "sfomuseum:flight_id": "20250721-A-QFA-3333",
+    "sfomuseum:base_flight_id": "20250723-A-AAL-9305",
+    "sfomuseum:departure_id": 102528997,
+    "sfomuseum:flight_id": "20250723-A-SIA-1385",
     "sfomuseum:flight_number": [
-      "QFA3333",
-      "QF3333"
+      "SIA1385",
+      "SQ1385"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304295,
+      1947304315,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200893,
-    "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
+    "wof:created": 1753373305,
+    "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304295,
+        "venue_id": 1947304315,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980918511,
         "flight_id": 1980918511,
         "region_id": 85688637,
-        "venue_id": 1947304295,
+        "venue_id": 1947304315,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980918511,
     "wof:involves": [
       102527513,
-      102533795,
-      1159285043,
-      1947304295,
-      1159285043
+      102528997,
+      1159286259,
+      1947304315,
+      1159283849
     ],
-    "wof:lastmodified": 1753200893,
-    "wof:name": "QF3333 (LAX-SFO)",
-    "wof:parent_id": 1947304295,
+    "wof:lastmodified": 1753373305,
+    "wof:name": "SQ1385 (SAN-SFO)",
+    "wof:parent_id": 1947304315,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    33.942593,
-    -118.38951,
+    32.733534,
+    -117.185927,
     37.61799
   ],
-  "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

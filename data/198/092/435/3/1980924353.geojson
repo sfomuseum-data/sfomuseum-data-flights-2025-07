@@ -2,40 +2,40 @@
   "id": 1980924353,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "UA",
+    "flysfo:airline": "VA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "2103",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753139520,
+    "flysfo:base_flight_number": "9032",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753330140,
     "flysfo:event": "D",
-    "flysfo:flight_number": "UA5693",
-    "flysfo:gate": "E13",
-    "flysfo:journey": "SFO-SBP",
-    "flysfo:scheduled_timestamp": 1753139400,
-    "flysfo:timestamp": 1753139520,
+    "flysfo:flight_number": "VA8393",
+    "flysfo:gate": "E5",
+    "flysfo:journey": "SFO-BWI",
+    "flysfo:scheduled_timestamp": 1753330200,
+    "flysfo:timestamp": 1753330200,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,35.236920,-120.643230,37.617990",
-    "geom:latitude": 36.427454999999995,
-    "geom:longitude": -121.5070865,
-    "iata:airline": "UA",
+    "geom:bbox": "-122.370943,37.617990,-76.671070,39.181319",
+    "geom:latitude": 38.3996545,
+    "geom:longitude": -99.5210065,
+    "iata:airline": "VA",
     "iata:base_airline": "",
-    "icao:airline": "UAL",
-    "icao:base_airline": "AVA",
-    "lbl:latitude": 37.619425,
-    "lbl:longitude": -122.384028,
-    "sfomuseum:airline_id": 1159285413,
-    "sfomuseum:arrival_id": 102527351,
-    "sfomuseum:base_flight_id": "20250721-D-AVA-2103",
+    "icao:airline": "VOZ",
+    "icao:base_airline": "ANZ",
+    "lbl:latitude": 37.618486,
+    "lbl:longitude": -122.384457,
+    "sfomuseum:airline_id": 1159285485,
+    "sfomuseum:arrival_id": 102532047,
+    "sfomuseum:base_flight_id": "20250723-D-ANZ-9032",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-UAL-5693",
+    "sfomuseum:flight_id": "20250723-D-VOZ-8393",
     "sfomuseum:flight_number": [
-      "UAL5693",
-      "UA5693"
+      "VOZ8393",
+      "VA8393"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304517,
+      1947304525,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753202314,
-    "wof:geomhash": "6ee4dc6f06435306541ac2ffbe1ad823",
+    "wof:created": 1753373956,
+    "wof:geomhash": "ff243e97b2d4ce40e0a4accb79115371",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304517,
+        "venue_id": 1947304525,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980924353,
         "flight_id": 1980924353,
         "region_id": 85688637,
-        "venue_id": 1947304517,
+        "venue_id": 1947304525,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980924353,
     "wof:involves": [
-      102527351,
+      102532047,
       102527513,
-      1159285413,
-      1947304517,
-      1159285749
+      1159285485,
+      1947304525,
+      1159283697
     ],
-    "wof:lastmodified": 1753202314,
-    "wof:name": "UA5693 (SFO-SBP)",
-    "wof:parent_id": 1947304517,
+    "wof:lastmodified": 1753373956,
+    "wof:name": "VA8393 (SFO-BWI)",
+    "wof:parent_id": 1947304525,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    35.23692,
-    -120.64323,
-    37.61799
+    37.61799,
+    -76.67107,
+    39.181319
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-120.64323,35.23692]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-76.67107,39.181319]],"type":"MultiPoint"}
 }

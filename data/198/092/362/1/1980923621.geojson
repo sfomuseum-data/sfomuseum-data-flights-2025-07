@@ -2,40 +2,40 @@
   "id": 1980923621,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "LX",
+    "flysfo:airline": "UA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9327",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753198200,
+    "flysfo:base_flight_number": "3506",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753295100,
     "flysfo:event": "D",
-    "flysfo:flight_number": "LX3158",
+    "flysfo:flight_number": "UA2380",
     "flysfo:gate": "F22",
-    "flysfo:journey": "SFO-SYD",
-    "flysfo:scheduled_timestamp": 1753164000,
-    "flysfo:timestamp": 1753198200,
+    "flysfo:journey": "SFO-HNL",
+    "flysfo:scheduled_timestamp": 1753295700,
+    "flysfo:timestamp": 1753295700,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,-33.934928,151.173388,37.617990",
-    "geom:latitude": 1.8415309999999998,
-    "geom:longitude": 14.401222499999996,
-    "iata:airline": "LX",
+    "geom:bbox": "-157.918416,21.332508,-122.370943,37.617990",
+    "geom:latitude": 29.475248999999998,
+    "geom:longitude": -140.1446795,
+    "iata:airline": "UA",
     "iata:base_airline": "",
-    "icao:airline": "SWR",
-    "icao:base_airline": "DLH",
+    "icao:airline": "UAL",
+    "icao:base_airline": "ACA",
     "lbl:latitude": 37.621107,
     "lbl:longitude": -122.389874,
-    "sfomuseum:airline_id": 1159286475,
-    "sfomuseum:arrival_id": 102557783,
-    "sfomuseum:base_flight_id": "20250721-D-DLH-9327",
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102533997,
+    "sfomuseum:base_flight_id": "20250723-D-ACA-3506",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-SWR-3158",
+    "sfomuseum:flight_id": "20250723-D-UAL-2380",
     "sfomuseum:flight_number": [
-      "SWR3158",
-      "LX3158"
+      "UAL2380",
+      "UA2380"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753202134,
-    "wof:geomhash": "148b50b9c1c42c575a8cdcaf5b598e8f",
+    "wof:created": 1753373875,
+    "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -88,14 +88,14 @@
     ],
     "wof:id": 1980923621,
     "wof:involves": [
-      102557783,
+      102533997,
       102527513,
-      1159286475,
+      1159285413,
       1947304475,
-      1159286015
+      1159283597
     ],
-    "wof:lastmodified": 1753202134,
-    "wof:name": "LX3158 (SFO-SYD)",
+    "wof:lastmodified": 1753373875,
+    "wof:name": "UA2380 (SFO-HNL)",
     "wof:parent_id": 1947304475,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
+    -157.918416,
+    21.332508,
     -122.370943,
-    -33.934928,
-    151.173388,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[151.173388,-33.934928]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-157.918416,21.332508]],"type":"MultiPoint"}
 }

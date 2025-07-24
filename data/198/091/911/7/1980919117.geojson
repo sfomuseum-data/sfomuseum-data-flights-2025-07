@@ -2,53 +2,43 @@
   "id": 1980919117,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-21",
-    "date:cessation_upper": "2025-07-21",
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
-    "edtf:cessation": "2025-07-21T12:46:08-07:00",
-    "edtf:inception": "2025-07-21T22:02:00Z",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9046",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753153200,
+    "flysfo:base_flight_number": "7253",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753293180,
     "flysfo:event": "A",
-    "flysfo:flight_number": "UA1126",
+    "flysfo:flight_number": "UA354",
     "flysfo:gate": "E8",
-    "flysfo:journey": "CLE-SFO",
-    "flysfo:scheduled_timestamp": 1753153440,
-    "flysfo:timestamp": 1753153440,
+    "flysfo:journey": "LAS-SFO",
+    "flysfo:scheduled_timestamp": 1753293180,
+    "flysfo:timestamp": 1753293180,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-81.835629,41.406844",
-    "geom:latitude": 39.512417,
-    "geom:longitude": -102.103286,
+    "geom:bbox": "-122.370943,36.081003,-115.156440,37.617990",
+    "geom:latitude": 36.8494965,
+    "geom:longitude": -118.7636915,
     "iata:airline": "UA",
     "iata:base_airline": "",
-    "icao:aircraft": "B738",
     "icao:airline": "UAL",
-    "icao:base_airline": "ANZ",
+    "icao:base_airline": "CCA",
     "lbl:latitude": 37.619197,
     "lbl:longitude": -122.384496,
-    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-ANZ-9046",
-    "sfomuseum:departure_id": 102534019,
-    "sfomuseum:flight_id": "20250721-A-UAL-1126",
+    "sfomuseum:base_flight_id": "20250723-A-CCA-7253",
+    "sfomuseum:departure_id": 102527209,
+    "sfomuseum:flight_id": "20250723-A-UAL-354",
     "sfomuseum:flight_number": [
-      "UAL1126",
-      "UA1126"
+      "UAL354",
+      "UA354"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-approach"
-    ],
-    "swim:tail_number": "N73299",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -63,13 +53,9 @@
       1947304447,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "106037026",
-      "swim:gufi": "KC71162200"
-    },
     "wof:country": "US",
-    "wof:created": 1753201041,
-    "wof:geomhash": "b9e617aa80dabb56896871b70acf102e",
+    "wof:created": 1753373374,
+    "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -102,15 +88,14 @@
     ],
     "wof:id": 1980919117,
     "wof:involves": [
-      1159289871,
       102527513,
-      102534019,
+      102527209,
       1159285413,
       1947304515,
-      1159283697
+      1159283605
     ],
-    "wof:lastmodified": 1753202511,
-    "wof:name": "UA1126 (CLE-SFO)",
+    "wof:lastmodified": 1753373374,
+    "wof:name": "UA354 (LAS-SFO)",
     "wof:parent_id": 1947304515,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -122,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -81.835629,
-    41.406844
+    36.081003,
+    -115.15644,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-81.835629,41.406844],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

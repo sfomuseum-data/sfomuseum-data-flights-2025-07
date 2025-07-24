@@ -2,40 +2,40 @@
   "id": 1980915721,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "OZ",
+    "flysfo:airline": "AC",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "1131",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753153320,
+    "flysfo:base_flight_number": "4143",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753317900,
     "flysfo:event": "A",
-    "flysfo:flight_number": "OZ6325",
-    "flysfo:gate": "F7",
-    "flysfo:journey": "EUG-SFO",
-    "flysfo:scheduled_timestamp": 1753153800,
-    "flysfo:timestamp": 1753153800,
+    "flysfo:flight_number": "AC4143",
+    "flysfo:gate": "F20",
+    "flysfo:journey": "SLC-SFO",
+    "flysfo:scheduled_timestamp": 1753318200,
+    "flysfo:timestamp": 1753318200,
     "geom:area": 0,
-    "geom:bbox": "-123.213030,37.617990,-122.370943,44.119058",
-    "geom:latitude": 40.868524,
-    "geom:longitude": -122.79198650000001,
-    "iata:airline": "OZ",
+    "geom:bbox": "-122.370943,37.617990,-111.980566,40.782170",
+    "geom:latitude": 39.20008,
+    "geom:longitude": -117.1757545,
+    "iata:airline": "AC",
     "iata:base_airline": "",
-    "icao:airline": "AAR",
-    "icao:base_airline": "CMP",
-    "lbl:latitude": 37.61799,
-    "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159283917,
+    "icao:airline": "ACA",
+    "icao:base_airline": "ACA",
+    "lbl:latitude": 37.621076,
+    "lbl:longitude": -122.390239,
+    "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-CMP-1131",
-    "sfomuseum:departure_id": 102533927,
-    "sfomuseum:flight_id": "20250721-A-AAR-6325",
+    "sfomuseum:base_flight_id": "20250723-A-ACA-4143",
+    "sfomuseum:departure_id": 102527363,
+    "sfomuseum:flight_id": "20250723-A-ACA-4143",
     "sfomuseum:flight_number": [
-      "AAR6325",
-      "OZ6325"
+      "ACA4143",
+      "AC4143"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304465,
+      1947304489,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200192,
-    "wof:geomhash": "68b06bbd791163721a20ab955d143e55",
+    "wof:created": 1753372983,
+    "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304465,
+        "venue_id": 1947304489,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980915721,
         "flight_id": 1980915721,
         "region_id": 85688637,
-        "venue_id": 1947304465,
+        "venue_id": 1947304489,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980915721,
     "wof:involves": [
       102527513,
-      102533927,
-      1159283917,
-      1947304465,
-      1159284211
+      102527363,
+      1159283597,
+      1947304489,
+      1159283597
     ],
-    "wof:lastmodified": 1753200192,
-    "wof:name": "OZ6325 (EUG-SFO)",
-    "wof:parent_id": 1947304465,
+    "wof:lastmodified": 1753372983,
+    "wof:name": "AC4143 (SLC-SFO)",
+    "wof:parent_id": 1947304489,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -123.21303,
-    37.61799,
     -122.370943,
-    44.119058
+    37.61799,
+    -111.980566,
+    40.78217
   ],
-  "geometry": {"coordinates":[[-123.21303,44.119058],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-111.980566,40.78217],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

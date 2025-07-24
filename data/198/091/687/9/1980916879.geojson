@@ -2,40 +2,40 @@
   "id": 1980916879,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "AS",
+    "flysfo:airline": "BA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9305",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753133760,
+    "flysfo:base_flight_number": "5040",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753293720,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AS3352",
-    "flysfo:gate": "B8",
-    "flysfo:journey": "SAN-SFO",
-    "flysfo:scheduled_timestamp": 1753131840,
-    "flysfo:timestamp": 1753133760,
+    "flysfo:flight_number": "BA4714",
+    "flysfo:gate": "B25",
+    "flysfo:journey": "JFK-SFO",
+    "flysfo:scheduled_timestamp": 1753295520,
+    "flysfo:timestamp": 1753295520,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,32.733534,-117.185927,37.617990",
-    "geom:latitude": 35.175762,
-    "geom:longitude": -119.778435,
-    "iata:airline": "AS",
+    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
+    "geom:latitude": 39.130638000000005,
+    "geom:longitude": -98.07939400000001,
+    "iata:airline": "BA",
     "iata:base_airline": "",
-    "icao:airline": "ASA",
-    "icao:base_airline": "AAL",
+    "icao:airline": "BAW",
+    "icao:base_airline": "RAM",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:airline_id": 1159284021,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-AAL-9305",
-    "sfomuseum:departure_id": 102528997,
-    "sfomuseum:flight_id": "20250721-A-ASA-3352",
+    "sfomuseum:base_flight_id": "20250723-A-RAM-5040",
+    "sfomuseum:departure_id": 102534365,
+    "sfomuseum:flight_id": "20250723-A-BAW-4714",
     "sfomuseum:flight_number": [
-      "ASA3352",
-      "AS3352"
+      "BAW4714",
+      "BA4714"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304275,
+      1947304309,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200491,
-    "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
+    "wof:created": 1753373119,
+    "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304275,
+        "venue_id": 1947304309,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980916879,
         "flight_id": 1980916879,
         "region_id": 85688637,
-        "venue_id": 1947304275,
+        "venue_id": 1947304309,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980916879,
     "wof:involves": [
       102527513,
-      102528997,
-      1159283813,
-      1947304275,
-      1159283849
+      102534365,
+      1159284021,
+      1947304309,
+      1159285081
     ],
-    "wof:lastmodified": 1753200491,
-    "wof:name": "AS3352 (SAN-SFO)",
-    "wof:parent_id": 1947304275,
+    "wof:lastmodified": 1753373119,
+    "wof:name": "BA4714 (JFK-SFO)",
+    "wof:parent_id": 1947304309,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    32.733534,
-    -117.185927,
-    37.61799
+    37.61799,
+    -73.787845,
+    40.643286
   ],
-  "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

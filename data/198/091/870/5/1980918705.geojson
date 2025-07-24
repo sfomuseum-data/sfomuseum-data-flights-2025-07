@@ -2,40 +2,40 @@
   "id": 1980918705,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "AT",
+    "flysfo:airline": "TN",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "5024",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753154280,
+    "flysfo:base_flight_number": "7657",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753310220,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AT5024",
-    "flysfo:gate": "B19",
-    "flysfo:journey": "JFK-SFO",
-    "flysfo:scheduled_timestamp": 1753155120,
-    "flysfo:timestamp": 1753155120,
+    "flysfo:flight_number": "TN2663",
+    "flysfo:gate": "B9",
+    "flysfo:journey": "SEA-SFO",
+    "flysfo:scheduled_timestamp": 1753310880,
+    "flysfo:timestamp": 1753310880,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
-    "geom:latitude": 39.130638000000005,
-    "geom:longitude": -98.07939400000001,
-    "iata:airline": "AT",
+    "geom:bbox": "-122.370943,37.617990,-122.304268,47.441823",
+    "geom:latitude": 42.529906499999996,
+    "geom:longitude": -122.3376055,
+    "iata:airline": "TN",
     "iata:base_airline": "",
-    "icao:airline": "RAM",
-    "icao:base_airline": "RAM",
+    "icao:airline": "THT",
+    "icao:base_airline": "ICE",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159285081,
+    "sfomuseum:airline_id": 1159283747,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-RAM-5024",
-    "sfomuseum:departure_id": 102534365,
-    "sfomuseum:flight_id": "20250721-A-RAM-5024",
+    "sfomuseum:base_flight_id": "20250723-A-ICE-7657",
+    "sfomuseum:departure_id": 102533269,
+    "sfomuseum:flight_id": "20250723-A-THT-2663",
     "sfomuseum:flight_number": [
-      "RAM5024",
-      "AT5024"
+      "THT2663",
+      "TN2663"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304301,
+      1947304303,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200941,
-    "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
+    "wof:created": 1753373328,
+    "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304301,
+        "venue_id": 1947304303,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980918705,
         "flight_id": 1980918705,
         "region_id": 85688637,
-        "venue_id": 1947304301,
+        "venue_id": 1947304303,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980918705,
     "wof:involves": [
       102527513,
-      102534365,
-      1159285081,
-      1947304301,
-      1159285081
+      102533269,
+      1159283747,
+      1947304303,
+      1159284513
     ],
-    "wof:lastmodified": 1753200941,
-    "wof:name": "AT5024 (JFK-SFO)",
-    "wof:parent_id": 1947304301,
+    "wof:lastmodified": 1753373328,
+    "wof:name": "TN2663 (SEA-SFO)",
+    "wof:parent_id": 1947304303,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -73.787845,
-    40.643286
+    -122.304268,
+    47.441823
   ],
-  "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

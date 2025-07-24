@@ -2,40 +2,40 @@
   "id": 1980918293,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "JL",
+    "flysfo:airline": "QR",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "6173",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753130940,
+    "flysfo:base_flight_number": "7431",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753333800,
     "flysfo:event": "A",
-    "flysfo:flight_number": "JL7577",
-    "flysfo:gate": "B25",
-    "flysfo:journey": "DFW-SFO",
-    "flysfo:scheduled_timestamp": 1753128180,
-    "flysfo:timestamp": 1753130940,
+    "flysfo:flight_number": "QR2012",
+    "flysfo:gate": "B14",
+    "flysfo:journey": "AUS-SFO",
+    "flysfo:scheduled_timestamp": 1753334940,
+    "flysfo:timestamp": 1753334940,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,32.903660,-97.050966,37.617990",
-    "geom:latitude": 35.260825,
-    "geom:longitude": -109.7109545,
-    "iata:airline": "JL",
+    "geom:bbox": "-122.370943,30.206175,-97.643029,37.617990",
+    "geom:latitude": 33.9120825,
+    "geom:longitude": -110.006986,
+    "iata:airline": "QR",
     "iata:base_airline": "",
-    "icao:airline": "JAL",
-    "icao:base_airline": "GLO",
+    "icao:airline": "QTR",
+    "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159284563,
+    "sfomuseum:airline_id": 1159286153,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-GLO-6173",
-    "sfomuseum:departure_id": 102528541,
-    "sfomuseum:flight_id": "20250721-A-JAL-7577",
+    "sfomuseum:base_flight_id": "20250723-A-AAL-7431",
+    "sfomuseum:departure_id": 102521851,
+    "sfomuseum:flight_id": "20250723-A-QTR-2012",
     "sfomuseum:flight_number": [
-      "JAL7577",
-      "JL7577"
+      "QTR2012",
+      "QR2012"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304309,
+      1947304273,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200839,
-    "wof:geomhash": "865973335526f09b753756c305bf4946",
+    "wof:created": 1753373280,
+    "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304309,
+        "venue_id": 1947304273,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980918293,
         "flight_id": 1980918293,
         "region_id": 85688637,
-        "venue_id": 1947304309,
+        "venue_id": 1947304273,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980918293,
     "wof:involves": [
       102527513,
-      102528541,
-      1159284563,
-      1947304309,
-      1779770725
+      102521851,
+      1159286153,
+      1947304273,
+      1159283849
     ],
-    "wof:lastmodified": 1753200839,
-    "wof:name": "JL7577 (DFW-SFO)",
-    "wof:parent_id": 1947304309,
+    "wof:lastmodified": 1753373280,
+    "wof:name": "QR2012 (AUS-SFO)",
+    "wof:parent_id": 1947304273,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    32.90366,
-    -97.050966,
+    30.206175,
+    -97.643029,
     37.61799
   ],
-  "geometry": {"coordinates":[[-97.050966,32.90366],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-97.643029,30.206175],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

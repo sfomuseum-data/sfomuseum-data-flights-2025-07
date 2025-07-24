@@ -2,40 +2,40 @@
   "id": 1980922949,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "JL",
+    "flysfo:airline": "QR",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9356",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753114500,
+    "flysfo:base_flight_number": "5116",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753335840,
     "flysfo:event": "D",
-    "flysfo:flight_number": "JL6339",
-    "flysfo:gate": "B7",
-    "flysfo:journey": "SFO-SEA",
-    "flysfo:scheduled_timestamp": 1753114500,
-    "flysfo:timestamp": 1753114500,
+    "flysfo:flight_number": "QR9494",
+    "flysfo:gate": "B20",
+    "flysfo:journey": "SFO-JFK",
+    "flysfo:scheduled_timestamp": 1753335840,
+    "flysfo:timestamp": 1753335840,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-122.304268,47.441823",
-    "geom:latitude": 42.529906499999996,
-    "geom:longitude": -122.3376055,
-    "iata:airline": "JL",
+    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
+    "geom:latitude": 39.130638000000005,
+    "geom:longitude": -98.07939400000001,
+    "iata:airline": "QR",
     "iata:base_airline": "",
-    "icao:airline": "JAL",
-    "icao:base_airline": "AAL",
+    "icao:airline": "QTR",
+    "icao:base_airline": "RAM",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159284563,
-    "sfomuseum:arrival_id": 102533269,
-    "sfomuseum:base_flight_id": "20250721-D-AAL-9356",
+    "sfomuseum:airline_id": 1159286153,
+    "sfomuseum:arrival_id": 102534365,
+    "sfomuseum:base_flight_id": "20250723-D-RAM-5116",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-JAL-6339",
+    "sfomuseum:flight_id": "20250723-D-QTR-9494",
     "sfomuseum:flight_number": [
-      "JAL6339",
-      "JL6339"
+      "QTR9494",
+      "QR9494"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304293,
+      1947304281,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753201972,
-    "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
+    "wof:created": 1753373800,
+    "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304293,
+        "venue_id": 1947304281,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980922949,
         "flight_id": 1980922949,
         "region_id": 85688637,
-        "venue_id": 1947304293,
+        "venue_id": 1947304281,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980922949,
     "wof:involves": [
-      102533269,
+      102534365,
       102527513,
-      1159284563,
-      1947304293,
-      1159283849
+      1159286153,
+      1947304281,
+      1159285081
     ],
-    "wof:lastmodified": 1753201972,
-    "wof:name": "JL6339 (SFO-SEA)",
-    "wof:parent_id": 1947304293,
+    "wof:lastmodified": 1753373800,
+    "wof:name": "QR9494 (SFO-JFK)",
+    "wof:parent_id": 1947304281,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -122.304268,
-    47.441823
+    -73.787845,
+    40.643286
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.304268,47.441823]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}
 }

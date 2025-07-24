@@ -2,40 +2,40 @@
   "id": 1980922481,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "LY",
+    "flysfo:airline": "FI",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9563",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753162200,
+    "flysfo:base_flight_number": "7832",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753288980,
     "flysfo:event": "D",
-    "flysfo:flight_number": "LY8732",
+    "flysfo:flight_number": "FI7832",
     "flysfo:gate": "B6",
-    "flysfo:journey": "SFO-JFK",
-    "flysfo:scheduled_timestamp": 1753162200,
-    "flysfo:timestamp": 1753162200,
+    "flysfo:journey": "SFO-BOS",
+    "flysfo:scheduled_timestamp": 1753284300,
+    "flysfo:timestamp": 1753288980,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
-    "geom:latitude": 39.130638000000005,
-    "geom:longitude": -98.07939400000001,
-    "iata:airline": "LY",
+    "geom:bbox": "-122.370943,37.617990,-71.014750,42.362322",
+    "geom:latitude": 39.990156,
+    "geom:longitude": -96.6928465,
+    "iata:airline": "FI",
     "iata:base_airline": "",
-    "icao:airline": "ELY",
-    "icao:base_airline": "RAM",
+    "icao:airline": "ICE",
+    "icao:base_airline": "ICE",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159284327,
-    "sfomuseum:arrival_id": 102534365,
-    "sfomuseum:base_flight_id": "20250721-D-RAM-9563",
+    "sfomuseum:airline_id": 1159284513,
+    "sfomuseum:arrival_id": 102530741,
+    "sfomuseum:base_flight_id": "20250723-D-ICE-7832",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-ELY-8732",
+    "sfomuseum:flight_id": "20250723-D-ICE-7832",
     "sfomuseum:flight_number": [
-      "ELY8732",
-      "LY8732"
+      "ICE7832",
+      "FI7832"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753201858,
-    "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
+    "wof:created": 1753373748,
+    "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -88,14 +88,14 @@
     ],
     "wof:id": 1980922481,
     "wof:involves": [
-      102534365,
+      102530741,
       102527513,
-      1159284327,
+      1159284513,
       1947304313,
-      1159285081
+      1159284513
     ],
-    "wof:lastmodified": 1753201858,
-    "wof:name": "LY8732 (SFO-JFK)",
+    "wof:lastmodified": 1753373748,
+    "wof:name": "FI7832 (SFO-BOS)",
     "wof:parent_id": 1947304313,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -73.787845,
-    40.643286
+    -71.01475,
+    42.362322
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-71.01475,42.362322]],"type":"MultiPoint"}
 }

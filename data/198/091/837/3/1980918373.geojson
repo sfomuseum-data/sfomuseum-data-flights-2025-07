@@ -2,40 +2,40 @@
   "id": 1980918373,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "KL",
+    "flysfo:airline": "QR",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9649",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753130460,
+    "flysfo:base_flight_number": "9733",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753300020,
     "flysfo:event": "A",
-    "flysfo:flight_number": "KL4820",
-    "flysfo:gate": "A12",
-    "flysfo:journey": "LHR-SFO",
-    "flysfo:scheduled_timestamp": 1753132500,
-    "flysfo:timestamp": 1753132500,
+    "flysfo:flight_number": "QR737",
+    "flysfo:gate": "A8",
+    "flysfo:journey": "DOH-SFO",
+    "flysfo:scheduled_timestamp": 1753302900,
+    "flysfo:timestamp": 1753302900,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-0.450443,51.470087",
-    "geom:latitude": 44.5440385,
-    "geom:longitude": -61.410693,
-    "iata:airline": "KL",
+    "geom:bbox": "-122.370943,25.264800,51.604244,37.617990",
+    "geom:latitude": 31.441395,
+    "geom:longitude": -35.383349499999994,
+    "iata:airline": "QR",
     "iata:base_airline": "",
-    "icao:airline": "KLM",
-    "icao:base_airline": "AFR",
-    "lbl:latitude": 37.611747,
-    "lbl:longitude": -122.39043,
-    "sfomuseum:airline_id": 1159284613,
+    "icao:airline": "QTR",
+    "icao:base_airline": "MAS",
+    "lbl:latitude": 37.612048,
+    "lbl:longitude": -122.389573,
+    "sfomuseum:airline_id": 1159286153,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-AFR-9649",
-    "sfomuseum:departure_id": 102556703,
-    "sfomuseum:flight_id": "20250721-A-KLM-4820",
+    "sfomuseum:base_flight_id": "20250723-A-MAS-9733",
+    "sfomuseum:departure_id": 1729749565,
+    "sfomuseum:flight_id": "20250723-A-QTR-737",
     "sfomuseum:flight_number": [
-      "KLM4820",
-      "KL4820"
+      "QTR737",
+      "QR737"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304083,
+      1947304097,
       1947304069,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200859,
-    "wof:geomhash": "c7bf5337358552a3a60caed0c1e9ea63",
+    "wof:created": 1753373289,
+    "wof:geomhash": "27d105ecd0cb5505c65a584eb4bda7e7",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304083,
+        "venue_id": 1947304097,
         "wing_id": 1947304069
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980918373,
         "flight_id": 1980918373,
         "region_id": 85688637,
-        "venue_id": 1947304083,
+        "venue_id": 1947304097,
         "wing_id": 1947304069
       }
     ],
     "wof:id": 1980918373,
     "wof:involves": [
       102527513,
-      102556703,
-      1159284613,
-      1947304083,
-      1159283627
+      1729749565,
+      1159286153,
+      1947304097,
+      1159284731
     ],
-    "wof:lastmodified": 1753200859,
-    "wof:name": "KL4820 (LHR-SFO)",
-    "wof:parent_id": 1947304083,
+    "wof:lastmodified": 1753373289,
+    "wof:name": "QR737 (DOH-SFO)",
+    "wof:parent_id": 1947304097,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -0.450443,
-    51.470087
+    25.2648,
+    51.604244,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-0.450443,51.470087],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[51.604244,25.2648],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

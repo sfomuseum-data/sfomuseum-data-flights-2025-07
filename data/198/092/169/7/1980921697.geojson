@@ -2,53 +2,43 @@
   "id": 1980921697,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-21",
-    "date:cessation_upper": "2025-07-21",
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
-    "edtf:cessation": "2025-07-21T20:13:00Z",
-    "edtf:inception": "2025-07-21T05:04:26-07:00",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "AS",
+    "flysfo:airline": "DE",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9310",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753120800,
+    "flysfo:base_flight_number": "9350",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753327500,
     "flysfo:event": "D",
-    "flysfo:flight_number": "AS739",
+    "flysfo:flight_number": "DE5055",
     "flysfo:gate": "B9",
-    "flysfo:journey": "SFO-SNA",
-    "flysfo:scheduled_timestamp": 1753120800,
-    "flysfo:timestamp": 1753120800,
+    "flysfo:journey": "SFO-SEA",
+    "flysfo:scheduled_timestamp": 1753321980,
+    "flysfo:timestamp": 1753327500,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,33.677724,-117.866280,37.617990",
-    "geom:latitude": 35.647857,
-    "geom:longitude": -120.1186115,
-    "iata:airline": "AS",
+    "geom:bbox": "-122.370943,37.617990,-122.304268,47.441823",
+    "geom:latitude": 42.529906499999996,
+    "geom:longitude": -122.3376055,
+    "iata:airline": "DE",
     "iata:base_airline": "",
-    "icao:aircraft": "B738",
-    "icao:airline": "ASA",
+    "icao:airline": "CFG",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:aircraft_id": 1159289871,
-    "sfomuseum:airline_id": 1159283813,
-    "sfomuseum:arrival_id": 102534161,
-    "sfomuseum:base_flight_id": "20250721-D-AAL-9310",
+    "sfomuseum:airline_id": 1159284193,
+    "sfomuseum:arrival_id": 102533269,
+    "sfomuseum:base_flight_id": "20250723-D-AAL-9350",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-ASA-739",
+    "sfomuseum:flight_id": "20250723-D-CFG-5055",
     "sfomuseum:flight_number": [
-      "ASA739",
-      "AS739"
+      "CFG5055",
+      "DE5055"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-takeoff"
-    ],
-    "swim:tail_number": "N546AS",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -63,13 +53,9 @@
       1947304259,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "106017354",
-      "swim:gufi": "KO61212200"
-    },
     "wof:country": "US",
-    "wof:created": 1753201666,
-    "wof:geomhash": "b700d5ae3794da4176af6b85f6cd6669",
+    "wof:created": 1753373660,
+    "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -102,15 +88,14 @@
     ],
     "wof:id": 1980921697,
     "wof:involves": [
-      1159283849,
-      1159289871,
-      102534161,
+      102533269,
       102527513,
-      1159283813,
-      1947304303
+      1159284193,
+      1947304303,
+      1159283849
     ],
-    "wof:lastmodified": 1753202499,
-    "wof:name": "AS739 (SFO-SNA)",
+    "wof:lastmodified": 1753373660,
+    "wof:name": "DE5055 (SFO-SEA)",
     "wof:parent_id": 1947304303,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -122,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    33.677724,
-    -117.86628,
-    37.61799
+    37.61799,
+    -122.304268,
+    47.441823
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-117.86628,33.677724]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.304268,47.441823]],"type":"MultiPoint"}
 }

@@ -2,52 +2,43 @@
   "id": 1980915367,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-20",
-    "date:cessation_upper": "2025-07-20",
-    "date:inception_lower": "2025-07-20",
-    "date:inception_upper": "2025-07-20",
-    "edtf:cessation": "2025-07-20T22:58:00Z",
-    "edtf:inception": "2025-07-20T20:47:00Z",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "WS",
+    "flysfo:airline": "AA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7273",
-    "flysfo:date": "2025-07-20",
-    "flysfo:estimated_timestamp": 1753042560,
-    "flysfo:event": "D",
-    "flysfo:flight_number": "WS1509",
-    "flysfo:gate": "B5",
-    "flysfo:journey": "SFO-YYC",
-    "flysfo:scheduled_timestamp": 1753041000,
-    "flysfo:timestamp": 1753042560,
+    "flysfo:base_flight_number": "5439",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753287900,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AA3295",
+    "flysfo:gate": "B23",
+    "flysfo:journey": "PHL-SFO",
+    "flysfo:scheduled_timestamp": 1753290060,
+    "flysfo:timestamp": 1753290060,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-114.020920,51.119526",
-    "geom:latitude": 44.368758,
-    "geom:longitude": -118.1959315,
-    "iata:airline": "WS",
+    "geom:bbox": "-122.370943,37.617990,-75.247885,39.880952",
+    "geom:latitude": 38.749471,
+    "geom:longitude": -98.809414,
+    "iata:airline": "AA",
     "iata:base_airline": "",
-    "icao:aircraft": "B737",
-    "icao:airline": "WJA",
-    "icao:base_airline": "AMX",
+    "icao:airline": "AAL",
+    "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:aircraft_id": 1159289869,
-    "sfomuseum:airline_id": 1159285523,
-    "sfomuseum:arrival_id": 102554947,
-    "sfomuseum:base_flight_id": "20250720-D-AMX-7273",
-    "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250720-D-WJA-1509",
+    "sfomuseum:airline_id": 1159283849,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:base_flight_id": "20250723-A-BAW-5439",
+    "sfomuseum:departure_id": 102529403,
+    "sfomuseum:flight_id": "20250723-A-AAL-3295",
     "sfomuseum:flight_number": [
-      "WJA1509",
-      "WS1509"
+      "AAL3295",
+      "AA3295"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path"
-    ],
-    "swim:tail_number": "CGWSO",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -58,17 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304299,
+      1947304317,
       1947304259,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "105945897",
-      "swim:gufi": "KO66168100"
-    },
     "wof:country": "US",
-    "wof:created": 1753116102,
-    "wof:geomhash": "a7dd599440af55c5534b52449c3164ed",
+    "wof:created": 1753372929,
+    "wof:geomhash": "70ecaf1bff2da3af9ba52c9bde5534af",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -82,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304299,
+        "venue_id": 1947304317,
         "wing_id": 1947304259
       },
       {
@@ -95,22 +82,21 @@
         "custom_id": 1980915367,
         "flight_id": 1980915367,
         "region_id": 85688637,
-        "venue_id": 1947304299,
+        "venue_id": 1947304317,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980915367,
     "wof:involves": [
-      1159289869,
-      102554947,
       102527513,
-      1159285523,
-      1947304299,
-      1159283539
+      102529403,
+      1159283849,
+      1947304317,
+      1159284021
     ],
-    "wof:lastmodified": 1753116163,
-    "wof:name": "WS1509 (SFO-YYC)",
-    "wof:parent_id": 1947304299,
+    "wof:lastmodified": 1753372929,
+    "wof:name": "AA3295 (PHL-SFO)",
+    "wof:parent_id": 1947304317,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -122,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -114.02092,
-    51.119526
+    -75.247885,
+    39.880952
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-114.02092,51.119526]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

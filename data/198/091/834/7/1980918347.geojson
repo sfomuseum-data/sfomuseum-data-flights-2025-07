@@ -2,40 +2,40 @@
   "id": 1980918347,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "KE",
+    "flysfo:airline": "QR",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7657",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753143840,
+    "flysfo:base_flight_number": "7419",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753291560,
     "flysfo:event": "A",
-    "flysfo:flight_number": "KE6113",
-    "flysfo:gate": "B9",
-    "flysfo:journey": "SEA-SFO",
-    "flysfo:scheduled_timestamp": 1753138080,
-    "flysfo:timestamp": 1753143840,
+    "flysfo:flight_number": "QR2995",
+    "flysfo:gate": "B17",
+    "flysfo:journey": "LAS-SFO",
+    "flysfo:scheduled_timestamp": 1753290600,
+    "flysfo:timestamp": 1753291560,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-122.304268,47.441823",
-    "geom:latitude": 42.529906499999996,
-    "geom:longitude": -122.3376055,
-    "iata:airline": "KE",
+    "geom:bbox": "-122.370943,36.081003,-115.156440,37.617990",
+    "geom:latitude": 36.8494965,
+    "geom:longitude": -118.7636915,
+    "iata:airline": "QR",
     "iata:base_airline": "",
-    "icao:airline": "KAL",
-    "icao:base_airline": "ICE",
+    "icao:airline": "QTR",
+    "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159284625,
+    "sfomuseum:airline_id": 1159286153,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-ICE-7657",
-    "sfomuseum:departure_id": 102533269,
-    "sfomuseum:flight_id": "20250721-A-KAL-6113",
+    "sfomuseum:base_flight_id": "20250723-A-AAL-7419",
+    "sfomuseum:departure_id": 102527209,
+    "sfomuseum:flight_id": "20250723-A-QTR-2995",
     "sfomuseum:flight_number": [
-      "KAL6113",
-      "KE6113"
+      "QTR2995",
+      "QR2995"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304303,
+      1947304285,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200853,
-    "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
+    "wof:created": 1753373286,
+    "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304303,
+        "venue_id": 1947304285,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980918347,
         "flight_id": 1980918347,
         "region_id": 85688637,
-        "venue_id": 1947304303,
+        "venue_id": 1947304285,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980918347,
     "wof:involves": [
       102527513,
-      102533269,
-      1159284625,
-      1947304303,
-      1159284513
+      102527209,
+      1159286153,
+      1947304285,
+      1159283849
     ],
-    "wof:lastmodified": 1753200853,
-    "wof:name": "KE6113 (SEA-SFO)",
-    "wof:parent_id": 1947304303,
+    "wof:lastmodified": 1753373286,
+    "wof:name": "QR2995 (LAS-SFO)",
+    "wof:parent_id": 1947304285,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -122.304268,
-    47.441823
+    36.081003,
+    -115.15644,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

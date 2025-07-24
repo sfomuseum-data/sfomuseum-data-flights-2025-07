@@ -2,53 +2,43 @@
   "id": 1980918309,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-21",
-    "date:cessation_upper": "2025-07-21",
-    "date:inception_lower": "2025-07-22",
-    "date:inception_upper": "2025-07-22",
-    "edtf:cessation": "2025-07-21T16:41:02-07:00",
-    "edtf:inception": "2025-07-22T01:11:00Z",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "B6",
+    "flysfo:airline": "QR",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7726",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753167840,
+    "flysfo:base_flight_number": "9359",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753301400,
     "flysfo:event": "A",
-    "flysfo:flight_number": "B6277",
-    "flysfo:gate": "B3",
-    "flysfo:journey": "FLL-SFO",
-    "flysfo:scheduled_timestamp": 1753166340,
-    "flysfo:timestamp": 1753167840,
+    "flysfo:flight_number": "QR2106",
+    "flysfo:gate": "B17",
+    "flysfo:journey": "JAC-SFO",
+    "flysfo:scheduled_timestamp": 1753302000,
+    "flysfo:timestamp": 1753302000,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,26.074860,-80.138518,37.617990",
-    "geom:latitude": 31.846425,
-    "geom:longitude": -101.2547305,
-    "iata:airline": "B6",
+    "geom:bbox": "-122.370943,37.617990,-110.738540,43.606600",
+    "geom:latitude": 40.612295,
+    "geom:longitude": -116.5547415,
+    "iata:airline": "QR",
     "iata:base_airline": "",
-    "icao:aircraft": "A321",
-    "icao:airline": "JBU",
-    "icao:base_airline": "AZU",
+    "icao:airline": "QTR",
+    "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:aircraft_id": 1159289411,
-    "sfomuseum:airline_id": 1159284583,
+    "sfomuseum:airline_id": 1159286153,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-AZU-7726",
-    "sfomuseum:departure_id": 102530841,
-    "sfomuseum:flight_id": "20250721-A-JBU-277",
+    "sfomuseum:base_flight_id": "20250723-A-AAL-9359",
+    "sfomuseum:departure_id": 102534217,
+    "sfomuseum:flight_id": "20250723-A-QTR-2106",
     "sfomuseum:flight_number": [
-      "JBU277",
-      "B6277"
+      "QTR2106",
+      "QR2106"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-approach"
-    ],
-    "swim:tail_number": "N945JT",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -59,17 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304289,
+      1947304285,
       1947304259,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "105968276",
-      "swim:gufi": "KR79294200"
-    },
     "wof:country": "US",
-    "wof:created": 1753200843,
-    "wof:geomhash": "d17d7e3187ba5afa3de1a7310fca2526",
+    "wof:created": 1753373282,
+    "wof:geomhash": "8649ee81ac1d01facd07821b56f3d6b7",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -83,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304289,
+        "venue_id": 1947304285,
         "wing_id": 1947304259
       },
       {
@@ -96,22 +82,21 @@
         "custom_id": 1980918309,
         "flight_id": 1980918309,
         "region_id": 85688637,
-        "venue_id": 1947304289,
+        "venue_id": 1947304285,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980918309,
     "wof:involves": [
       102527513,
-      102530841,
-      1159284583,
-      1947304289,
-      1779770723,
-      1159289411
+      102534217,
+      1159286153,
+      1947304285,
+      1159283849
     ],
-    "wof:lastmodified": 1753202506,
-    "wof:name": "B6277 (FLL-SFO)",
-    "wof:parent_id": 1947304289,
+    "wof:lastmodified": 1753373282,
+    "wof:name": "QR2106 (JAC-SFO)",
+    "wof:parent_id": 1947304285,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -122,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    26.07486,
-    -80.138518,
-    37.61799
+    37.61799,
+    -110.73854,
+    43.6066
   ],
-  "geometry": {"coordinates":[[-80.138518,26.07486],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-110.73854,43.6066],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

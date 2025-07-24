@@ -2,40 +2,40 @@
   "id": 1980918015,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "HA",
+    "flysfo:airline": "JL",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7494",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753149840,
+    "flysfo:base_flight_number": "5318",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753327440,
     "flysfo:event": "A",
-    "flysfo:flight_number": "HA4758",
-    "flysfo:gate": "B7",
-    "flysfo:journey": "ANC-SFO",
-    "flysfo:scheduled_timestamp": 1753146300,
-    "flysfo:timestamp": 1753149840,
+    "flysfo:flight_number": "JL7549",
+    "flysfo:gate": "B23",
+    "flysfo:journey": "ORD-SFO",
+    "flysfo:scheduled_timestamp": 1753327380,
+    "flysfo:timestamp": 1753327440,
     "geom:area": 0,
-    "geom:bbox": "-149.968401,37.617990,-122.370943,61.173606",
-    "geom:latitude": 49.395798,
-    "geom:longitude": -136.169672,
-    "iata:airline": "HA",
+    "geom:bbox": "-122.370943,37.617990,-87.894364,41.983038",
+    "geom:latitude": 39.800514,
+    "geom:longitude": -105.1326535,
+    "iata:airline": "JL",
     "iata:base_airline": "",
-    "icao:airline": "HAL",
-    "icao:base_airline": "AAL",
+    "icao:airline": "JAL",
+    "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159284489,
+    "sfomuseum:airline_id": 1159284563,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-AAL-7494",
-    "sfomuseum:departure_id": 102531979,
-    "sfomuseum:flight_id": "20250721-A-HAL-4758",
+    "sfomuseum:base_flight_id": "20250723-A-BAW-5318",
+    "sfomuseum:departure_id": 102533631,
+    "sfomuseum:flight_id": "20250723-A-JAL-7549",
     "sfomuseum:flight_number": [
-      "HAL4758",
-      "HA4758"
+      "JAL7549",
+      "JL7549"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304293,
+      1947304317,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200773,
-    "wof:geomhash": "40576486fbb454d3a66da49d62a0ae33",
+    "wof:created": 1753373248,
+    "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304293,
+        "venue_id": 1947304317,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980918015,
         "flight_id": 1980918015,
         "region_id": 85688637,
-        "venue_id": 1947304293,
+        "venue_id": 1947304317,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980918015,
     "wof:involves": [
       102527513,
-      102531979,
-      1159284489,
-      1947304293,
-      1159283849
+      102533631,
+      1159284563,
+      1947304317,
+      1159284021
     ],
-    "wof:lastmodified": 1753200773,
-    "wof:name": "HA4758 (ANC-SFO)",
-    "wof:parent_id": 1947304293,
+    "wof:lastmodified": 1753373248,
+    "wof:name": "JL7549 (ORD-SFO)",
+    "wof:parent_id": 1947304317,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -149.968401,
-    37.61799,
     -122.370943,
-    61.173606
+    37.61799,
+    -87.894364,
+    41.983038
   ],
-  "geometry": {"coordinates":[[-149.968401,61.173606],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

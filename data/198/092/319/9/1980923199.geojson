@@ -2,40 +2,40 @@
   "id": 1980923199,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "QF",
+    "flysfo:airline": "TP",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "5769",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753103400,
+    "flysfo:base_flight_number": "8437",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753276500,
     "flysfo:event": "D",
-    "flysfo:flight_number": "QF3191",
-    "flysfo:gate": "B26",
-    "flysfo:journey": "SFO-ORD",
-    "flysfo:scheduled_timestamp": 1753103400,
-    "flysfo:timestamp": 1753103400,
+    "flysfo:flight_number": "TP4394",
+    "flysfo:gate": "B19",
+    "flysfo:journey": "SFO-BOS",
+    "flysfo:scheduled_timestamp": 1753275900,
+    "flysfo:timestamp": 1753276500,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-87.894364,41.983038",
-    "geom:latitude": 39.800514,
-    "geom:longitude": -105.1326535,
-    "iata:airline": "QF",
+    "geom:bbox": "-122.370943,37.617990,-71.014750,42.362322",
+    "geom:latitude": 39.990156,
+    "geom:longitude": -96.6928465,
+    "iata:airline": "TP",
     "iata:base_airline": "",
-    "icao:airline": "QFA",
-    "icao:base_airline": "BAW",
+    "icao:airline": "TAP",
+    "icao:base_airline": "ETD",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159285043,
-    "sfomuseum:arrival_id": 102533631,
-    "sfomuseum:base_flight_id": "20250721-D-BAW-5769",
+    "sfomuseum:airline_id": 1159285271,
+    "sfomuseum:arrival_id": 102530741,
+    "sfomuseum:base_flight_id": "20250723-D-ETD-8437",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-QFA-3191",
+    "sfomuseum:flight_id": "20250723-D-TAP-4394",
     "sfomuseum:flight_number": [
-      "QFA3191",
-      "QF3191"
+      "TAP4394",
+      "TP4394"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304283,
+      1947304301,
       1947304259,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753202032,
-    "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
+    "wof:created": 1753373828,
+    "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304283,
+        "venue_id": 1947304301,
         "wing_id": 1947304259
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980923199,
         "flight_id": 1980923199,
         "region_id": 85688637,
-        "venue_id": 1947304283,
+        "venue_id": 1947304301,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980923199,
     "wof:involves": [
-      102533631,
+      102530741,
       102527513,
-      1159285043,
-      1947304283,
-      1159284021
+      1159285271,
+      1947304301,
+      1159285587
     ],
-    "wof:lastmodified": 1753202032,
-    "wof:name": "QF3191 (SFO-ORD)",
-    "wof:parent_id": 1947304283,
+    "wof:lastmodified": 1753373828,
+    "wof:name": "TP4394 (SFO-BOS)",
+    "wof:parent_id": 1947304301,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -87.894364,
-    41.983038
+    -71.01475,
+    42.362322
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-71.01475,42.362322]],"type":"MultiPoint"}
 }

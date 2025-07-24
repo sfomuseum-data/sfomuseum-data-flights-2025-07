@@ -2,40 +2,40 @@
   "id": 1980920807,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "AC",
+    "flysfo:airline": "NZ",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9051",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753121640,
+    "flysfo:base_flight_number": "9041",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753331160,
     "flysfo:event": "D",
-    "flysfo:flight_number": "AC5252",
-    "flysfo:gate": "F22",
-    "flysfo:journey": "SFO-DEN",
-    "flysfo:scheduled_timestamp": 1753121820,
-    "flysfo:timestamp": 1753121820,
+    "flysfo:flight_number": "NZ9041",
+    "flysfo:gate": "F17",
+    "flysfo:journey": "SFO-CLE",
+    "flysfo:scheduled_timestamp": 1753331400,
+    "flysfo:timestamp": 1753331400,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-104.672219,39.864939",
-    "geom:latitude": 38.7414645,
-    "geom:longitude": -113.521581,
-    "iata:airline": "AC",
+    "geom:bbox": "-122.370943,37.617990,-81.835629,41.406844",
+    "geom:latitude": 39.512417,
+    "geom:longitude": -102.103286,
+    "iata:airline": "NZ",
     "iata:base_airline": "",
-    "icao:airline": "ACA",
+    "icao:airline": "ANZ",
     "icao:base_airline": "ANZ",
-    "lbl:latitude": 37.621107,
-    "lbl:longitude": -122.389874,
-    "sfomuseum:airline_id": 1159283597,
-    "sfomuseum:arrival_id": 102531189,
-    "sfomuseum:base_flight_id": "20250721-D-ANZ-9051",
+    "lbl:latitude": 37.620791,
+    "lbl:longitude": -122.390014,
+    "sfomuseum:airline_id": 1159283697,
+    "sfomuseum:arrival_id": 102534019,
+    "sfomuseum:base_flight_id": "20250723-D-ANZ-9041",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-ACA-5252",
+    "sfomuseum:flight_id": "20250723-D-ANZ-9041",
     "sfomuseum:flight_number": [
-      "ACA5252",
-      "AC5252"
+      "ANZ9041",
+      "NZ9041"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304475,
+      1947304473,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753201449,
-    "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
+    "wof:created": 1753373563,
+    "wof:geomhash": "f65caf98d316e6ee4a43fdc3ee688d07",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304475,
+        "venue_id": 1947304473,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980920807,
         "flight_id": 1980920807,
         "region_id": 85688637,
-        "venue_id": 1947304475,
+        "venue_id": 1947304473,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980920807,
     "wof:involves": [
-      102531189,
+      102534019,
       102527513,
-      1159283597,
-      1947304475,
+      1159283697,
+      1947304473,
       1159283697
     ],
-    "wof:lastmodified": 1753201449,
-    "wof:name": "AC5252 (SFO-DEN)",
-    "wof:parent_id": 1947304475,
+    "wof:lastmodified": 1753373563,
+    "wof:name": "NZ9041 (SFO-CLE)",
+    "wof:parent_id": 1947304473,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -104.672219,
-    39.864939
+    -81.835629,
+    41.406844
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-81.835629,41.406844]],"type":"MultiPoint"}
 }

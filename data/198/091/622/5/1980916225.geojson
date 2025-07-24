@@ -2,40 +2,40 @@
   "id": 1980916225,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "NH",
+    "flysfo:airline": "NZ",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "3886",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753151640,
+    "flysfo:base_flight_number": "3970",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753332000,
     "flysfo:event": "A",
-    "flysfo:flight_number": "NH6494",
+    "flysfo:flight_number": "NZ9093",
     "flysfo:gate": "E11",
-    "flysfo:journey": "YVR-SFO",
-    "flysfo:scheduled_timestamp": 1753152000,
-    "flysfo:timestamp": 1753152000,
+    "flysfo:journey": "DFW-SFO",
+    "flysfo:scheduled_timestamp": 1753332600,
+    "flysfo:timestamp": 1753332600,
     "geom:area": 0,
-    "geom:bbox": "-123.179200,37.617990,-122.370943,49.193330",
-    "geom:latitude": 43.40566,
-    "geom:longitude": -122.7750715,
-    "iata:airline": "NH",
+    "geom:bbox": "-122.370943,32.903660,-97.050966,37.617990",
+    "geom:latitude": 35.260825,
+    "geom:longitude": -109.7109545,
+    "iata:airline": "NZ",
     "iata:base_airline": "",
-    "icao:airline": "ANA",
+    "icao:airline": "ANZ",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.619367,
     "lbl:longitude": -122.38387,
-    "sfomuseum:airline_id": 1159283875,
+    "sfomuseum:airline_id": 1159283697,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-ACA-3886",
-    "sfomuseum:departure_id": 102555307,
-    "sfomuseum:flight_id": "20250721-A-ANA-6494",
+    "sfomuseum:base_flight_id": "20250723-A-ACA-3970",
+    "sfomuseum:departure_id": 102528541,
+    "sfomuseum:flight_id": "20250723-A-ANZ-9093",
     "sfomuseum:flight_number": [
-      "ANA6494",
-      "NH6494"
+      "ANZ9093",
+      "NZ9093"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200327,
-    "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
+    "wof:created": 1753373043,
+    "wof:geomhash": "865973335526f09b753756c305bf4946",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -89,13 +89,13 @@
     "wof:id": 1980916225,
     "wof:involves": [
       102527513,
-      102555307,
-      1159283875,
+      102528541,
+      1159283697,
       1947304527,
       1159283597
     ],
-    "wof:lastmodified": 1753200327,
-    "wof:name": "NH6494 (YVR-SFO)",
+    "wof:lastmodified": 1753373043,
+    "wof:name": "NZ9093 (DFW-SFO)",
     "wof:parent_id": 1947304527,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -123.1792,
-    37.61799,
     -122.370943,
-    49.19333
+    32.90366,
+    -97.050966,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-123.1792,49.19333],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-97.050966,32.90366],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

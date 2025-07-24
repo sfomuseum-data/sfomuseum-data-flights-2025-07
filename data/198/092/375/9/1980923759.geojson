@@ -2,40 +2,40 @@
   "id": 1980923759,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "EK",
+    "flysfo:airline": "UA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "5416",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753140120,
+    "flysfo:base_flight_number": "4146",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753320300,
     "flysfo:event": "D",
-    "flysfo:flight_number": "EK6360",
-    "flysfo:gate": "E7",
-    "flysfo:journey": "SFO-DEN",
-    "flysfo:scheduled_timestamp": 1753140120,
-    "flysfo:timestamp": 1753140120,
+    "flysfo:flight_number": "UA4777",
+    "flysfo:gate": "E5",
+    "flysfo:journey": "SFO-RNO",
+    "flysfo:scheduled_timestamp": 1753320600,
+    "flysfo:timestamp": 1753320600,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-104.672219,39.864939",
-    "geom:latitude": 38.7414645,
-    "geom:longitude": -113.521581,
-    "iata:airline": "EK",
+    "geom:bbox": "-122.370943,37.617990,-119.772167,39.505219",
+    "geom:latitude": 38.5616045,
+    "geom:longitude": -121.07155499999999,
+    "iata:airline": "UA",
     "iata:base_airline": "",
-    "icao:airline": "UAE",
+    "icao:airline": "UAL",
     "icao:base_airline": "ACA",
-    "lbl:latitude": 37.618874,
-    "lbl:longitude": -122.38419,
-    "sfomuseum:airline_id": 1159284333,
-    "sfomuseum:arrival_id": 102531189,
-    "sfomuseum:base_flight_id": "20250721-D-ACA-5416",
+    "lbl:latitude": 37.618486,
+    "lbl:longitude": -122.384457,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102525535,
+    "sfomuseum:base_flight_id": "20250723-D-ACA-4146",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-UAE-6360",
+    "sfomuseum:flight_id": "20250723-D-UAL-4777",
     "sfomuseum:flight_number": [
-      "UAE6360",
-      "EK6360"
+      "UAL4777",
+      "UA4777"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304529,
+      1947304525,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753202167,
-    "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
+    "wof:created": 1753373890,
+    "wof:geomhash": "414447526a1ddeb77713c60c4ab5a7e4",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304529,
+        "venue_id": 1947304525,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980923759,
         "flight_id": 1980923759,
         "region_id": 85688637,
-        "venue_id": 1947304529,
+        "venue_id": 1947304525,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980923759,
     "wof:involves": [
-      102531189,
+      102525535,
       102527513,
-      1159284333,
-      1947304529,
+      1159285413,
+      1947304525,
       1159283597
     ],
-    "wof:lastmodified": 1753202167,
-    "wof:name": "EK6360 (SFO-DEN)",
-    "wof:parent_id": 1947304529,
+    "wof:lastmodified": 1753373890,
+    "wof:name": "UA4777 (SFO-RNO)",
+    "wof:parent_id": 1947304525,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -104.672219,
-    39.864939
+    -119.772167,
+    39.505219
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-119.772167,39.505219]],"type":"MultiPoint"}
 }

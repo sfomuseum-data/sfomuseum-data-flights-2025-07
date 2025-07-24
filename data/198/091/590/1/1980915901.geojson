@@ -2,26 +2,26 @@
   "id": 1980915901,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4143",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753144980,
+    "flysfo:base_flight_number": "5695",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753278480,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AC4143",
+    "flysfo:flight_number": "AC5695",
     "flysfo:gate": "E10",
-    "flysfo:journey": "SLC-SFO",
-    "flysfo:scheduled_timestamp": 1753145400,
-    "flysfo:timestamp": 1753145400,
+    "flysfo:journey": "DEN-SFO",
+    "flysfo:scheduled_timestamp": 1753279920,
+    "flysfo:timestamp": 1753279920,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-111.980566,40.782170",
-    "geom:latitude": 39.20008,
-    "geom:longitude": -117.1757545,
+    "geom:bbox": "-122.370943,37.617990,-104.672219,39.864939",
+    "geom:latitude": 38.7414645,
+    "geom:longitude": -113.521581,
     "iata:airline": "AC",
     "iata:base_airline": "",
     "icao:airline": "ACA",
@@ -30,12 +30,12 @@
     "lbl:longitude": -122.384404,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-ACA-4143",
-    "sfomuseum:departure_id": 102527363,
-    "sfomuseum:flight_id": "20250721-A-ACA-4143",
+    "sfomuseum:base_flight_id": "20250723-A-ACA-5695",
+    "sfomuseum:departure_id": 102531189,
+    "sfomuseum:flight_id": "20250723-A-ACA-5695",
     "sfomuseum:flight_number": [
-      "ACA4143",
-      "AC4143"
+      "ACA5695",
+      "AC5695"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -54,8 +54,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200243,
-    "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
+    "wof:created": 1753373005,
+    "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -89,13 +89,13 @@
     "wof:id": 1980915901,
     "wof:involves": [
       102527513,
-      102527363,
+      102531189,
       1159283597,
       1947304519,
       1159283597
     ],
-    "wof:lastmodified": 1753200243,
-    "wof:name": "AC4143 (SLC-SFO)",
+    "wof:lastmodified": 1753373005,
+    "wof:name": "AC5695 (DEN-SFO)",
     "wof:parent_id": 1947304519,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    -111.980566,
-    40.78217
+    -104.672219,
+    39.864939
   ],
-  "geometry": {"coordinates":[[-111.980566,40.78217],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -2,40 +2,40 @@
   "id": 1980918455,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "MH",
+    "flysfo:airline": "SK",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "8930",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753166760,
+    "flysfo:base_flight_number": "7685",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753311240,
     "flysfo:event": "A",
-    "flysfo:flight_number": "MH9198",
-    "flysfo:gate": "A11",
-    "flysfo:journey": "HKG-SFO",
-    "flysfo:scheduled_timestamp": 1753163700,
-    "flysfo:timestamp": 1753166760,
+    "flysfo:flight_number": "SK935",
+    "flysfo:gate": "A1",
+    "flysfo:journey": "CPH-SFO",
+    "flysfo:scheduled_timestamp": 1753313400,
+    "flysfo:timestamp": 1753313400,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,22.307471,113.927436,37.617990",
-    "geom:latitude": 29.9627305,
-    "geom:longitude": -4.221753499999998,
-    "iata:airline": "MH",
+    "geom:bbox": "-122.370943,37.617990,12.649581,55.627628",
+    "geom:latitude": 46.622809000000004,
+    "geom:longitude": -54.860681,
+    "iata:airline": "SK",
     "iata:base_airline": "",
-    "icao:airline": "MAS",
-    "icao:base_airline": "AAL",
-    "lbl:latitude": 37.611565,
-    "lbl:longitude": -122.389912,
-    "sfomuseum:airline_id": 1159284731,
+    "icao:airline": "SAS",
+    "icao:base_airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285129,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-AAL-8930",
-    "sfomuseum:departure_id": 102541737,
-    "sfomuseum:flight_id": "20250721-A-MAS-9198",
+    "sfomuseum:base_flight_id": "20250723-A-DAL-7685",
+    "sfomuseum:departure_id": 102544207,
+    "sfomuseum:flight_id": "20250723-A-SAS-935",
     "sfomuseum:flight_number": [
-      "MAS9198",
-      "MH9198"
+      "SAS935",
+      "SK935"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304099,
+      1947304079,
       1947304069,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200879,
-    "wof:geomhash": "300aa0b6d6fd1fa7d09bf740f0e0c265",
+    "wof:created": 1753373298,
+    "wof:geomhash": "5ce04c0590c166d926aa7a8325b74dd4",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304099,
+        "venue_id": 1947304079,
         "wing_id": 1947304069
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980918455,
         "flight_id": 1980918455,
         "region_id": 85688637,
-        "venue_id": 1947304099,
+        "venue_id": 1947304079,
         "wing_id": 1947304069
       }
     ],
     "wof:id": 1980918455,
     "wof:involves": [
       102527513,
-      102541737,
-      1159284731,
-      1947304099,
-      1159283849
+      102544207,
+      1159285129,
+      1947304079,
+      1159284261
     ],
-    "wof:lastmodified": 1753200879,
-    "wof:name": "MH9198 (HKG-SFO)",
-    "wof:parent_id": 1947304099,
+    "wof:lastmodified": 1753373298,
+    "wof:name": "SK935 (CPH-SFO)",
+    "wof:parent_id": 1947304079,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    22.307471,
-    113.927436,
-    37.61799
+    37.61799,
+    12.649581,
+    55.627628
   ],
-  "geometry": {"coordinates":[[113.927436,22.307471],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[12.649581,55.627628],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

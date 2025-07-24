@@ -2,40 +2,40 @@
   "id": 1980916273,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "NH",
+    "flysfo:airline": "NZ",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "3341",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753114920,
+    "flysfo:base_flight_number": "3526",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753339380,
     "flysfo:event": "A",
-    "flysfo:flight_number": "NH7325",
-    "flysfo:gate": "F21",
-    "flysfo:journey": "PDX-SFO",
-    "flysfo:scheduled_timestamp": 1753115280,
-    "flysfo:timestamp": 1753115280,
+    "flysfo:flight_number": "NZ9152",
+    "flysfo:gate": "F13",
+    "flysfo:journey": "HNL-SFO",
+    "flysfo:scheduled_timestamp": 1753331640,
+    "flysfo:timestamp": 1753339380,
     "geom:area": 0,
-    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
-    "geom:latitude": 41.602067,
-    "geom:longitude": -122.484166,
-    "iata:airline": "NH",
+    "geom:bbox": "-157.918416,21.332508,-122.370943,37.617990",
+    "geom:latitude": 29.475248999999998,
+    "geom:longitude": -140.1446795,
+    "iata:airline": "NZ",
     "iata:base_airline": "",
-    "icao:airline": "ANA",
+    "icao:airline": "ANZ",
     "icao:base_airline": "ACA",
-    "lbl:latitude": 37.621173,
-    "lbl:longitude": -122.390131,
-    "sfomuseum:airline_id": 1159283875,
+    "lbl:latitude": 37.620534,
+    "lbl:longitude": -122.388506,
+    "sfomuseum:airline_id": 1159283697,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-ACA-3341",
-    "sfomuseum:departure_id": 102532251,
-    "sfomuseum:flight_id": "20250721-A-ANA-7325",
+    "sfomuseum:base_flight_id": "20250723-A-ACA-3526",
+    "sfomuseum:departure_id": 102533997,
+    "sfomuseum:flight_id": "20250723-A-ANZ-9152",
     "sfomuseum:flight_number": [
-      "ANA7325",
-      "NH7325"
+      "ANZ9152",
+      "NZ9152"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304491,
+      1947304459,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200340,
-    "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
+    "wof:created": 1753373048,
+    "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304491,
+        "venue_id": 1947304459,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980916273,
         "flight_id": 1980916273,
         "region_id": 85688637,
-        "venue_id": 1947304491,
+        "venue_id": 1947304459,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980916273,
     "wof:involves": [
       102527513,
-      102532251,
-      1159283875,
-      1947304491,
+      102533997,
+      1159283697,
+      1947304459,
       1159283597
     ],
-    "wof:lastmodified": 1753200340,
-    "wof:name": "NH7325 (PDX-SFO)",
-    "wof:parent_id": 1947304491,
+    "wof:lastmodified": 1753373048,
+    "wof:name": "NZ9152 (HNL-SFO)",
+    "wof:parent_id": 1947304459,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389,
-    37.61799,
+    -157.918416,
+    21.332508,
     -122.370943,
-    45.586144
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-157.918416,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

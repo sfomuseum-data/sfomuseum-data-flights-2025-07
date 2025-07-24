@@ -2,53 +2,43 @@
   "id": 1980916935,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-22",
-    "date:cessation_upper": "2025-07-22",
-    "date:inception_lower": "2025-07-22",
-    "date:inception_upper": "2025-07-22",
-    "edtf:cessation": "2025-07-21T17:00:19-07:00",
-    "edtf:inception": "2025-07-22T02:58:00Z",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "AS",
+    "flysfo:airline": "BA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "6302",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753167540,
+    "flysfo:base_flight_number": "7512",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753312140,
     "flysfo:event": "A",
-    "flysfo:flight_number": "AS597",
-    "flysfo:gate": "B18",
-    "flysfo:journey": "ORD-SFO",
-    "flysfo:scheduled_timestamp": 1753160760,
-    "flysfo:timestamp": 1753167540,
+    "flysfo:flight_number": "BA7525",
+    "flysfo:gate": "B8",
+    "flysfo:journey": "PDX-SFO",
+    "flysfo:scheduled_timestamp": 1753312920,
+    "flysfo:timestamp": 1753312920,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-87.894364,41.983038",
-    "geom:latitude": 39.800514,
-    "geom:longitude": -105.1326535,
-    "iata:airline": "AS",
+    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
+    "geom:latitude": 41.602067,
+    "geom:longitude": -122.484166,
+    "iata:airline": "BA",
     "iata:base_airline": "",
-    "icao:aircraft": "B39M",
-    "icao:airline": "ASA",
-    "icao:base_airline": "HAL",
+    "icao:airline": "BAW",
+    "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:aircraft_id": 1528104577,
-    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:airline_id": 1159284021,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-HAL-6302",
-    "sfomuseum:departure_id": 102533631,
-    "sfomuseum:flight_id": "20250721-A-ASA-597",
+    "sfomuseum:base_flight_id": "20250723-A-AAL-7512",
+    "sfomuseum:departure_id": 102532251,
+    "sfomuseum:flight_id": "20250723-A-BAW-7525",
     "sfomuseum:flight_number": [
-      "ASA597",
-      "AS597"
+      "BAW7525",
+      "BA7525"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-approach"
-    ],
-    "swim:tail_number": "N716AL",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -59,17 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304297,
+      1947304275,
       1947304259,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "105966642",
-      "swim:gufi": "KG05476300"
-    },
     "wof:country": "US",
-    "wof:created": 1753200506,
-    "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
+    "wof:created": 1753373125,
+    "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -83,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304297,
+        "venue_id": 1947304275,
         "wing_id": 1947304259
       },
       {
@@ -96,22 +82,21 @@
         "custom_id": 1980916935,
         "flight_id": 1980916935,
         "region_id": 85688637,
-        "venue_id": 1947304297,
+        "venue_id": 1947304275,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980916935,
     "wof:involves": [
-      102533631,
-      1159283813,
-      1947304297,
-      1159284489,
-      1528104577,
-      102527513
+      102527513,
+      102532251,
+      1159284021,
+      1947304275,
+      1159283849
     ],
-    "wof:lastmodified": 1753202498,
-    "wof:name": "AS597 (ORD-SFO)",
-    "wof:parent_id": 1947304297,
+    "wof:lastmodified": 1753373125,
+    "wof:name": "BA7525 (PDX-SFO)",
+    "wof:parent_id": 1947304275,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -121,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943,
+    -122.597389,
     37.61799,
-    -87.894364,
-    41.983038
+    -122.370943,
+    45.586144
   ],
-  "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

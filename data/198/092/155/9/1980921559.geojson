@@ -2,53 +2,43 @@
   "id": 1980921559,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-21",
-    "date:cessation_upper": "2025-07-21",
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
-    "edtf:cessation": "2025-07-21T21:07:45Z",
-    "edtf:inception": "2025-07-21T16:27:00Z",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "AS",
+    "flysfo:airline": "BA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "6987",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753113900,
+    "flysfo:base_flight_number": "7493",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753313100,
     "flysfo:event": "D",
-    "flysfo:flight_number": "AS113",
-    "flysfo:gate": "B18",
-    "flysfo:journey": "SFO-JFK",
-    "flysfo:scheduled_timestamp": 1753113900,
-    "flysfo:timestamp": 1753113900,
+    "flysfo:flight_number": "BA7547",
+    "flysfo:gate": "B14",
+    "flysfo:journey": "SFO-LAS",
+    "flysfo:scheduled_timestamp": 1753310880,
+    "flysfo:timestamp": 1753313100,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
-    "geom:latitude": 39.130638000000005,
-    "geom:longitude": -98.07939400000001,
-    "iata:airline": "AS",
+    "geom:bbox": "-122.370943,36.081003,-115.156440,37.617990",
+    "geom:latitude": 36.8494965,
+    "geom:longitude": -118.7636915,
+    "iata:airline": "BA",
     "iata:base_airline": "",
-    "icao:aircraft": "B739",
-    "icao:airline": "ASA",
-    "icao:base_airline": "HAL",
+    "icao:airline": "BAW",
+    "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:aircraft_id": 1377564285,
-    "sfomuseum:airline_id": 1159283813,
-    "sfomuseum:arrival_id": 102534365,
-    "sfomuseum:base_flight_id": "20250721-D-HAL-6987",
+    "sfomuseum:airline_id": 1159284021,
+    "sfomuseum:arrival_id": 102527209,
+    "sfomuseum:base_flight_id": "20250723-D-AAL-7493",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-ASA-113",
+    "sfomuseum:flight_id": "20250723-D-BAW-7547",
     "sfomuseum:flight_number": [
-      "ASA113",
-      "AS113"
+      "BAW7547",
+      "BA7547"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-takeoff"
-    ],
-    "swim:tail_number": "N268AK",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -59,17 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304297,
+      1947304273,
       1947304259,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "106006918",
-      "swim:gufi": "KO54104200"
-    },
     "wof:country": "US",
-    "wof:created": 1753201632,
-    "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
+    "wof:created": 1753373644,
+    "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -83,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304297,
+        "venue_id": 1947304273,
         "wing_id": 1947304259
       },
       {
@@ -96,22 +82,21 @@
         "custom_id": 1980921559,
         "flight_id": 1980921559,
         "region_id": 85688637,
-        "venue_id": 1947304297,
+        "venue_id": 1947304273,
         "wing_id": 1947304259
       }
     ],
     "wof:id": 1980921559,
     "wof:involves": [
+      102527209,
       102527513,
-      1159283813,
-      1947304297,
-      1159284489,
-      1377564285,
-      102534365
+      1159284021,
+      1947304273,
+      1159283849
     ],
-    "wof:lastmodified": 1753202498,
-    "wof:name": "AS113 (SFO-JFK)",
-    "wof:parent_id": 1947304297,
+    "wof:lastmodified": 1753373644,
+    "wof:name": "BA7547 (SFO-LAS)",
+    "wof:parent_id": 1947304273,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -122,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -73.787845,
-    40.643286
+    36.081003,
+    -115.15644,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-115.15644,36.081003]],"type":"MultiPoint"}
 }

@@ -2,40 +2,40 @@
   "id": 1980915737,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "OZ",
+    "flysfo:airline": "AC",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "2326",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753150020,
+    "flysfo:base_flight_number": "4201",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753280220,
     "flysfo:event": "A",
-    "flysfo:flight_number": "OZ6402",
-    "flysfo:gate": "D9",
-    "flysfo:journey": "SEA-SFO",
-    "flysfo:scheduled_timestamp": 1753151160,
-    "flysfo:timestamp": 1753151160,
+    "flysfo:flight_number": "AC4201",
+    "flysfo:gate": "D5",
+    "flysfo:journey": "SAT-SFO",
+    "flysfo:scheduled_timestamp": 1753281720,
+    "flysfo:timestamp": 1753281720,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-122.304268,47.441823",
-    "geom:latitude": 42.529906499999996,
-    "geom:longitude": -122.3376055,
-    "iata:airline": "OZ",
+    "geom:bbox": "-122.370943,29.534838,-98.472784,37.617990",
+    "geom:latitude": 33.576414,
+    "geom:longitude": -110.4218635,
+    "iata:airline": "AC",
     "iata:base_airline": "",
-    "icao:airline": "AAR",
-    "icao:base_airline": "CMP",
-    "lbl:latitude": 37.61756,
-    "lbl:longitude": -122.381052,
-    "sfomuseum:airline_id": 1159283917,
+    "icao:airline": "ACA",
+    "icao:base_airline": "ACA",
+    "lbl:latitude": 37.616825,
+    "lbl:longitude": -122.381021,
+    "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-CMP-2326",
-    "sfomuseum:departure_id": 102533269,
-    "sfomuseum:flight_id": "20250721-A-AAR-6402",
+    "sfomuseum:base_flight_id": "20250723-A-ACA-4201",
+    "sfomuseum:departure_id": 102527373,
+    "sfomuseum:flight_id": "20250723-A-ACA-4201",
     "sfomuseum:flight_number": [
-      "AAR6402",
-      "OZ6402"
+      "ACA4201",
+      "AC4201"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304609,
+      1947304607,
       1947304591,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200197,
-    "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
+    "wof:created": 1753372985,
+    "wof:geomhash": "d45c6baaf0d56697f52acbb8a9e14867",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304609,
+        "venue_id": 1947304607,
         "wing_id": 1947304591
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980915737,
         "flight_id": 1980915737,
         "region_id": 85688637,
-        "venue_id": 1947304609,
+        "venue_id": 1947304607,
         "wing_id": 1947304591
       }
     ],
     "wof:id": 1980915737,
     "wof:involves": [
       102527513,
-      102533269,
-      1159283917,
-      1947304609,
-      1159284211
+      102527373,
+      1159283597,
+      1947304607,
+      1159283597
     ],
-    "wof:lastmodified": 1753200197,
-    "wof:name": "OZ6402 (SEA-SFO)",
-    "wof:parent_id": 1947304609,
+    "wof:lastmodified": 1753372985,
+    "wof:name": "AC4201 (SAT-SFO)",
+    "wof:parent_id": 1947304607,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -122.304268,
-    47.441823
+    29.534838,
+    -98.472784,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-98.472784,29.534838],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

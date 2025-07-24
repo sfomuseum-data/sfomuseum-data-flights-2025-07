@@ -2,53 +2,43 @@
   "id": 1980920867,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-21",
-    "date:cessation_upper": "2025-07-21",
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
-    "edtf:cessation": "2025-07-21T20:19:00Z",
-    "edtf:inception": "2025-07-21T02:11:56-07:00",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "AC",
+    "flysfo:airline": "NZ",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4720",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753113720,
+    "flysfo:base_flight_number": "5289",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753278900,
     "flysfo:event": "D",
-    "flysfo:flight_number": "AC738",
-    "flysfo:gate": "D11",
-    "flysfo:journey": "SFO-YYZ",
-    "flysfo:scheduled_timestamp": 1753112400,
-    "flysfo:timestamp": 1753113720,
+    "flysfo:flight_number": "NZ9119",
+    "flysfo:gate": "D8",
+    "flysfo:journey": "SFO-AUS",
+    "flysfo:scheduled_timestamp": 1753279200,
+    "flysfo:timestamp": 1753279200,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-79.628342,43.676352",
-    "geom:latitude": 40.647171,
-    "geom:longitude": -100.9996425,
-    "iata:airline": "AC",
+    "geom:bbox": "-122.370943,30.206175,-97.643029,37.617990",
+    "geom:latitude": 33.9120825,
+    "geom:longitude": -110.006986,
+    "iata:airline": "NZ",
     "iata:base_airline": "",
-    "icao:aircraft": "B38M",
-    "icao:airline": "ACA",
-    "icao:base_airline": "ANZ",
-    "lbl:latitude": 37.618139,
-    "lbl:longitude": -122.381258,
-    "sfomuseum:aircraft_id": 1528104575,
-    "sfomuseum:airline_id": 1159283597,
-    "sfomuseum:arrival_id": 102555091,
-    "sfomuseum:base_flight_id": "20250721-D-ANZ-4720",
+    "icao:airline": "ANZ",
+    "icao:base_airline": "ACA",
+    "lbl:latitude": 37.617421,
+    "lbl:longitude": -122.380916,
+    "sfomuseum:airline_id": 1159283697,
+    "sfomuseum:arrival_id": 102521851,
+    "sfomuseum:base_flight_id": "20250723-D-ACA-5289",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-ACA-738",
+    "sfomuseum:flight_id": "20250723-D-ANZ-9119",
     "sfomuseum:flight_number": [
-      "ACA738",
-      "AC738"
+      "ANZ9119",
+      "NZ9119"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-takeoff"
-    ],
-    "swim:tail_number": "CFSIP",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -59,17 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304627,
+      1947304617,
       1947304591,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "106004414",
-      "swim:gufi": "KO43835200"
-    },
     "wof:country": "US",
-    "wof:created": 1753201463,
-    "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
+    "wof:created": 1753373569,
+    "wof:geomhash": "f1e29c4a83094711ef061292cfad3358",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -83,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304627,
+        "venue_id": 1947304617,
         "wing_id": 1947304591
       },
       {
@@ -96,22 +82,21 @@
         "custom_id": 1980920867,
         "flight_id": 1980920867,
         "region_id": 85688637,
-        "venue_id": 1947304627,
+        "venue_id": 1947304617,
         "wing_id": 1947304591
       }
     ],
     "wof:id": 1980920867,
     "wof:involves": [
-      1947304627,
-      1159283697,
-      1528104575,
-      102555091,
+      102521851,
       102527513,
+      1159283697,
+      1947304617,
       1159283597
     ],
-    "wof:lastmodified": 1753202494,
-    "wof:name": "AC738 (SFO-YYZ)",
-    "wof:parent_id": 1947304627,
+    "wof:lastmodified": 1753373569,
+    "wof:name": "NZ9119 (SFO-AUS)",
+    "wof:parent_id": 1947304617,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -122,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -79.628342,
-    43.676352
+    30.206175,
+    -97.643029,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-79.628342,43.676352]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-97.643029,30.206175]],"type":"MultiPoint"}
 }

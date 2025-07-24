@@ -2,40 +2,40 @@
   "id": 1980921979,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "CA",
+    "flysfo:airline": "LH",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "7206",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753119420,
+    "flysfo:base_flight_number": "8857",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753317360,
     "flysfo:event": "D",
-    "flysfo:flight_number": "CA7206",
-    "flysfo:gate": "G10",
-    "flysfo:journey": "SFO-PEK",
-    "flysfo:scheduled_timestamp": 1753119600,
-    "flysfo:timestamp": 1753119600,
+    "flysfo:flight_number": "LH8857",
+    "flysfo:gate": "G6",
+    "flysfo:journey": "SFO-BCN",
+    "flysfo:scheduled_timestamp": 1753317600,
+    "flysfo:timestamp": 1753317600,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,116.586155,40.068469",
-    "geom:latitude": 38.8432295,
-    "geom:longitude": -2.892393999999996,
-    "iata:airline": "CA",
+    "geom:bbox": "-122.370943,37.617990,2.081322,41.296019",
+    "geom:latitude": 39.4570045,
+    "geom:longitude": -60.1448105,
+    "iata:airline": "LH",
     "iata:base_airline": "",
-    "icao:airline": "CCA",
-    "icao:base_airline": "CCA",
-    "lbl:latitude": 37.618742,
-    "lbl:longitude": -122.392935,
-    "sfomuseum:airline_id": 1159283605,
-    "sfomuseum:arrival_id": 102550367,
-    "sfomuseum:base_flight_id": "20250721-D-CCA-7206",
+    "icao:airline": "DLH",
+    "icao:base_airline": "DLH",
+    "lbl:latitude": 37.618209,
+    "lbl:longitude": -122.391665,
+    "sfomuseum:airline_id": 1159286015,
+    "sfomuseum:arrival_id": 102545733,
+    "sfomuseum:base_flight_id": "20250723-D-DLH-8857",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-CCA-7206",
+    "sfomuseum:flight_id": "20250723-D-DLH-8857",
     "sfomuseum:flight_number": [
-      "CCA7206",
-      "CA7206"
+      "DLH8857",
+      "LH8857"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304157,
+      1947304151,
       1947304069,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753201734,
-    "wof:geomhash": "8a4a8d08e2e66037bce440d01d4bc21e",
+    "wof:created": 1753373692,
+    "wof:geomhash": "1b844caa247a357e6d3574dc4c3eb3e8",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304157,
+        "venue_id": 1947304151,
         "wing_id": 1947304069
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980921979,
         "flight_id": 1980921979,
         "region_id": 85688637,
-        "venue_id": 1947304157,
+        "venue_id": 1947304151,
         "wing_id": 1947304069
       }
     ],
     "wof:id": 1980921979,
     "wof:involves": [
-      102550367,
+      102545733,
       102527513,
-      1159283605,
-      1947304157,
-      1159283605
+      1159286015,
+      1947304151,
+      1159286015
     ],
-    "wof:lastmodified": 1753201734,
-    "wof:name": "CA7206 (SFO-PEK)",
-    "wof:parent_id": 1947304157,
+    "wof:lastmodified": 1753373692,
+    "wof:name": "LH8857 (SFO-BCN)",
+    "wof:parent_id": 1947304151,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -108,8 +108,8 @@
   "bbox": [
     -122.370943,
     37.61799,
-    116.586155,
-    40.068469
+    2.081322,
+    41.296019
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[116.586155,40.068469]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[2.081322,41.296019]],"type":"MultiPoint"}
 }

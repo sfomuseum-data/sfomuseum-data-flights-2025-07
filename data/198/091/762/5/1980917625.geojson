@@ -2,53 +2,43 @@
   "id": 1980917625,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-21",
-    "date:cessation_upper": "2025-07-21",
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
-    "edtf:cessation": "2025-07-21T19:55:31Z",
-    "edtf:inception": "2025-07-21T09:28:00Z",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "LH",
+    "flysfo:airline": "BR",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4220",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753127580,
+    "flysfo:base_flight_number": "6256",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753279380,
     "flysfo:event": "A",
-    "flysfo:flight_number": "LH454",
-    "flysfo:gate": "G13",
-    "flysfo:journey": "FRA-SFO",
-    "flysfo:scheduled_timestamp": 1753126800,
-    "flysfo:timestamp": 1753127580,
+    "flysfo:flight_number": "BR8",
+    "flysfo:gate": "G9",
+    "flysfo:journey": "TPE-SFO",
+    "flysfo:scheduled_timestamp": 1753280400,
+    "flysfo:timestamp": 1753280400,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,7.267284,49.945918",
-    "geom:latitude": 43.781954,
-    "geom:longitude": -57.5518295,
-    "iata:airline": "LH",
+    "geom:bbox": "-122.370943,25.078566,121.233152,37.617990",
+    "geom:latitude": 31.348278,
+    "geom:longitude": -0.5688954999999964,
+    "iata:airline": "BR",
     "iata:base_airline": "",
-    "icao:aircraft": "B748",
-    "icao:airline": "DLH",
-    "icao:base_airline": "ANZ",
-    "lbl:latitude": 37.61799,
-    "lbl:longitude": -122.370943,
-    "sfomuseum:aircraft_id": 1159293239,
-    "sfomuseum:airline_id": 1159286015,
+    "icao:airline": "EVA",
+    "icao:base_airline": "THA",
+    "lbl:latitude": 37.61844,
+    "lbl:longitude": -122.392214,
+    "sfomuseum:airline_id": 1159284349,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-ANZ-4220",
-    "sfomuseum:departure_id": 102549057,
-    "sfomuseum:flight_id": "20250721-A-DLH-454",
+    "sfomuseum:base_flight_id": "20250723-A-THA-6256",
+    "sfomuseum:departure_id": 102551487,
+    "sfomuseum:flight_id": "20250723-A-EVA-8",
     "sfomuseum:flight_number": [
-      "DLH454",
-      "LH454"
+      "EVA8",
+      "BR8"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-approach"
-    ],
-    "swim:tail_number": "DABYI",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -59,16 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304159,
+      1947304153,
       1947304069,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "105980368"
-    },
     "wof:country": "US",
-    "wof:created": 1753200677,
-    "wof:geomhash": "ec6660f1f317e7fe021c7c410168f722",
+    "wof:created": 1753373204,
+    "wof:geomhash": "07bfd75b358269393c92373b424876ce",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -82,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304159,
+        "venue_id": 1947304153,
         "wing_id": 1947304069
       },
       {
@@ -95,22 +82,21 @@
         "custom_id": 1980917625,
         "flight_id": 1980917625,
         "region_id": 85688637,
-        "venue_id": 1947304159,
+        "venue_id": 1947304153,
         "wing_id": 1947304069
       }
     ],
     "wof:id": 1980917625,
     "wof:involves": [
-      1159293239,
       102527513,
-      102549057,
-      1159286015,
-      1947304159,
-      1159283697
+      102551487,
+      1159284349,
+      1947304153,
+      1159285639
     ],
-    "wof:lastmodified": 1753202502,
-    "wof:name": "LH454 (FRA-SFO)",
-    "wof:parent_id": 1947304159,
+    "wof:lastmodified": 1753373204,
+    "wof:name": "BR8 (TPE-SFO)",
+    "wof:parent_id": 1947304153,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -121,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    7.267284,
-    49.945918
+    25.078566,
+    121.233152,
+    37.61799
   ],
-  "geometry": {"coordinates":[[7.267284,49.945918],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[121.233152,25.078566],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

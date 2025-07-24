@@ -2,40 +2,40 @@
   "id": 1980915711,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "OZ",
+    "flysfo:airline": "AC",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9438",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753143840,
+    "flysfo:base_flight_number": "4108",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753299720,
     "flysfo:event": "A",
-    "flysfo:flight_number": "OZ6312",
-    "flysfo:gate": "F7",
-    "flysfo:journey": "MSP-SFO",
-    "flysfo:scheduled_timestamp": 1753144740,
-    "flysfo:timestamp": 1753144740,
+    "flysfo:flight_number": "AC4108",
+    "flysfo:gate": "F6",
+    "flysfo:journey": "PSP-SFO",
+    "flysfo:scheduled_timestamp": 1753299300,
+    "flysfo:timestamp": 1753299720,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-93.200317,44.883321",
-    "geom:latitude": 41.2506555,
-    "geom:longitude": -107.78563,
-    "iata:airline": "OZ",
+    "geom:bbox": "-122.370943,33.824619,-116.506042,37.617990",
+    "geom:latitude": 35.7213045,
+    "geom:longitude": -119.4384925,
+    "iata:airline": "AC",
     "iata:base_airline": "",
-    "icao:airline": "AAR",
-    "icao:base_airline": "ANZ",
+    "icao:airline": "ACA",
+    "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159283917,
+    "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-ANZ-9438",
-    "sfomuseum:departure_id": 102531131,
-    "sfomuseum:flight_id": "20250721-A-AAR-6312",
+    "sfomuseum:base_flight_id": "20250723-A-ACA-4108",
+    "sfomuseum:departure_id": 102533591,
+    "sfomuseum:flight_id": "20250723-A-ACA-4108",
     "sfomuseum:flight_number": [
-      "AAR6312",
-      "OZ6312"
+      "ACA4108",
+      "AC4108"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304465,
+      1947304461,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753200188,
-    "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
+    "wof:created": 1753372982,
+    "wof:geomhash": "a35a6e87f0ae0f1f716f88067ee31aa3",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304465,
+        "venue_id": 1947304461,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980915711,
         "flight_id": 1980915711,
         "region_id": 85688637,
-        "venue_id": 1947304465,
+        "venue_id": 1947304461,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980915711,
     "wof:involves": [
       102527513,
-      102531131,
-      1159283917,
-      1947304465,
-      1159283697
+      102533591,
+      1159283597,
+      1947304461,
+      1159283597
     ],
-    "wof:lastmodified": 1753200188,
-    "wof:name": "OZ6312 (MSP-SFO)",
-    "wof:parent_id": 1947304465,
+    "wof:lastmodified": 1753372982,
+    "wof:name": "AC4108 (PSP-SFO)",
+    "wof:parent_id": 1947304461,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -93.200317,
-    44.883321
+    33.824619,
+    -116.506042,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-116.506042,33.824619],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

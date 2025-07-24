@@ -2,40 +2,40 @@
   "id": 1980921001,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "NH",
+    "flysfo:airline": "NZ",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9748",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753140120,
+    "flysfo:base_flight_number": "5366",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753276080,
     "flysfo:event": "D",
-    "flysfo:flight_number": "NH7008",
-    "flysfo:gate": "F8",
-    "flysfo:journey": "SFO-TUS",
-    "flysfo:scheduled_timestamp": 1753140300,
-    "flysfo:timestamp": 1753140300,
+    "flysfo:flight_number": "NZ9309",
+    "flysfo:gate": "F14",
+    "flysfo:journey": "SFO-ORD",
+    "flysfo:scheduled_timestamp": 1753276200,
+    "flysfo:timestamp": 1753276200,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,32.119362,-110.946818,37.617990",
-    "geom:latitude": 34.868676,
-    "geom:longitude": -116.6588805,
-    "iata:airline": "NH",
+    "geom:bbox": "-122.370943,37.617990,-87.894364,41.983038",
+    "geom:latitude": 39.800514,
+    "geom:longitude": -105.1326535,
+    "iata:airline": "NZ",
     "iata:base_airline": "",
-    "icao:airline": "ANA",
-    "icao:base_airline": "ANZ",
-    "lbl:latitude": 37.61799,
-    "lbl:longitude": -122.370943,
-    "sfomuseum:airline_id": 1159283875,
-    "sfomuseum:arrival_id": 102527853,
-    "sfomuseum:base_flight_id": "20250721-D-ANZ-9748",
+    "icao:airline": "ANZ",
+    "icao:base_airline": "ACA",
+    "lbl:latitude": 37.620304,
+    "lbl:longitude": -122.388827,
+    "sfomuseum:airline_id": 1159283697,
+    "sfomuseum:arrival_id": 102533631,
+    "sfomuseum:base_flight_id": "20250723-D-ACA-5366",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-ANA-7008",
+    "sfomuseum:flight_id": "20250723-D-ANZ-9309",
     "sfomuseum:flight_number": [
-      "ANA7008",
-      "NH7008"
+      "ANZ9309",
+      "NZ9309"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304469,
+      1947304453,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753201496,
-    "wof:geomhash": "6716e4c7ca0e3c1891c385118d042906",
+    "wof:created": 1753373584,
+    "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304469,
+        "venue_id": 1947304453,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980921001,
         "flight_id": 1980921001,
         "region_id": 85688637,
-        "venue_id": 1947304469,
+        "venue_id": 1947304453,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980921001,
     "wof:involves": [
-      102527853,
+      102533631,
       102527513,
-      1159283875,
-      1947304469,
-      1159283697
+      1159283697,
+      1947304453,
+      1159283597
     ],
-    "wof:lastmodified": 1753201496,
-    "wof:name": "NH7008 (SFO-TUS)",
-    "wof:parent_id": 1947304469,
+    "wof:lastmodified": 1753373584,
+    "wof:name": "NZ9309 (SFO-ORD)",
+    "wof:parent_id": 1947304453,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    32.119362,
-    -110.946818,
-    37.61799
+    37.61799,
+    -87.894364,
+    41.983038
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-110.946818,32.119362]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]],"type":"MultiPoint"}
 }

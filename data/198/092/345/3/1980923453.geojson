@@ -2,40 +2,40 @@
   "id": 1980923453,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "SQ",
+    "flysfo:airline": "UA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4610",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753128540,
+    "flysfo:base_flight_number": "7308",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753306920,
     "flysfo:event": "D",
-    "flysfo:flight_number": "SQ1021",
-    "flysfo:gate": "D12",
-    "flysfo:journey": "SFO-YVR",
-    "flysfo:scheduled_timestamp": 1753122900,
-    "flysfo:timestamp": 1753128540,
+    "flysfo:flight_number": "UA1527",
+    "flysfo:gate": "D8",
+    "flysfo:journey": "SFO-DEN",
+    "flysfo:scheduled_timestamp": 1753306200,
+    "flysfo:timestamp": 1753306920,
     "geom:area": 0,
-    "geom:bbox": "-123.179200,37.617990,-122.370943,49.193330",
-    "geom:latitude": 43.40566,
-    "geom:longitude": -122.7750715,
-    "iata:airline": "SQ",
+    "geom:bbox": "-122.370943,37.617990,-104.672219,39.864939",
+    "geom:latitude": 38.7414645,
+    "geom:longitude": -113.521581,
+    "iata:airline": "UA",
     "iata:base_airline": "",
-    "icao:airline": "SIA",
-    "icao:base_airline": "ANZ",
-    "lbl:latitude": 37.618249,
-    "lbl:longitude": -122.381477,
-    "sfomuseum:airline_id": 1159286259,
-    "sfomuseum:arrival_id": 102555307,
-    "sfomuseum:base_flight_id": "20250721-D-ANZ-4610",
+    "icao:airline": "UAL",
+    "icao:base_airline": "CCA",
+    "lbl:latitude": 37.617421,
+    "lbl:longitude": -122.380916,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102531189,
+    "sfomuseum:base_flight_id": "20250723-D-CCA-7308",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-SIA-1021",
+    "sfomuseum:flight_id": "20250723-D-UAL-1527",
     "sfomuseum:flight_number": [
-      "SIA1021",
-      "SQ1021"
+      "UAL1527",
+      "UA1527"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304631,
+      1947304617,
       1947304591,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753202094,
-    "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
+    "wof:created": 1753373856,
+    "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304631,
+        "venue_id": 1947304617,
         "wing_id": 1947304591
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980923453,
         "flight_id": 1980923453,
         "region_id": 85688637,
-        "venue_id": 1947304631,
+        "venue_id": 1947304617,
         "wing_id": 1947304591
       }
     ],
     "wof:id": 1980923453,
     "wof:involves": [
-      102555307,
+      102531189,
       102527513,
-      1159286259,
-      1947304631,
-      1159283697
+      1159285413,
+      1947304617,
+      1159283605
     ],
-    "wof:lastmodified": 1753202094,
-    "wof:name": "SQ1021 (SFO-YVR)",
-    "wof:parent_id": 1947304631,
+    "wof:lastmodified": 1753373856,
+    "wof:name": "UA1527 (SFO-DEN)",
+    "wof:parent_id": 1947304617,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -123.1792,
-    37.61799,
     -122.370943,
-    49.19333
+    37.61799,
+    -104.672219,
+    39.864939
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-123.1792,49.19333]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}
 }

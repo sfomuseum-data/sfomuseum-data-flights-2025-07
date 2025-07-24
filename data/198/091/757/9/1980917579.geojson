@@ -2,53 +2,43 @@
   "id": 1980917579,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-21",
-    "date:cessation_upper": "2025-07-21",
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
-    "edtf:cessation": "2025-07-21T02:49:31-07:00",
-    "edtf:inception": "2025-07-21T12:36:00Z",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "DL",
+    "flysfo:airline": "LY",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "6160",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753116840,
+    "flysfo:base_flight_number": "3789",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753336140,
     "flysfo:event": "A",
-    "flysfo:flight_number": "DL693",
+    "flysfo:flight_number": "LY4437",
     "flysfo:gate": "C8",
-    "flysfo:journey": "ATL-SFO",
-    "flysfo:scheduled_timestamp": 1753117920,
-    "flysfo:timestamp": 1753117920,
+    "flysfo:journey": "JFK-SFO",
+    "flysfo:scheduled_timestamp": 1753339620,
+    "flysfo:timestamp": 1753339620,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,33.636518,-84.430686,37.617990",
-    "geom:latitude": 35.627254,
-    "geom:longitude": -103.4008145,
-    "iata:airline": "DL",
+    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
+    "geom:latitude": 39.130638000000005,
+    "geom:longitude": -98.07939400000001,
+    "iata:airline": "LY",
     "iata:base_airline": "",
-    "icao:aircraft": "B753",
-    "icao:airline": "DAL",
-    "icao:base_airline": "LAN",
+    "icao:airline": "ELY",
+    "icao:base_airline": "AMX",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
-    "sfomuseum:aircraft_id": 1159289945,
-    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:airline_id": 1159284327,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:base_flight_id": "20250721-A-LAN-6160",
-    "sfomuseum:departure_id": 102526927,
-    "sfomuseum:flight_id": "20250721-A-DAL-693",
+    "sfomuseum:base_flight_id": "20250723-A-AMX-3789",
+    "sfomuseum:departure_id": 102534365,
+    "sfomuseum:flight_id": "20250723-A-ELY-4437",
     "sfomuseum:flight_number": [
-      "DAL693",
-      "DL693"
+      "ELY4437",
+      "LY4437"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "src:geom_alt": [
-      "swim-route",
-      "swim-path",
-      "swim-approach"
-    ],
-    "swim:tail_number": "N591NW",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -63,13 +53,9 @@
       1947304591,
       102085387
     ],
-    "wof:concordances": {
-      "swim:flight_ref": "105988935",
-      "swim:gufi": "KT41460202"
-    },
     "wof:country": "US",
-    "wof:created": 1753200666,
-    "wof:geomhash": "ae92617dd2aca2afdb0c9096232ff0bb",
+    "wof:created": 1753373199,
+    "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -102,15 +88,14 @@
     ],
     "wof:id": 1980917579,
     "wof:involves": [
-      1159285641,
-      1159289945,
       102527513,
-      102526927,
-      1159284261,
-      1947304681
+      102534365,
+      1159284327,
+      1947304681,
+      1159283539
     ],
-    "wof:lastmodified": 1753202502,
-    "wof:name": "DL693 (ATL-SFO)",
+    "wof:lastmodified": 1753373199,
+    "wof:name": "LY4437 (JFK-SFO)",
     "wof:parent_id": 1947304681,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
@@ -122,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    33.636518,
-    -84.430686,
-    37.61799
+    37.61799,
+    -73.787845,
+    40.643286
   ],
-  "geometry": {"coordinates":[[-84.430686,33.636518],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -2,40 +2,40 @@
   "id": 1980924233,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-23",
+    "date:inception_upper": "2025-07-23",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-23",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "UA",
+    "flysfo:airline": "VA",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "4146",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753150500,
+    "flysfo:base_flight_number": "1066",
+    "flysfo:date": "2025-07-23",
+    "flysfo:estimated_timestamp": 1753319100,
     "flysfo:event": "D",
-    "flysfo:flight_number": "UA4777",
-    "flysfo:gate": "F9",
-    "flysfo:journey": "SFO-RNO",
-    "flysfo:scheduled_timestamp": 1753147800,
-    "flysfo:timestamp": 1753150500,
+    "flysfo:flight_number": "VA8190",
+    "flysfo:gate": "F21",
+    "flysfo:journey": "SFO-LAX",
+    "flysfo:scheduled_timestamp": 1753312380,
+    "flysfo:timestamp": 1753319100,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-119.772167,39.505219",
-    "geom:latitude": 38.5616045,
-    "geom:longitude": -121.07155499999999,
-    "iata:airline": "UA",
+    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
+    "geom:latitude": 35.780291500000004,
+    "geom:longitude": -120.38022649999999,
+    "iata:airline": "VA",
     "iata:base_airline": "",
-    "icao:airline": "UAL",
-    "icao:base_airline": "ACA",
-    "lbl:latitude": 37.620731,
-    "lbl:longitude": -122.387053,
-    "sfomuseum:airline_id": 1159285413,
-    "sfomuseum:arrival_id": 102525535,
-    "sfomuseum:base_flight_id": "20250721-D-ACA-4146",
+    "icao:airline": "VOZ",
+    "icao:base_airline": "CMP",
+    "lbl:latitude": 37.621173,
+    "lbl:longitude": -122.390131,
+    "sfomuseum:airline_id": 1159285485,
+    "sfomuseum:arrival_id": 102533795,
+    "sfomuseum:base_flight_id": "20250723-D-CMP-1066",
     "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-UAL-4777",
+    "sfomuseum:flight_id": "20250723-D-VOZ-8190",
     "sfomuseum:flight_number": [
-      "UAL4777",
-      "UA4777"
+      "VOZ8190",
+      "VA8190"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304493,
+      1947304491,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753202285,
-    "wof:geomhash": "414447526a1ddeb77713c60c4ab5a7e4",
+    "wof:created": 1753373943,
+    "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304493,
+        "venue_id": 1947304491,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980924233,
         "flight_id": 1980924233,
         "region_id": 85688637,
-        "venue_id": 1947304493,
+        "venue_id": 1947304491,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980924233,
     "wof:involves": [
-      102525535,
+      102533795,
       102527513,
-      1159285413,
-      1947304493,
-      1159283597
+      1159285485,
+      1947304491,
+      1159284211
     ],
-    "wof:lastmodified": 1753202285,
-    "wof:name": "UA4777 (SFO-RNO)",
-    "wof:parent_id": 1947304493,
+    "wof:lastmodified": 1753373943,
+    "wof:name": "VA8190 (SFO-LAX)",
+    "wof:parent_id": 1947304491,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -107,9 +107,9 @@
   },
   "bbox": [
     -122.370943,
-    37.61799,
-    -119.772167,
-    39.505219
+    33.942593,
+    -118.38951,
+    37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-119.772167,39.505219]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}
 }
