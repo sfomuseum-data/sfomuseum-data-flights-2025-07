@@ -2,40 +2,40 @@
   "id": 1980924913,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-21",
-    "date:inception_upper": "2025-07-21",
+    "date:inception_lower": "2025-07-24",
+    "date:inception_upper": "2025-07-24",
     "edtf:cessation": "",
-    "edtf:inception": "2025-07-21",
+    "edtf:inception": "2025-07-24",
     "flysfo:actual_timestamp": -1,
-    "flysfo:airline": "VA",
+    "flysfo:airline": "AC",
     "flysfo:base_airline": "",
-    "flysfo:base_flight_number": "9040",
-    "flysfo:date": "2025-07-21",
-    "flysfo:estimated_timestamp": 1753113480,
-    "flysfo:event": "D",
-    "flysfo:flight_number": "VA8486",
-    "flysfo:gate": "E13",
-    "flysfo:journey": "SFO-CLE",
-    "flysfo:scheduled_timestamp": 1753113840,
-    "flysfo:timestamp": 1753113840,
+    "flysfo:base_flight_number": "3338",
+    "flysfo:date": "2025-07-24",
+    "flysfo:estimated_timestamp": 1753395480,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AC3338",
+    "flysfo:gate": "E9",
+    "flysfo:journey": "PDX-SFO",
+    "flysfo:scheduled_timestamp": 1753396200,
+    "flysfo:timestamp": 1753396200,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,37.617990,-81.835629,41.406844",
-    "geom:latitude": 39.512417,
-    "geom:longitude": -102.103286,
-    "iata:airline": "VA",
+    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
+    "geom:latitude": 41.602067,
+    "geom:longitude": -122.484166,
+    "iata:airline": "AC",
     "iata:base_airline": "",
-    "icao:airline": "VOZ",
-    "icao:base_airline": "ANZ",
-    "lbl:latitude": 37.619425,
-    "lbl:longitude": -122.384028,
-    "sfomuseum:airline_id": 1159285485,
-    "sfomuseum:arrival_id": 102534019,
-    "sfomuseum:base_flight_id": "20250721-D-ANZ-9040",
-    "sfomuseum:departure_id": 102527513,
-    "sfomuseum:flight_id": "20250721-D-VOZ-8486",
+    "icao:airline": "ACA",
+    "icao:base_airline": "ACA",
+    "lbl:latitude": 37.619124,
+    "lbl:longitude": -122.383949,
+    "sfomuseum:airline_id": 1159283597,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:base_flight_id": "20250724-A-ACA-3338",
+    "sfomuseum:departure_id": 102532251,
+    "sfomuseum:flight_id": "20250724-A-ACA-3338",
     "sfomuseum:flight_number": [
-      "VOZ8486",
-      "VA8486"
+      "ACA3338",
+      "AC3338"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
@@ -49,13 +49,13 @@
       85922583,
       554784711,
       85688637,
-      1947304517,
+      1947304523,
       1947304447,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1753202449,
-    "wof:geomhash": "f65caf98d316e6ee4a43fdc3ee688d07",
+    "wof:created": 1753459394,
+    "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -69,7 +69,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947304517,
+        "venue_id": 1947304523,
         "wing_id": 1947304447
       },
       {
@@ -82,21 +82,21 @@
         "custom_id": 1980924913,
         "flight_id": 1980924913,
         "region_id": 85688637,
-        "venue_id": 1947304517,
+        "venue_id": 1947304523,
         "wing_id": 1947304447
       }
     ],
     "wof:id": 1980924913,
     "wof:involves": [
-      102534019,
       102527513,
-      1159285485,
-      1947304517,
-      1159283697
+      102532251,
+      1159283597,
+      1947304523,
+      1159283597
     ],
-    "wof:lastmodified": 1753202449,
-    "wof:name": "VA8486 (SFO-CLE)",
-    "wof:parent_id": 1947304517,
+    "wof:lastmodified": 1753459394,
+    "wof:name": "AC3338 (PDX-SFO)",
+    "wof:parent_id": 1947304523,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
@@ -106,10 +106,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943,
+    -122.597389,
     37.61799,
-    -81.835629,
-    41.406844
+    -122.370943,
+    45.586144
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[-81.835629,41.406844]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}
 }
