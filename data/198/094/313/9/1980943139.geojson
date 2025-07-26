@@ -2,10 +2,12 @@
   "id": 1980943139,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-26",
+    "date:cessation_upper": "2025-07-26",
     "date:inception_lower": "2025-07-25",
     "date:inception_upper": "2025-07-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-25",
+    "edtf:cessation": "2025-07-26T05:37:00Z",
+    "edtf:inception": "2025-07-25T14:30:58-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-07-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.175762,
     "geom:longitude": -119.778435,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528997,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37281",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KO02013700"
+    },
     "wof:country": "US",
     "wof:created": 1753546739,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -46,12 +59,12 @@
     ],
     "wof:id": 1980943139,
     "wof:involves": [
-      102528997,
-      102527513,
       1159285413,
-      -1
+      1159289871,
+      102528997,
+      102527513
     ],
-    "wof:lastmodified": 1753546739,
+    "wof:lastmodified": 1753546863,
     "wof:name": "UA8224 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
