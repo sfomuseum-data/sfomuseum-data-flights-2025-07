@@ -1,0 +1,78 @@
+{
+  "id": 1980940853,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-07-25",
+    "date:inception_upper": "2025-07-25",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-25",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "4599",
+    "flysfo:date": "2025-07-25",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "DL319",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-JFK",
+    "flysfo:scheduled_timestamp": 1753509000,
+    "flysfo:timestamp": 1753509000,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
+    "geom:latitude": 39.130638000000005,
+    "geom:longitude": -98.07939400000001,
+    "iata:airline": "DL",
+    "iata:base_airline": "",
+    "icao:airline": "DAL",
+    "icao:base_airline": "AMX",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102534365,
+    "sfomuseum:base_flight_id": "20250725-D-AMX-4599",
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20250725-D-DAL-319",
+    "sfomuseum:flight_number": [
+      "DAL319",
+      "DL319"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1753546492,
+    "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1980940853,
+        "flight_id": 1980940853
+      }
+    ],
+    "wof:id": 1980940853,
+    "wof:involves": [
+      102534365,
+      102527513,
+      1159284261,
+      -1,
+      1159283539
+    ],
+    "wof:lastmodified": 1753546492,
+    "wof:name": "DL319 (SFO-JFK)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -73.787845,
+    40.643286
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}
+}
