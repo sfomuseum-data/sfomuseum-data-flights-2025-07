@@ -2,10 +2,12 @@
   "id": 1980951835,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-26",
+    "date:cessation_upper": "2025-07-26",
     "date:inception_lower": "2025-07-26",
     "date:inception_upper": "2025-07-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-26",
+    "edtf:cessation": "2025-07-26T05:40:00Z",
+    "edtf:inception": "2025-07-26T04:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "CMP",
     "lbl:latitude": 37.619451,
     "lbl:longitude": -122.384404,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20250726-D-CMP-1068",
@@ -53,6 +57,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "106441245",
+      "swim:gufi": "KO07383700"
+    },
     "wof:country": "US",
     "wof:created": 1753633057,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -92,9 +100,10 @@
       102527513,
       1159285413,
       1947304519,
-      1159284211
+      1159284211,
+      1159289871
     ],
-    "wof:lastmodified": 1753633057,
+    "wof:lastmodified": 1753633226,
     "wof:name": "UA2064 (SFO-LAX)",
     "wof:parent_id": 1947304519,
     "wof:placetype": "custom",
