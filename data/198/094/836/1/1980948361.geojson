@@ -1,0 +1,72 @@
+{
+  "id": 1980948361,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-07-26",
+    "date:inception_upper": "2025-07-26",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-26",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AA",
+    "flysfo:date": "2025-07-26",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AA914",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-PHX",
+    "flysfo:scheduled_timestamp": 1753596000,
+    "flysfo:timestamp": 1753596000,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,33.432684,-112.017392,37.617990",
+    "geom:latitude": 35.525337,
+    "geom:longitude": -117.19416749999999,
+    "iata:airline": "AA",
+    "icao:airline": "AAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283849,
+    "sfomuseum:arrival_id": 102526751,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20250726-D-AAL-914",
+    "sfomuseum:flight_number": [
+      "AAL914",
+      "AA914"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1753632685,
+    "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1980948361,
+        "flight_id": 1980948361
+      }
+    ],
+    "wof:id": 1980948361,
+    "wof:involves": [
+      102526751,
+      102527513,
+      1159283849,
+      -1
+    ],
+    "wof:lastmodified": 1753632685,
+    "wof:name": "AA914 (SFO-PHX)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    33.432684,
+    -112.017392,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-112.017392,33.432684]],"type":"MultiPoint"}
+}
