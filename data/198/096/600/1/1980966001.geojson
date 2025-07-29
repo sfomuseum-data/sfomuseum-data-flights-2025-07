@@ -2,10 +2,12 @@
   "id": 1980966001,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-28",
+    "date:cessation_upper": "2025-07-28",
     "date:inception_lower": "2025-07-28",
     "date:inception_upper": "2025-07-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-28",
+    "edtf:cessation": "2025-07-28T18:30:50Z",
+    "edtf:inception": "2025-07-28T17:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "UAE",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250728-A-UAE-6182",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N440UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "106649009",
+      "swim:gufi": "KL49785200"
+    },
     "wof:country": "US",
     "wof:created": 1753805439,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1980966001,
     "wof:involves": [
+      1947304603,
+      1159284333,
+      1159292085,
       102527513,
       102533795,
-      1159285413,
-      1947304603,
-      1159284333
+      1159285413
     ],
-    "wof:lastmodified": 1753805439,
+    "wof:lastmodified": 1753806201,
     "wof:name": "UA1791 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

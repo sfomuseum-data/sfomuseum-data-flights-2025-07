@@ -2,10 +2,12 @@
   "id": 1980966511,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-28",
+    "date:cessation_upper": "2025-07-28",
     "date:inception_lower": "2025-07-28",
     "date:inception_upper": "2025-07-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-28",
+    "edtf:cessation": "2025-07-28T14:09:15-07:00",
+    "edtf:inception": "2025-07-28T23:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-07-28",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.0247425,
     "geom:longitude": -101.83923999999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B753",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533657,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N75854",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "106622436",
+      "swim:gufi": "KJ76527200"
+    },
     "wof:country": "US",
     "wof:created": 1753805498,
     "wof:geomhash": "5fe9a4073f558f5d433cae4f846ab71e",
@@ -46,12 +60,12 @@
     ],
     "wof:id": 1980966511,
     "wof:involves": [
-      102527513,
       102533657,
       1159285413,
-      -1
+      1159289945,
+      102527513
     ],
-    "wof:lastmodified": 1753805498,
+    "wof:lastmodified": 1753806203,
     "wof:name": "UA8223 (MCO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

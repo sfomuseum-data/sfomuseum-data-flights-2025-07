@@ -2,10 +2,12 @@
   "id": 1980966499,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-28",
+    "date:cessation_upper": "2025-07-28",
     "date:inception_lower": "2025-07-28",
     "date:inception_upper": "2025-07-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-28",
+    "edtf:cessation": "2025-07-28T18:48:00Z",
+    "edtf:inception": "2025-07-28T12:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-07-28",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.1546165,
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530049,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
+    "swim:tail_number": "N2352U",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "106622701",
+      "swim:gufi": "KN32177200"
+    },
     "wof:country": "US",
     "wof:created": 1753805497,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 1980966499,
     "wof:involves": [
+      1159289993,
       102527513,
       102530049,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1753805497,
+    "wof:lastmodified": 1753806185,
     "wof:name": "UA8100 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

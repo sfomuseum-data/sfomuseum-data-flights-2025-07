@@ -2,10 +2,12 @@
   "id": 1980968375,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-28",
-    "date:inception_upper": "2025-07-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-28",
+    "date:cessation_lower": "2025-07-28",
+    "date:cessation_upper": "2025-07-28",
+    "date:inception_lower": "2025-07-29",
+    "date:inception_upper": "2025-07-29",
+    "edtf:cessation": "2025-07-28T18:24:29Z",
+    "edtf:inception": "2025-07-28T23:26:17-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -61.1854715,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "HAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102534365,
     "sfomuseum:base_flight_id": "20250728-D-HAL-6985",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N440AS",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,10 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "106626275",
+      "swim:gufi": "KO44112200"
+    },
     "wof:country": "US",
     "wof:created": 1753805708,
     "wof:geomhash": "f7b726ae54aa9222cfb9d243d2e793d0",
@@ -92,9 +106,10 @@
       102527513,
       1159283813,
       1947304273,
-      1159284489
+      1159284489,
+      1377564285
     ],
-    "wof:lastmodified": 1753805708,
+    "wof:lastmodified": 1753806191,
     "wof:name": "AS30 (SFO-JFK)",
     "wof:parent_id": 1947304273,
     "wof:placetype": "custom",

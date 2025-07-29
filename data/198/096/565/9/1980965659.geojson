@@ -2,10 +2,12 @@
   "id": 1980965659,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-28",
+    "date:cessation_upper": "2025-07-28",
     "date:inception_lower": "2025-07-28",
     "date:inception_upper": "2025-07-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-28",
+    "edtf:cessation": "2025-07-28T14:41:00Z",
+    "edtf:inception": "2025-07-28T13:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2025-07-28",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533795,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N7715E",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "106626870",
+      "swim:gufi": "KL37667200"
+    },
     "wof:country": "US",
     "wof:created": 1753805400,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -49,9 +62,10 @@
       102527513,
       102533795,
       1159285591,
-      1947304601
+      1947304601,
+      1159289869
     ],
-    "wof:lastmodified": 1753805400,
+    "wof:lastmodified": 1753806199,
     "wof:name": "WN3529 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

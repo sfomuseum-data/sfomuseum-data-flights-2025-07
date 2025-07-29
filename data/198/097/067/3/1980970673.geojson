@@ -2,10 +2,12 @@
   "id": 1980970673,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-28",
+    "date:cessation_upper": "2025-07-28",
     "date:inception_lower": "2025-07-28",
     "date:inception_upper": "2025-07-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-28",
+    "edtf:cessation": "2025-07-28T09:12:33Z",
+    "edtf:inception": "2025-07-28T04:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "106610222"
+    },
     "wof:country": "US",
     "wof:created": 1753805965,
     "wof:geomhash": "ff243e97b2d4ce40e0a4accb79115371",
@@ -94,7 +99,7 @@
       1947304527,
       1159283697
     ],
-    "wof:lastmodified": 1753805965,
+    "wof:lastmodified": 1753806168,
     "wof:name": "UA1288 (SFO-BWI)",
     "wof:parent_id": 1947304527,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1980965657,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-28",
+    "date:cessation_upper": "2025-07-28",
     "date:inception_lower": "2025-07-28",
     "date:inception_upper": "2025-07-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-28",
+    "edtf:cessation": "2025-07-28T20:53:41Z",
+    "edtf:inception": "2025-07-28T16:50:41Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2025-07-28",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8721885,
     "geom:longitude": -104.5237975,
     "iata:airline": "WN",
+    "icao:aircraft": "B38M",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102525035,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N8866H",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "106643437",
+      "swim:gufi": "KM51829200"
+    },
     "wof:country": "US",
     "wof:created": 1753805400,
     "wof:geomhash": "462e561a68f133085fb895c49eddc748",
@@ -46,12 +59,13 @@
     ],
     "wof:id": 1980965657,
     "wof:involves": [
+      1947304601,
+      1528104575,
       102527513,
       102525035,
-      1159285591,
-      1947304601
+      1159285591
     ],
-    "wof:lastmodified": 1753805400,
+    "wof:lastmodified": 1753806199,
     "wof:name": "WN3447 (BNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
