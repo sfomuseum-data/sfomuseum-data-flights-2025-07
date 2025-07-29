@@ -1,0 +1,72 @@
+{
+  "id": 1980965653,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-07-28",
+    "date:inception_upper": "2025-07-28",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-07-28",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "WN",
+    "flysfo:date": "2025-07-28",
+    "flysfo:estimated_timestamp": 1753723920,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "WN3422",
+    "flysfo:gate": "D7",
+    "flysfo:journey": "LAS-SFO",
+    "flysfo:scheduled_timestamp": 1753719000,
+    "flysfo:timestamp": 1753723920,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,36.081003,-115.156440,37.617990",
+    "geom:latitude": 36.8494965,
+    "geom:longitude": -118.7636915,
+    "iata:airline": "WN",
+    "icao:airline": "SWA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285591,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102527209,
+    "sfomuseum:flight_id": "20250728-A-SWA-3422",
+    "sfomuseum:flight_number": [
+      "SWA3422",
+      "WN3422"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1753805400,
+    "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1980965653,
+        "flight_id": 1980965653
+      }
+    ],
+    "wof:id": 1980965653,
+    "wof:involves": [
+      102527513,
+      102527209,
+      1159285591,
+      1947304601
+    ],
+    "wof:lastmodified": 1753805400,
+    "wof:name": "WN3422 (LAS-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    36.081003,
+    -115.15644,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
