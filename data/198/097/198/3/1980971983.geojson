@@ -2,10 +2,12 @@
   "id": 1980971983,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-29",
-    "date:inception_upper": "2025-07-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-29",
+    "date:cessation_lower": "2025-07-29",
+    "date:cessation_upper": "2025-07-29",
+    "date:inception_lower": "2025-07-30",
+    "date:inception_upper": "2025-07-30",
+    "edtf:cessation": "2025-07-29T15:20:36-07:00",
+    "edtf:inception": "2025-07-30T04:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "AAL",
     "icao:base_airline": "EIN",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250729-A-EIN-7533",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N967NN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "106693534"
+    },
     "wof:country": "US",
     "wof:created": 1753891381,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 1980971983,
     "wof:involves": [
+      1159289871,
       102527513,
       102533795,
       1159283849,
       1947304277,
       1159283495
     ],
-    "wof:lastmodified": 1753891381,
+    "wof:lastmodified": 1753892509,
     "wof:name": "AA2061 (LAX-SFO)",
     "wof:parent_id": 1947304277,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1980976145,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-07-29",
-    "date:inception_upper": "2025-07-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-29",
+    "date:cessation_lower": "2025-07-30",
+    "date:cessation_upper": "2025-07-30",
+    "date:inception_lower": "2025-07-30",
+    "date:inception_upper": "2025-07-30",
+    "edtf:cessation": "2025-07-29T17:47:36-07:00",
+    "edtf:inception": "2025-07-30T02:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-07-29",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.7414645,
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
+    "icao:aircraft": "B753",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531189,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N77871",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KD81010300"
+    },
     "wof:country": "US",
     "wof:created": 1753891867,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 1980976145,
     "wof:involves": [
+      1159289945,
       102527513,
       102531189,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1753891867,
+    "wof:lastmodified": 1753892534,
     "wof:name": "UA8108 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
