@@ -2,10 +2,12 @@
   "id": 1980983949,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-30",
+    "date:cessation_upper": "2025-07-30",
     "date:inception_lower": "2025-07-30",
     "date:inception_upper": "2025-07-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-30",
+    "edtf:cessation": "2025-07-30T20:31:58Z",
+    "edtf:inception": "2025-07-30T08:14:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AZ",
     "flysfo:base_airline": "",
@@ -40,6 +42,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "106880765"
+    },
     "wof:country": "US",
     "wof:created": 1753978104,
     "wof:geomhash": "83e3cf2d6d5d57bb8b348faf86770f57",
@@ -57,7 +62,7 @@
       1947304079,
       1159285587
     ],
-    "wof:lastmodified": 1753978104,
+    "wof:lastmodified": 1753978926,
     "wof:name": "AZ640 (FCO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

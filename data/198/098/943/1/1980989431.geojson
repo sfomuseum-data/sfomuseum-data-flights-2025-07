@@ -2,10 +2,12 @@
   "id": 1980989431,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-31",
+    "date:cessation_upper": "2025-07-31",
     "date:inception_lower": "2025-07-30",
     "date:inception_upper": "2025-07-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-30",
+    "edtf:cessation": "2025-07-31T00:20:00Z",
+    "edtf:inception": "2025-07-30T07:45:26-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.618149,
     "lbl:longitude": -122.381669,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531189,
     "sfomuseum:base_flight_id": "20250730-D-ANA-7310",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N34535",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,10 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "106851789",
+      "swim:gufi": "KO70133400"
+    },
     "wof:country": "US",
     "wof:created": 1753978708,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -92,9 +106,10 @@
       102527513,
       1159285413,
       1947304613,
-      1159283875
+      1159283875,
+      1377564297
     ],
-    "wof:lastmodified": 1753978708,
+    "wof:lastmodified": 1753978953,
     "wof:name": "UA1527 (SFO-DEN)",
     "wof:parent_id": 1947304613,
     "wof:placetype": "custom",

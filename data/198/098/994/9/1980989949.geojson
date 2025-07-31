@@ -2,10 +2,12 @@
   "id": 1980989949,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-31",
+    "date:cessation_upper": "2025-07-31",
     "date:inception_lower": "2025-07-30",
     "date:inception_upper": "2025-07-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-30",
+    "edtf:cessation": "2025-07-31T03:48:22Z",
+    "edtf:inception": "2025-07-30T23:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -104.5237975,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.617532,
     "lbl:longitude": -122.382384,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102525035,
     "sfomuseum:base_flight_id": "20250730-D-ANZ-9389",
@@ -39,6 +43,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +60,10 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "106861568",
+      "swim:gufi": "KO76771400"
+    },
     "wof:country": "US",
     "wof:created": 1753978766,
     "wof:geomhash": "36f645f844d4838b633d7fed3f06d4a5",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 1980989949,
     "wof:involves": [
-      102525035,
       102527513,
       1159285413,
       1947304619,
-      1159283697
+      1159283697,
+      1159289407,
+      102525035
     ],
-    "wof:lastmodified": 1753978766,
+    "wof:lastmodified": 1753978945,
     "wof:name": "UA733 (SFO-BNA)",
     "wof:parent_id": 1947304619,
     "wof:placetype": "custom",

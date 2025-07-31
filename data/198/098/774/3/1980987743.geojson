@@ -2,10 +2,12 @@
   "id": 1980987743,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-30",
+    "date:cessation_upper": "2025-07-30",
     "date:inception_lower": "2025-07-30",
     "date:inception_upper": "2025-07-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-30",
+    "edtf:cessation": "2025-07-30T20:42:06Z",
+    "edtf:inception": "2025-07-30T07:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CZ",
     "flysfo:date": "2025-07-30",
@@ -21,9 +23,11 @@
     "geom:latitude": 30.532669,
     "geom:longitude": -4.4856934999999964,
     "iata:airline": "CZ",
+    "icao:aircraft": "B77W",
     "icao:airline": "CSN",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159284165,
     "sfomuseum:arrival_id": 102550391,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
+    "swim:tail_number": "B7183",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "106787646"
+    },
     "wof:country": "US",
     "wof:created": 1753978521,
     "wof:geomhash": "c46dd454257f76c15a9276e2946c6f54",
@@ -49,9 +60,10 @@
       102550391,
       102527513,
       1159284165,
-      1947304079
+      1947304079,
+      1159289993
     ],
-    "wof:lastmodified": 1753978521,
+    "wof:lastmodified": 1753978951,
     "wof:name": "CZ658 (SFO-CAN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

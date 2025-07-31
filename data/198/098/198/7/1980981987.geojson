@@ -2,10 +2,12 @@
   "id": 1980981987,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-30",
+    "date:cessation_upper": "2025-07-30",
     "date:inception_lower": "2025-07-30",
     "date:inception_upper": "2025-07-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-30",
+    "edtf:cessation": "2025-07-30T17:12:00Z",
+    "edtf:inception": "2025-07-30T13:35:39Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AM",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -112.83645849999999,
     "iata:airline": "AM",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "AMX",
     "icao:base_airline": "DAL",
     "lbl:latitude": 37.611664,
     "lbl:longitude": -122.390495,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283539,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250730-A-DAL-7970",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "XAAMB",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "106803801"
+    },
     "wof:country": "US",
     "wof:created": 1753977882,
     "wof:geomhash": "d1cf00e952c40abdeded8d31cdcdf72b",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 1980981987,
     "wof:involves": [
+      1159289871,
       102527513,
       102536387,
       1159283539,
       1947304095,
       1159284261
     ],
-    "wof:lastmodified": 1753977882,
+    "wof:lastmodified": 1753978919,
     "wof:name": "AM622 (GDL-SFO)",
     "wof:parent_id": 1947304095,
     "wof:placetype": "custom",
