@@ -2,10 +2,12 @@
   "id": 1980999457,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-07-31",
+    "date:cessation_upper": "2025-07-31",
     "date:inception_lower": "2025-07-31",
     "date:inception_upper": "2025-07-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-07-31",
+    "edtf:cessation": "2025-07-31T21:26:00Z",
+    "edtf:inception": "2025-07-31T18:06:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -106.3692875,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61756,
     "lbl:longitude": -122.381052,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 1746879059,
     "sfomuseum:base_flight_id": "20250731-D-ANZ-9707",
@@ -53,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "106923337"
+    },
     "wof:country": "US",
     "wof:created": 1754065223,
     "wof:geomhash": "17371a5d27e54a99ca50752d2b6a5e79",
@@ -88,13 +95,14 @@
     ],
     "wof:id": 1980999457,
     "wof:involves": [
+      1159292085,
       1746879059,
       102527513,
       1159285413,
       1947304609,
       1159283697
     ],
-    "wof:lastmodified": 1754065223,
+    "wof:lastmodified": 1754065447,
     "wof:name": "UA336 (SFO-STL)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",
